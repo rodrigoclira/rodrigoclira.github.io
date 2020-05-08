@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Rodrigo Lira
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: IFPE Campus Paulista
+  url: "https://portal.ifpe.edu.br/campus/paulista"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Rodrigo Lira é professor no IFPE e tem interesse nas áreas de inteligência computacional, IoT e Informática na Educação.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Inteligência Computacional
+- Internet das Coisas
+- Informática na Educação
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Doutorado em Engenharia da Computação (em andamento) 
+    institution: Universidade de Pernambuco - POLI
+    year: 2024
+  - course: Mestrado em Engenharia da Computação 
+    institution: Universidade de Pernambuco - POLI
+    year: 2014
+  - course: Bacharelado em Engenharia da Computação
+    institution: Universidade de Pernambuco - POLI
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,26 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:rodrigo.lira@paulista.ifpe.edu.br'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/rodrigoclira
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=0Q8Bn70AAAAJ&hl=pt-BR
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/rodrigoclira
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/rodrigoclira/
+- icon: lattes
+  icon_pack: ai
+  link: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4408742J0 
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Rodrigo_Lira_Da_Silva 
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +80,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Olá, meu nome é Rodrigo Lira, sou professor EBTT no IFPE Campus Paulista e coordenador do [Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas](https://portal.ifpe.edu.br/campus/paulista/cursos/superiores/tecnologos/analiseedesenvolvimentodesistemas/capa) desde 2019.2.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Atualmente sou aluno de doutorado do [Programa de Pós-Graduação em Engenharia da Computação](http://ppgec.ecomp.poli.br) da Universidade de Pernambuco (POLI-UPE), instituição que também obtive o título de mestre (2014) e de graduação (2013), ambos em Engenharia da Computação. Ao longo da graduação fui monitor de disciplinas, aluno de iniciação científica e tive uma empresa incubada na Incubadora do Instituto de Tecnologia de Pernambuco (ITEP). Antes de ser professor no instituto federal, eu trabalhei por cinco anos na Fundação para Inovações Tecnológicas (FITec) no Porto Digital e lecionei em instituições privadas de Pernambuco.
