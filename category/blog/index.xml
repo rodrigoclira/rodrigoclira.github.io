@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/category/blog/</link>
+      <atom:link href="https://rodrigoclira.github.io/category/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>blog</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt</language><lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>blog</title>
+      <link>https://rodrigoclira.github.io/category/blog/</link>
+    </image>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://rodrigoclira.github.io/post/novo-site/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/post/novo-site/</guid>
+      <description>&lt;h2 id=&#34;motivação&#34;&gt;Motivação&lt;/h2&gt;
+&lt;p&gt;Resolvi tirar o meu site do Google Sites e colocá-lo no Github.io. Tive essa ideia de migrar o site há alguns dias quando eu vi uma dicussão que aconteceu em resposta ao tweet do 
+&lt;a href=&#34;https://twitter.com/juditecypreste/status/1256947732872380418&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@judite&lt;/a&gt;. Conhecer o site da 
+&lt;a href=&#34;https://nataliadiaz.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Profª Natalia Días&lt;/a&gt; foi o ponto inicial para eu começar essa empreitada de migração. Essa migração também foi motivada pelo meu anseio de ter mais liberdade e tentar reviver um blog que na época da graduação mantive por muito tempo.&lt;/p&gt;
+&lt;h2 id=&#34;tecnologias&#34;&gt;Tecnologias&lt;/h2&gt;
+&lt;p&gt;Assim como o site da Profª Natalia, eu estou usando o gerador estático 
+&lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; e o tema 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt;. No Academic, eu escolhi o padrão &lt;em&gt;forest&lt;/em&gt; (branco/verde) pois é mais parecido com o padrão de cores utilizado pelo IFPE.&lt;/p&gt;
+&lt;p&gt;Na edição dos arquivos foi utilizado Vim e o VSCode (as extensões &amp;ldquo;markdonlint&amp;rdquo; e Markdown All in One estava habilitadas)&lt;/p&gt;
+&lt;h2 id=&#34;instalação-e-configuração&#34;&gt;Instalação e Configuração&lt;/h2&gt;
+&lt;p&gt;A instalação e utilização deles é bem simples, eu segui basicamente os documentos dos &lt;em&gt;Quick Start&lt;/em&gt; indicados em ambos os projetos. A configuração também foi bastante intuitiva, eu apenas tive que mudar algumas pequenas configurações nos arquivos de &lt;em&gt;markdown&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Eu não precisei ir muito a fundo da documentação, a leitura dos arquivos das pastas &lt;em&gt;config&lt;/em&gt; e &lt;em&gt;content&lt;/em&gt; esclarecem um pouco o funcionamento do  site. Eu também me baseei, como indicado na documentação do Academic, no site de exemplo que está disponível dentro da pasta do tema. A partir desse exemplo eu entendi como era o funcionamento de adição de novas postagens e projetos.&lt;/p&gt;
+&lt;p&gt;Abaixo segue a pasta principal do projeto do site.
+&lt;img src=&#34;./projeto.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Exemplo de arquivo de markdown.
+&lt;img src=&#34;./markdown.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/</link>
+      <atom:link href="https://rodrigoclira.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rodrigo Lira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt</language><lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Rodrigo Lira</title>
+      <link>https://rodrigoclira.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>https://rodrigoclira.github.io/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://rodrigoclira.github.io/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>https://rodrigoclira.github.io/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://rodrigoclira.github.io/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://rodrigoclira.github.io/post/novo-site/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/post/novo-site/</guid>
+      <description>&lt;h2 id=&#34;motivação&#34;&gt;Motivação&lt;/h2&gt;
+&lt;p&gt;Resolvi tirar o meu site do Google Sites e colocá-lo no Github.io. Tive essa ideia de migrar o site há alguns dias quando eu vi uma dicussão que aconteceu em resposta ao tweet do 
+&lt;a href=&#34;https://twitter.com/juditecypreste/status/1256947732872380418&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@judite&lt;/a&gt;. Conhecer o site da 
+&lt;a href=&#34;https://nataliadiaz.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Profª Natalia Días&lt;/a&gt; foi o ponto inicial para eu começar essa empreitada de migração. Essa migração também foi motivada pelo meu anseio de ter mais liberdade e tentar reviver um blog que na época da graduação mantive por muito tempo.&lt;/p&gt;
+&lt;h2 id=&#34;tecnologias&#34;&gt;Tecnologias&lt;/h2&gt;
+&lt;p&gt;Assim como o site da Profª Natalia, eu estou usando o gerador estático 
+&lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; e o tema 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt;. No Academic, eu escolhi o padrão &lt;em&gt;forest&lt;/em&gt; (branco/verde) pois é mais parecido com o padrão de cores utilizado pelo IFPE.&lt;/p&gt;
+&lt;p&gt;Na edição dos arquivos foi utilizado Vim e o VSCode (as extensões &amp;ldquo;markdonlint&amp;rdquo; e Markdown All in One estava habilitadas)&lt;/p&gt;
+&lt;h2 id=&#34;instalação-e-configuração&#34;&gt;Instalação e Configuração&lt;/h2&gt;
+&lt;p&gt;A instalação e utilização deles é bem simples, eu segui basicamente os documentos dos &lt;em&gt;Quick Start&lt;/em&gt; indicados em ambos os projetos. A configuração também foi bastante intuitiva, eu apenas tive que mudar algumas pequenas configurações nos arquivos de &lt;em&gt;markdown&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Eu não precisei ir muito a fundo da documentação, a leitura dos arquivos das pastas &lt;em&gt;config&lt;/em&gt; e &lt;em&gt;content&lt;/em&gt; esclarecem um pouco o funcionamento do  site. Eu também me baseei, como indicado na documentação do Academic, no site de exemplo que está disponível dentro da pasta do tema. A partir desse exemplo eu entendi como era o funcionamento de adição de novas postagens e projetos.&lt;/p&gt;
+&lt;p&gt;Abaixo segue a pasta principal do projeto do site.
+&lt;img src=&#34;./projeto.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Exemplo de arquivo de markdown.
+&lt;img src=&#34;./markdown.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sistemas Inteligentes - Inovação e o seu papel no novo mundo</title>
+      <link>https://rodrigoclira.github.io/talk/summerexperience2020/</link>
+      <pubDate>Fri, 17 Jan 2020 15:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/talk/summerexperience2020/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    O arquivo da apresentação está disponível no campo PDF (logo abaixo do título).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQdilHa4Wb_IGhZpqgbXlCV5D3oJrRSDFrDsoM7bLSs8oOK4iSdYymx1WEG-5JBBwMraj-PBB2jgYiw/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Desenvolvimento de um Jogo Utilizando Robótica para o Estı́mulo do Pensamento Computacional</title>
+      <link>https://rodrigoclira.github.io/talk/ctrel2020/</link>
+      <pubDate>Thu, 29 Aug 2019 14:30:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/talk/ctrel2020/</guid>
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQGRF5J1hPpxUgjh21f4HaIqv20rlDpINbMOdc49Fbs-h8ASWMPnxv9qWoeKKoBMkLKG0zfZ44CwA8O/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apresentação do curso ADS (IFPE Campus Paulista)</title>
+      <link>https://rodrigoclira.github.io/talk/ads-magna/</link>
+      <pubDate>Thu, 01 Aug 2019 09:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/talk/ads-magna/</guid>
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vS5LzzSK8hjnMF-UZbQ4tl1ixDCSXBoi2Dgkv8xu_Bk72kI9AJ-dW79FZGsJ-SlEdnTia3NnE_aIKFj/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://rodrigoclira.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Desenvolvimento de um Jogo para o Estímulo do Pensamento Computacional</title>
+      <link>https://rodrigoclira.github.io/project/pensamento-computacional/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/project/pensamento-computacional/</guid>
+      <description>&lt;p&gt;A humanidade vive numa sociedade conectada onde cada vez mais conhecimento sobre tecnologia são necessários. Iniciativas como o code.org apresentam como o conhecimento em programação são necessários para as futuras gerações. Por isso, cada dia mais o termo “Pensamento Computacional” está sendo difundido entre professores e pesquisadores.&lt;/p&gt;
+&lt;p&gt;De acordo com Wing [1], o pensamento computacional amplia competências que desenvolvem e aprimoram nos alunos novas habilidades tais como: i) Pensar de forma abstrata em vários níveis e encontrar uma solução; ii) Desenvolver um produto, indo além do programa, pois é necessário pensar em diferentes níveis de abstração, permitindo o uso consciente das técnicas de programação; iii) Resolver ou desenvolver problemas com ou sem o computador; iv) Pensar ao invés de deixar que os problemas sejam resolvidos pelo computador; v) Correlacionar a área computacional com a matemática e as engenharias. Ele é uma habilidade fundamental para todos, não somente para cientistas da computação. Por esse motivo, nos últimos anos, vários países, incluindo EUA e Reino Unido [2][3], incentivaram a adição da adição desses conceitos no currículo escolar para ajudar a criar uma nova geração de ‘Mark Zuckerbegs’. Nesse sentido, a Sociedade Brasileira de Computação (SBC) apresentou, para ser incluída na Base Nacional Comum Curricular  (BNCC), proposta que se baseou em destacar a importância desse conhecimento para os estudantes serem capazes de solucionar desafios cotidianos [4].&lt;/p&gt;
+&lt;p&gt;Este projeto tem como objetivo o desenvolvimento de um jogo utilizando robótica educacional para estímulo do pensamento computacional. Nele, os jogadores precisaram utilizar conceitos de lógica de programação para poder controlar a movimentação de um robô em um mapa  que será o tabuleiro do jogo. O tabuleiro poderá ser utilizado de diversas formas, por exemplo, pode ser apresentado perguntas aos jogadores como: “Qual é a quinta letra do alfabeto?”, “Qual a capital do estado de Pernambuco?” e o jogador teria que responder com os comandos - direita, frente, esquerda e abaixo - necessária para que o robô chegue até a resposta. Uma outra forma de usá-lo é fazendo com que o robô se movimente por um percurso e desvie de obstáculos pré-definidos pelos jogadores.&lt;/p&gt;
+&lt;p&gt;Após a fase de desenvolvimento do projeto, espera-se criar oficinas na comunidade interna e externas do campus. Nessas oficinas serão utilizados os dois produtos, ambiente de simulação e robô educacional para estimular o pensamento computacional. Com isso espera-se despertar o interesse das crianças e adultos para a área de computação e apresentar de forma divertida os conceitos de programação.&lt;/p&gt;
+&lt;p&gt;Atividades desenvolvidas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Desenvolvimento do jogo no ambiente Scratch (imagem)&lt;/li&gt;
+&lt;li&gt;Criação de protótipo do robô&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Etapas em andamento:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ajustes do protótipo do robô físico&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[1] WING, Jeannette Marie. Computational thinking. In: Communications of The ACM,
+Marz 2006. Vol. 49, no 3. p. 33-35&lt;/p&gt;
+&lt;p&gt;[2] Computer Science for all. Disponível em:   &amp;lt; &lt;a href=&#34;https://obamawhitehouse.archives.gov/blog/2016/01/30/computer-science-all&#34;&gt;https://obamawhitehouse.archives.gov/blog/2016/01/30/computer-science-all&lt;/a&gt; &amp;gt;. Último acesso: 20 out. de 2018.&lt;/p&gt;
+&lt;p&gt;[3] Coding at school: a parent&amp;rsquo;s guide to England&amp;rsquo;s new computing curriculum. Disponível em: &lt;a href=&#34;https://www.theguardian.com/technology/2014/sep/04/coding-school-computing-children-programming&#34;&gt;https://www.theguardian.com/technology/2014/sep/04/coding-school-computing-children-programming&lt;/a&gt; . Último acesso: 20 out. de 2018&lt;/p&gt;
+&lt;p&gt;[4] Fundação Telefônica Vivo; Fundação Lemann. Programaê: Um guia para construção do pensamento computacional. 1 ed. São Paulo. 2018. Disponível em: &lt;a href=&#34;http://fundacaotelefonica.org.br/download.php?dir=pdfs&amp;amp;file=Guia_Final_06_09_2018.pdf&#34;&gt;http://fundacaotelefonica.org.br/download.php?dir=pdfs&amp;amp;file=Guia_Final_06_09_2018.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sistema de Monitoramento em Tempo Real de Qualidade de Água de um Rio</title>
+      <link>https://rodrigoclira.github.io/project/sistema-monitoramento/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/project/sistema-monitoramento/</guid>
+      <description>&lt;p&gt;A água é essencial para a vida e por isso deve-se criar formas de monitorar as principais fontes desse recurso. Tragédias recentes, como os rompimentos das barragens em Brumadinho e Mariana fizeram com que rejeitos de minérios alcançassem rios e contaminasse a principal fonte de captação de água das cidades dessas regiões.&lt;/p&gt;
+&lt;p&gt;Sabe-se que é possível medir a qualidade da água através de diversos parâmetros. O valor dos sólidos dissolvidos totais (do inglês Total Dissolved Solids - TDS) representa a concentração total de substâncias dissolvidas na água. O TDS é composto por sais inorgânicos, além de uma pequena quantidade de matéria orgânica (SDWF, 2020). Por sua vez, a turbidez é um parâmetro físico relacionado à água. Ela é considerada um dos principais parâmetros para a determinação de sua qualidade, principalmente àquelas destinadas ao consumo humano, e está relacionada à capacidade ótica de absorção e reflexão da luz, e não depende tão somente da concentração dos sedimentos em suspensão, mas também de aspectos como tamanho, composição mineral, cor e quantidade de matéria orgânica (LIB NIO, 2010).
+Os dois parâmetros citados anteriormente podem ser medidos através de sensores que estejam instalados na bacia, nascente de um rio ou até mesmo estações de tratamento de água (ETA) para que as ações de preservação e as precauções necessárias para quem utiliza aquela água sejam tomadas. Uma rede de sensores espalhados numa bacia hidrográfica ou numa ETA pode ser fundamental para uma rápida tomada de decisão, além de evitar gastos com coletas manuais.&lt;/p&gt;
+&lt;p&gt;A proposta deste projeto é desenvolver um protótipo de estação de monitoramento de qualidade da água de baixo custo usando plataforma Arduino/ESP. A estação desenvolvida irá monitorar a qualidade da água de um rio e enviar os dados coletados através de HTTP ou MQTT para um sistema de informação geográfico (SIG). A estação também contará com painéis solares que irão ser responsáveis pela alimentação de todo os componentes e que permitirão que ela funcione de forma autossuficiente. Os testes serão realizados em ambiente controlado a fim de simular uma bacia hidrográfica. Também será criado um SIG utilizando a framework Django (backend) e Bootstrap (frontend). Ele  será responsável por agregar todas as informações enviadas das estações de monitoramento de qualidade de água e permitirá analisar o histórico de coleta da estação e as respectivas localizações geográficas dessas informações. Além do gerenciamento das informações recebidas pelas estações, o sistema permitirá a criação de alertas que possam ser acionados caso os valores dos sensores superem limites pré-estabelecidos pelo usuário.&lt;/p&gt;
+&lt;p&gt;Este projeto foi aprovado na chamada pública 
+&lt;a href=&#34;https://ceweb.br/projetos/moverse-na-web-brumadinho/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mover-se na web: Articulação Pró-Brumadinho&lt;/a&gt; do NIC.BR.&lt;/p&gt;
+&lt;p&gt;Safe Drinking Water Foundation (SDWF). TDS and PH. Acessível em: &lt;a href=&#34;https://www.safewater.org/fact-sheets-1/2017/1/23/tds-and-ph&#34;&gt;https://www.safewater.org/fact-sheets-1/2017/1/23/tds-and-ph&lt;/a&gt; . Último acesso: 21 de janeiro de 2020.&lt;/p&gt;
+&lt;p&gt;LIB NIO, M. Fundamentos de qualidade e tratamento de água. Campinas: Átomo, 2010.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

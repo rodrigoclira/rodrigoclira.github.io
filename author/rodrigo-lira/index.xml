@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/author/rodrigo-lira/</link>
+      <atom:link href="https://rodrigoclira.github.io/author/rodrigo-lira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rodrigo Lira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt</language><lastBuildDate>Fri, 17 Jan 2020 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Rodrigo Lira</title>
+      <link>https://rodrigoclira.github.io/author/rodrigo-lira/</link>
+    </image>
+    
+    <item>
+      <title>Sistemas Inteligentes - Inovação e o seu papel no novo mundo</title>
+      <link>https://rodrigoclira.github.io/talk/summerexperience2020/</link>
+      <pubDate>Fri, 17 Jan 2020 15:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/talk/summerexperience2020/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    O arquivo da apresentação está disponível no campo PDF (logo abaixo do título).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQdilHa4Wb_IGhZpqgbXlCV5D3oJrRSDFrDsoM7bLSs8oOK4iSdYymx1WEG-5JBBwMraj-PBB2jgYiw/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Desenvolvimento de um Jogo Utilizando Robótica para o Estı́mulo do Pensamento Computacional</title>
+      <link>https://rodrigoclira.github.io/talk/ctrel2020/</link>
+      <pubDate>Thu, 29 Aug 2019 14:30:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/talk/ctrel2020/</guid>
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQGRF5J1hPpxUgjh21f4HaIqv20rlDpINbMOdc49Fbs-h8ASWMPnxv9qWoeKKoBMkLKG0zfZ44CwA8O/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apresentação do curso ADS (IFPE Campus Paulista)</title>
+      <link>https://rodrigoclira.github.io/talk/ads-magna/</link>
+      <pubDate>Thu, 01 Aug 2019 09:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/talk/ads-magna/</guid>
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vS5LzzSK8hjnMF-UZbQ4tl1ixDCSXBoi2Dgkv8xu_Bk72kI9AJ-dW79FZGsJ-SlEdnTia3NnE_aIKFj/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

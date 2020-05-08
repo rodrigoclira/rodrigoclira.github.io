@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ads | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/tag/ads/</link>
+      <atom:link href="https://rodrigoclira.github.io/tag/ads/index.xml" rel="self" type="application/rss+xml" />
+    <description>ads</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt</language><lastBuildDate>Thu, 01 Aug 2019 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>ads</title>
+      <link>https://rodrigoclira.github.io/tag/ads/</link>
+    </image>
+    
+    <item>
+      <title>Apresentação do curso ADS (IFPE Campus Paulista)</title>
+      <link>https://rodrigoclira.github.io/talk/ads-magna/</link>
+      <pubDate>Thu, 01 Aug 2019 09:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/talk/ads-magna/</guid>
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vS5LzzSK8hjnMF-UZbQ4tl1ixDCSXBoi2Dgkv8xu_Bk72kI9AJ-dW79FZGsJ-SlEdnTia3NnE_aIKFj/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

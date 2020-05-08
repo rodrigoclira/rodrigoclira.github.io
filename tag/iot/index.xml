@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IoT | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/tag/iot/</link>
+      <atom:link href="https://rodrigoclira.github.io/tag/iot/index.xml" rel="self" type="application/rss+xml" />
+    <description>IoT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>IoT</title>
+      <link>https://rodrigoclira.github.io/tag/iot/</link>
+    </image>
+    
+    <item>
+      <title>Sistema de Monitoramento em Tempo Real de Qualidade de Água de um Rio</title>
+      <link>https://rodrigoclira.github.io/project/sistema-monitoramento/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/project/sistema-monitoramento/</guid>
+      <description>&lt;p&gt;A água é essencial para a vida e por isso deve-se criar formas de monitorar as principais fontes desse recurso. Tragédias recentes, como os rompimentos das barragens em Brumadinho e Mariana fizeram com que rejeitos de minérios alcançassem rios e contaminasse a principal fonte de captação de água das cidades dessas regiões.&lt;/p&gt;
+&lt;p&gt;Sabe-se que é possível medir a qualidade da água através de diversos parâmetros. O valor dos sólidos dissolvidos totais (do inglês Total Dissolved Solids - TDS) representa a concentração total de substâncias dissolvidas na água. O TDS é composto por sais inorgânicos, além de uma pequena quantidade de matéria orgânica (SDWF, 2020). Por sua vez, a turbidez é um parâmetro físico relacionado à água. Ela é considerada um dos principais parâmetros para a determinação de sua qualidade, principalmente àquelas destinadas ao consumo humano, e está relacionada à capacidade ótica de absorção e reflexão da luz, e não depende tão somente da concentração dos sedimentos em suspensão, mas também de aspectos como tamanho, composição mineral, cor e quantidade de matéria orgânica (LIB NIO, 2010).
+Os dois parâmetros citados anteriormente podem ser medidos através de sensores que estejam instalados na bacia, nascente de um rio ou até mesmo estações de tratamento de água (ETA) para que as ações de preservação e as precauções necessárias para quem utiliza aquela água sejam tomadas. Uma rede de sensores espalhados numa bacia hidrográfica ou numa ETA pode ser fundamental para uma rápida tomada de decisão, além de evitar gastos com coletas manuais.&lt;/p&gt;
+&lt;p&gt;A proposta deste projeto é desenvolver um protótipo de estação de monitoramento de qualidade da água de baixo custo usando plataforma Arduino/ESP. A estação desenvolvida irá monitorar a qualidade da água de um rio e enviar os dados coletados através de HTTP ou MQTT para um sistema de informação geográfico (SIG). A estação também contará com painéis solares que irão ser responsáveis pela alimentação de todo os componentes e que permitirão que ela funcione de forma autossuficiente. Os testes serão realizados em ambiente controlado a fim de simular uma bacia hidrográfica. Também será criado um SIG utilizando a framework Django (backend) e Bootstrap (frontend). Ele  será responsável por agregar todas as informações enviadas das estações de monitoramento de qualidade de água e permitirá analisar o histórico de coleta da estação e as respectivas localizações geográficas dessas informações. Além do gerenciamento das informações recebidas pelas estações, o sistema permitirá a criação de alertas que possam ser acionados caso os valores dos sensores superem limites pré-estabelecidos pelo usuário.&lt;/p&gt;
+&lt;p&gt;Este projeto foi aprovado na chamada pública 
+&lt;a href=&#34;https://ceweb.br/projetos/moverse-na-web-brumadinho/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mover-se na web: Articulação Pró-Brumadinho&lt;/a&gt; do NIC.BR.&lt;/p&gt;
+&lt;p&gt;Safe Drinking Water Foundation (SDWF). TDS and PH. Acessível em: &lt;a href=&#34;https://www.safewater.org/fact-sheets-1/2017/1/23/tds-and-ph&#34;&gt;https://www.safewater.org/fact-sheets-1/2017/1/23/tds-and-ph&lt;/a&gt; . Último acesso: 21 de janeiro de 2020.&lt;/p&gt;
+&lt;p&gt;LIB NIO, M. Fundamentos de qualidade e tratamento de água. Campinas: Átomo, 2010.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
