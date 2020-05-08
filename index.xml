@@ -75,6 +75,8 @@
 &lt;img src=&#34;./projeto.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Exemplo de arquivo de markdown.
 &lt;img src=&#34;./markdown.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Eu estou utilizando o github.io para hospedar a página. Caso você também tenha interesse em fazer isso, eu sugiro ler primeiro a seção 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/deployment/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deployment&lt;/a&gt; do Academic.&lt;/p&gt;
 </description>
     </item>
     
