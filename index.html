@@ -43,6 +43,9 @@
 
   
   
+  
+  <script src="/js/mathjax-config.js"></script>
+  
 
   
   
@@ -173,9 +176,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -205,15 +208,45 @@
 
 
 
-  
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-55121305-3"></script>
 <script>
-  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-5LWG74V');
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-55121305-3', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
 </script>
 
+
+  
 
 
   
@@ -253,7 +286,7 @@
   <meta property="og:description" content="Professor"><meta property="og:image" content="https://rodrigoclira.github.io/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://rodrigoclira.github.io/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="pt">
   
-    <meta property="og:updated_time" content="2020-05-08T00:00:00&#43;00:00">
+    
   
 
   
@@ -766,7 +799,7 @@
     <p>Olá, meu nome é Rodrigo Lira, sou professor no IFPE Campus Paulista e coordenador do 
 <a href="https://portal.ifpe.edu.br/campus/paulista/cursos/superiores/tecnologos/analiseedesenvolvimentodesistemas/capa" target="_blank" rel="noopener">Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas</a>.</p>
 <p>Atualmente sou aluno de doutorado do 
-<a href="http://ppgec.ecomp.poli.br" target="_blank" rel="noopener">Programa de Pós-Graduação em Engenharia da Computação</a> da Universidade de Pernambuco (POLI-UPE), instituição na qual obtive o título de mestre (2014) e de graduação (2013), ambos em Engenharia da Computação. Ao longo da graduação fui monitor de disciplinas, aluno de iniciação científica e tive uma empresa incubada na Incubadora do Instituto de Tecnologia de Pernambuco (ITEP). Antes de ser professor no instituto federal, eu trabalhei por cinco anos na Fundação para Inovações Tecnológicas (FITec) no Porto Digital e lecionei em instituições privadas de Pernambuco.</p>
+<a href="http://ppgec.ecomp.poli.br" target="_blank" rel="noopener">Programa de Pós-Graduação em Engenharia da Computação</a> da Universidade de Pernambuco (POLI-UPE), instituição na qual obtive o título de mestre (2014) e de bacharel (2013), ambos em Engenharia da Computação. Ao longo da graduação fui monitor de disciplinas, aluno de iniciação científica e tive uma empresa incubada na Incubadora do Instituto de Tecnologia de Pernambuco (ITEP). Antes de ser professor no instituto federal, eu trabalhei por cinco anos na Fundação para Inovações Tecnológicas (FITec) no Porto Digital e lecionei em instituições privadas de Pernambuco.</p>
 
 
     <div class="row">
@@ -795,7 +828,7 @@
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course">Doutorado em Engenharia da Computação (em andamento), 2024</p>
-              <p class="institution">Universidade de Pernambuco - POLI</p>
+              <p class="institution">Universidade de Pernambuco (Brasil)</p>
             </div>
           </li>
           
@@ -803,7 +836,7 @@
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course">Mestrado em Engenharia da Computação, 2014</p>
-              <p class="institution">Universidade de Pernambuco - POLI</p>
+              <p class="institution">Universidade de Pernambuco (Brasil)</p>
             </div>
           </li>
           
@@ -811,7 +844,7 @@
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course">Bacharelado em Engenharia da Computação, 2013</p>
-              <p class="institution">Universidade de Pernambuco - POLI</p>
+              <p class="institution">Universidade de Pernambuco (Brasil)</p>
             </div>
           </li>
           
@@ -893,12 +926,15 @@
         <div class="card">
           <div class="card-body">
             <h4 class="card-title exp-title text-muted mt-0 mb-1">Coordenador de Curso</h4>
-            <h4 class="card-title exp-company text-muted my-0">IFPE</h4>
+            <h4 class="card-title exp-company text-muted my-0"><a href="https://portal.ifpe.edu.br/" target="_blank" rel="noopener">Instituto Federal de Educação, Ciências e Tecnologia de Pernambuco (IFPE)</a></h4>
             <div class="text-muted exp-meta">
               Dec 2018 –
               
                 Presente
               
+              
+                <span class="middot-divider"></span>
+                <span>Paulista</span>
               
             </div>
             <div class="card-text"><p>Coordenador do Curso Superior em Análise e Desenvolvimento de Sistemas (07/2019 - atual)</p>
@@ -929,7 +965,7 @@
         <div class="card">
           <div class="card-body">
             <h4 class="card-title exp-title text-muted mt-0 mb-1">Professor do Ensino Básico, Técnico e Tecnológico</h4>
-            <h4 class="card-title exp-company text-muted my-0">IFPE</h4>
+            <h4 class="card-title exp-company text-muted my-0"><a href="https://portal.ifpe.edu.br/" target="_blank" rel="noopener">Instituto Federal de Educação, Ciências e Tecnologia de Pernambuco (IFPE)</a></h4>
             <div class="text-muted exp-meta">
               Nov 2017 –
               
@@ -969,6 +1005,9 @@
               
                 Nov 2017
               
+              
+                <span class="middot-divider"></span>
+                <span>Recife - Porto Digital</span>
               
             </div>
             
@@ -1126,6 +1165,8 @@
   <span class="article-date">
     
     
+      
+          Última atualização em
       
     
     May 8, 2020
@@ -2189,6 +2230,8 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
 
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.8/mermaid.min.js" integrity="sha256-lyWCDMnMeZiXRi7Zl54sZGKYmgQs4izcT7+tKc+KUBk=" crossorigin="anonymous" title="mermaid"></script>
       
 
       
