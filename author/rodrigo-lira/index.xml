@@ -5,48 +5,69 @@
     <link>https://rodrigoclira.github.io/author/rodrigo-lira/</link>
       <atom:link href="https://rodrigoclira.github.io/author/rodrigo-lira/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo Lira</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt</language><copyright>Rodrigo Lira · 2020</copyright><lastBuildDate>Fri, 17 Jan 2020 15:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt</language><copyright>Rodrigo Lira · 2020</copyright>
     <image>
-      <url>https://rodrigoclira.github.io/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_2.png</url>
+      <url>https://rodrigoclira.github.io/author/rodrigo-lira/avatar_hu7ed420867e3f97d26d204f5490596988_122785_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Rodrigo Lira</title>
       <link>https://rodrigoclira.github.io/author/rodrigo-lira/</link>
     </image>
     
     <item>
-      <title>Sistemas Inteligentes - Inovação e o seu papel no novo mundo</title>
-      <link>https://rodrigoclira.github.io/talk/summerexperience2020/</link>
-      <pubDate>Fri, 17 Jan 2020 15:00:00 +0000</pubDate>
-      <guid>https://rodrigoclira.github.io/talk/summerexperience2020/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    O arquivo da apresentação está disponível no campo PDF (logo abaixo do título).
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQdilHa4Wb_IGhZpqgbXlCV5D3oJrRSDFrDsoM7bLSs8oOK4iSdYymx1WEG-5JBBwMraj-PBB2jgYiw/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      <title>Desenvolvimento de uma placa PCB para fins acadêmicos</title>
+      <link>https://rodrigoclira.github.io/post/projeto-easyeda/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/post/projeto-easyeda/</guid>
+      <description>&lt;h2 id=&#34;motivação&#34;&gt;Motivação&lt;/h2&gt;
+&lt;p&gt;Desde 2018.2 ensino a disciplina de Prática Profissional Supervisionada no curso técnico de Manutenção e Suporte em Informática do IFPE Campus Paulista. Venho implementando, cada semestre com maior intensidade, a realização de atividades práticas que possam sejam úteis na formação dos alunos desse curso. Pela característica do curso, as atividades ficam muito relacionadas as áreas de redes de computadores, manutenção de computadores e eletrônica.&lt;/p&gt;
+&lt;p&gt;Uma atividade que sempre faço questão de realizar é a de remoção e soldagem de componentes eletrônicos. Já utilizei num passado a placa 
+&lt;a href=&#34;https://franzininho.com.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Franzininho&lt;/a&gt;. Na ocasião precisei pedir para os alunos formarem grupos e comprarem os componentes pois eu só tinha as placas para doar. Lembro que apesar dos custos, eles aceitaram e se empolgaram bastante na realização da atividade de montagem da placa. Na imagem abaixo é possível ver uma foto de um dos alunos validando a soldagem dos componentes.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./ifpe_franzininho.jpg&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Nos semestres seguintes eu resolvi implementar a atividade de soldagem utilizando equipamentos quebrados pois as placas que tinham não dariam para realizar a atividade com muitos grupos. Para esse novo formato nós usamos fontes de computadores quebradas, mouses e rádios de pilhas. A atividade iniciava com a remoção dos componentes, utilizando um sugador, e em seguida os componentes eram soldados nos seus respectivos locais. Continuou sendo um momento muito bom para os estudantes porque trazia uma experiência que muitos ainda não tinham passado mas para mim ainda faltava algo. Por esse motivo eu resolvi continuar procurando alternativas&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Até aquele momento não tinha passado na minha cabeça a criação uma placa, eu estava procurando por algum produto pronto que pudesse ser barato e fácil de adquirir. Nesse sentido eu encontrei alguns projetos, como o 
+&lt;a href=&#34;https://www.newtoncbraga.com.br/index.php/kits/16573-ligue-o-fusca-uma-forma-de-ensinar-a-soldar-art4182&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ligue o Fusca&lt;/a&gt;, o 
+&lt;a href=&#34;https://medium.com/franzininho/badge-aprenda-a-soldar-34b99ec2cb6f&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Badge aprenda a soldar&lt;/a&gt; e o 
+&lt;a href=&#34;https://www.gbkrobotics.com.br/boards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;First Robot&lt;/a&gt;. Esse último me chamou mais a atenção porque eu poderia usar a placa para fazer a iniciação a programação Arduino, outro assunto abordado na disciplina.&lt;/p&gt;
+&lt;p&gt;Fui procurar pela placa em lojas na internet e achei pouca oferta. Até consegui adquirir um kit num 
+&lt;a href=&#34;https://recicomp.com.br&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vendedor local&lt;/a&gt; mas era o único que ele tinha e também de uma versão com menos recursos. Sabendo disso, um amigo que trabalha com robótica educional me sugeriu projetar uma placa PCB similar e mandar confeccionar na China. Algo que a princípio eu achei desnecessário, mas que logo mudei de ideia.&lt;/p&gt;
+&lt;h2 id=&#34;projeto-da-placa&#34;&gt;Projeto da Placa&lt;/h2&gt;
+&lt;p&gt;Não era minha pretensão criar uma placa para esse próposito, mas eu fiquei um pouco desafiado a desenvolver o projeto. Por coincidência, eu tinha visto que um outro professor do IFPE tinha acabado de projetar uma placa para o seu projeto no 
+&lt;a href=&#34;https://easyeda.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EasyEDA&lt;/a&gt;. Depois de conversar com ele, ele me apresentou o seu projeto na plataforma e explicou rapidamente como poderia criar a placa em questão.&lt;/p&gt;
+&lt;p&gt;Para me familiarizar no EasyEDA, eu resolvi comprar o curso 
+&lt;a href=&#34;https://www.udemy.com/course/circuito-impresso-criando-uma-shield-para-arduino/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Circuito impresso: Criando uma Shield para Arduino&lt;/a&gt; do Ricardo Teixeira. O curso ensina como utilizar a plataforma para desenvolver projetos, sendo o projeto final uma shield para Arduino Uno. Apesar de o EasyEDA ser intuitivo, o curso permitiu utilizar algumas funcionalidades que só quem já trabalhava nessa área poderia saber.&lt;/p&gt;
+&lt;p&gt;A complexidade da placa facilitou bastante a minha vida. A placa PCB projetada é bastante simples contendo apenas leds, buzzer e pinos para entrada dos sinais, componentes suficientes para realizar uma iniciação em Arduino. Acho que a parte mais complicada foi o posicionamento dos componentes e, consequentemente, o roteamento das trilhas. Confesso que não gastei muito tempo nesse projeto, acho que entre decidir criar e mandar confeccionar o projeto final das placas foram duas semanas. A versão no EasyEDA está apresentada na imagem abaixo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./topbottonside.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;confecção-da-placa&#34;&gt;Confecção da Placa&lt;/h2&gt;
+&lt;p&gt;Para mim a grande vantagem de usar o EasyEDA foi a sua integração com a JLCPCB, um fabricante de placas sediado em Hong Kong. Com poucos cliques foi possível enviar o projeto para ser manufaturado pela JLCPCB e escolher detalhes da placa como a cor, o tipo das pontas, dentre outras opções. O custo também foi bastante acessível, eu escolhi as opções mais baratas (padrão) de confecção e isso fez com que o custo total fosse de US$ 12 por 50 placas.&lt;/p&gt;
+&lt;p&gt;Acabei não dando sorte na entrega, os Correios perderam o pacote e me fizeram esperar um novo envio da JLCPCB. Não tive custos adicionais mais tive que contatar os Correios para devolverem a taxa de despacho postal (R$15) da encomenda extraviada. Recebi a placa nesse segundo envio, elas vieram bem lacradas num pacote embalado a vácuo. Na imagem abaixo é apresentada a foto de uma delas.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./placa.jpeg&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Ps.: Ainda não tive a oportunidade de utilizar a placa PCB em aula, o atraso dos Correios levaram a entrega para o fim do semestre e o semestre atual foi suspenso pela pandemia.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Desenvolvimento de um Jogo Utilizando Robótica para o Estı́mulo do Pensamento Computacional</title>
-      <link>https://rodrigoclira.github.io/talk/ctrel2020/</link>
-      <pubDate>Thu, 29 Aug 2019 14:30:00 +0000</pubDate>
-      <guid>https://rodrigoclira.github.io/talk/ctrel2020/</guid>
-      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQGRF5J1hPpxUgjh21f4HaIqv20rlDpINbMOdc49Fbs-h8ASWMPnxv9qWoeKKoBMkLKG0zfZ44CwA8O/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Apresentação do curso ADS (IFPE Campus Paulista)</title>
-      <link>https://rodrigoclira.github.io/talk/ads-magna/</link>
-      <pubDate>Thu, 01 Aug 2019 09:00:00 +0000</pubDate>
-      <guid>https://rodrigoclira.github.io/talk/ads-magna/</guid>
-      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vS5LzzSK8hjnMF-UZbQ4tl1ixDCSXBoi2Dgkv8xu_Bk72kI9AJ-dW79FZGsJ-SlEdnTia3NnE_aIKFj/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      <title>Hello World!</title>
+      <link>https://rodrigoclira.github.io/post/novo-site/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/post/novo-site/</guid>
+      <description>&lt;h2 id=&#34;motivação&#34;&gt;Motivação&lt;/h2&gt;
+&lt;p&gt;Resolvi tirar o meu site do Google Sites e colocá-lo no Github.io. Tive essa ideia de migrar o site há alguns dias quando eu vi uma dicussão que aconteceu em resposta ao tweet do 
+&lt;a href=&#34;https://twitter.com/juditecypreste/status/1256947732872380418&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@judite&lt;/a&gt;. Conhecer o site da 
+&lt;a href=&#34;https://nataliadiaz.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Profª Natalia Días&lt;/a&gt; foi o ponto inicial para eu começar essa empreitada de migração. Essa migração também foi motivada pelo meu anseio de ter mais liberdade e tentar reviver um blog que na época da graduação mantive por muito tempo.&lt;/p&gt;
+&lt;h2 id=&#34;tecnologias&#34;&gt;Tecnologias&lt;/h2&gt;
+&lt;p&gt;Assim como o site da Profª Natalia, eu estou usando o gerador estático 
+&lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; e o 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt;. No Academic, eu escolhi o tema &lt;em&gt;forest&lt;/em&gt; (branco/verde) pois é mais parecido com o padrão de cores utilizado pelo IFPE.&lt;/p&gt;
+&lt;p&gt;Na edição dos arquivos foi utilizado Vim e o VSCode (as extensões &lt;em&gt;markdonlint&lt;/em&gt; e &lt;em&gt;Markdown All in One&lt;/em&gt; estava habilitadas)&lt;/p&gt;
+&lt;h2 id=&#34;instalação-e-configuração&#34;&gt;Instalação e Configuração&lt;/h2&gt;
+&lt;p&gt;A instalação e utilização deles é bem simples, eu segui basicamente os documentos dos &lt;em&gt;Quick Start&lt;/em&gt; indicados em ambos os projetos. A configuração também foi bastante intuitiva, eu apenas tive que mudar algumas pequenas configurações nos arquivos de &lt;em&gt;markdown&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Eu não precisei ir muito a fundo da documentação, a leitura dos arquivos das pastas &lt;em&gt;config&lt;/em&gt; e &lt;em&gt;content&lt;/em&gt; esclarecem um pouco o funcionamento do  site. Eu também me baseei, como indicado na documentação do Academic, no site de exemplo que está disponível dentro da pasta do tema. A partir desse exemplo eu entendi como era o funcionamento de adição de novas postagens e projetos.&lt;/p&gt;
+&lt;p&gt;Abaixo é apresentado a organização da pasta principal do Academic.
+&lt;img src=&#34;./projeto.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Exemplo de arquivo de markdown.
+&lt;img src=&#34;./markdown.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Eu estou utilizando o 
+&lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages&lt;/a&gt; para hospedar a página. Caso você também tenha interesse em fazer isso, eu sugiro ler primeiro a seção 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/deployment/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deployment&lt;/a&gt; do Academic.&lt;/p&gt;
 </description>
     </item>
     

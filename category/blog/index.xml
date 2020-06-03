@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Desenvolvimento de uma placa para fins acadêmicos</title>
+      <title>Desenvolvimento de uma placa PCB para fins acadêmicos</title>
       <link>https://rodrigoclira.github.io/post/projeto-easyeda/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://rodrigoclira.github.io/post/projeto-easyeda/</guid>
@@ -28,19 +28,19 @@
 &lt;a href=&#34;https://medium.com/franzininho/badge-aprenda-a-soldar-34b99ec2cb6f&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Badge aprenda a soldar&lt;/a&gt; e o 
 &lt;a href=&#34;https://www.gbkrobotics.com.br/boards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;First Robot&lt;/a&gt;. Esse último me chamou mais a atenção porque eu poderia usar a placa para fazer a iniciação a programação Arduino, outro assunto abordado na disciplina.&lt;/p&gt;
 &lt;p&gt;Fui procurar pela placa em lojas na internet e achei pouca oferta. Até consegui adquirir um kit num 
-&lt;a href=&#34;https://recicomp.com.br&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vendedor local&lt;/a&gt; mas era o único que ele tinha e também de uma versão com menos recursos. Sabendo disso, um amigo que trabalha com robótica educional me sugeriu construir uma placa similar e mandar confeccionar na China. Algo que a princípio eu achei desnecessário, mas que logo mudei de ideia.&lt;/p&gt;
+&lt;a href=&#34;https://recicomp.com.br&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vendedor local&lt;/a&gt; mas era o único que ele tinha e também de uma versão com menos recursos. Sabendo disso, um amigo que trabalha com robótica educional me sugeriu projetar uma placa PCB similar e mandar confeccionar na China. Algo que a princípio eu achei desnecessário, mas que logo mudei de ideia.&lt;/p&gt;
 &lt;h2 id=&#34;projeto-da-placa&#34;&gt;Projeto da Placa&lt;/h2&gt;
 &lt;p&gt;Não era minha pretensão criar uma placa para esse próposito, mas eu fiquei um pouco desafiado a desenvolver o projeto. Por coincidência, eu tinha visto que um outro professor do IFPE tinha acabado de projetar uma placa para o seu projeto no 
 &lt;a href=&#34;https://easyeda.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EasyEDA&lt;/a&gt;. Depois de conversar com ele, ele me apresentou o seu projeto na plataforma e explicou rapidamente como poderia criar a placa em questão.&lt;/p&gt;
 &lt;p&gt;Para me familiarizar no EasyEDA, eu resolvi comprar o curso 
 &lt;a href=&#34;https://www.udemy.com/course/circuito-impresso-criando-uma-shield-para-arduino/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Circuito impresso: Criando uma Shield para Arduino&lt;/a&gt; do Ricardo Teixeira. O curso ensina como utilizar a plataforma para desenvolver projetos, sendo o projeto final uma shield para Arduino Uno. Apesar de o EasyEDA ser intuitivo, o curso permitiu utilizar algumas funcionalidades que só quem já trabalhava nessa área poderia saber.&lt;/p&gt;
-&lt;p&gt;A complexidade da placa facilitou bastante a minha vida. A placa projetada é bastante simples contendo apenas leds, buzzer e pinos para entrada dos sinais, componentes suficientes para realizar uma iniciação em Arduino. Acho que a parte mais complicada foi o posicionamento dos componentes e, consequentemente, o roteamento das trilhas. Confesso que não gastei muito tempo nesse projeto, acho que entre decidir criar e mandar confeccionar o projeto final das placas foram duas semanas. A versão no EasyEDA está apresentada na imagem abaixo.&lt;/p&gt;
+&lt;p&gt;A complexidade da placa facilitou bastante a minha vida. A placa PCB projetada é bastante simples contendo apenas leds, buzzer e pinos para entrada dos sinais, componentes suficientes para realizar uma iniciação em Arduino. Acho que a parte mais complicada foi o posicionamento dos componentes e, consequentemente, o roteamento das trilhas. Confesso que não gastei muito tempo nesse projeto, acho que entre decidir criar e mandar confeccionar o projeto final das placas foram duas semanas. A versão no EasyEDA está apresentada na imagem abaixo.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;./topbottonside.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;confecção-da-placa&#34;&gt;Confecção da Placa&lt;/h2&gt;
 &lt;p&gt;Para mim a grande vantagem de usar o EasyEDA foi a sua integração com a JLCPCB, um fabricante de placas sediado em Hong Kong. Com poucos cliques foi possível enviar o projeto para ser manufaturado pela JLCPCB e escolher detalhes da placa como a cor, o tipo das pontas, dentre outras opções. O custo também foi bastante acessível, eu escolhi as opções mais baratas (padrão) de confecção e isso fez com que o custo total fosse de US$ 12 por 50 placas.&lt;/p&gt;
 &lt;p&gt;Acabei não dando sorte na entrega, os Correios perderam o pacote e me fizeram esperar um novo envio da JLCPCB. Não tive custos adicionais mais tive que contatar os Correios para devolverem a taxa de despacho postal (R$15) da encomenda extraviada. Recebi a placa nesse segundo envio, elas vieram bem lacradas num pacote embalado a vácuo. Na imagem abaixo é apresentada a foto de uma delas.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;./placa.jpeg&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Ps.: Ainda não tive a oportunidade de utilizar a placa em aula, o atraso dos Correios levaram a entrega para o fim do semestre e o semestre atual foi suspenso pela pandemia.&lt;/p&gt;
+&lt;p&gt;Ps.: Ainda não tive a oportunidade de utilizar a placa PCB em aula, o atraso dos Correios levaram a entrega para o fim do semestre e o semestre atual foi suspenso pela pandemia.&lt;/p&gt;
 </description>
     </item>
     
