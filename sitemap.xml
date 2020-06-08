@@ -8,43 +8,63 @@
   </url>
   
   <url>
-    <loc>https://rodrigoclira.github.io/tag/arduino/</loc>
-    <lastmod>2020-06-03T00:11:40-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rodrigoclira.github.io/authors/</loc>
-    <lastmod>2020-06-03T00:11:40-03:00</lastmod>
+    <lastmod>2020-06-08T15:56:53-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://rodrigoclira.github.io/category/blog/</loc>
-    <lastmod>2020-06-03T00:08:16-03:00</lastmod>
+    <lastmod>2020-06-08T15:56:53-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://rodrigoclira.github.io/categories/</loc>
-    <lastmod>2020-06-03T00:08:16-03:00</lastmod>
+    <lastmod>2020-06-08T15:56:53-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rodrigoclira.github.io/tag/ctmsi/</loc>
-    <lastmod>2020-06-03T00:08:16-03:00</lastmod>
+    <loc>https://rodrigoclira.github.io/category/experimento/</loc>
+    <lastmod>2020-06-08T15:56:53-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rodrigoclira.github.io/post/projeto-easyeda/</loc>
-    <lastmod>2020-06-03T00:08:16-03:00</lastmod>
+    <loc>https://rodrigoclira.github.io/tag/ia/</loc>
+    <lastmod>2020-06-08T15:56:53-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rodrigoclira.github.io/tag/easyeda/</loc>
-    <lastmod>2020-06-03T00:08:16-03:00</lastmod>
+    <loc>https://rodrigoclira.github.io/tag/netlogo/</loc>
+    <lastmod>2020-06-08T15:56:53-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://rodrigoclira.github.io/tags/</loc>
-    <lastmod>2020-06-03T00:11:40-03:00</lastmod>
+    <lastmod>2020-06-08T15:56:53-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/post/usando-netlogo-para-simular-transmissao-covid19/</loc>
+    <lastmod>2020-06-08T15:56:53-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/tag/arduino/</loc>
+    <lastmod>2020-06-03T02:08:02-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/tag/ctmsi/</loc>
+    <lastmod>2020-06-03T02:08:02-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/post/projeto-easyeda/</loc>
+    <lastmod>2020-06-03T02:08:02-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/tag/easyeda/</loc>
+    <lastmod>2020-06-03T02:08:02-03:00</lastmod>
   </url>
   
   <url>
@@ -54,11 +74,6 @@
   
   <url>
     <loc>https://rodrigoclira.github.io/author/flavio-oliveira/</loc>
-    <lastmod>2020-05-08T14:59:30-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rodrigoclira.github.io/tag/ia/</loc>
     <lastmod>2020-05-08T14:59:30-03:00</lastmod>
   </url>
   

@@ -13,6 +13,111 @@
     </image>
     
     <item>
+      <title>Usando o Netlogo para simular a transmissão do Sars-CoV-2 (coronavírus)</title>
+      <link>https://rodrigoclira.github.io/post/usando-netlogo-para-simular-transmissao-covid19/</link>
+      <pubDate>Mon, 08 Jun 2020 15:14:19 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/post/usando-netlogo-para-simular-transmissao-covid19/</guid>
+      <description>&lt;p&gt;E se tentássemos simular o comportamento do vírus utilizando um sistema multiagentes? Essa pergunta passou pela minha cabeça em uma das noites de quarentena. Foi por isso que eu resolvi utilizar o 
+&lt;a href=&#34;http://ccl.northwestern.edu/netlogo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NetLogo&lt;/a&gt;, um ambiente de simulação que permite o desenvolvimento de modelos multiagentes, para simular a transmissão do novo coronavírus e mostrar como as ações recomendadas pela Organização Mundial de Saúde (OMS) são importantes para diminuir o contágio dele.&lt;/p&gt;
+&lt;p&gt;Antes de continuarmos, é importante deixar claro que a simulação não tem pretensões de prever o quantitativo de óbitos que serão causadas pela doença. O objetivo principal é &lt;span class=&#34;markup-quote&#34;&gt;demonstrar o comportamento do vírus e seus efeitos em diferentes cenários num mundo restrito composto inicialmente por 700 agentes&lt;/span&gt;. Ressalta-se que certas informações não foram levadas em consideração no experimento, como a sobrecarga de unidades de saúde, comorbidades ou idade dos infectados, fatores que podem agravar o combate à doença.&lt;/p&gt;
+&lt;p&gt;O modelo desenvolvido foi baseado no &lt;em&gt;
+&lt;a href=&#34;https://ccl.northwestern.edu/netlogo/models/Virus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Virus&lt;/a&gt;&lt;/em&gt;, um modelo para simulação de transmissão de doenças virais, que está disponível na biblioteca do NetLogo. Nele foram realizadas as seguintes alterações:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Imunidade&lt;/strong&gt;: 
+&lt;a href=&#34;https://www.bbc.com/portuguese/internacional-52462544&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A duração da imunidade do vírus Sars-CoV-2 ainda é objeto de estudo&lt;/a&gt;, mas nessa simulação foi utilizado que o agente infectado pelo vírus desenvolvem imunidade para o resto da vida.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Assintomáticos&lt;/strong&gt;: O modelo Virus não faz distinção em doentes com sintomas e sem sintomas, no modelo o agente só possui três estados: saudável, doente e imune. Para representar melhor a situação do coronavírus foi adicionado a possibilidade de um agente doente ser assintomático. Nesse sentido, ao contrair a doença o agente tem 50% de chance de ser assintomático.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Movimentação no Ambiente&lt;/strong&gt;: No modelo inicial a movimentação de todos os agentes acontecem sem nenhuma restrição. Na modelagem foi colocada uma nova variável chamada social-isolation. Isso faz com que apenas parte da população se mova no ambiente a cada iteração. Além disso, os agentes doentes que apresentam sintomas só se movimentam no ambiente nos primeiros dias da doença.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Infecção no ambiente&lt;/strong&gt;: A posição do ambiente (patch) pode alojar o vírus, caso um agente infectado o transmita quando estiver nela. Nesse caso, o vírus só fica alojado na posição por um curto espaço de tempo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Os agentes possuem cores que distinguem seu estado no ambiente. O vermelho e laranja representam os doentes sintomáticos e assintomáticos, respectivamente. Os verdes são os saudáveis e os cinzas, os imunes. Na animação abaixo é apresentada um trecho da simulação de um dos cenários (Cenário 1). O agente que está em foco inicia a simulação com o vírus mas se cura e consequentemente se torna imune.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./image3.gif&#34; alt=&#34;gif&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A interface da simulação possui variáveis que podem ser modificadas pelo usuário para analisar o comportamento da transmissão do vírus, também estão presentes monitores e gráficos que facilitam a visualização dos resultados. Na figura abaixo é apresentada a área de atualização de variáveis e a tela na qual a simulação ocorre.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./image7.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Foram definidos três cenários para analisar o comportamento da transmissão do vírus no ambiente. Os cenários testados foram os seguintes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cenário 1 - A doença já está presente no ambiente mas os agentes não diminuem a interação social e nem usam outras estratégias para mitigar a transmissão do vírus. Nesse cenário a infecciosidade é o valor máximo e o isolamento social não existe.&lt;/li&gt;
+&lt;li&gt;Cenário 2 - A taxa de isolamento social é modificada para 48% e a taxa de infecciosidade é diminuída para 
+&lt;a href=&#34;https://www.cnbc.com/2020/05/19/coronavirus-wearing-a-mask-can-reduce-transmission-by-75percent-new-study-claims.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;16% devido ao uso de máscaras&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Cenário 3 - A taxa de infecciosidade é mantida em 16% e a 
+&lt;a href=&#34;https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/taxa-de-isolamento-social-em-sao-paulo-se-mantem-abaixo-dos-55&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;taxa de isolamento é modificada para 75%&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Em todos os cenários o 
+&lt;a href=&#34;https://www.bbc.com/portuguese/geral-52274791&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tempo de duração da doença foi configurado como 14 dias&lt;/a&gt;, o valor máximo de agentes no ambiente foi configurado como 1000 e a variável que indica a chance de se recuperar (chance-recovery) foi 93%. O valor da variável da taxa de infecciosidade (infectiousness) foi inicialmente 66%, mas esse valor foi alterado para 16% quando simulado o uso de máscaras pela população.&lt;/p&gt;
+&lt;p&gt;Como resultados foram obtidos os valores da quantidade de vítimas, dias para acabar os casos de infecção do vírus, quantidade de infectados, total de população que viveu no ambiente, além da porcentagem de vítimas da doença e a porcentagem de imunes ao término da simulação. A média de 30 simulações desses valores estão apresentados na tabela abaixo:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;-&lt;/th&gt;
+&lt;th&gt;Cenário 1&lt;/th&gt;
+&lt;th&gt;Cenário 2&lt;/th&gt;
+&lt;th&gt;Cenário 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Vítimas&lt;/td&gt;
+&lt;td&gt;66,07&lt;/td&gt;
+&lt;td&gt;36,8&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;% atual imunes&lt;/td&gt;
+&lt;td&gt;89,35&lt;/td&gt;
+&lt;td&gt;50,36&lt;/td&gt;
+&lt;td&gt;25,94&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;População&lt;/td&gt;
+&lt;td&gt;1066,03&lt;/td&gt;
+&lt;td&gt;1041&lt;/td&gt;
+&lt;td&gt;1023,7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;% população vítima&lt;/td&gt;
+&lt;td&gt;6,18&lt;/td&gt;
+&lt;td&gt;3,53&lt;/td&gt;
+&lt;td&gt;1,95&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Infectados&lt;/td&gt;
+&lt;td&gt;960,7&lt;/td&gt;
+&lt;td&gt;545,77&lt;/td&gt;
+&lt;td&gt;280,53&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dias de Transmissão&lt;/td&gt;
+&lt;td&gt;145,7&lt;/td&gt;
+&lt;td&gt;116,9&lt;/td&gt;
+&lt;td&gt;98,33&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;O Cenário 1 foi o que sua população teve a maior exposição ao vírus, isso é possível ser evidenciado pela porcentagem da população que se tornou imune ao fim da simulação. Consequentemente esse cenário obteve a maior quantidade de vítimas. A quantidade de dias de transmissão também foi o maior dentre os cenários e isso aconteceu porque a transmissão só ficou controlada quando mais de 70% da população se tornou imune. Uma característica que foi visualizada é que nesse cenário houve um momento no primeiro mês que praticamente toda a população foi infectada em um curto espaço de tempo - situação que seria catastrófica no mundo real. Na figura abaixo é apresentado os resultados de uma das simulações utilizando o Cenário 1.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./image6.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;No Cenário 2 existe também um aumento da infecção no primeiro mês, quando a maioria ainda é saudável, mas a curva é muito mais achatada do que a apresentada no cenário anterior. Visualizando os números obtidos nesse cenário é possível perceber que o  impacto do vírus na população diminuiu quase que pela metade, isso foi devido ao isolamento social e a diminuição da taxa de infecciosidade do vírus. Na figura abaixo é apresentado o resultado de uma simulação utilizando o Cenário 2.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./image4.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Dentre os cenários analisados nesta simulação, o Cenário 3 obteve os melhores resultados para o controle da transmissão do vírus. Todas as variáveis analisadas foram menores quando se aumentou o isolamento social e diminuiu a taxa de infecciosidade da doença. Na figura abaixo é apresentado o resultado de uma das simulações utilizando o Cenário 3.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./image5.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Os resultados obtidos nos cenários utilizados neste experimento evidenciam que, assim como indicado pela comunidade científica mundial, a melhor forma de combater o vírus atual é se protegendo. No experimento o impacto do vírus foi muito menor quando a população dos agentes diminuiu a interação social e usou meios para diminuir a taxa de infecciosidade do vírus. Isso ratifica a importância seguir as recomendações da OMS de utilizar máscaras, higienizar as mãos com frequência e restringir ao máximo a interação social.&lt;/p&gt;
+&lt;p&gt;Uma versão web do modelo pode ser acessada em &lt;a href=&#34;https://rodrigoclira.github.io/netlogo-covid19.html&#34;&gt;https://rodrigoclira.github.io/netlogo-covid19.html&lt;/a&gt; , nela apenas os cenários apresentados estão habilitados.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Desenvolvimento de uma placa PCB para fins acadêmicos</title>
       <link>https://rodrigoclira.github.io/post/projeto-easyeda/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>

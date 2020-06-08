@@ -27,10 +27,10 @@
   
     
   
-  <meta name="description" content="Neste post eu irei apresentar a motivação e as ferramentas que me permitiram criar uma placa PCB para ser utilizada no ensino de soldagem e de Arduino.">
+  <meta name="description" content="Neste post eu irei mostrar como é possível modificar o modelo Virus da biblioteca NetLogo para simular o comportamento da transmissão Sars-CoV-2. No experimento foram utilizados três cenários demonstraram o comportamento da doença de acordo com as ações tomadas no ambiente.">
 
   
-  <link rel="alternate" hreflang="pt" href="https://rodrigoclira.github.io/post/projeto-easyeda/">
+  <link rel="alternate" hreflang="pt" href="https://rodrigoclira.github.io/post/usando-netlogo-para-simular-transmissao-covid19/">
 
   
 
@@ -258,7 +258,7 @@
   <link rel="icon" type="image/png" href="/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://rodrigoclira.github.io/post/projeto-easyeda/">
+  <link rel="canonical" href="https://rodrigoclira.github.io/post/usando-netlogo-para-simular-transmissao-covid19/">
 
   
   
@@ -276,15 +276,15 @@
   <meta property="twitter:creator" content="@rodrigoclira">
   
   <meta property="og:site_name" content="Rodrigo Lira">
-  <meta property="og:url" content="https://rodrigoclira.github.io/post/projeto-easyeda/">
-  <meta property="og:title" content="Desenvolvimento de uma placa PCB para fins acadêmicos | Rodrigo Lira">
-  <meta property="og:description" content="Neste post eu irei apresentar a motivação e as ferramentas que me permitiram criar uma placa PCB para ser utilizada no ensino de soldagem e de Arduino."><meta property="og:image" content="https://rodrigoclira.github.io/post/projeto-easyeda/featured.png">
-  <meta property="twitter:image" content="https://rodrigoclira.github.io/post/projeto-easyeda/featured.png"><meta property="og:locale" content="pt">
+  <meta property="og:url" content="https://rodrigoclira.github.io/post/usando-netlogo-para-simular-transmissao-covid19/">
+  <meta property="og:title" content="Usando o Netlogo para simular a transmissão do Sars-CoV-2 (coronavírus) | Rodrigo Lira">
+  <meta property="og:description" content="Neste post eu irei mostrar como é possível modificar o modelo Virus da biblioteca NetLogo para simular o comportamento da transmissão Sars-CoV-2. No experimento foram utilizados três cenários demonstraram o comportamento da doença de acordo com as ações tomadas no ambiente."><meta property="og:image" content="https://rodrigoclira.github.io/post/usando-netlogo-para-simular-transmissao-covid19/featured.png">
+  <meta property="twitter:image" content="https://rodrigoclira.github.io/post/usando-netlogo-para-simular-transmissao-covid19/featured.png"><meta property="og:locale" content="pt">
   
     
-      <meta property="article:published_time" content="2020-06-01T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2020-06-08T15:14:19-03:00">
     
-    <meta property="article:modified_time" content="2020-06-03T02:08:02-03:00">
+    <meta property="article:modified_time" content="2020-06-08T15:56:53-03:00">
   
 
   
@@ -308,16 +308,16 @@
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://rodrigoclira.github.io/post/projeto-easyeda/"
+    "@id": "https://rodrigoclira.github.io/post/usando-netlogo-para-simular-transmissao-covid19/"
   },
-  "headline": "Desenvolvimento de uma placa PCB para fins acadêmicos",
+  "headline": "Usando o Netlogo para simular a transmissão do Sars-CoV-2 (coronavírus)",
   
   "image": [
-    "https://rodrigoclira.github.io/post/projeto-easyeda/featured.png"
+    "https://rodrigoclira.github.io/post/usando-netlogo-para-simular-transmissao-covid19/featured.png"
   ],
   
-  "datePublished": "2020-06-01T00:00:00Z",
-  "dateModified": "2020-06-03T02:08:02-03:00",
+  "datePublished": "2020-06-08T15:14:19-03:00",
+  "dateModified": "2020-06-08T15:56:53-03:00",
   
   "author": {
     "@type": "Person",
@@ -332,7 +332,7 @@
       "url": "https://rodrigoclira.github.io/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Neste post eu irei apresentar a motivação e as ferramentas que me permitiram criar uma placa PCB para ser utilizada no ensino de soldagem e de Arduino."
+  "description": "Neste post eu irei mostrar como é possível modificar o modelo Virus da biblioteca NetLogo para simular o comportamento da transmissão Sars-CoV-2. No experimento foram utilizados três cenários demonstraram o comportamento da doença de acordo com as ações tomadas no ambiente."
 }
 </script>
 
@@ -350,7 +350,7 @@
 
 
 
-  <title>Desenvolvimento de uma placa PCB para fins acadêmicos | Rodrigo Lira</title>
+  <title>Usando o Netlogo para simular a transmissão do Sars-CoV-2 (coronavírus) | Rodrigo Lira</title>
 
 </head>
 
@@ -636,12 +636,10 @@
 
   
   
-    
-  
 
 
 <div class="article-container pt-3">
-  <h1>Desenvolvimento de uma placa PCB para fins acadêmicos</h1>
+  <h1>Usando o Netlogo para simular a transmissão do Sars-CoV-2 (coronavírus)</h1>
 
   
 
@@ -671,7 +669,7 @@
           Última atualização em
       
     
-    Jun 3, 2020
+    Jun 8, 2020
   </span>
   
 
@@ -680,7 +678,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    4 minutos de leitura
+    6 minutos de leitura
   </span>
   
 
@@ -688,14 +686,14 @@
   
   
   <span class="middot-divider"></span>
-  <a href="/post/projeto-easyeda/#disqus_thread"></a>
+  <a href="/post/usando-netlogo-para-simular-transmissao-covid19/#disqus_thread"></a>
   
 
   
   
   <span class="middot-divider"></span>
   <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/category/blog/">blog</a></span>
+    <i class="fas fa-folder mr-1"></i><a href="/category/blog/">blog</a>, <a href="/category/experimento/">experimento</a></span>
   
 
 </div>
@@ -718,10 +716,10 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 344px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 490px; max-height: 490px;">
   <div style="position: relative">
-    <img src="/post/projeto-easyeda/featured_hu633708e9e4829d8ad19216f695e4924a_193737_720x0_resize_lanczos_2.png" alt="" class="featured-image">
-    <span class="article-header-caption">EasyEDA</span>
+    <img src="/post/usando-netlogo-para-simular-transmissao-covid19/featured.png" alt="" class="featured-image">
+    <span class="article-header-caption">ambiente de simulação</span>
   </div>
 </div>
 
@@ -730,30 +728,103 @@
   <div class="article-container">
 
     <div class="article-style">
-      <h2 id="motivação">Motivação</h2>
-<p>Desde 2018.2 ensino a disciplina de Prática Profissional Supervisionada no curso técnico de Manutenção e Suporte em Informática do IFPE Campus Paulista. Venho implementando, cada semestre com maior intensidade, a realização de atividades práticas que possam sejam úteis na formação dos alunos desse curso. Pela característica do curso, as atividades ficam muito relacionadas as áreas de redes de computadores, manutenção de computadores e eletrônica.</p>
-<p>Uma atividade que sempre faço questão de realizar é a de remoção e soldagem de componentes eletrônicos. Já utilizei num passado a placa 
-<a href="https://franzininho.com.br/" target="_blank" rel="noopener">Franzininho</a>. Na ocasião precisei pedir para os alunos formarem grupos e comprarem os componentes pois eu só tinha as placas para doar. Lembro que apesar dos custos, eles aceitaram e se empolgaram bastante na realização da atividade de montagem da placa. Na imagem abaixo é possível ver uma foto de um dos alunos validando a soldagem dos componentes.</p>
-<p><img src="./ifpe_franzininho.jpg" alt="png"></p>
-<p>Nos semestres seguintes eu resolvi implementar a atividade de soldagem utilizando equipamentos quebrados pois as placas que tinham não dariam para realizar a atividade com muitos grupos. Para esse novo formato nós usamos fontes de computadores quebradas, mouses e rádios de pilhas. A atividade iniciava com a remoção dos componentes, utilizando um sugador, e em seguida os componentes eram soldados nos seus respectivos locais. Continuou sendo um momento muito bom para os estudantes porque trazia uma experiência que muitos ainda não tinham passado mas para mim ainda faltava algo. Por esse motivo eu resolvi continuar procurando alternativas&hellip;</p>
-<p>Até aquele momento não tinha passado na minha cabeça a criação uma placa, eu estava procurando por algum produto pronto que pudesse ser barato e fácil de adquirir. Nesse sentido eu encontrei alguns projetos, como o 
-<a href="https://www.newtoncbraga.com.br/index.php/kits/16573-ligue-o-fusca-uma-forma-de-ensinar-a-soldar-art4182" target="_blank" rel="noopener">Ligue o Fusca</a>, o 
-<a href="https://medium.com/franzininho/badge-aprenda-a-soldar-34b99ec2cb6f" target="_blank" rel="noopener">Badge aprenda a soldar</a> e o 
-<a href="https://www.gbkrobotics.com.br/boards" target="_blank" rel="noopener">First Robot</a>. Esse último me chamou mais a atenção porque eu poderia usar a placa para fazer a iniciação a programação Arduino, outro assunto abordado na disciplina.</p>
-<p>Fui procurar pela placa em lojas na internet e achei pouca oferta. Até consegui adquirir um kit num 
-<a href="https://recicomp.com.br" target="_blank" rel="noopener">vendedor local</a> mas era o único que ele tinha e também de uma versão com menos recursos. Sabendo disso, um amigo que trabalha com robótica educional me sugeriu projetar uma placa PCB similar e mandar confeccionar na China. Algo que a princípio eu achei desnecessário, mas que logo mudei de ideia.</p>
-<h2 id="projeto-da-placa">Projeto da Placa</h2>
-<p>Não era minha pretensão criar uma placa para esse próposito, mas eu fiquei um pouco desafiado a desenvolver o projeto. Por coincidência, eu tinha visto que um outro professor do IFPE tinha acabado de projetar uma placa para o seu projeto no 
-<a href="https://easyeda.com" target="_blank" rel="noopener">EasyEDA</a>. Depois de conversar com ele, ele me apresentou o seu projeto na plataforma e explicou rapidamente como poderia criar a placa em questão.</p>
-<p>Para me familiarizar no EasyEDA, eu resolvi comprar o curso 
-<a href="https://www.udemy.com/course/circuito-impresso-criando-uma-shield-para-arduino/" target="_blank" rel="noopener">Circuito impresso: Criando uma Shield para Arduino</a> do Ricardo Teixeira. O curso ensina como utilizar a plataforma para desenvolver projetos, sendo o projeto final uma shield para Arduino Uno. Apesar de o EasyEDA ser intuitivo, o curso permitiu utilizar algumas funcionalidades que só quem já trabalhava nessa área poderia saber.</p>
-<p>A complexidade da placa facilitou bastante a minha vida. A placa PCB projetada é bastante simples contendo apenas leds, buzzer e pinos para entrada dos sinais, componentes suficientes para realizar uma iniciação em Arduino. Acho que a parte mais complicada foi o posicionamento dos componentes e, consequentemente, o roteamento das trilhas. Confesso que não gastei muito tempo nesse projeto, acho que entre decidir criar e mandar confeccionar o projeto final das placas foram duas semanas. A versão no EasyEDA está apresentada na imagem abaixo.</p>
-<p><img src="./topbottonside.png" alt="png"></p>
-<h2 id="confecção-da-placa">Confecção da Placa</h2>
-<p>Para mim a grande vantagem de usar o EasyEDA foi a sua integração com a JLCPCB, um fabricante de placas sediado em Hong Kong. Com poucos cliques foi possível enviar o projeto para ser manufaturado pela JLCPCB e escolher detalhes da placa como a cor, o tipo das pontas, dentre outras opções. O custo também foi bastante acessível, eu escolhi as opções mais baratas (padrão) de confecção e isso fez com que o custo total fosse de US$ 12 por 50 placas.</p>
-<p>Acabei não dando sorte na entrega, os Correios perderam o pacote e me fizeram esperar um novo envio da JLCPCB. Não tive custos adicionais mais tive que contatar os Correios para devolverem a taxa de despacho postal (R$15) da encomenda extraviada. Recebi a placa nesse segundo envio, elas vieram bem lacradas num pacote embalado a vácuo. Na imagem abaixo é apresentada a foto de uma delas.</p>
-<p><img src="./placa.jpeg" alt="png"></p>
-<p>Ps.: Ainda não tive a oportunidade de utilizar a placa PCB em aula, o atraso dos Correios levaram a entrega para o fim do semestre e o semestre atual foi suspenso pela pandemia.</p>
+      <p>E se tentássemos simular o comportamento do vírus utilizando um sistema multiagentes? Essa pergunta passou pela minha cabeça em uma das noites de quarentena. Foi por isso que eu resolvi utilizar o 
+<a href="http://ccl.northwestern.edu/netlogo/" target="_blank" rel="noopener">NetLogo</a>, um ambiente de simulação que permite o desenvolvimento de modelos multiagentes, para simular a transmissão do novo coronavírus e mostrar como as ações recomendadas pela Organização Mundial de Saúde (OMS) são importantes para diminuir o contágio dele.</p>
+<p>Antes de continuarmos, é importante deixar claro que a simulação não tem pretensões de prever o quantitativo de óbitos que serão causadas pela doença. O objetivo principal é <span class="markup-quote">demonstrar o comportamento do vírus e seus efeitos em diferentes cenários num mundo restrito composto inicialmente por 700 agentes</span>. Ressalta-se que certas informações não foram levadas em consideração no experimento, como a sobrecarga de unidades de saúde, comorbidades ou idade dos infectados, fatores que podem agravar o combate à doença.</p>
+<p>O modelo desenvolvido foi baseado no <em>
+<a href="https://ccl.northwestern.edu/netlogo/models/Virus" target="_blank" rel="noopener">Virus</a></em>, um modelo para simulação de transmissão de doenças virais, que está disponível na biblioteca do NetLogo. Nele foram realizadas as seguintes alterações:</p>
+<ul>
+<li>
+<p><strong>Imunidade</strong>: 
+<a href="https://www.bbc.com/portuguese/internacional-52462544" target="_blank" rel="noopener">A duração da imunidade do vírus Sars-CoV-2 ainda é objeto de estudo</a>, mas nessa simulação foi utilizado que o agente infectado pelo vírus desenvolvem imunidade para o resto da vida.</p>
+</li>
+<li>
+<p><strong>Assintomáticos</strong>: O modelo Virus não faz distinção em doentes com sintomas e sem sintomas, no modelo o agente só possui três estados: saudável, doente e imune. Para representar melhor a situação do coronavírus foi adicionado a possibilidade de um agente doente ser assintomático. Nesse sentido, ao contrair a doença o agente tem 50% de chance de ser assintomático.</p>
+</li>
+<li>
+<p><strong>Movimentação no Ambiente</strong>: No modelo inicial a movimentação de todos os agentes acontecem sem nenhuma restrição. Na modelagem foi colocada uma nova variável chamada social-isolation. Isso faz com que apenas parte da população se mova no ambiente a cada iteração. Além disso, os agentes doentes que apresentam sintomas só se movimentam no ambiente nos primeiros dias da doença.</p>
+</li>
+<li>
+<p><strong>Infecção no ambiente</strong>: A posição do ambiente (patch) pode alojar o vírus, caso um agente infectado o transmita quando estiver nela. Nesse caso, o vírus só fica alojado na posição por um curto espaço de tempo.</p>
+</li>
+</ul>
+<p>Os agentes possuem cores que distinguem seu estado no ambiente. O vermelho e laranja representam os doentes sintomáticos e assintomáticos, respectivamente. Os verdes são os saudáveis e os cinzas, os imunes. Na animação abaixo é apresentada um trecho da simulação de um dos cenários (Cenário 1). O agente que está em foco inicia a simulação com o vírus mas se cura e consequentemente se torna imune.</p>
+<p><img src="./image3.gif" alt="gif"></p>
+<p>A interface da simulação possui variáveis que podem ser modificadas pelo usuário para analisar o comportamento da transmissão do vírus, também estão presentes monitores e gráficos que facilitam a visualização dos resultados. Na figura abaixo é apresentada a área de atualização de variáveis e a tela na qual a simulação ocorre.</p>
+<p><img src="./image7.png" alt="png"></p>
+<p>Foram definidos três cenários para analisar o comportamento da transmissão do vírus no ambiente. Os cenários testados foram os seguintes:</p>
+<ul>
+<li>Cenário 1 - A doença já está presente no ambiente mas os agentes não diminuem a interação social e nem usam outras estratégias para mitigar a transmissão do vírus. Nesse cenário a infecciosidade é o valor máximo e o isolamento social não existe.</li>
+<li>Cenário 2 - A taxa de isolamento social é modificada para 48% e a taxa de infecciosidade é diminuída para 
+<a href="https://www.cnbc.com/2020/05/19/coronavirus-wearing-a-mask-can-reduce-transmission-by-75percent-new-study-claims.html" target="_blank" rel="noopener">16% devido ao uso de máscaras</a>.</li>
+<li>Cenário 3 - A taxa de infecciosidade é mantida em 16% e a 
+<a href="https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/taxa-de-isolamento-social-em-sao-paulo-se-mantem-abaixo-dos-55" target="_blank" rel="noopener">taxa de isolamento é modificada para 75%</a>.</li>
+</ul>
+<p>Em todos os cenários o 
+<a href="https://www.bbc.com/portuguese/geral-52274791" target="_blank" rel="noopener">tempo de duração da doença foi configurado como 14 dias</a>, o valor máximo de agentes no ambiente foi configurado como 1000 e a variável que indica a chance de se recuperar (chance-recovery) foi 93%. O valor da variável da taxa de infecciosidade (infectiousness) foi inicialmente 66%, mas esse valor foi alterado para 16% quando simulado o uso de máscaras pela população.</p>
+<p>Como resultados foram obtidos os valores da quantidade de vítimas, dias para acabar os casos de infecção do vírus, quantidade de infectados, total de população que viveu no ambiente, além da porcentagem de vítimas da doença e a porcentagem de imunes ao término da simulação. A média de 30 simulações desses valores estão apresentados na tabela abaixo:</p>
+<table>
+<thead>
+<tr>
+<th>-</th>
+<th>Cenário 1</th>
+<th>Cenário 2</th>
+<th>Cenário 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vítimas</td>
+<td>66,07</td>
+<td>36,8</td>
+<td>20</td>
+</tr>
+<tr>
+<td>% atual imunes</td>
+<td>89,35</td>
+<td>50,36</td>
+<td>25,94</td>
+</tr>
+<tr>
+<td>População</td>
+<td>1066,03</td>
+<td>1041</td>
+<td>1023,7</td>
+</tr>
+<tr>
+<td>% população vítima</td>
+<td>6,18</td>
+<td>3,53</td>
+<td>1,95</td>
+</tr>
+<tr>
+<td>Infectados</td>
+<td>960,7</td>
+<td>545,77</td>
+<td>280,53</td>
+</tr>
+<tr>
+<td>Dias de Transmissão</td>
+<td>145,7</td>
+<td>116,9</td>
+<td>98,33</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>O Cenário 1 foi o que sua população teve a maior exposição ao vírus, isso é possível ser evidenciado pela porcentagem da população que se tornou imune ao fim da simulação. Consequentemente esse cenário obteve a maior quantidade de vítimas. A quantidade de dias de transmissão também foi o maior dentre os cenários e isso aconteceu porque a transmissão só ficou controlada quando mais de 70% da população se tornou imune. Uma característica que foi visualizada é que nesse cenário houve um momento no primeiro mês que praticamente toda a população foi infectada em um curto espaço de tempo - situação que seria catastrófica no mundo real. Na figura abaixo é apresentado os resultados de uma das simulações utilizando o Cenário 1.</p>
+<p><img src="./image6.png" alt="png"></p>
+<p>No Cenário 2 existe também um aumento da infecção no primeiro mês, quando a maioria ainda é saudável, mas a curva é muito mais achatada do que a apresentada no cenário anterior. Visualizando os números obtidos nesse cenário é possível perceber que o  impacto do vírus na população diminuiu quase que pela metade, isso foi devido ao isolamento social e a diminuição da taxa de infecciosidade do vírus. Na figura abaixo é apresentado o resultado de uma simulação utilizando o Cenário 2.</p>
+<p><img src="./image4.png" alt="png"></p>
+<p>Dentre os cenários analisados nesta simulação, o Cenário 3 obteve os melhores resultados para o controle da transmissão do vírus. Todas as variáveis analisadas foram menores quando se aumentou o isolamento social e diminuiu a taxa de infecciosidade da doença. Na figura abaixo é apresentado o resultado de uma das simulações utilizando o Cenário 3.</p>
+<p><img src="./image5.png" alt="png"></p>
+<p>Os resultados obtidos nos cenários utilizados neste experimento evidenciam que, assim como indicado pela comunidade científica mundial, a melhor forma de combater o vírus atual é se protegendo. No experimento o impacto do vírus foi muito menor quando a população dos agentes diminuiu a interação social e usou meios para diminuir a taxa de infecciosidade do vírus. Isso ratifica a importância seguir as recomendações da OMS de utilizar máscaras, higienizar as mãos com frequência e restringir ao máximo a interação social.</p>
+<p>Uma versão web do modelo pode ser acessada em <a href="https://rodrigoclira.github.io/netlogo-covid19.html">https://rodrigoclira.github.io/netlogo-covid19.html</a> , nela apenas os cenários apresentados estão habilitados.</p>
 
     </div>
 
@@ -765,11 +836,9 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tag/arduino/">arduino</a>
+  <a class="badge badge-light" href="/tag/ia/">ia</a>
   
-  <a class="badge badge-light" href="/tag/ctmsi/">ctmsi</a>
-  
-  <a class="badge badge-light" href="/tag/easyeda/">easyeda</a>
+  <a class="badge badge-light" href="/tag/netlogo/">netlogo</a>
   
 </div>
 
@@ -786,7 +855,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://rodrigoclira.github.io/post/projeto-easyeda/&amp;text=Desenvolvimento%20de%20uma%20placa%20PCB%20para%20fins%20acad%c3%aamicos" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://rodrigoclira.github.io/post/usando-netlogo-para-simular-transmissao-covid19/&amp;text=Usando%20o%20Netlogo%20para%20simular%20a%20transmiss%c3%a3o%20do%20Sars-CoV-2%20%28coronav%c3%adrus%29" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -799,7 +868,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://rodrigoclira.github.io/post/projeto-easyeda/&amp;t=Desenvolvimento%20de%20uma%20placa%20PCB%20para%20fins%20acad%c3%aamicos" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://rodrigoclira.github.io/post/usando-netlogo-para-simular-transmissao-covid19/&amp;t=Usando%20o%20Netlogo%20para%20simular%20a%20transmiss%c3%a3o%20do%20Sars-CoV-2%20%28coronav%c3%adrus%29" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -812,7 +881,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Desenvolvimento%20de%20uma%20placa%20PCB%20para%20fins%20acad%c3%aamicos&amp;body=https://rodrigoclira.github.io/post/projeto-easyeda/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Usando%20o%20Netlogo%20para%20simular%20a%20transmiss%c3%a3o%20do%20Sars-CoV-2%20%28coronav%c3%adrus%29&amp;body=https://rodrigoclira.github.io/post/usando-netlogo-para-simular-transmissao-covid19/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -825,7 +894,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://rodrigoclira.github.io/post/projeto-easyeda/&amp;title=Desenvolvimento%20de%20uma%20placa%20PCB%20para%20fins%20acad%c3%aamicos" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://rodrigoclira.github.io/post/usando-netlogo-para-simular-transmissao-covid19/&amp;title=Usando%20o%20Netlogo%20para%20simular%20a%20transmiss%c3%a3o%20do%20Sars-CoV-2%20%28coronav%c3%adrus%29" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -838,7 +907,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Desenvolvimento%20de%20uma%20placa%20PCB%20para%20fins%20acad%c3%aamicos%20https://rodrigoclira.github.io/post/projeto-easyeda/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Usando%20o%20Netlogo%20para%20simular%20a%20transmiss%c3%a3o%20do%20Sars-CoV-2%20%28coronav%c3%adrus%29%20https://rodrigoclira.github.io/post/usando-netlogo-para-simular-transmissao-covid19/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -851,7 +920,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://rodrigoclira.github.io/post/projeto-easyeda/&amp;title=Desenvolvimento%20de%20uma%20placa%20PCB%20para%20fins%20acad%c3%aamicos" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://rodrigoclira.github.io/post/usando-netlogo-para-simular-transmissao-covid19/&amp;title=Usando%20o%20Netlogo%20para%20simular%20a%20transmiss%c3%a3o%20do%20Sars-CoV-2%20%28coronav%c3%adrus%29" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1043,15 +1112,8 @@
   
   
   <div class="post-nav-item">
-    <div class="meta-nav">Próximo</div>
-    <a href="/post/usando-netlogo-para-simular-transmissao-covid19/" rel="next">Usando o Netlogo para simular a transmissão do Sars-CoV-2 (coronavírus)</a>
-  </div>
-  
-  
-  
-  <div class="post-nav-item">
     <div class="meta-nav">Anterior</div>
-    <a href="/post/novo-site/" rel="prev">Hello World!</a>
+    <a href="/post/projeto-easyeda/" rel="prev">Desenvolvimento de uma placa PCB para fins acadêmicos</a>
   </div>
   
 </div>
@@ -1066,9 +1128,7 @@
     <h3>Relacionados</h3>
     <ul>
       
-      <li><a href="/project/pensamento-computacional/">Desenvolvimento de um Jogo para o Estímulo do Pensamento Computacional</a></li>
-      
-      <li><a href="/project/sistema-monitoramento/">Sistema de Monitoramento em Tempo Real de Qualidade de Água de um Rio</a></li>
+      <li><a href="/talk/summerexperience2020/">Sistemas Inteligentes - Inovação e o seu papel no novo mundo</a></li>
       
     </ul>
   </div>
