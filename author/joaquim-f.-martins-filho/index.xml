@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joaquim F. Martins-Filho | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/author/joaquim-f.-martins-filho/</link>
+      <atom:link href="https://rodrigoclira.github.io/author/joaquim-f.-martins-filho/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joaquim F. Martins-Filho</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt</language><copyright>Rodrigo Lira · 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_2.png</url>
+      <title>Joaquim F. Martins-Filho</title>
+      <link>https://rodrigoclira.github.io/author/joaquim-f.-martins-filho/</link>
+    </image>
+    
+    <item>
+      <title>An adaptive–alternative restoration algorithm for optical networks</title>
+      <link>https://rodrigoclira.github.io/publication/journal/pnc-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/journal/pnc-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Um algoritmo adaptativo alternativo para restauração em redes ópticas transparentes</title>
+      <link>https://rodrigoclira.github.io/publication/thesis/msc2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/thesis/msc2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An adaptive path restoration algorithm based on power series routing for all-optical networks</title>
+      <link>https://rodrigoclira.github.io/publication/conference/icton-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/conference/icton-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing OSNR based policies for an adaptive-alternative IA-RWA algorithm applied to all-optical networks</title>
+      <link>https://rodrigoclira.github.io/publication/journal/jmoe-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/journal/jmoe-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel double-link failure restoration algorithm based on optical signal-to-noise ratio for all-optical networks</title>
+      <link>https://rodrigoclira.github.io/publication/conference/imoc-11-b/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/conference/imoc-11-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Restoration Algorithm Based on Optical Signal-to-Noise Ratio for Transparent Optical Networks</title>
+      <link>https://rodrigoclira.github.io/publication/conference/sbrt-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/conference/sbrt-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical signal-to-noise ratio restoration algorithm applied to optical network resilience to node failures</title>
+      <link>https://rodrigoclira.github.io/publication/conference/laticom-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/conference/laticom-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

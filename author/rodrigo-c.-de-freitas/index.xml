@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rodrigo C. De Freitas | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/author/rodrigo-c.-de-freitas/</link>
+      <atom:link href="https://rodrigoclira.github.io/author/rodrigo-c.-de-freitas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rodrigo C. De Freitas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt</language><copyright>Rodrigo Lira · 2020</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_2.png</url>
+      <title>Rodrigo C. De Freitas</title>
+      <link>https://rodrigoclira.github.io/author/rodrigo-c.-de-freitas/</link>
+    </image>
+    
+    <item>
+      <title>A novel double-link failure restoration algorithm based on optical signal-to-noise ratio for all-optical networks</title>
+      <link>https://rodrigoclira.github.io/publication/conference/imoc-11-b/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/conference/imoc-11-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Restoration Algorithm Based on Optical Signal-to-Noise Ratio for Transparent Optical Networks</title>
+      <link>https://rodrigoclira.github.io/publication/conference/sbrt-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/conference/sbrt-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical signal-to-noise ratio restoration algorithm applied to optical network resilience to node failures</title>
+      <link>https://rodrigoclira.github.io/publication/conference/laticom-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/conference/laticom-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

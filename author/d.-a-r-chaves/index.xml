@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. A R Chaves | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/author/d.-a-r-chaves/</link>
+      <atom:link href="https://rodrigoclira.github.io/author/d.-a-r-chaves/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. A R Chaves</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt</language><copyright>Rodrigo Lira · 2020</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_2.png</url>
+      <title>D. A R Chaves</title>
+      <link>https://rodrigoclira.github.io/author/d.-a-r-chaves/</link>
+    </image>
+    
+    <item>
+      <title>An adaptive-alternative routing algorithm for all-optical networks</title>
+      <link>https://rodrigoclira.github.io/publication/conference/imoc-11-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/conference/imoc-11-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

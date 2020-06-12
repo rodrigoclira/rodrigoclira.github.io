@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rodrigo C. Freitas | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/author/rodrigo-c.-freitas/</link>
+      <atom:link href="https://rodrigoclira.github.io/author/rodrigo-c.-freitas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rodrigo C. Freitas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt</language><copyright>Rodrigo Lira · 2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_2.png</url>
+      <title>Rodrigo C. Freitas</title>
+      <link>https://rodrigoclira.github.io/author/rodrigo-c.-freitas/</link>
+    </image>
+    
+    <item>
+      <title>An adaptive path restoration algorithm based on power series routing for all-optical networks</title>
+      <link>https://rodrigoclira.github.io/publication/conference/icton-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/conference/icton-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

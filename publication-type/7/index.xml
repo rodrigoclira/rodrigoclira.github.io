@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/publication-type/7/</link>
+      <atom:link href="https://rodrigoclira.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt</language><copyright>Rodrigo Lira · 2020</copyright><lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_2.png</url>
+      <title>7</title>
+      <link>https://rodrigoclira.github.io/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>Um algoritmo adaptativo alternativo para restauração em redes ópticas transparentes</title>
+      <link>https://rodrigoclira.github.io/publication/thesis/msc2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/thesis/msc2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLÍTICAS BASEADAS NA OSNR PARA UM ALGORITMO DE ROTEAMENTO ADAPTATIVO-ALTERNATIVO APLICADO A REDES ÓPTICAS TRANSPARENTES</title>
+      <link>https://rodrigoclira.github.io/publication/thesis/bsc2013/</link>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/thesis/bsc2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
