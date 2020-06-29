@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep learning | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/tag/deep-learning/</link>
+      <atom:link href="https://rodrigoclira.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>deep learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt</language><copyright>Rodrigo Lira · 2020</copyright><lastBuildDate>Sun, 28 Jun 2020 17:32:05 -0300</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_2.png</url>
+      <title>deep learning</title>
+      <link>https://rodrigoclira.github.io/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>O elefante de Von Neumann</title>
+      <link>https://rodrigoclira.github.io/post/elefante-von-neumann/</link>
+      <pubDate>Sun, 28 Jun 2020 17:32:05 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/post/elefante-von-neumann/</guid>
+      <description>&lt;p&gt;Não sei muito bem como chegou ao meu conhecimento essa história, talvez tenha sido na aula do Professor Meuser Valença na pós-graduação ou quando estava lendo o 
+&lt;a href=&#34;http://deeplearningbook.com.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning Book&lt;/a&gt;. A origem não importa muito, mas o conteúdo me parece muito atual mesmo a ela se passando na década de 50.&lt;/p&gt;
+&lt;p&gt;Em um 
+&lt;a href=&#34;https://doi.org/10.1038/427297a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;artigo de 2004 da Nature&lt;/a&gt;, o professor 
+&lt;a href=&#34;https://pt.wikipedia.org/wiki/Freeman_Dyson&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Freeman Dyson&lt;/a&gt; descreveu o encontro que teve em 1953 com 
+&lt;a href=&#34;https://pt.wikipedia.org/wiki/Enrico_Fermi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enrico Fermi&lt;/a&gt;, que na ocasião já era vencedor de um 
+&lt;a href=&#34;https://www.nobelprize.org/prizes/physics/1938/fermi/facts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;prêmio nobel&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;O texto do artigo é muito interessante e vale a pena ser lido, porém o que interessa para o post é o diálogo final. Segundo Dyson, em um momento do encontro já desesperado pelo que tinha ouvido, ele questionou se Fermi não estava impressionado com os resultados numéricos da pesquisa que acabara de apresentar. Nesse momento, Fermi perguntou o seguinte: &amp;ldquo;&lt;em&gt;Quantos parâmetros arbitrários você usou para seus cálculos?&lt;/em&gt;&amp;quot;. Após pensar, Dyson informou: &amp;ldquo;&lt;em&gt;Quatro&lt;/em&gt;&amp;rdquo; e então Femi disse o seguinte: &lt;strong&gt;&amp;quot;&lt;em&gt;Lembro que meu amigo Johnny von Neumann costumava dizer que com quatro parâmetros eu posso ajustar um elefante, e com cinco, posso fazê-lo mexer sua tromba&lt;/em&gt;&amp;quot;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Até pode ser que von Neumann nunca tenha realmente dito isso, mas o professor Fermi estava certo quando disse que seria possível ajustar um elefante com quatro parâmetros. Em 2010, Jürgen Mayer, Khaled Khairy and Jonathon Howard publicaram o artigo 
+&lt;a href=&#34;https://doi.org/10.1119/1.3254017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Drawing an elephant with four complex parameters&lt;/a&gt; na revista American Journal of Physics. No artigo foi apresentado quatro números complexos que representavam os parâmetros necessários para especificar a forma do elefante, além de um quinto parâmetro responsável pelo olho e pela movimentação da tromba do animal.&lt;/p&gt;
+&lt;p&gt;Eles desenharam o elefante como um conjunto de pontos que podem ser obtidos a partir das séries abaixo:&lt;/p&gt;
+&lt;p&gt;$x(t)=\sum_{k=0}^{\infty} (A_{k}^{x}cos(kt) + B_{k}^{x}sen(kt))$&lt;/p&gt;
+&lt;p&gt;$y(t)=\sum_{k=0}^{\infty} (A_{k}^{y}cos(kt) + B_{k}^{y}sen(kt))$&lt;/p&gt;
+&lt;p&gt;Em que $A_{k}^{x}$, $B_{k}^{x}$, $A_{k}^{y}$, $B_{k}^{y}$ são os coeficientes da expansão e os números complexos definidos pelos autores foram os seguintes:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Parâmetro&lt;/th&gt;
+&lt;th&gt;Parte Real&lt;/th&gt;
+&lt;th&gt;Parte Imaginária&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;$p_1 = 50 - 30i$&lt;/td&gt;
+&lt;td&gt;$B^x_1 = 50$&lt;/td&gt;
+&lt;td&gt;$B^y_1 = 50$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;$p_2 = 18 + 8i$&lt;/td&gt;
+&lt;td&gt;$B^x_2 = 18$&lt;/td&gt;
+&lt;td&gt;$B^y_2 = 8$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;$p_3 = 12 - 10i$&lt;/td&gt;
+&lt;td&gt;$A^x_3 = 12$&lt;/td&gt;
+&lt;td&gt;$B^y_3 = -10$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;$p_4 = -14-60i$&lt;/td&gt;
+&lt;td&gt;$A^x_5 =-14$&lt;/td&gt;
+&lt;td&gt;$A^y_1 = -60$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;$p_5 = 40+20i$&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;wiggle coeff. = 40&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;$x_{eye} = y_{eye} = 20$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;O artigo é curto, ele possui apenas duas páginas que são dedicadas a explicar como seria possível desenhar o elefante. O resultado foi apresentado em figura e também em um 
+&lt;a href=&#34;https://aapt.scitation.org/doi/suppl/10.1119/1.3254017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vídeo&lt;/a&gt;. Transformei o vídeo em uma animação para ficar mais fácil de exibir aqui.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./elefante_animacao.gif&#34; alt=&#34;gif&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A movimentação da tromba do elefante é possível pois é utilizado a parte real de $p_5$ (&lt;em&gt;wiggle coefficient&lt;/em&gt;) que representa onde a tromba do animal é ligada ao corpo. Quem tiver curiosidade pode executar o código em Python disponibilizado por 
+&lt;a href=&#34;https://www.johndcook.com/blog/2011/06/21/how-to-fit-an-elephant/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to fit an elephant&lt;/a&gt;.&lt;/p&gt;
+&lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/rodrigoclira/433925c97cf2292b4c331c079a3d96ed.js&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;O resultado da execução será a seguinte figura:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./elefante.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Por fim, eu destaco um trecho do 
+&lt;a href=&#34;%28http://deeplearningbook.com.br/overfitting-e-regularizacao-parte-1/%29&#34;&gt;Deep Leaning Book&lt;/a&gt; como reflexão sobre tudo isso.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;O ponto, claro, é que modelos com um grande número de parâmetros podem descrever uma variedade incrivelmente ampla de fenômenos. Mesmo que tal modelo esteja de acordo com os dados disponíveis, isso não o torna um bom modelo. Isso pode significar apenas que há liberdade suficiente no modelo que pode descrever quase qualquer conjunto de dados de tamanho determinado, sem capturar nenhuma percepção genuína do fenômeno em questão.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
