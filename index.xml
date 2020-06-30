@@ -74,8 +74,12 @@
 &lt;a href=&#34;https://www.johndcook.com/blog/2011/06/21/how-to-fit-an-elephant/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to fit an elephant&lt;/a&gt;.&lt;/p&gt;
 &lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/rodrigoclira/433925c97cf2292b4c331c079a3d96ed.js&#34;&gt;&lt;/script&gt;
 
-&lt;p&gt;O resultado da execução código será a seguinte figura:&lt;/p&gt;
+&lt;p&gt;O resultado da execução do código será a seguinte figura:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;./elefante.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Há também uma 
+&lt;a href=&#34;https://www.physics.utoronto.ca/~phy326/python/vonNeumann_elephant.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;versão do código&lt;/a&gt; acima que adiciona uma nova função (LivePlot) que é responsável por usar o &lt;em&gt;wiggle coefficient&lt;/em&gt; para mostrar a movimentação da tromba do elefante.&lt;/p&gt;
+&lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/rodrigoclira/86e1779123f7df582dac643fea13a774.js&#34;&gt;&lt;/script&gt;
+
 &lt;p&gt;Por fim, eu destaco um trecho do 
 &lt;a href=&#34;%28http://deeplearningbook.com.br/overfitting-e-regularizacao-parte-1/%29&#34;&gt;Deep Leaning Book&lt;/a&gt; como reflexão sobre tudo isso.&lt;/p&gt;
 &lt;blockquote&gt;
