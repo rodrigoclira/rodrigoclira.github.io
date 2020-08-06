@@ -5,12 +5,23 @@
     <link>https://rodrigoclira.github.io/author/rodrigo-lira/</link>
       <atom:link href="https://rodrigoclira.github.io/author/rodrigo-lira/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo Lira</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt</language><copyright>Rodrigo Lira · 2020</copyright><lastBuildDate>Fri, 17 Jan 2020 15:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt</language><copyright>Rodrigo Lira · 2020</copyright><lastBuildDate>Thu, 06 Aug 2020 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_2.png</url>
       <title>Rodrigo Lira</title>
       <link>https://rodrigoclira.github.io/author/rodrigo-lira/</link>
     </image>
+    
+    <item>
+      <title>Apresentação do projeto aprovado na chamada pública Mover-se na Web - Articulação Pró-Brumadinho</title>
+      <link>https://rodrigoclira.github.io/talk/apresentacao-brumadinho/</link>
+      <pubDate>Thu, 06 Aug 2020 14:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/talk/apresentacao-brumadinho/</guid>
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vRUKV75Zb5G-ueSfeTsKk_hW4IjSIOUVk8TbIbY_vAGwz3G-j54hOuAJcE7wRQ2qSpHkwIYv7J2URPv/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Sistemas Inteligentes - Inovação e o seu papel no novo mundo</title>
