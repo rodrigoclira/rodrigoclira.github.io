@@ -5,12 +5,20 @@
     <link>https://rodrigoclira.github.io/publication-type/1/</link>
       <atom:link href="https://rodrigoclira.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt</language><copyright>Rodrigo Lira · 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt</language><copyright>Rodrigo Lira · 2020</copyright><lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://rodrigoclira.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Impact of Unusual Features in Credit Scoring Problem</title>
+      <link>https://rodrigoclira.github.io/publication/conference/kdmile2020/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/conference/kdmile2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Desenvolvimento de um Jogo Utilizando Robótica para o Estímulo do Pensamento Computacional</title>
