@@ -5,12 +5,20 @@
     <link>https://rodrigoclira.github.io/author/carmelo-bastos-filho/</link>
       <atom:link href="https://rodrigoclira.github.io/author/carmelo-bastos-filho/index.xml" rel="self" type="application/rss+xml" />
     <description>Carmelo Bastos-Filho</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_2.png</url>
       <title>Carmelo Bastos-Filho</title>
       <link>https://rodrigoclira.github.io/author/carmelo-bastos-filho/</link>
     </image>
+    
+    <item>
+      <title>Fishing for Interactions: A Network Science Approach toModeling Fish School Search</title>
+      <link>https://rodrigoclira.github.io/publication/conference/gecco2021/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/conference/gecco2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the Performance Analysis of Different Link to Path Restoration Schemes for All-Optical Networks</title>

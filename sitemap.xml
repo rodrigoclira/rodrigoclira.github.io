@@ -3,17 +3,102 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rodrigoclira.github.io/publication-type/1/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/authors/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/author/carmelo-bastos-filho/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/author/diego-pinheiro/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/publication/conference/gecco2021/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/author/lydia-taw/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/author/marcos-oliveira/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/author/mariana-macedo/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/author/nishant-gurrapadi/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/publication_types/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/author/ronaldo-menezes/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/publication/conference/cotb2021/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/author/gabriel-lima-goncalves-da-silva/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/author/gaston-alexandre-gouveia/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/author/julia-yasmim-de-castro-silva/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/author/william-teles-de-andrade-junior/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rodrigoclira.github.io/post/cloud-practitioner/</loc>
     <lastmod>2021-02-20T21:43:28-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rodrigoclira.github.io/authors/</loc>
-    <lastmod>2021-02-21T16:54:38-03:00</lastmod>
+    <loc>https://rodrigoclira.github.io/tag/aws/</loc>
+    <lastmod>2021-02-20T21:43:28-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rodrigoclira.github.io/tag/aws/</loc>
+    <loc>https://rodrigoclira.github.io/category/blog/</loc>
+    <lastmod>2021-02-20T21:43:28-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/categories/</loc>
     <lastmod>2021-02-20T21:43:28-03:00</lastmod>
   </url>
   
@@ -25,11 +110,6 @@
   <url>
     <loc>https://rodrigoclira.github.io/tags/</loc>
     <lastmod>2021-02-20T21:43:28-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rodrigoclira.github.io/publication-type/1/</loc>
-    <lastmod>2020-12-15T01:44:47-03:00</lastmod>
   </url>
   
   <url>
@@ -64,11 +144,6 @@
   
   <url>
     <loc>https://rodrigoclira.github.io/author/luiz-f.-v.-vercosa/</loc>
-    <lastmod>2020-12-15T01:44:47-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rodrigoclira.github.io/publication_types/</loc>
     <lastmod>2020-12-15T01:44:47-03:00</lastmod>
   </url>
   
@@ -135,16 +210,6 @@
   <url>
     <loc>https://rodrigoclira.github.io/tag/talk/</loc>
     <lastmod>2020-11-07T13:53:15-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rodrigoclira.github.io/category/blog/</loc>
-    <lastmod>2020-12-16T12:32:53-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rodrigoclira.github.io/categories/</loc>
-    <lastmod>2020-12-16T12:32:53-03:00</lastmod>
   </url>
   
   <url>
@@ -499,11 +564,6 @@
   
   <url>
     <loc>https://rodrigoclira.github.io/author/c.-j.a.bastos-filho/</loc>
-    <lastmod>2020-06-11T16:22:57-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rodrigoclira.github.io/author/carmelo-bastos-filho/</loc>
     <lastmod>2020-06-11T16:22:57-03:00</lastmod>
   </url>
   

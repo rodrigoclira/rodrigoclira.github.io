@@ -5,12 +5,55 @@
     <link>https://rodrigoclira.github.io/category/blog/</link>
       <atom:link href="https://rodrigoclira.github.io/category/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>blog</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Sun, 28 Jun 2020 17:32:05 -0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Mon, 18 Jan 2021 23:57:14 -0300</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_2.png</url>
       <title>blog</title>
       <link>https://rodrigoclira.github.io/category/blog/</link>
     </image>
+    
+    <item>
+      <title>Accredited Educator da AWS Academy</title>
+      <link>https://rodrigoclira.github.io/post/cloud-practitioner/</link>
+      <pubDate>Mon, 18 Jan 2021 23:57:14 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/post/cloud-practitioner/</guid>
+      <description>&lt;p&gt;No início de janeiro eu fui aprovado na certificação da AWS chamada &lt;a href=&#34;https://aws.amazon.com/pt/certification/certified-cloud-practitioner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AWS Certified Cloud Practitioner (ACP)&lt;/a&gt;. Isso me garantiu o título de &lt;em&gt;Accredited Educator&lt;/em&gt;, um credenciamento que a AWS dá aos docentes que forem aprovados no seu programa de treinamento. Dessa forma agora eu estou apto a lecionar o conteúdo da AWS Academy.&lt;/p&gt;
+&lt;p&gt;A Amazon Web Services (AWS) é um dos &lt;a href=&#34;https://www.contino.io/insights/whos-using-aws&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;maiores clouds providers&lt;/a&gt; do mundo e possui &lt;a href=&#34;https://aws.amazon.com/pt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;os mais diversos serviços&lt;/a&gt; para computação em nuvem. Agora como um &lt;em&gt;Accredited Educator&lt;/em&gt;, os alunos do IFPE Campus Paulista poderão realizar treinamento dessa plataforma de forma gratuita.&lt;/p&gt;
+&lt;p&gt;Meu próximo objetivo é tirar a &lt;a href=&#34;https://aws.amazon.com/pt/certification/certified-solutions-architect-associate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AWS Certified Solutions Architect&lt;/a&gt; para em seguida alcançar a &lt;a href=&#34;https://aws.amazon.com/certification/certified-machine-learning-specialty/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AWS Certified Machine Learning&lt;/a&gt;. Aproveito para deixar público o que foi utilizado no processo estudo para a certificação ACP:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Curso Fundamentos de nuvem da AWS&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bootcamp de Natal da AWS&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-c/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Curso da Udemy com questões&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AWS Certified cloud Practitioner training notes&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.magycbytes.awscloudpract&amp;amp;hl=pt_BR&amp;amp;gl=US&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;APP AWS - Certified Cloud Practitioner. Exam CLF-C01&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.awscloudpractitonerexamprep.enoumen&amp;amp;hl=pt_BR&amp;amp;gl=US&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;APP AWS Certified Cloud Practitioner&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publicação no Symposium on Knowledge Discovery, Mining and Learning (KDMiLe 2020)</title>
+      <link>https://rodrigoclira.github.io/post/kdmile2020/</link>
+      <pubDate>Thu, 24 Sep 2020 23:57:14 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/post/kdmile2020/</guid>
+      <description>&lt;p&gt;O artigo &amp;ldquo;Impact of Unusual Features in Credit Scoring Problem&amp;rdquo; foi aceito no &lt;a href=&#34;http://www2.sbc.org.br/bracis2020/kdmile.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Symposium on Knowledge Discovery, Mining and Learning (KDMiLe)&lt;/a&gt;. O trabalho foi fruto do projeto da disciplina de Mineração de Dados do PPGEC/Ecomp. Mais informações sobre o artigo:&lt;/p&gt;
+&lt;p&gt;Autores: L. F. Vercosa, &lt;strong&gt;R. Lira&lt;/strong&gt;, R. Monteiro, K. Silva, J. Magalhaes, A. Maciel, B. Leite, C. Bastos-Filho&lt;/p&gt;
+&lt;p&gt;Abstract:
+&amp;ldquo;Standard features used for Credit Scoring includes mainly registration and financial data from customers. However, exploring new features is of great interest for financial companies, since slight improvements in the person score directly impact the company revenue. In this work, we categorize features from open credit scoring datasets and compare them with the features found in a real company dataset. The company dataset contains unusual feature groups such as historical, geolocation, web behavior, and demographic data. We performed bivariate tests using the Kolmogorov-Smirnov metric and features to assess the performance of the particular feature groups. We also generated a score of good payer by using AdaBoost, Multilayer Perceptron, and XGBoost algorithms. Then, we analyzed the results with different metrics and compared them with the real company results. Our main finding was that these features added a small improvement to current datasets. We also identified the most promising feature groups and noticed that the tuned XGBoost performed better than the company solution in three out of four deployed metrics.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>O elefante de Von Neumann</title>
