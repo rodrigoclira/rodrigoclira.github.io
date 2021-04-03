@@ -5,12 +5,21 @@
     <link>https://rodrigoclira.github.io/tag/pibex/</link>
       <atom:link href="https://rodrigoclira.github.io/tag/pibex/index.xml" rel="self" type="application/rss+xml" />
     <description>pibex</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Thu, 29 Aug 2019 14:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_2.png</url>
       <title>pibex</title>
       <link>https://rodrigoclira.github.io/tag/pibex/</link>
     </image>
+    
+    <item>
+      <title>Um jogo para divulgação do IFPE Campus Paulista</title>
+      <link>https://rodrigoclira.github.io/project/jogo-ifpe/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/project/jogo-ifpe/</guid>
+      <description>&lt;p&gt;O IFPE Campus Paulista está recebendo no segundo semestre de 2020 a sua sede definitiva. Ao todo são seis blocos com dezenas de salas e ambientes para os alunos e servidores. Novos ambientes para estudos e espaços físicos que antes não existiam na sede provisória serão liberados. Evidentemente que a ocupação e sinalização desse espaço precisará de um esforço da administração. Devido a essa situação, esse projeto de extensão tem como objetivo criar um jogo no qual o estudante possa conhecer o novo campus de forma virtual, ainda no jogo serão destinados missões com o intuito de apresentar os principais setores do campus (Divisão de Pesquisa e Extensão, CRADT, Coordenações…) e também os artigos da organização acadêmica. Dessa forma espera-se que os novos alunos possam utilizar esse recurso para conseguir entender e conhecer o funcionamento do campus e do IFPE. Espera-se que esse jogo seja fundamental para os calouros conhecerem o novo campus e também sirva como uma ferramenta de promoção do IFPE Campus Paulista para a sociedade.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Desenvolvimento de um Jogo Utilizando Robótica para o Estı́mulo do Pensamento Computacional</title>

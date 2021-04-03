@@ -5,12 +5,20 @@
     <link>https://rodrigoclira.github.io/author/carmelo-j.-a.-bastos-filho/</link>
       <atom:link href="https://rodrigoclira.github.io/author/carmelo-j.-a.-bastos-filho/index.xml" rel="self" type="application/rss+xml" />
     <description>Carmelo J. A. Bastos-Filho</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_2.png</url>
       <title>Carmelo J. A. Bastos-Filho</title>
       <link>https://rodrigoclira.github.io/author/carmelo-j.-a.-bastos-filho/</link>
     </image>
+    
+    <item>
+      <title>Fishing for Interactions: A Network Science Approach to Modeling Fish School Search</title>
+      <link>https://rodrigoclira.github.io/publication/conference/gecco2021/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/conference/gecco2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Impact of Unusual Features in Credit Scoring Problem</title>
