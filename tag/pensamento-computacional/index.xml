@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pensamento computacional | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/tag/pensamento-computacional/</link>
+      <atom:link href="https://rodrigoclira.github.io/tag/pensamento-computacional/index.xml" rel="self" type="application/rss+xml" />
+    <description>pensamento computacional</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Fri, 09 Apr 2021 15:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_2.png</url>
+      <title>pensamento computacional</title>
+      <link>https://rodrigoclira.github.io/tag/pensamento-computacional/</link>
+    </image>
+    
+    <item>
+      <title>Apresentação do artigo Construção de um Jogo Usando Robótica para a Formação de Habilidades de Programação em Crianças</title>
+      <link>https://rodrigoclira.github.io/talk/cotb2021/</link>
+      <pubDate>Fri, 09 Apr 2021 15:30:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/talk/cotb2021/</guid>
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vRDGrPYrIGby3fNaICX7ucP8GICgGEC3IRWg27OkKAu62l57HnuqSDCwPH07CzOyg/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
