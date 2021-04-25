@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Apresentação do artigo Construção de um Jogo Usando Robótica para a Formação de Habilidades de Programação em Crianças</title>
+      <title>Construção de um Jogo Usando Robótica para a Formação de Habilidades de Programação em Crianças</title>
       <link>https://rodrigoclira.github.io/talk/cotb2021/</link>
       <pubDate>Fri, 09 Apr 2021 15:30:00 +0000</pubDate>
       <guid>https://rodrigoclira.github.io/talk/cotb2021/</guid>
@@ -29,6 +29,18 @@
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://rodrigoclira.github.io/publication/conference/gecco2021/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Publicação no Computer on the Beach (COTB 2020)</title>
+      <link>https://rodrigoclira.github.io/post/cotb2021/</link>
+      <pubDate>Fri, 05 Mar 2021 23:57:14 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/post/cotb2021/</guid>
+      <description>&lt;p&gt;O artigo &amp;ldquo;Construção de um Jogo Usando Robótica para a Formação deHabilidades de Programação em Crianças&amp;rdquo; foi aceito no &lt;a href=&#34;https://www.computeronthebeach.com.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;12ª edição do Computer on the Beach (COTB2021)&lt;/a&gt;. O trabalho foi fruto de projeto aprovado no Programa Institucional para Concessão de Bolsas de Extensão (PIBEX), com a participação dos seguintes autores:&lt;/p&gt;
+&lt;p&gt;William Teles de AndradeJunio, Gaston Alexandre Gouveia, Gabriel Lima Gonçalves da Silva, Julia Yasmim de Castro Silva e &lt;strong&gt;Rodrigo Cesar Lira da Silva&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Abstract:
+&amp;ldquo;Constant technological advances have made society face the needto acquire new skills, one of which is programming. At first, thisactivity was aimed only at computer professionals, but it arousededucators’ interest and has been incorporated as part of the schoolcurriculum. Therefore, some initiatives try to present programmingto children using different approaches. Our proposal focuses onprogramming using robotics. The work shows the development ofa robot created with Arduino to be used in an educational game.In the proposal, the player needs to develop the robot’s algorithmto move to a goal on the map in the game. An Android applicationcontrols the robot, and the whole proposal is created in a playfulmanner. Thus, it is expected to create a low-cost tool to stimulatecomputational thinking.&amp;rdquo;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -388,6 +400,10 @@
   &lt;iframe src=&#34;https://www.youtube.com/embed/bnpLvxEoBQw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+&lt;p&gt;Imagens do robô desenvolvido no segundo ano do projeto&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./demo1.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;./demo2.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;./demo3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;[1] WING, Jeannette Marie. Computational thinking. In: Communications of The ACM,
 Marz 2006. Vol. 49, no 3. p. 33-35&lt;/p&gt;
 &lt;p&gt;[2] Computer Science for all. Disponível em:   &amp;lt; &lt;a href=&#34;https://obamawhitehouse.archives.gov/blog/2016/01/30/computer-science-all&#34;&gt;https://obamawhitehouse.archives.gov/blog/2016/01/30/computer-science-all&lt;/a&gt; &amp;gt;. Último acesso: 20 out. de 2018.&lt;/p&gt;

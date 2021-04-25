@@ -3,33 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rodrigoclira.github.io/talk/cotb2021/</loc>
-    <lastmod>2021-04-09T23:20:42-03:00</lastmod>
+    <loc>https://rodrigoclira.github.io/authors/</loc>
+    <lastmod>2021-04-25T00:47:37-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rodrigoclira.github.io/authors/</loc>
-    <lastmod>2021-04-09T23:20:42-03:00</lastmod>
+    <loc>https://rodrigoclira.github.io/talk/cotb2021/</loc>
+    <lastmod>2021-04-25T00:45:15-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://rodrigoclira.github.io/tag/pensamento-computacional/</loc>
-    <lastmod>2021-04-09T23:20:42-03:00</lastmod>
+    <lastmod>2021-04-25T00:45:15-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://rodrigoclira.github.io/author/rodrigo-lira/</loc>
-    <lastmod>2021-04-09T23:20:42-03:00</lastmod>
+    <lastmod>2021-04-25T00:45:15-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://rodrigoclira.github.io/tags/</loc>
-    <lastmod>2021-04-09T23:20:42-03:00</lastmod>
+    <lastmod>2021-04-25T00:45:15-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://rodrigoclira.github.io/tag/talk/</loc>
-    <lastmod>2021-04-09T23:20:42-03:00</lastmod>
+    <lastmod>2021-04-25T00:45:15-03:00</lastmod>
   </url>
   
   <url>
@@ -83,6 +83,26 @@
   </url>
   
   <url>
+    <loc>https://rodrigoclira.github.io/category/blog/</loc>
+    <lastmod>2021-04-25T00:45:15-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/categories/</loc>
+    <lastmod>2021-04-25T00:45:15-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/tag/pibex/</loc>
+    <lastmod>2021-04-25T00:45:15-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rodrigoclira.github.io/post/cotb2021/</loc>
+    <lastmod>2021-04-25T00:45:15-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rodrigoclira.github.io/publication/conference/cotb2021/</loc>
     <lastmod>2021-04-02T21:38:12-03:00</lastmod>
   </url>
@@ -113,11 +133,6 @@
   </url>
   
   <url>
-    <loc>https://rodrigoclira.github.io/tag/pibex/</loc>
-    <lastmod>2021-04-02T22:03:30-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rodrigoclira.github.io/project/jogo-ifpe/</loc>
     <lastmod>2021-04-02T22:03:30-03:00</lastmod>
   </url>
@@ -129,16 +144,6 @@
   
   <url>
     <loc>https://rodrigoclira.github.io/tag/aws/</loc>
-    <lastmod>2021-04-02T21:38:12-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rodrigoclira.github.io/category/blog/</loc>
-    <lastmod>2021-04-02T21:38:12-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rodrigoclira.github.io/categories/</loc>
     <lastmod>2021-04-02T21:38:12-03:00</lastmod>
   </url>
   
@@ -219,7 +224,7 @@
   
   <url>
     <loc>https://rodrigoclira.github.io/tag/arduino/</loc>
-    <lastmod>2020-12-16T12:32:53-03:00</lastmod>
+    <lastmod>2021-04-25T00:45:15-03:00</lastmod>
   </url>
   
   <url>
@@ -294,7 +299,7 @@
   
   <url>
     <loc>https://rodrigoclira.github.io/tag/informatica-na-educacao/</loc>
-    <lastmod>2020-12-09T22:46:40-03:00</lastmod>
+    <lastmod>2021-04-25T00:45:15-03:00</lastmod>
   </url>
   
   <url>
@@ -319,7 +324,7 @@
   
   <url>
     <loc>https://rodrigoclira.github.io/project/pensamento-computacional/</loc>
-    <lastmod>2020-12-09T22:46:40-03:00</lastmod>
+    <lastmod>2021-04-25T00:45:15-03:00</lastmod>
   </url>
   
   <url>
@@ -759,7 +764,7 @@
   
   <url>
     <loc>https://rodrigoclira.github.io/author/rodrigo-lira/</loc>
-    <lastmod>2021-02-21T16:54:38-03:00</lastmod>
+    <lastmod>2021-04-25T00:47:37-03:00</lastmod>
   </url>
   
 </urlset>
