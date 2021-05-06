@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/tag/linux/</link>
+      <atom:link href="https://rodrigoclira.github.io/tag/linux/index.xml" rel="self" type="application/rss+xml" />
+    <description>linux</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Wed, 05 May 2021 23:57:14 -0300</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_2.png</url>
+      <title>linux</title>
+      <link>https://rodrigoclira.github.io/tag/linux/</link>
+    </image>
+    
+    <item>
+      <title>Como manter o processo mesmo após sair da sessão</title>
+      <link>https://rodrigoclira.github.io/post/cmd-screen/</link>
+      <pubDate>Wed, 05 May 2021 23:57:14 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/post/cmd-screen/</guid>
+      <description>&lt;p&gt;Para manter a execução de um comando mesmo após sair da sessão pode-se utilizar o comando screen. Os passos são os seguintes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Acesse via ssh o computador. Escreva o comando &lt;code&gt;screen&lt;/code&gt; e então execute o programa/script que dejas manter em segundo plano.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pressione Ctrl+A e então Ctrl+D. Isso fará com que você saia daquela sessão do screen, mas o manterá conectado no computador.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Caso desejes voltar para visualizar a execução do programa/script, use o comando &lt;code&gt;screen -r&lt;/code&gt;. Isso irá levá-lo de volta a sessão iniciada pelo screen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
