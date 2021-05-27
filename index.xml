@@ -13,6 +13,19 @@
     </image>
     
     <item>
+      <title>Publicação no Journal of Information and Data Management (JIDM 2021)</title>
+      <link>https://rodrigoclira.github.io/post/jidm2021/</link>
+      <pubDate>Wed, 26 May 2021 23:57:14 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/post/jidm2021/</guid>
+      <description>&lt;p&gt;O artigo &amp;ldquo;Analysis of Distinct Feature Groups in the Credit Scoring
+Problem&amp;rdquo; foi aceito no &lt;a href=&#34;https://sol.sbc.org.br/journals/index.php/jidm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Information and Data Management&lt;/a&gt;. O artigo é uma extensão do publicado no &lt;a href=&#34;http://www2.sbc.org.br/bracis2020/kdmile.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Symposium on Knowledge Discovery, Mining and Learning (KDMiLe)&lt;/a&gt; no ano passado. Mais informações sobre o artigo:&lt;/p&gt;
+&lt;p&gt;Autores: L. F. Vercosa, &lt;strong&gt;R. Lira&lt;/strong&gt;, R. Monteiro, K. Silva, J. Magalhaes, A. Maciel, B. Leite, C. Bastos-Filho&lt;/p&gt;
+&lt;p&gt;Abstract:
+&amp;ldquo;Registration and financial data have been traditionally used for the credit scoring problem. However, slight improvements in the reliability of the scores positively impacts financial companies. Therefore, exploring new features is a strategic task. This work analyzes the importance of new feature groups not commonly employed for the credit scoring task and others already used. We categorized features from open credit scoring datasets, such as German and Australian and compared their groups with the ones of a company dataset used in this work. Our dataset contains unusual feature groups, such as historical, geolocation, web behavior, and demographic data. In our analyzes, we first conducted bivariate tests with each feature-pair to assess their individual importance. Secondly, we ran XGBoost machine learning model with each feature group to evaluate each group importance. We also applied feature selection with binary Particle Swarm Optimization to assess the groups importance when combined. Next, we employed correlation tests to find inner and inter-correlation among the features groups. Finally, we used the company dataset and employed AdaBoost, Multilayer Perceptron, and XGBoost algorithms to find the best model for the task. Some of our main findings were that the unusual features added a slight improvement to registration features. We also detected reasonable inner correlation among some feature groups and found that all groups were relevant for the task with the Historical Group as the most promising. Lastly, XGBoost obtained the best performance over AdaBoost and Multilayer-perceptron for the task.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Como manter o processo mesmo após sair da sessão</title>
       <link>https://rodrigoclira.github.io/post/cmd-screen/</link>
       <pubDate>Wed, 05 May 2021 23:57:14 -0300</pubDate>
@@ -461,6 +474,17 @@ Os dois parâmetros citados anteriormente podem ser medidos através de sensores
 &lt;p&gt;Referências&lt;/p&gt;
 &lt;p&gt;Safe Drinking Water Foundation (SDWF). TDS and PH. Acessível em: &lt;a href=&#34;https://www.safewater.org/fact-sheets-1/2017/1/23/tds-and-ph&#34;&gt;https://www.safewater.org/fact-sheets-1/2017/1/23/tds-and-ph&lt;/a&gt; . Último acesso: 21 de janeiro de 2020.&lt;/p&gt;
 &lt;p&gt;LIBÂNIO, M. Fundamentos de qualidade e tratamento de água. Campinas: Átomo, 2010.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clube de Xadrez do IFPE Palmares</title>
+      <link>https://rodrigoclira.github.io/post/clube-xadrez/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/post/clube-xadrez/</guid>
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTqOOKpLjps-1TNJvLhlJZWvA6ZKdX2EMK9PqMh20yuTJAfMuptj3AZzGl_r9m94k_2tvrEkMCMEKaF/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
     </item>
     

@@ -5,12 +5,25 @@
     <link>https://rodrigoclira.github.io/tag/credit-scoring/</link>
       <atom:link href="https://rodrigoclira.github.io/tag/credit-scoring/index.xml" rel="self" type="application/rss+xml" />
     <description>credit scoring</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Thu, 24 Sep 2020 23:57:14 -0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Wed, 26 May 2021 23:57:14 -0300</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_2.png</url>
       <title>credit scoring</title>
       <link>https://rodrigoclira.github.io/tag/credit-scoring/</link>
     </image>
+    
+    <item>
+      <title>Publicação no Journal of Information and Data Management (JIDM 2021)</title>
+      <link>https://rodrigoclira.github.io/post/jidm2021/</link>
+      <pubDate>Wed, 26 May 2021 23:57:14 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/post/jidm2021/</guid>
+      <description>&lt;p&gt;O artigo &amp;ldquo;Analysis of Distinct Feature Groups in the Credit Scoring
+Problem&amp;rdquo; foi aceito no &lt;a href=&#34;https://sol.sbc.org.br/journals/index.php/jidm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Information and Data Management&lt;/a&gt;. O artigo é uma extensão do publicado no &lt;a href=&#34;http://www2.sbc.org.br/bracis2020/kdmile.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Symposium on Knowledge Discovery, Mining and Learning (KDMiLe)&lt;/a&gt; no ano passado. Mais informações sobre o artigo:&lt;/p&gt;
+&lt;p&gt;Autores: L. F. Vercosa, &lt;strong&gt;R. Lira&lt;/strong&gt;, R. Monteiro, K. Silva, J. Magalhaes, A. Maciel, B. Leite, C. Bastos-Filho&lt;/p&gt;
+&lt;p&gt;Abstract:
+&amp;ldquo;Registration and financial data have been traditionally used for the credit scoring problem. However, slight improvements in the reliability of the scores positively impacts financial companies. Therefore, exploring new features is a strategic task. This work analyzes the importance of new feature groups not commonly employed for the credit scoring task and others already used. We categorized features from open credit scoring datasets, such as German and Australian and compared their groups with the ones of a company dataset used in this work. Our dataset contains unusual feature groups, such as historical, geolocation, web behavior, and demographic data. In our analyzes, we first conducted bivariate tests with each feature-pair to assess their individual importance. Secondly, we ran XGBoost machine learning model with each feature group to evaluate each group importance. We also applied feature selection with binary Particle Swarm Optimization to assess the groups importance when combined. Next, we employed correlation tests to find inner and inter-correlation among the features groups. Finally, we used the company dataset and employed AdaBoost, Multilayer Perceptron, and XGBoost algorithms to find the best model for the task. Some of our main findings were that the unusual features added a slight improvement to registration features. We also detected reasonable inner correlation among some feature groups and found that all groups were relevant for the task with the Historical Group as the most promising. Lastly, XGBoost obtained the best performance over AdaBoost and Multilayer-perceptron for the task.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Publicação no Symposium on Knowledge Discovery, Mining and Learning (KDMiLe 2020)</title>
