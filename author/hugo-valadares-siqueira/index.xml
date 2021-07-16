@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Valadares Siqueira | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/author/hugo-valadares-siqueira/</link>
+      <atom:link href="https://rodrigoclira.github.io/author/hugo-valadares-siqueira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Valadares Siqueira</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Sat, 02 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_2.png</url>
+      <title>Hugo Valadares Siqueira</title>
+      <link>https://rodrigoclira.github.io/author/hugo-valadares-siqueira/</link>
+    </image>
+    
+    <item>
+      <title>Handbook of AI-based Metaheuristics: Chapter 2 - Fish School Search: Account for the First Decade</title>
+      <link>https://rodrigoclira.github.io/publication/book/chapter-fss/</link>
+      <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/book/chapter-fss/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
