@@ -21,6 +21,82 @@
     </item>
     
     <item>
+      <title>Git Cheat Sheet</title>
+      <link>https://rodrigoclira.github.io/post/git-cheat-sheet/</link>
+      <pubDate>Thu, 15 Jul 2021 23:57:14 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/post/git-cheat-sheet/</guid>
+      <description>&lt;p&gt;Git é o sistema de controle de versão distribuído gratuito e de código aberto responsável por tudo o que o &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; relacionado que acontece localmente no seu computador. Esta folha de dicas apresenta os mais importantes e comumente usados comandos para fácil referência.&lt;/p&gt;
+&lt;h2 id=&#34;instalação-e-gui&#34;&gt;Instalação e GUI&lt;/h2&gt;
+&lt;p&gt;Com instaladores específicos de plataforma para Git, o GitHub também fornece o facilidade de se manter atualizado com os últimos lançamentos do comando ferramenta de linha ao fornecer uma interface gráfica do usuário para o dia-a-dia interação, revisão e sincronização de repositório&lt;/p&gt;
+&lt;h3 id=&#34;git-para-windows&#34;&gt;Git para Windows&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;htps://windows.github.com&#34;&gt;htps://windows.github.com&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;git-para-mac&#34;&gt;Git para MAC&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;htps://mac.github.com&#34;&gt;htps://mac.github.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Para plataformas Linux e Solaris, a versão mais recente está disponível em o site oficial do Git.&lt;/p&gt;
+&lt;h3 id=&#34;git-para-todas-plataformas&#34;&gt;Git para todas plataformas&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;http://git-scm.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://git-scm.com&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;configuração&#34;&gt;Configuração&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Configurando as informações do usuário usadas em todos os repositórios locais.&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-console&#34;&gt;git config --global user.name “[firstname lastname]”
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Define um nome que seja identificável para crédito ao revisar o histórico de versão&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-console&#34;&gt;git config --global user.email “[valid-email]”
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Define um endereço de e-mail que será associado a cada marcador de histórico&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-console&#34;&gt;git config --global color.ui auto
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Define a coloração automática da linha de comando para Git para facilitar a revisão&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;iniciando&#34;&gt;Iniciando&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Configurando informações do usuário, inicializando e clonando repositórios.&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-console&#34;&gt;git init
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Inicializa um diretório existente como um repositório Git&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-console&#34;&gt;git clone [url]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Recupera um repositório inteiro de um local hospedado via URL&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;stage-e-snapshot&#34;&gt;STAGE e SNAPSHOT&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Trabalhando com snapshots e a stage.&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-console&#34;&gt;git status
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Mostra arquivos modificados no diretório de trabalho, preparados para seu próximo commit&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-console&#34;&gt;git add [file]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Adiciona um arquivo no seu estado atual em seu próximo commit (stage)&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-console&#34;&gt;git reset [file]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Remove do commit um arquivo enquanto mantém as mudanças no diretório de trabalho&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-console&#34;&gt;git diff
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;diferença do que foi alterado, mas colocado no stage&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-console&#34;&gt;git diff --staged
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Exibe a diferença do que foi colocado em stage, mas ainda não foi comitado&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-console&#34;&gt;git commit -m “[descriptive message]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Envia seu conteúdo no stage como um novo snapshot de commit&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;branch-e-merge&#34;&gt;BRANCH e MERGE&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Isolando o trabalho nas branches, mudando o contexto e integrando as mudanças.&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-console&#34;&gt;git branch
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Lista todas suas branches. Um a* aparecerá próximo ao branch atualmente ativo&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-console&#34;&gt;git branch  [branch-name]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Cria um novo branch no commit atual&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-console&#34;&gt;git checkout
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Muda para outro branch&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-console&#34;&gt;git merge [branch]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Mescla o branch especificado no atual&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://education.github.com/git-cheat-sheet-education.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git Cheat Original&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Publicação no Journal of Information and Data Management (JIDM 2021)</title>
       <link>https://rodrigoclira.github.io/post/jidm2021/</link>
       <pubDate>Wed, 26 May 2021 23:57:14 -0300</pubDate>
