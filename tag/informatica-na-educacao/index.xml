@@ -7,7 +7,7 @@
     <description>informática na educação</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Thu, 29 Aug 2019 14:30:00 +0000</lastBuildDate>
     <image>
-      <url>https://rodrigoclira.github.io/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_2.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>informática na educação</title>
       <link>https://rodrigoclira.github.io/tag/informatica-na-educacao/</link>
     </image>
@@ -41,14 +41,74 @@
 &lt;/div&gt;
 
 &lt;p&gt;Imagens do robô desenvolvido no segundo ano do projeto&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./demo1.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./demo2.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./demo3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./demo1.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./demo2.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./demo3.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;[1] WING, Jeannette Marie. Computational thinking. In: Communications of The ACM,
 Marz 2006. Vol. 49, no 3. p. 33-35&lt;/p&gt;
-&lt;p&gt;[2] Computer Science for all. Disponível em:   &amp;lt; &lt;a href=&#34;https://obamawhitehouse.archives.gov/blog/2016/01/30/computer-science-all&#34;&gt;https://obamawhitehouse.archives.gov/blog/2016/01/30/computer-science-all&lt;/a&gt; &amp;gt;. Último acesso: 20 out. de 2018.&lt;/p&gt;
-&lt;p&gt;[3] Coding at school: a parent&amp;rsquo;s guide to England&amp;rsquo;s new computing curriculum. Disponível em: &lt;a href=&#34;https://www.theguardian.com/technology/2014/sep/04/coding-school-computing-children-programming&#34;&gt;https://www.theguardian.com/technology/2014/sep/04/coding-school-computing-children-programming&lt;/a&gt; . Último acesso: 20 out. de 2018&lt;/p&gt;
-&lt;p&gt;[4] Fundação Telefônica Vivo; Fundação Lemann. Programaê: Um guia para construção do pensamento computacional. 1 ed. São Paulo. 2018. Disponível em: &lt;a href=&#34;http://fundacaotelefonica.org.br/download.php?dir=pdfs&amp;amp;file=Guia_Final_06_09_2018.pdf&#34;&gt;http://fundacaotelefonica.org.br/download.php?dir=pdfs&amp;amp;file=Guia_Final_06_09_2018.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] Computer Science for all. Disponível em:   &amp;lt; &lt;a href=&#34;https://obamawhitehouse.archives.gov/blog/2016/01/30/computer-science-all&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://obamawhitehouse.archives.gov/blog/2016/01/30/computer-science-all&lt;/a&gt; &amp;gt;. Último acesso: 20 out. de 2018.&lt;/p&gt;
+&lt;p&gt;[3] Coding at school: a parent&amp;rsquo;s guide to England&amp;rsquo;s new computing curriculum. Disponível em: &lt;a href=&#34;https://www.theguardian.com/technology/2014/sep/04/coding-school-computing-children-programming&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theguardian.com/technology/2014/sep/04/coding-school-computing-children-programming&lt;/a&gt; . Último acesso: 20 out. de 2018&lt;/p&gt;
+&lt;p&gt;[4] Fundação Telefônica Vivo; Fundação Lemann. Programaê: Um guia para construção do pensamento computacional. 1 ed. São Paulo. 2018. Disponível em: &lt;a href=&#34;http://fundacaotelefonica.org.br/download.php?dir=pdfs&amp;amp;file=Guia_Final_06_09_2018.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://fundacaotelefonica.org.br/download.php?dir=pdfs&amp;file=Guia_Final_06_09_2018.pdf&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

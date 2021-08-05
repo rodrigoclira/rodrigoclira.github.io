@@ -7,7 +7,7 @@
     <description>blog</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Thu, 15 Jul 2021 23:57:14 -0300</lastBuildDate>
     <image>
-      <url>https://rodrigoclira.github.io/images/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_2.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>blog</title>
       <link>https://rodrigoclira.github.io/category/blog/</link>
     </image>
@@ -183,7 +183,7 @@ Problem&amp;rdquo; foi aceito no &lt;a href=&#34;https://sol.sbc.org.br/journals
       <guid>https://rodrigoclira.github.io/post/elefante-von-neumann/</guid>
       <description>&lt;p&gt;Acho que ouvi uma menção a essa história pela primeira vez quando estava lendo o &lt;a href=&#34;http://deeplearningbook.com.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning Book&lt;/a&gt;, mas também pode ter sido em alguma aula do doutorado. Pesquisei um pouco e achei poucas informações sobre ela. Apesar de ter acontecido na década de 50, o conteúdo me parece muito atual.&lt;/p&gt;
 &lt;p&gt;Em um &lt;a href=&#34;https://doi.org/10.1038/427297a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;artigo de 2004 da Nature&lt;/a&gt;, o professor &lt;a href=&#34;https://pt.wikipedia.org/wiki/Freeman_Dyson&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Freeman Dyson&lt;/a&gt; descreveu o encontro que teve em 1953 com &lt;a href=&#34;https://pt.wikipedia.org/wiki/Enrico_Fermi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enrico Fermi&lt;/a&gt;, que na época já era vencedor de um &lt;a href=&#34;https://www.nobelprize.org/prizes/physics/1938/fermi/facts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;prêmio nobel&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;O texto do artigo é muito interessante e vale a pena ser lido, porém o que interessa para o post é o diálogo final. Segundo descreve no artigo, em um momento do encontro, já desesperado pelo que tinha ouvido, Dyson questionou se Fermi não estava impressionado com os resultados numéricos da pesquisa que acabara de apresentá-lo. Nesse momento, Fermi perguntou o seguinte: &amp;ldquo;&lt;em&gt;Quantos parâmetros arbitrários você usou para seus cálculos?&lt;/em&gt;&amp;quot;. Após pensar, Dyson informou: &amp;ldquo;&lt;em&gt;Quatro&lt;/em&gt;&amp;rdquo; e então Femi disse o seguinte: &lt;strong&gt;&amp;quot;&lt;em&gt;Lembro que meu amigo Johnny von Neumann costumava dizer que com quatro parâmetros eu posso ajustar um elefante, e com cinco, posso fazê-lo mexer sua tromba&lt;/em&gt;&amp;quot;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;O texto do artigo é muito interessante e vale a pena ser lido, porém o que interessa para o post é o diálogo final. Segundo descreve no artigo, em um momento do encontro, já desesperado pelo que tinha ouvido, Dyson questionou se Fermi não estava impressionado com os resultados numéricos da pesquisa que acabara de apresentá-lo. Nesse momento, Fermi perguntou o seguinte: &amp;ldquo;&lt;em&gt;Quantos parâmetros arbitrários você usou para seus cálculos?&lt;/em&gt;&amp;rdquo;. Após pensar, Dyson informou: &amp;ldquo;&lt;em&gt;Quatro&lt;/em&gt;&amp;rdquo; e então Femi disse o seguinte: &lt;strong&gt;&amp;quot;&lt;em&gt;Lembro que meu amigo Johnny von Neumann costumava dizer que com quatro parâmetros eu posso ajustar um elefante, e com cinco, posso fazê-lo mexer sua tromba&lt;/em&gt;&amp;quot;&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Até pode ser que von Neumann nunca tenha realmente dito isso, mas o professor Fermi estava certo quando disse que seria possível ajustar um elefante com quatro parâmetros. Em 2010, Jürgen Mayer, Khaled Khairy e	 Jonathon Howard publicaram o artigo &lt;em&gt;&lt;a href=&#34;https://doi.org/10.1119/1.3254017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Drawing an elephant with four complex parameters&lt;/a&gt;&lt;/em&gt; na revista American Journal of Physics. No artigo foi apresentado quatro números complexos que representavam os parâmetros necessários para especificar a forma do elefante, além de um quinto parâmetro responsável pelo olho e pela movimentação da tromba do animal.&lt;/p&gt;
 &lt;p&gt;Eles desenharam o elefante como um conjunto de pontos que poderiam ser obtidos a partir das expansão das séries abaixo:&lt;/p&gt;
 &lt;p&gt;$x(t)=\sum_{k=0}^{\infty} (A_{k}^{x}cos(kt) + B_{k}^{x}sen(kt))$&lt;/p&gt;
@@ -226,12 +226,52 @@ Problem&amp;rdquo; foi aceito no &lt;a href=&#34;https://sol.sbc.org.br/journals
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;O artigo é curto, ele possui apenas duas páginas que são dedicadas a explicar como seria possível desenhar o elefante. O resultado foi apresentado em figura e também em um &lt;a href=&#34;https://aapt.scitation.org/doi/suppl/10.1119/1.3254017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vídeo&lt;/a&gt; que pode ser visto na animação abaixo.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./elefante_animacao.gif&#34; alt=&#34;gif&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./elefante_animacao.gif&#34; alt=&#34;gif&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Segundo o artigo, a movimentação da tromba do elefante é possível pois é utilizado a parte real de $p_5$ (&lt;em&gt;wiggle coefficient&lt;/em&gt;) que representa onde a tromba do animal é ligada ao corpo. Quem tiver curiosidade pode executar o código em Python abaixo disponibilizado em &lt;a href=&#34;https://www.johndcook.com/blog/2011/06/21/how-to-fit-an-elephant/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to fit an elephant&lt;/a&gt;.&lt;/p&gt;
 &lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/rodrigoclira/433925c97cf2292b4c331c079a3d96ed.js&#34;&gt;&lt;/script&gt;
 
 &lt;p&gt;O resultado da execução do código será a seguinte figura:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./elefante.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./elefante.jpg&#34; alt=&#34;jpg&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Há também uma &lt;a href=&#34;https://www.physics.utoronto.ca/~phy326/python/vonNeumann_elephant.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;versão do código&lt;/a&gt; acima que adiciona uma nova função (LivePlot) que é responsável por usar o &lt;em&gt;wiggle coefficient&lt;/em&gt; para mostrar a movimentação da tromba do elefante.&lt;/p&gt;
 &lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/rodrigoclira/86e1779123f7df582dac643fea13a774.js&#34;&gt;&lt;/script&gt;
 
@@ -265,9 +305,49 @@ Problem&amp;rdquo; foi aceito no &lt;a href=&#34;https://sol.sbc.org.br/journals
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Os agentes possuem cores que distinguem seu estado no ambiente. O vermelho e laranja representam os doentes sintomáticos e assintomáticos, respectivamente. Os verdes são os saudáveis e os cinzas, os imunes. Na animação abaixo é apresentada um trecho da simulação de um dos cenários (Cenário 1). O agente que está em foco inicia a simulação com o vírus mas se cura e consequentemente se torna imune.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./image3.gif&#34; alt=&#34;gif&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./image3.gif&#34; alt=&#34;gif&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;A interface da simulação possui variáveis que podem ser modificadas pelo usuário para analisar o comportamento da transmissão do vírus, também estão presentes monitores e gráficos que facilitam a visualização dos resultados. Na figura abaixo é apresentada a área de atualização de variáveis e a tela na qual a simulação ocorre.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./image7.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./image7.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Foram definidos três cenários para analisar o comportamento da transmissão do vírus no ambiente. Os cenários testados foram os seguintes:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Cenário 1 - A doença já está presente no ambiente mas os agentes não diminuem a interação social e nem usam outras estratégias para mitigar a transmissão do vírus. Nesse cenário a infecciosidade é o valor máximo e o isolamento social não existe.&lt;/li&gt;
@@ -331,13 +411,73 @@ Problem&amp;rdquo; foi aceito no &lt;a href=&#34;https://sol.sbc.org.br/journals
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;O Cenário 1 foi o que sua população teve a maior exposição ao vírus, isso é possível ser evidenciado pela porcentagem da população que se tornou imune ao fim da simulação. Consequentemente esse cenário obteve a maior quantidade de vítimas. A quantidade de dias de transmissão também foi o maior dentre os cenários e isso aconteceu porque a transmissão só ficou controlada quando mais de 70% da população se tornou imune. Uma característica que foi visualizada é que nesse cenário houve um momento no primeiro mês que praticamente toda a população foi infectada em um curto espaço de tempo - situação que seria catastrófica no mundo real. Na figura abaixo é apresentado os resultados de uma das simulações utilizando o Cenário 1.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./image6.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./image6.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;No Cenário 2 existe também um aumento da infecção no primeiro mês, quando a maioria ainda é saudável, mas a curva é muito mais achatada do que a apresentada no cenário anterior. Visualizando os números obtidos nesse cenário é possível perceber que o  impacto do vírus na população diminuiu quase que pela metade, isso foi devido ao isolamento social e a diminuição da taxa de infecciosidade do vírus. Na figura abaixo é apresentado o resultado de uma simulação utilizando o Cenário 2.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./image4.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./image4.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Dentre os cenários analisados nesta simulação, o Cenário 3 obteve os melhores resultados para o controle da transmissão do vírus. Todas as variáveis analisadas foram menores quando se aumentou o isolamento social e diminuiu a taxa de infecciosidade da doença. Na figura abaixo é apresentado o resultado de uma das simulações utilizando o Cenário 3.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./image5.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./image5.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Os resultados obtidos nos cenários utilizados neste experimento evidenciam que, assim como indicado pela comunidade científica mundial, a melhor forma de combater o vírus atual é se protegendo. No experimento o impacto do vírus foi muito menor quando a população dos agentes diminuiu a interação social e usou meios para diminuir a taxa de infecciosidade do vírus. Isso ratifica a importância seguir as recomendações da OMS de utilizar máscaras, higienizar as mãos com frequência e restringir ao máximo a interação social.&lt;/p&gt;
-&lt;p&gt;Uma versão web do modelo pode ser acessada em &lt;a href=&#34;https://rodrigoclira.github.io/netlogo-covid19.html&#34;&gt;https://rodrigoclira.github.io/netlogo-covid19.html&lt;/a&gt; , nela apenas os cenários apresentados estão habilitados.&lt;/p&gt;
+&lt;p&gt;Uma versão web do modelo pode ser acessada em &lt;a href=&#34;https://rodrigoclira.github.io/netlogo-covid19.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://rodrigoclira.github.io/netlogo-covid19.html&lt;/a&gt; , nela apenas os cenários apresentados estão habilitados.&lt;/p&gt;
 </description>
     </item>
     
@@ -349,7 +489,27 @@ Problem&amp;rdquo; foi aceito no &lt;a href=&#34;https://sol.sbc.org.br/journals
       <description>&lt;h2 id=&#34;motivação&#34;&gt;Motivação&lt;/h2&gt;
 &lt;p&gt;Desde 2018.2 ensino a disciplina de Prática Profissional Supervisionada no curso técnico de Manutenção e Suporte em Informática do IFPE Campus Paulista. Venho implementando, cada semestre com maior intensidade, a realização de atividades práticas que possam sejam úteis na formação dos alunos desse curso. Pela característica do curso, as atividades ficam muito relacionadas as áreas de redes de computadores, manutenção de computadores e eletrônica.&lt;/p&gt;
 &lt;p&gt;Uma atividade que sempre faço questão de realizar é a de remoção e soldagem de componentes eletrônicos. Já utilizei num passado a placa &lt;a href=&#34;https://franzininho.com.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Franzininho&lt;/a&gt;. Na ocasião precisei pedir para os alunos formarem grupos e comprarem os componentes pois eu só tinha as placas para doar. Lembro que apesar dos custos, eles aceitaram e se empolgaram bastante na realização da atividade de montagem da placa. Na imagem abaixo é possível ver uma foto de um dos alunos validando a soldagem dos componentes.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./ifpe_franzininho.jpg&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./ifpe_franzininho.jpg&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Nos semestres seguintes eu resolvi implementar a atividade de soldagem utilizando equipamentos quebrados pois as placas que tinham não dariam para realizar a atividade com muitos grupos. Para esse novo formato nós usamos fontes de computadores quebradas, mouses e rádios de pilhas. A atividade iniciava com a remoção dos componentes, utilizando um sugador, e em seguida os componentes eram soldados nos seus respectivos locais. Continuou sendo um momento muito bom para os estudantes porque trazia uma experiência que muitos ainda não tinham passado mas para mim ainda faltava algo. Por esse motivo eu resolvi continuar procurando alternativas&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Até aquele momento não tinha passado na minha cabeça a criação uma placa, eu estava procurando por algum produto pronto que pudesse ser barato e fácil de adquirir. Nesse sentido eu encontrei alguns projetos, como o &lt;a href=&#34;https://www.newtoncbraga.com.br/index.php/kits/16573-ligue-o-fusca-uma-forma-de-ensinar-a-soldar-art4182&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ligue o Fusca&lt;/a&gt;, o &lt;a href=&#34;https://medium.com/franzininho/badge-aprenda-a-soldar-34b99ec2cb6f&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Badge aprenda a soldar&lt;/a&gt; e o &lt;a href=&#34;https://www.gbkrobotics.com.br/boards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;First Robot&lt;/a&gt;. Esse último me chamou mais a atenção porque eu poderia usar a placa para fazer a iniciação a programação Arduino, outro assunto abordado na disciplina.&lt;/p&gt;
 &lt;p&gt;Fui procurar pela placa em lojas na internet e achei pouca oferta. Até consegui adquirir um kit num &lt;a href=&#34;https://recicomp.com.br&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vendedor local&lt;/a&gt; mas era o único que ele tinha e também de uma versão com menos recursos. Sabendo disso, um amigo que trabalha com robótica educional me sugeriu projetar uma placa PCB similar e mandar confeccionar na China. Algo que a princípio eu achei desnecessário, mas que logo mudei de ideia.&lt;/p&gt;
@@ -357,13 +517,73 @@ Problem&amp;rdquo; foi aceito no &lt;a href=&#34;https://sol.sbc.org.br/journals
 &lt;p&gt;Não era minha pretensão criar uma placa para esse próposito, mas eu fiquei um pouco desafiado a desenvolver o projeto. Por coincidência, eu tinha visto que um outro professor do IFPE tinha acabado de projetar uma placa para o seu projeto no &lt;a href=&#34;https://easyeda.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EasyEDA&lt;/a&gt;. Depois de conversar com ele, ele me apresentou o seu projeto na plataforma e explicou rapidamente como poderia criar a placa em questão.&lt;/p&gt;
 &lt;p&gt;Para me familiarizar no EasyEDA, eu resolvi comprar o curso &lt;a href=&#34;https://www.udemy.com/course/circuito-impresso-criando-uma-shield-para-arduino/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Circuito impresso: Criando uma Shield para Arduino&lt;/a&gt; do Ricardo Teixeira. O curso ensina como utilizar a plataforma para desenvolver projetos, sendo o projeto final uma shield para Arduino Uno. Apesar de o EasyEDA ser intuitivo, o curso permitiu utilizar algumas funcionalidades que só quem já trabalhava nessa área poderia saber.&lt;/p&gt;
 &lt;p&gt;A complexidade da placa facilitou bastante a minha vida. A placa PCB projetada é bastante simples contendo apenas leds, buzzer e pinos para entrada dos sinais, componentes suficientes para realizar uma iniciação em Arduino. Acho que a parte mais complicada foi o posicionamento dos componentes e, consequentemente, o roteamento das trilhas. Confesso que não gastei muito tempo nesse projeto, acho que entre decidir criar e mandar confeccionar o projeto final das placas foram duas semanas. A versão no EasyEDA está apresentada na imagem abaixo.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./topbottonside.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./topbottonside.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;h2 id=&#34;confecção-da-placa&#34;&gt;Confecção da Placa&lt;/h2&gt;
 &lt;p&gt;Para mim a grande vantagem de usar o EasyEDA foi a sua integração com a JLCPCB, um fabricante de placas sediado em Hong Kong. Com poucos cliques foi possível enviar o projeto para ser manufaturado pela JLCPCB e escolher detalhes da placa como a cor, o tipo das pontas, dentre outras opções. O custo também foi bastante acessível, eu escolhi as opções mais baratas (padrão) de confecção e isso fez com que o custo total fosse de US$ 12 por 50 placas.&lt;/p&gt;
 &lt;p&gt;Acabei não dando sorte na entrega, os Correios perderam o pacote e me fizeram esperar um novo envio da JLCPCB. Não tive custos adicionais mais tive que contatar os Correios para devolverem a taxa de despacho postal (R$15) da encomenda extraviada. Recebi a placa nesse segundo envio, elas vieram bem lacradas num pacote embalado a vácuo. Nas imagens abaixo são apresentadas fotos da placa.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./placa.jpeg&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./placa.jpeg&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Depois de colocar os componentes&amp;hellip;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./soldada.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./soldada.jpg&#34; alt=&#34;jpg&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -381,9 +601,49 @@ Problem&amp;rdquo; foi aceito no &lt;a href=&#34;https://sol.sbc.org.br/journals
 &lt;p&gt;A instalação e utilização deles é bem simples, eu segui basicamente os documentos dos &lt;em&gt;Quick Start&lt;/em&gt; indicados em ambos os projetos. A configuração também foi bastante intuitiva, eu apenas tive que mudar algumas pequenas configurações nos arquivos de &lt;em&gt;markdown&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Eu não precisei ir muito a fundo da documentação, a leitura dos arquivos das pastas &lt;em&gt;config&lt;/em&gt; e &lt;em&gt;content&lt;/em&gt; esclarecem um pouco o funcionamento do  site. Eu também me baseei, como indicado na documentação do Academic, no site de exemplo que está disponível dentro da pasta do tema. A partir desse exemplo eu entendi como era o funcionamento de adição de novas postagens e projetos.&lt;/p&gt;
 &lt;p&gt;Abaixo é apresentado a organização da pasta principal do Academic.
-&lt;img src=&#34;./projeto.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./projeto.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Exemplo de arquivo de markdown.
-&lt;img src=&#34;./markdown.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./markdown.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Eu estou utilizando o &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages&lt;/a&gt; para hospedar a página. Caso você também tenha interesse em fazer isso, eu sugiro ler primeiro a seção &lt;a href=&#34;https://sourcethemes.com/academic/docs/deployment/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deployment&lt;/a&gt; do Academic.&lt;/p&gt;
 </description>
     </item>
