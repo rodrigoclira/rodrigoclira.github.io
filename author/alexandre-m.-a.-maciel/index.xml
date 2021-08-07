@@ -5,12 +5,20 @@
     <link>https://rodrigoclira.github.io/author/alexandre-m.-a.-maciel/</link>
       <atom:link href="https://rodrigoclira.github.io/author/alexandre-m.-a.-maciel/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexandre M. A. Maciel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Alexandre M. A. Maciel</title>
       <link>https://rodrigoclira.github.io/author/alexandre-m.-a.-maciel/</link>
     </image>
+    
+    <item>
+      <title>Analysis of Distinct Feature Groups in the Credit Scoring Problem</title>
+      <link>https://rodrigoclira.github.io/publication/journal/jidm-2021/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/journal/jidm-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Impact of Unusual Features in Credit Scoring Problem</title>
