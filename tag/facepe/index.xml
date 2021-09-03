@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>facepe | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/tag/facepe/</link>
+      <atom:link href="https://rodrigoclira.github.io/tag/facepe/index.xml" rel="self" type="application/rss+xml" />
+    <description>facepe</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Thu, 02 Sep 2021 23:18:25 -0300</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>facepe</title>
+      <link>https://rodrigoclira.github.io/tag/facepe/</link>
+    </image>
+    
+    <item>
+      <title>Capacitação tecnológica em .NET do IFPE/SIDI</title>
+      <link>https://rodrigoclira.github.io/post/pet-facepe/</link>
+      <pubDate>Thu, 02 Sep 2021 23:18:25 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/post/pet-facepe/</guid>
+      <description>&lt;p&gt;No último dia 30 de agosto a FACEPE divulgou o resultado do Edital 12/2021 do Programa de Extensão Tecnológica. O Campus Paulista teve projeto aprovado, por meio do professor Rodrigo Lira. O projeto intitulado “Capacitação Tecnológica em .Net do IFPE/SIDI” será desenvolvido em parceria com a Samsung Instituto de Desenvolvimento para Informática. O projeto selecionará estudantes de graduação na área de TI do IFPE (50 vagas) para participarem de curso de extensão intitulado “Curso introdutório da plataforma .Net”. Deste curso serão selecionados 10 estudantes, com os melhores desempenhos, para a etapa seguinte, ao qual participarão da atividade de extensão, junto a empresa parceira, durante 3 meses. Os 10 alunos selecionados receberão bolsa neste período.&lt;/p&gt;
+&lt;h2 id=&#34;introdução-da-proposta&#34;&gt;Introdução da proposta&lt;/h2&gt;
+&lt;p&gt;Movido pela necessidade humana de se transformar e evoluir, o setor de TIC vive em transformação. Uma pesquisa revelou que esse setor manteve um crescimento constante nos últimos 10 anos [1] e mesmo com todas as incertezas trazidas pela pandemia, ele seguiu crescendo em contratações e faturamento. Especificamente no ano de 2020 houve um aumento de 310% de vagas apenas para a área em comparação com o ano anterior [2].&lt;/p&gt;
+&lt;p&gt;Em Pernambuco, as empresas do Porto Digital, um dos principais polos tecnológicos do Brasil, fecharam o ano com aumento de 21,7% no faturamento, e de 14,7% nos postos de trabalho [3]. Esses números mostram que TIC é um ramo bastante promissor para pessoas que pretendem mudar de área ou conseguir o seu primeiro emprego.&lt;/p&gt;
+&lt;p&gt;Apesar desses números serem convidativos, é importante destacar que o profissional dessa área precisa estar sempre se atualizando devido às mudanças tecnológicas constantes.  Restringindo-se apenas a área de desenvolvimento de software, existem uma grande quantidade de tecnologias disponíveis no mercado e normalmente cada empresa escolhe o seu conjunto conforme a sua experiência e demanda.&lt;/p&gt;
+&lt;p&gt;Uma dessas tecnologias de mercado é a .Net Framework que foi criada pela Microsoft em 2002 como uma plataforma única para embarcar as suas linguagens de desenvolvimento de software. Hoje, na sua versão 4.8, a plataforma permite a criação de aplicações para desktop, web e mobile, por exemplo. Apesar dos seus quase 20 anos de mercado, a framework não se tornou obsoleta e isso fica evidente pela existência de diversas vagas abertas com esse perfil. Uma busca simples por vagas de emprego no LinkedIn para cidade Recife retornou 103 postos de trabalhos abertos no último mês com a necessidade dessa competência.&lt;/p&gt;
+&lt;p&gt;Recém chegado ao Porto Digital, o SiDi, um dos maiores institutos de ciência e tecnologia do Brasil, trouxe consigo toda a sua experiência no desenvolvimento de projetos inovadores para Pernambuco. Essa chegada trouxe também uma série de demandas de profissionais capacitados para os desafios enfrentados pela empresa.&lt;/p&gt;
+&lt;p&gt;Atualmente no SiDi há uma carência de profissionais com conhecimento em .NET e por isso faz-se necessário o investimento num programa de capacitação. Sendo assim, essa formação visa oferecer aos alunos do IFPE o primeiro contato com a plataforma .NET e com outras tecnologias do âmbito de desenvolvimento de software. Ao término da formação, os dez melhores alunos irão se aprofundar nessa área através da imersão em problemas reais de desenvolvimento trazidos pela empresa SiDi.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
