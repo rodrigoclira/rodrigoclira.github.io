@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phd | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/tag/phd/</link>
+      <atom:link href="https://rodrigoclira.github.io/tag/phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>phd</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Sun, 26 Sep 2021 23:57:14 -0300</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>phd</title>
+      <link>https://rodrigoclira.github.io/tag/phd/</link>
+    </image>
+    
+    <item>
+      <title>Publicação no Latin America Conference on Computational Intelligence (LA-CCI 2021)</title>
+      <link>https://rodrigoclira.github.io/post/2021/lacci2021/</link>
+      <pubDate>Sun, 26 Sep 2021 23:57:14 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/post/2021/lacci2021/</guid>
+      <description>&lt;p&gt;O artigo &amp;ldquo;Modelling the Social Interactions in Grey Wolf Optimizer&amp;rdquo; foi aceito no &lt;a href=&#34;https://fbln.me/lacci/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LA-CCI&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Autores: &lt;strong&gt;Rodrigo C. Lira&lt;/strong&gt;, Mariana Macedo, Hugo Valadares Siqueira. Ronaldo Menezes, Carmelo Bastos-Filho&lt;/p&gt;
+&lt;p&gt;Abstract:
+&amp;ldquo;Swarm  Intelligence  has  been  successfully  used  forsolving high-dimensional and multimodal optimization problems.However, the wide range of swarm-based techniques, operators,and  parameters  requires  prior  knowledge  before  applying  themto  real-world  problems.  Because  of  this,  we  have  been  study-ing  the  meso-level  characteristics  that  emerge  from  the  socialinteractions  within  the  swarm  to  understand  each  swarm-basedtechnique’s  unique  characteristics.  In  this  paper,  we  model  andstudy the interaction network of the Grey Wolf Optimizer (GWO)to  capture  its  social  behaviour.  We  used  Portrait  divergence  tocompare  the  similarity  between  network  structures  over  exper-iments,  simulations  and  iterations  of  the  GWO.  We  also  usedKullback divergence to compare the probability distributions ofthe  network  flows  varying  over  experiments,  simulations  anditerations  of  the  GWO.  Furthermore,  we  discovered  we  couldidentify  the  GWO  convergence  using  the  interaction  networkapproach.  Comparing  different  simulations,  we  found  that  thewolves  communicate  using  a  stable  network  structure  but  notnecessarily  a  stable  network  flow  indicating  variance  in  thenumber  of  highly  influential  wolves.  We  also  point  out  patternsfound in GWO that appears to be similar to other swarm-basedalgorithms  (GPSO  and  FSS).&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
