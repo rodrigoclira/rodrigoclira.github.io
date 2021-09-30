@@ -25,9 +25,9 @@
     
     <item>
       <title>Desenvolvimento de uma placa PCB para fins educacionais</title>
-      <link>https://rodrigoclira.github.io/post/projeto-easyeda/</link>
+      <link>https://rodrigoclira.github.io/post/2020/projeto-easyeda/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://rodrigoclira.github.io/post/projeto-easyeda/</guid>
+      <guid>https://rodrigoclira.github.io/post/2020/projeto-easyeda/</guid>
       <description>&lt;h2 id=&#34;motivação&#34;&gt;Motivação&lt;/h2&gt;
 &lt;p&gt;Desde 2018.2 ensino a disciplina de Prática Profissional Supervisionada no curso técnico de Manutenção e Suporte em Informática do IFPE Campus Paulista. Venho implementando, cada semestre com maior intensidade, a realização de atividades práticas que possam sejam úteis na formação dos alunos desse curso. Pela característica do curso, as atividades ficam muito relacionadas as áreas de redes de computadores, manutenção de computadores e eletrônica.&lt;/p&gt;
 &lt;p&gt;Uma atividade que sempre faço questão de realizar é a de remoção e soldagem de componentes eletrônicos. Já utilizei num passado a placa &lt;a href=&#34;https://franzininho.com.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Franzininho&lt;/a&gt;. Na ocasião precisei pedir para os alunos formarem grupos e comprarem os componentes pois eu só tinha as placas para doar. Lembro que apesar dos custos, eles aceitaram e se empolgaram bastante na realização da atividade de montagem da placa. Na imagem abaixo é possível ver uma foto de um dos alunos validando a soldagem dos componentes.&lt;/p&gt;

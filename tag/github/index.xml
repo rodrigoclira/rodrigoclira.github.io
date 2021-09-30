@@ -14,9 +14,9 @@
     
     <item>
       <title>Git Cheat Sheet</title>
-      <link>https://rodrigoclira.github.io/post/git-cheat-sheet/</link>
+      <link>https://rodrigoclira.github.io/post/2021/git-cheat-sheet/</link>
       <pubDate>Thu, 15 Jul 2021 23:57:14 -0300</pubDate>
-      <guid>https://rodrigoclira.github.io/post/git-cheat-sheet/</guid>
+      <guid>https://rodrigoclira.github.io/post/2021/git-cheat-sheet/</guid>
       <description>&lt;p&gt;Git é o sistema de controle de versão distribuído gratuito e de código aberto responsável por tudo o que o &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; relacionado que acontece localmente no seu computador. Esta folha de dicas apresenta os mais importantes e comumente usados comandos para fácil referência.&lt;/p&gt;
 &lt;h2 id=&#34;instalação-e-gui&#34;&gt;Instalação e GUI&lt;/h2&gt;
 &lt;p&gt;Com instaladores específicos de plataforma para Git, o GitHub também fornece o facilidade de se manter atualizado com os últimos lançamentos do comando ferramenta de linha ao fornecer uma interface gráfica do usuário para o dia-a-dia interação, revisão e sincronização de repositório&lt;/p&gt;

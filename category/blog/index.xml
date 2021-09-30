@@ -5,7 +5,7 @@
     <link>https://rodrigoclira.github.io/category/blog/</link>
       <atom:link href="https://rodrigoclira.github.io/category/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>blog</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Thu, 15 Jul 2021 23:57:14 -0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Sun, 26 Sep 2021 23:57:14 -0300</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>blog</title>
@@ -13,10 +13,22 @@
     </image>
     
     <item>
+      <title>Publicação no Latin America Conference on Computational Intelligence (LA-CCI 2021)</title>
+      <link>https://rodrigoclira.github.io/post/2021/lacci2021/</link>
+      <pubDate>Sun, 26 Sep 2021 23:57:14 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/post/2021/lacci2021/</guid>
+      <description>&lt;p&gt;O artigo &amp;ldquo;Modelling the Social Interactions in Grey Wolf Optimizer&amp;rdquo; foi aceito no &lt;a href=&#34;https://fbln.me/lacci/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LA-CCI&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Autores: &lt;strong&gt;Rodrigo C. Lira&lt;/strong&gt;, Mariana Macedo, Hugo Valadares Siqueira. Ronaldo Menezes, Carmelo Bastos-Filho&lt;/p&gt;
+&lt;p&gt;Abstract:
+&amp;ldquo;Swarm  Intelligence  has  been  successfully  used  forsolving high-dimensional and multimodal optimization problems.However, the wide range of swarm-based techniques, operators,and  parameters  requires  prior  knowledge  before  applying  themto  real-world  problems.  Because  of  this,  we  have  been  study-ing  the  meso-level  characteristics  that  emerge  from  the  socialinteractions  within  the  swarm  to  understand  each  swarm-basedtechnique’s  unique  characteristics.  In  this  paper,  we  model  andstudy the interaction network of the Grey Wolf Optimizer (GWO)to  capture  its  social  behaviour.  We  used  Portrait  divergence  tocompare  the  similarity  between  network  structures  over  exper-iments,  simulations  and  iterations  of  the  GWO.  We  also  usedKullback divergence to compare the probability distributions ofthe  network  flows  varying  over  experiments,  simulations  anditerations  of  the  GWO.  Furthermore,  we  discovered  we  couldidentify  the  GWO  convergence  using  the  interaction  networkapproach.  Comparing  different  simulations,  we  found  that  thewolves  communicate  using  a  stable  network  structure  but  notnecessarily  a  stable  network  flow  indicating  variance  in  thenumber  of  highly  influential  wolves.  We  also  point  out  patternsfound in GWO that appears to be similar to other swarm-basedalgorithms  (GPSO  and  FSS).&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Git Cheat Sheet</title>
-      <link>https://rodrigoclira.github.io/post/git-cheat-sheet/</link>
+      <link>https://rodrigoclira.github.io/post/2021/git-cheat-sheet/</link>
       <pubDate>Thu, 15 Jul 2021 23:57:14 -0300</pubDate>
-      <guid>https://rodrigoclira.github.io/post/git-cheat-sheet/</guid>
+      <guid>https://rodrigoclira.github.io/post/2021/git-cheat-sheet/</guid>
       <description>&lt;p&gt;Git é o sistema de controle de versão distribuído gratuito e de código aberto responsável por tudo o que o &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; relacionado que acontece localmente no seu computador. Esta folha de dicas apresenta os mais importantes e comumente usados comandos para fácil referência.&lt;/p&gt;
 &lt;h2 id=&#34;instalação-e-gui&#34;&gt;Instalação e GUI&lt;/h2&gt;
 &lt;p&gt;Com instaladores específicos de plataforma para Git, o GitHub também fornece o facilidade de se manter atualizado com os últimos lançamentos do comando ferramenta de linha ao fornecer uma interface gráfica do usuário para o dia-a-dia interação, revisão e sincronização de repositório&lt;/p&gt;
@@ -103,9 +115,9 @@ Problem&amp;rdquo; foi aceito no &lt;a href=&#34;https://sol.sbc.org.br/journals
     
     <item>
       <title>Como manter o processo mesmo após sair da sessão</title>
-      <link>https://rodrigoclira.github.io/post/cmd-screen/</link>
+      <link>https://rodrigoclira.github.io/post/2021/cmd-screen/</link>
       <pubDate>Wed, 05 May 2021 23:57:14 -0300</pubDate>
-      <guid>https://rodrigoclira.github.io/post/cmd-screen/</guid>
+      <guid>https://rodrigoclira.github.io/post/2021/cmd-screen/</guid>
       <description>&lt;p&gt;Para manter a execução de um comando mesmo após sair da sessão pode-se utilizar o comando screen. Os passos são os seguintes:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -123,9 +135,9 @@ Problem&amp;rdquo; foi aceito no &lt;a href=&#34;https://sol.sbc.org.br/journals
     
     <item>
       <title>Publicação no Computer on the Beach (COTB 2020)</title>
-      <link>https://rodrigoclira.github.io/post/cotb2021/</link>
+      <link>https://rodrigoclira.github.io/post/2021/cotb2021/</link>
       <pubDate>Fri, 05 Mar 2021 23:57:14 -0300</pubDate>
-      <guid>https://rodrigoclira.github.io/post/cotb2021/</guid>
+      <guid>https://rodrigoclira.github.io/post/2021/cotb2021/</guid>
       <description>&lt;p&gt;O artigo &amp;ldquo;Construção de um Jogo Usando Robótica para a Formação deHabilidades de Programação em Crianças&amp;rdquo; foi aceito no &lt;a href=&#34;https://www.computeronthebeach.com.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;12ª edição do Computer on the Beach (COTB2021)&lt;/a&gt;. O trabalho foi fruto de projeto aprovado no Programa Institucional para Concessão de Bolsas de Extensão (PIBEX), com a participação dos seguintes autores:&lt;/p&gt;
 &lt;p&gt;William Teles de AndradeJunio, Gaston Alexandre Gouveia, Gabriel Lima Gonçalves da Silva, Julia Yasmim de Castro Silva e &lt;strong&gt;Rodrigo Cesar Lira da Silva&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Abstract:
@@ -166,9 +178,9 @@ Problem&amp;rdquo; foi aceito no &lt;a href=&#34;https://sol.sbc.org.br/journals
     
     <item>
       <title>Publicação no Symposium on Knowledge Discovery, Mining and Learning (KDMiLe 2020)</title>
-      <link>https://rodrigoclira.github.io/post/kdmile2020/</link>
+      <link>https://rodrigoclira.github.io/post/2020/kdmile2020/</link>
       <pubDate>Thu, 24 Sep 2020 23:57:14 -0300</pubDate>
-      <guid>https://rodrigoclira.github.io/post/kdmile2020/</guid>
+      <guid>https://rodrigoclira.github.io/post/2020/kdmile2020/</guid>
       <description>&lt;p&gt;O artigo &amp;ldquo;Impact of Unusual Features in Credit Scoring Problem&amp;rdquo; foi aceito no &lt;a href=&#34;http://www2.sbc.org.br/bracis2020/kdmile.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Symposium on Knowledge Discovery, Mining and Learning (KDMiLe)&lt;/a&gt;. O trabalho foi fruto do projeto da disciplina de Mineração de Dados do PPGEC/Ecomp. Mais informações sobre o artigo:&lt;/p&gt;
 &lt;p&gt;Autores: L. F. Vercosa, &lt;strong&gt;R. Lira&lt;/strong&gt;, R. Monteiro, K. Silva, J. Magalhaes, A. Maciel, B. Leite, C. Bastos-Filho&lt;/p&gt;
 &lt;p&gt;Abstract:
@@ -178,9 +190,9 @@ Problem&amp;rdquo; foi aceito no &lt;a href=&#34;https://sol.sbc.org.br/journals
     
     <item>
       <title>O elefante de Von Neumann</title>
-      <link>https://rodrigoclira.github.io/post/elefante-von-neumann/</link>
+      <link>https://rodrigoclira.github.io/post/2020/elefante-von-neumann/</link>
       <pubDate>Sun, 28 Jun 2020 17:32:05 -0300</pubDate>
-      <guid>https://rodrigoclira.github.io/post/elefante-von-neumann/</guid>
+      <guid>https://rodrigoclira.github.io/post/2020/elefante-von-neumann/</guid>
       <description>&lt;p&gt;Acho que ouvi uma menção a essa história pela primeira vez quando estava lendo o &lt;a href=&#34;http://deeplearningbook.com.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning Book&lt;/a&gt;, mas também pode ter sido em alguma aula do doutorado. Pesquisei um pouco e achei poucas informações sobre ela. Apesar de ter acontecido na década de 50, o conteúdo me parece muito atual.&lt;/p&gt;
 &lt;p&gt;Em um &lt;a href=&#34;https://doi.org/10.1038/427297a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;artigo de 2004 da Nature&lt;/a&gt;, o professor &lt;a href=&#34;https://pt.wikipedia.org/wiki/Freeman_Dyson&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Freeman Dyson&lt;/a&gt; descreveu o encontro que teve em 1953 com &lt;a href=&#34;https://pt.wikipedia.org/wiki/Enrico_Fermi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enrico Fermi&lt;/a&gt;, que na época já era vencedor de um &lt;a href=&#34;https://www.nobelprize.org/prizes/physics/1938/fermi/facts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;prêmio nobel&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;O texto do artigo é muito interessante e vale a pena ser lido, porém o que interessa para o post é o diálogo final. Segundo descreve no artigo, em um momento do encontro, já desesperado pelo que tinha ouvido, Dyson questionou se Fermi não estava impressionado com os resultados numéricos da pesquisa que acabara de apresentá-lo. Nesse momento, Fermi perguntou o seguinte: &amp;ldquo;&lt;em&gt;Quantos parâmetros arbitrários você usou para seus cálculos?&lt;/em&gt;&amp;rdquo;. Após pensar, Dyson informou: &amp;ldquo;&lt;em&gt;Quatro&lt;/em&gt;&amp;rdquo; e então Femi disse o seguinte: &lt;strong&gt;&amp;quot;&lt;em&gt;Lembro que meu amigo Johnny von Neumann costumava dizer que com quatro parâmetros eu posso ajustar um elefante, e com cinco, posso fazê-lo mexer sua tromba&lt;/em&gt;&amp;quot;&lt;/strong&gt;.&lt;/p&gt;
@@ -284,9 +296,9 @@ Problem&amp;rdquo; foi aceito no &lt;a href=&#34;https://sol.sbc.org.br/journals
     
     <item>
       <title>Usando o Netlogo para simular a transmissão do coronavírus</title>
-      <link>https://rodrigoclira.github.io/post/usando-netlogo-para-simular-transmissao-covid19/</link>
+      <link>https://rodrigoclira.github.io/post/2020/usando-netlogo-para-simular-transmissao-covid19/</link>
       <pubDate>Mon, 08 Jun 2020 15:14:19 -0300</pubDate>
-      <guid>https://rodrigoclira.github.io/post/usando-netlogo-para-simular-transmissao-covid19/</guid>
+      <guid>https://rodrigoclira.github.io/post/2020/usando-netlogo-para-simular-transmissao-covid19/</guid>
       <description>&lt;p&gt;E se tentássemos simular o comportamento do vírus utilizando um sistema multiagentes? Essa pergunta passou pela minha cabeça em uma das noites de quarentena. Foi por isso que eu resolvi utilizar o &lt;a href=&#34;http://ccl.northwestern.edu/netlogo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NetLogo&lt;/a&gt;, um ambiente de simulação que permite o desenvolvimento de modelos multiagentes, para simular a transmissão do novo coronavírus e mostrar como as ações recomendadas pela Organização Mundial de Saúde (OMS) são importantes para diminuir o contágio dele.&lt;/p&gt;
 &lt;p&gt;Antes de continuarmos, é importante deixar claro que a simulação não tem pretensões de prever o quantitativo de óbitos que serão causadas pela doença . O objetivo principal é demonstrar o comportamento do vírus e seus efeitos em diferentes cenários num mundo restrito composto inicialmente por 700 agentes . Ressalta-se que certas informações não foram levadas em consideração no experimento, como a sobrecarga de unidades de saúde, comorbidades ou idade dos infectados, fatores que podem agravar o combate à doença.&lt;/p&gt;
 &lt;p&gt;O modelo desenvolvido foi baseado no &lt;em&gt;&lt;a href=&#34;https://ccl.northwestern.edu/netlogo/models/Virus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Virus&lt;/a&gt;&lt;/em&gt;, um modelo para simulação de transmissão de doenças virais, que está disponível na biblioteca do NetLogo. Nele foram realizadas as seguintes alterações:&lt;/p&gt;
@@ -483,9 +495,9 @@ Problem&amp;rdquo; foi aceito no &lt;a href=&#34;https://sol.sbc.org.br/journals
     
     <item>
       <title>Desenvolvimento de uma placa PCB para fins educacionais</title>
-      <link>https://rodrigoclira.github.io/post/projeto-easyeda/</link>
+      <link>https://rodrigoclira.github.io/post/2020/projeto-easyeda/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://rodrigoclira.github.io/post/projeto-easyeda/</guid>
+      <guid>https://rodrigoclira.github.io/post/2020/projeto-easyeda/</guid>
       <description>&lt;h2 id=&#34;motivação&#34;&gt;Motivação&lt;/h2&gt;
 &lt;p&gt;Desde 2018.2 ensino a disciplina de Prática Profissional Supervisionada no curso técnico de Manutenção e Suporte em Informática do IFPE Campus Paulista. Venho implementando, cada semestre com maior intensidade, a realização de atividades práticas que possam sejam úteis na formação dos alunos desse curso. Pela característica do curso, as atividades ficam muito relacionadas as áreas de redes de computadores, manutenção de computadores e eletrônica.&lt;/p&gt;
 &lt;p&gt;Uma atividade que sempre faço questão de realizar é a de remoção e soldagem de componentes eletrônicos. Já utilizei num passado a placa &lt;a href=&#34;https://franzininho.com.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Franzininho&lt;/a&gt;. Na ocasião precisei pedir para os alunos formarem grupos e comprarem os componentes pois eu só tinha as placas para doar. Lembro que apesar dos custos, eles aceitaram e se empolgaram bastante na realização da atividade de montagem da placa. Na imagem abaixo é possível ver uma foto de um dos alunos validando a soldagem dos componentes.&lt;/p&gt;
@@ -589,9 +601,9 @@ Problem&amp;rdquo; foi aceito no &lt;a href=&#34;https://sol.sbc.org.br/journals
     
     <item>
       <title>Hello World!</title>
-      <link>https://rodrigoclira.github.io/post/novo-site/</link>
+      <link>https://rodrigoclira.github.io/post/2020/novo-site/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://rodrigoclira.github.io/post/novo-site/</guid>
+      <guid>https://rodrigoclira.github.io/post/2020/novo-site/</guid>
       <description>&lt;h2 id=&#34;motivação&#34;&gt;Motivação&lt;/h2&gt;
 &lt;p&gt;Resolvi tirar o meu site do Google Sites e colocá-lo no Github.io. Tive essa ideia de migrar o site há alguns dias quando eu vi uma dicussão que aconteceu em resposta ao tweet do &lt;a href=&#34;https://twitter.com/juditecypreste/status/1256947732872380418&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@judite&lt;/a&gt;. Conhecer o site da &lt;a href=&#34;https://nataliadiaz.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Profª Natalia Días&lt;/a&gt; foi o ponto inicial para eu começar essa empreitada de migração. Essa migração também foi motivada pelo meu anseio de ter mais liberdade e tentar reviver um blog que na época da graduação mantive por muito tempo.&lt;/p&gt;
 &lt;h2 id=&#34;tecnologias&#34;&gt;Tecnologias&lt;/h2&gt;

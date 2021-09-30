@@ -14,9 +14,9 @@
     
     <item>
       <title>Como manter o processo mesmo após sair da sessão</title>
-      <link>https://rodrigoclira.github.io/post/cmd-screen/</link>
+      <link>https://rodrigoclira.github.io/post/2021/cmd-screen/</link>
       <pubDate>Wed, 05 May 2021 23:57:14 -0300</pubDate>
-      <guid>https://rodrigoclira.github.io/post/cmd-screen/</guid>
+      <guid>https://rodrigoclira.github.io/post/2021/cmd-screen/</guid>
       <description>&lt;p&gt;Para manter a execução de um comando mesmo após sair da sessão pode-se utilizar o comando screen. Os passos são os seguintes:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;

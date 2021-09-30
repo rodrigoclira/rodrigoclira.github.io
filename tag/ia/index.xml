@@ -25,9 +25,9 @@
     
     <item>
       <title>O elefante de Von Neumann</title>
-      <link>https://rodrigoclira.github.io/post/elefante-von-neumann/</link>
+      <link>https://rodrigoclira.github.io/post/2020/elefante-von-neumann/</link>
       <pubDate>Sun, 28 Jun 2020 17:32:05 -0300</pubDate>
-      <guid>https://rodrigoclira.github.io/post/elefante-von-neumann/</guid>
+      <guid>https://rodrigoclira.github.io/post/2020/elefante-von-neumann/</guid>
       <description>&lt;p&gt;Acho que ouvi uma menção a essa história pela primeira vez quando estava lendo o &lt;a href=&#34;http://deeplearningbook.com.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning Book&lt;/a&gt;, mas também pode ter sido em alguma aula do doutorado. Pesquisei um pouco e achei poucas informações sobre ela. Apesar de ter acontecido na década de 50, o conteúdo me parece muito atual.&lt;/p&gt;
 &lt;p&gt;Em um &lt;a href=&#34;https://doi.org/10.1038/427297a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;artigo de 2004 da Nature&lt;/a&gt;, o professor &lt;a href=&#34;https://pt.wikipedia.org/wiki/Freeman_Dyson&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Freeman Dyson&lt;/a&gt; descreveu o encontro que teve em 1953 com &lt;a href=&#34;https://pt.wikipedia.org/wiki/Enrico_Fermi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enrico Fermi&lt;/a&gt;, que na época já era vencedor de um &lt;a href=&#34;https://www.nobelprize.org/prizes/physics/1938/fermi/facts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;prêmio nobel&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;O texto do artigo é muito interessante e vale a pena ser lido, porém o que interessa para o post é o diálogo final. Segundo descreve no artigo, em um momento do encontro, já desesperado pelo que tinha ouvido, Dyson questionou se Fermi não estava impressionado com os resultados numéricos da pesquisa que acabara de apresentá-lo. Nesse momento, Fermi perguntou o seguinte: &amp;ldquo;&lt;em&gt;Quantos parâmetros arbitrários você usou para seus cálculos?&lt;/em&gt;&amp;rdquo;. Após pensar, Dyson informou: &amp;ldquo;&lt;em&gt;Quatro&lt;/em&gt;&amp;rdquo; e então Femi disse o seguinte: &lt;strong&gt;&amp;quot;&lt;em&gt;Lembro que meu amigo Johnny von Neumann costumava dizer que com quatro parâmetros eu posso ajustar um elefante, e com cinco, posso fazê-lo mexer sua tromba&lt;/em&gt;&amp;quot;&lt;/strong&gt;.&lt;/p&gt;
@@ -131,9 +131,9 @@
     
     <item>
       <title>Usando o Netlogo para simular a transmissão do coronavírus</title>
-      <link>https://rodrigoclira.github.io/post/usando-netlogo-para-simular-transmissao-covid19/</link>
+      <link>https://rodrigoclira.github.io/post/2020/usando-netlogo-para-simular-transmissao-covid19/</link>
       <pubDate>Mon, 08 Jun 2020 15:14:19 -0300</pubDate>
-      <guid>https://rodrigoclira.github.io/post/usando-netlogo-para-simular-transmissao-covid19/</guid>
+      <guid>https://rodrigoclira.github.io/post/2020/usando-netlogo-para-simular-transmissao-covid19/</guid>
       <description>&lt;p&gt;E se tentássemos simular o comportamento do vírus utilizando um sistema multiagentes? Essa pergunta passou pela minha cabeça em uma das noites de quarentena. Foi por isso que eu resolvi utilizar o &lt;a href=&#34;http://ccl.northwestern.edu/netlogo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NetLogo&lt;/a&gt;, um ambiente de simulação que permite o desenvolvimento de modelos multiagentes, para simular a transmissão do novo coronavírus e mostrar como as ações recomendadas pela Organização Mundial de Saúde (OMS) são importantes para diminuir o contágio dele.&lt;/p&gt;
 &lt;p&gt;Antes de continuarmos, é importante deixar claro que a simulação não tem pretensões de prever o quantitativo de óbitos que serão causadas pela doença . O objetivo principal é demonstrar o comportamento do vírus e seus efeitos em diferentes cenários num mundo restrito composto inicialmente por 700 agentes . Ressalta-se que certas informações não foram levadas em consideração no experimento, como a sobrecarga de unidades de saúde, comorbidades ou idade dos infectados, fatores que podem agravar o combate à doença.&lt;/p&gt;
 &lt;p&gt;O modelo desenvolvido foi baseado no &lt;em&gt;&lt;a href=&#34;https://ccl.northwestern.edu/netlogo/models/Virus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Virus&lt;/a&gt;&lt;/em&gt;, um modelo para simulação de transmissão de doenças virais, que está disponível na biblioteca do NetLogo. Nele foram realizadas as seguintes alterações:&lt;/p&gt;
