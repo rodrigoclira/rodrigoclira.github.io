@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hauwei | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/tag/hauwei/</link>
+      <atom:link href="https://rodrigoclira.github.io/tag/hauwei/index.xml" rel="self" type="application/rss+xml" />
+    <description>hauwei</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Mon, 18 Oct 2021 23:00:14 -0300</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>hauwei</title>
+      <link>https://rodrigoclira.github.io/tag/hauwei/</link>
+    </image>
+    
+    <item>
+      <title>Huawei HCIA-AI e a AWS Solutions Architect</title>
+      <link>https://rodrigoclira.github.io/post/2021/certificacoes-agosto/</link>
+      <pubDate>Mon, 18 Oct 2021 23:00:14 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/post/2021/certificacoes-agosto/</guid>
+      <description>&lt;p&gt;No mês de agosto foi o momento de retirar duas certificações importantes. A primeira foi o &lt;a href=&#34;https://talent.huaweiuniversity.com/portal/courses/HuaweiX&amp;#43;EBG2020CCHW1100087/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huawei HCIA-AI&lt;/a&gt; que valida os conhecimentos em IA e a utilização dos serviços e produtos da Hauwei nessa área. A seguda certificação foi &lt;a href=&#34;https://aws.amazon.com/pt/certification/certified-solutions-architect-associate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AWS Solutions Architect&lt;/a&gt; que valida o conhecimento na criação de projetos de sistemas distribuídos usando os serviços da AWS.&lt;/p&gt;
+&lt;p&gt;A certificação da Huawei foi alcançada com a ajuda da formação realizada pela UFERSA. Já a certificação da AWS contou com o suporte do programa AWS Academy. Agora com essa certificação eu sou um AWS Accredited Educator habilitado a ofertar os cursos AWS Cloud Foundation e o AWS Cloud Architecting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
