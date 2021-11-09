@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anuradha Gokhale | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/author/anuradha-gokhale/</link>
+      <atom:link href="https://rodrigoclira.github.io/author/anuradha-gokhale/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anuradha Gokhale</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Anuradha Gokhale</title>
+      <link>https://rodrigoclira.github.io/author/anuradha-gokhale/</link>
+    </image>
+    
+    <item>
+      <title>Overview on Binary Optimisation using Swarm-inspired Algorithms</title>
+      <link>https://rodrigoclira.github.io/publication/journal/ieeeaccess-2021/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/journal/ieeeaccess-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,31 @@
     <link>https://rodrigoclira.github.io/author/mariana-macedo/</link>
       <atom:link href="https://rodrigoclira.github.io/author/mariana-macedo/index.xml" rel="self" type="application/rss+xml" />
     <description>Mariana Macedo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2021</copyright><lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Mariana Macedo</title>
       <link>https://rodrigoclira.github.io/author/mariana-macedo/</link>
     </image>
+    
+    <item>
+      <title>Overview on Binary Optimisation using Swarm-inspired Algorithms</title>
+      <link>https://rodrigoclira.github.io/publication/journal/ieeeaccess-2021/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/journal/ieeeaccess-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling the Social Interactions in Grey Wolf Optimizer</title>
+      <link>https://rodrigoclira.github.io/talk/lacci2021/</link>
+      <pubDate>Wed, 03 Nov 2021 17:30:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/talk/lacci2021/</guid>
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQPSmlBAmaq7nwxcnFXJAyZLPL1c8w4VI9oa_r6t8e4qMevSNMgt09JDdnvKdd48gRfliNgow-ZA1cr/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Fishing for Interactions: A Network Science Approach to Modeling Fish School Search</title>

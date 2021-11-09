@@ -2,8 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rodrigoclira.github.io/publication-type/2/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/author/anuradha-gokhale/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://rodrigoclira.github.io/authors/</loc>
-    <lastmod>2021-10-18T23:25:51-03:00</lastmod>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/author/carmelo-j.-a.-bastos-filho/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/author/clodomir-santana/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/author/elliackin-figueiredo/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/author/hugo-siqueira/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/author/mariana-macedo/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/publication/journal/ieeeaccess-2021/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/publication_types/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/author/carmelo-bastos-filho/</loc>
+    <lastmod>2021-11-03T17:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/tag/doutorado/</loc>
+    <lastmod>2021-11-03T17:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/tag/gwo/</loc>
+    <lastmod>2021-11-03T17:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/author/hugo-valadares/</loc>
+    <lastmod>2021-11-03T17:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/tag/in/</loc>
+    <lastmod>2021-11-03T17:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/talk/lacci2021/</loc>
+    <lastmod>2021-11-03T17:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/author/rodrigo-lira/</loc>
+    <lastmod>2021-11-03T17:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/author/ronaldo-menezes/</loc>
+    <lastmod>2021-11-03T17:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/tags/</loc>
+    <lastmod>2021-11-03T17:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/tag/talk/</loc>
+    <lastmod>2021-11-03T17:30:00+00:00</lastmod>
   </url><url>
     <loc>https://rodrigoclira.github.io/tag/aws/</loc>
     <lastmod>2021-10-18T23:25:51-03:00</lastmod>
@@ -24,12 +84,6 @@
     <lastmod>2021-10-18T23:25:51-03:00</lastmod>
   </url><url>
     <loc>https://rodrigoclira.github.io/post/2021/certificacoes-agosto/</loc>
-    <lastmod>2021-10-18T23:25:51-03:00</lastmod>
-  </url><url>
-    <loc>https://rodrigoclira.github.io/</loc>
-    <lastmod>2021-10-18T23:25:51-03:00</lastmod>
-  </url><url>
-    <loc>https://rodrigoclira.github.io/tags/</loc>
     <lastmod>2021-10-18T23:25:51-03:00</lastmod>
   </url><url>
     <loc>https://rodrigoclira.github.io/publication-type/6/</loc>
@@ -77,12 +131,6 @@
     <loc>https://rodrigoclira.github.io/author/murilo-rebelo-pontes/</loc>
     <lastmod>2021-07-16T00:56:28-03:00</lastmod>
   </url><url>
-    <loc>https://rodrigoclira.github.io/publication_types/</loc>
-    <lastmod>2021-09-02T23:40:53-03:00</lastmod>
-  </url><url>
-    <loc>https://rodrigoclira.github.io/tag/gwo/</loc>
-    <lastmod>2021-09-27T01:12:35-03:00</lastmod>
-  </url><url>
     <loc>https://rodrigoclira.github.io/tag/phd/</loc>
     <lastmod>2021-09-27T01:12:35-03:00</lastmod>
   </url><url>
@@ -101,9 +149,6 @@
     <loc>https://rodrigoclira.github.io/tag/sidi/</loc>
     <lastmod>2021-09-27T01:12:35-03:00</lastmod>
   </url><url>
-    <loc>https://rodrigoclira.github.io/publication-type/2/</loc>
-    <lastmod>2021-09-02T23:40:53-03:00</lastmod>
-  </url><url>
     <loc>https://rodrigoclira.github.io/author/alexandre-m.-a.-maciel/</loc>
     <lastmod>2021-09-02T23:40:53-03:00</lastmod>
   </url><url>
@@ -111,9 +156,6 @@
     <lastmod>2021-09-02T23:40:53-03:00</lastmod>
   </url><url>
     <loc>https://rodrigoclira.github.io/author/byron-l.-d.-bezerra/</loc>
-    <lastmod>2021-09-02T23:40:53-03:00</lastmod>
-  </url><url>
-    <loc>https://rodrigoclira.github.io/author/carmelo-j.-a.-bastos-filho/</loc>
     <lastmod>2021-09-02T23:40:53-03:00</lastmod>
   </url><url>
     <loc>https://rodrigoclira.github.io/author/jailson-o.-liberato/</loc>
@@ -158,12 +200,6 @@
     <loc>https://rodrigoclira.github.io/tag/pensamento-computacional/</loc>
     <lastmod>2021-04-25T00:45:15-03:00</lastmod>
   </url><url>
-    <loc>https://rodrigoclira.github.io/author/rodrigo-lira/</loc>
-    <lastmod>2021-04-25T00:45:15-03:00</lastmod>
-  </url><url>
-    <loc>https://rodrigoclira.github.io/tag/talk/</loc>
-    <lastmod>2021-04-25T00:45:15-03:00</lastmod>
-  </url><url>
     <loc>https://rodrigoclira.github.io/publication-type/1/</loc>
     <lastmod>2021-07-16T00:56:28-03:00</lastmod>
   </url><url>
@@ -179,13 +215,7 @@
     <loc>https://rodrigoclira.github.io/author/marcos-oliveira/</loc>
     <lastmod>2021-07-16T00:56:28-03:00</lastmod>
   </url><url>
-    <loc>https://rodrigoclira.github.io/author/mariana-macedo/</loc>
-    <lastmod>2021-07-16T00:56:28-03:00</lastmod>
-  </url><url>
     <loc>https://rodrigoclira.github.io/author/nishant-gurrapadi/</loc>
-    <lastmod>2021-07-16T00:56:28-03:00</lastmod>
-  </url><url>
-    <loc>https://rodrigoclira.github.io/author/ronaldo-menezes/</loc>
     <lastmod>2021-07-16T00:56:28-03:00</lastmod>
   </url><url>
     <loc>https://rodrigoclira.github.io/tag/pibex/</loc>
@@ -459,9 +489,6 @@
     <lastmod>2020-06-11T16:22:57-03:00</lastmod>
   </url><url>
     <loc>https://rodrigoclira.github.io/author/c.-j.a.bastos-filho/</loc>
-    <lastmod>2020-06-11T16:22:57-03:00</lastmod>
-  </url><url>
-    <loc>https://rodrigoclira.github.io/author/carmelo-bastos-filho/</loc>
     <lastmod>2020-06-11T16:22:57-03:00</lastmod>
   </url><url>
     <loc>https://rodrigoclira.github.io/author/d.-a.-r.-silva/</loc>
