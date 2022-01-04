@@ -2,25 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rodrigoclira.github.io/post/2021/act-softex-recife/</loc>
-    <lastmod>2021-11-16T00:12:49-03:00</lastmod>
-  </url><url>
     <loc>https://rodrigoclira.github.io/authors/</loc>
+    <lastmod>2021-12-22T23:57:14-03:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/category/blog/</loc>
+    <lastmod>2021-12-22T23:57:14-03:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/categories/</loc>
+    <lastmod>2021-12-22T23:57:14-03:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/post/2021/oficina40/</loc>
+    <lastmod>2021-12-22T23:57:14-03:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/</loc>
+    <lastmod>2021-12-22T23:57:14-03:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/tag/setec/</loc>
+    <lastmod>2021-12-22T23:57:14-03:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/tags/</loc>
+    <lastmod>2021-12-22T23:57:14-03:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/post/2021/apresentacao-brumadinho/</loc>
+    <lastmod>2021-12-07T23:57:14-03:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/tag/mover-se-na-web/</loc>
+    <lastmod>2021-12-07T23:57:14-03:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/tag/nic.br/</loc>
+    <lastmod>2021-12-07T23:57:14-03:00</lastmod>
+  </url><url>
+    <loc>https://rodrigoclira.github.io/post/2021/act-softex-recife/</loc>
     <lastmod>2021-11-16T00:12:49-03:00</lastmod>
   </url><url>
     <loc>https://rodrigoclira.github.io/tag/ifpe/</loc>
     <lastmod>2021-11-16T00:12:49-03:00</lastmod>
   </url><url>
     <loc>https://rodrigoclira.github.io/tag/iot/</loc>
-    <lastmod>2021-11-16T00:12:49-03:00</lastmod>
-  </url><url>
-    <loc>https://rodrigoclira.github.io/</loc>
-    <lastmod>2021-11-16T00:12:49-03:00</lastmod>
+    <lastmod>2021-11-16T00:18:49-03:00</lastmod>
   </url><url>
     <loc>https://rodrigoclira.github.io/tag/softex/</loc>
-    <lastmod>2021-11-16T00:12:49-03:00</lastmod>
-  </url><url>
-    <loc>https://rodrigoclira.github.io/tags/</loc>
     <lastmod>2021-11-16T00:12:49-03:00</lastmod>
   </url><url>
     <loc>https://rodrigoclira.github.io/publication-type/2/</loc>
@@ -78,12 +99,6 @@
     <lastmod>2021-11-08T23:57:31-03:00</lastmod>
   </url><url>
     <loc>https://rodrigoclira.github.io/tag/aws/</loc>
-    <lastmod>2021-10-18T23:25:51-03:00</lastmod>
-  </url><url>
-    <loc>https://rodrigoclira.github.io/category/blog/</loc>
-    <lastmod>2021-10-18T23:25:51-03:00</lastmod>
-  </url><url>
-    <loc>https://rodrigoclira.github.io/categories/</loc>
     <lastmod>2021-10-18T23:25:51-03:00</lastmod>
   </url><url>
     <loc>https://rodrigoclira.github.io/tag/cloud/</loc>
@@ -282,10 +297,7 @@
     <lastmod>2020-08-08T16:54:11-03:00</lastmod>
   </url><url>
     <loc>https://rodrigoclira.github.io/tag/arduino/</loc>
-    <lastmod>2021-09-27T01:12:35-03:00</lastmod>
-  </url><url>
-    <loc>https://rodrigoclira.github.io/tag/nic.br/</loc>
-    <lastmod>2020-08-08T16:54:11-03:00</lastmod>
+    <lastmod>2021-11-16T00:18:49-03:00</lastmod>
   </url><url>
     <loc>https://rodrigoclira.github.io/tag/deep-learning/</loc>
     <lastmod>2021-09-27T01:12:35-03:00</lastmod>
@@ -348,7 +360,7 @@
     <lastmod>2020-06-11T16:22:57-03:00</lastmod>
   </url><url>
     <loc>https://rodrigoclira.github.io/project/sistema-monitoramento/</loc>
-    <lastmod>2020-10-16T01:45:55-03:00</lastmod>
+    <lastmod>2021-11-16T00:18:49-03:00</lastmod>
   </url><url>
     <loc>https://rodrigoclira.github.io/post/2021/clube-xadrez/</loc>
     <lastmod>2021-09-27T01:12:35-03:00</lastmod>
