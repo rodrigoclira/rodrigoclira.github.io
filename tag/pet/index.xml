@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PET | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/tag/pet/</link>
+      <atom:link href="https://rodrigoclira.github.io/tag/pet/index.xml" rel="self" type="application/rss+xml" />
+    <description>PET</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2022</copyright><lastBuildDate>Wed, 15 Dec 2021 23:18:25 -0300</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>PET</title>
+      <link>https://rodrigoclira.github.io/tag/pet/</link>
+    </image>
+    
+    <item>
+      <title>Apresentação do projeto &#39;Capacitação tecnológica em .NET do IFPE/SIDI&#39; no Seminário de Integração e Avaliação do Programa de Extensão Tecnológica</title>
+      <link>https://rodrigoclira.github.io/post/2021/pet-facepe-encerramento-2021/</link>
+      <pubDate>Wed, 15 Dec 2021 23:18:25 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/post/2021/pet-facepe-encerramento-2021/</guid>
+      <description>&lt;p&gt;Vídeo apresentado no Seminário de Integração e Avaliação Final do Programa de Extensão Tecnológica (PET) da FACEPE/SECTI.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/LwEwKuJse1M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.facepe.br/secti-e-facepe-promovem-o-seminario-de-integracao-e-avaliacao-final-do-programa-de-extensao-tecnologica-pet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mais Informações sobre o seminário&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
