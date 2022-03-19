@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="Professor" />
+  <meta name="description" content="O Django 3.x não suporta a versão do sqlite instalada no Amazon Linux 2. Para atualizar, baixe o pacote atualizado fedora e instale-o na sua EC2. Depois disso será possível usar projetos com sqlite." />
 
   
-  <link rel="alternate" hreflang="pt" href="https://rodrigoclira.github.io/authors/" />
+  <link rel="alternate" hreflang="pt" href="https://rodrigoclira.github.io/post/2022/updating-sqlite-amazon-linux-2/" />
 
   
 
@@ -310,8 +310,6 @@
   
 
   
-    <link rel="alternate" href="/authors/index.xml" type="application/rss+xml" title="Rodrigo Lira" />
-  
 
   
     <link rel="manifest" href="/manifest.webmanifest" />
@@ -320,7 +318,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://rodrigoclira.github.io/authors/" />
+  <link rel="canonical" href="https://rodrigoclira.github.io/post/2022/updating-sqlite-amazon-linux-2/" />
 
   
   
@@ -340,33 +338,82 @@
     <meta property="twitter:creator" content="@rodrigoclira" />
   
   <meta property="og:site_name" content="Rodrigo Lira" />
-  <meta property="og:url" content="https://rodrigoclira.github.io/authors/" />
-  <meta property="og:title" content="Authors | Rodrigo Lira" />
-  <meta property="og:description" content="Professor" /><meta property="og:image" content="https://rodrigoclira.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="https://rodrigoclira.github.io/post/2022/updating-sqlite-amazon-linux-2/" />
+  <meta property="og:title" content="Atualizando o SQLITE no Amazon Linux 2 | Rodrigo Lira" />
+  <meta property="og:description" content="O Django 3.x não suporta a versão do sqlite instalada no Amazon Linux 2. Para atualizar, baixe o pacote atualizado fedora e instale-o na sua EC2. Depois disso será possível usar projetos com sqlite." /><meta property="og:image" content="https://rodrigoclira.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://rodrigoclira.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="pt" />
   
     
-      <meta property="og:updated_time" content="2022-03-18T23:18:25-03:00" />
+      <meta
+        property="article:published_time"
+        content="2022-03-18T23:18:25-03:00"
+      />
     
+    <meta property="article:modified_time" content="2022-03-18T23:18:25-03:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://rodrigoclira.github.io/post/2022/updating-sqlite-amazon-linux-2/"
+  },
+  "headline": "Atualizando o SQLITE no Amazon Linux 2",
+  
+  "datePublished": "2022-03-18T23:18:25-03:00",
+  "dateModified": "2022-03-18T23:18:25-03:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Rodrigo Lira"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Rodrigo Lira",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://rodrigoclira.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "O Django 3.x não suporta a versão do sqlite instalada no Amazon Linux 2. Para atualizar, baixe o pacote atualizado fedora e instale-o na sua EC2. Depois disso será possível usar projetos com sqlite."
+}
+</script>
+
+  
+
+  
+
   
 
   
 
 
 
-  
-
-  
 
 
-
-
-
-  <title>Authors | Rodrigo Lira</title>
+  <title>Atualizando o SQLITE no Amazon Linux 2 | Rodrigo Lira</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="02439368f47d539cfa2edeb539451008" >
 
   
   
@@ -698,90 +745,374 @@
   </div>
 
   <div class="page-body">
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Atualizando o SQLITE no Amazon Linux 2</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/rodrigo-lira/">Rodrigo Lira</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Mar 18, 2022
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 minutos de leitura
+  </span>
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
     
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-    
-  
-<div class="universal-wrapper pt-3">
-  <h1>Authors</h1>
-
-  
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  <ul>
+    <div class="article-style">
+      <p>O Django 3.x não suporta a versão do sqlite instalada no Amazon Linux 2. Para atualizar, baixe o pacote atualizado fedora e instale-o na sua EC2. Depois disso será possível usar projetos com sqlite.</p>
+<pre><code class="language-sh">wget https://kojipkgs.fedoraproject.org//packages/sqlite/3.9.0/1.fc21/x86_64/sqlite-3.9.0-1.fc21.x86_64.rpm
+sudo yum install sqlite-3.9.0-1.fc21.x86_64.rpm -y
+</code></pre>
+
+    </div>
+
     
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/aws/">aws</a>
+  
+  <a class="badge badge-light" href="/tag/sqlite/">sqlite</a>
+  
+  <a class="badge badge-light" href="/tag/amazon-linux-2/">Amazon Linux 2</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
     
       
-      <li><a href="https://rodrigoclira.github.io/author/marcelo-gomes-pereira-de-lacerda/">Marcelo Gomes Pereira de Lacerda</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://rodrigoclira.github.io/post/2022/updating-sqlite-amazon-linux-2/&amp;text=Atualizando%20o%20SQLITE%20no%20Amazon%20Linux%202" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://rodrigoclira.github.io/author/mariana-gomes-da-motta-macedo/">Mariana Gomes da Motta Macedo</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://rodrigoclira.github.io/post/2022/updating-sqlite-amazon-linux-2/&amp;t=Atualizando%20o%20SQLITE%20no%20Amazon%20Linux%202" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://rodrigoclira.github.io/author/murilo-rebelo-pontes/">Murilo Rebelo Pontes</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Atualizando%20o%20SQLITE%20no%20Amazon%20Linux%202&amp;body=https://rodrigoclira.github.io/post/2022/updating-sqlite-amazon-linux-2/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://rodrigoclira.github.io/author/alexandre-m.-a.-maciel/">Alexandre M. A. Maciel</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://rodrigoclira.github.io/post/2022/updating-sqlite-amazon-linux-2/&amp;title=Atualizando%20o%20SQLITE%20no%20Amazon%20Linux%202" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://rodrigoclira.github.io/author/byron-l.-d.-bezerra/">Byron L. D. Bezerra</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Atualizando%20o%20SQLITE%20no%20Amazon%20Linux%202%20https://rodrigoclira.github.io/post/2022/updating-sqlite-amazon-linux-2/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://rodrigoclira.github.io/author/jailson-o.-liberato/">Jailson O. Liberato</a></li>
-    
       
-      <li><a href="https://rodrigoclira.github.io/author/kleber-d.-m.-silva/">Kleber D. M. Silva</a></li>
-    
       
-      <li><a href="https://rodrigoclira.github.io/author/luiz-f.-v.-vercosa/">Luiz F. V. Verçosa </a></li>
-    
+        
       
-      <li><a href="https://rodrigoclira.github.io/author/rodrigo-p.-monteiro/">Rodrigo P. Monteiro</a></li>
-    
       
-      <li><a href="https://rodrigoclira.github.io/author/diego-pinheiro/">Diego Pinheiro</a></li>
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://rodrigoclira.github.io/post/2022/updating-sqlite-amazon-linux-2/&amp;title=Atualizando%20o%20SQLITE%20no%20Amazon%20Linux%202" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
     
   </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
 
   
-<nav class="mt-1">
-  <ul class="pagination justify-content-center">
+  
     
-    <li class="page-item"><a class="page-link" href="/authors/page/2/">&laquo;</a></li>
-    
-    
-    <li class="page-item"><a class="page-link" href="/authors/page/4/">&raquo;</a></li>
-    
-  </ul>
-</nav>
 
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://rodrigoclira.github.io/"><img class="avatar mr-3 avatar-circle" src="/author/rodrigo-lira/avatar_hu4ef08d4fe78f0c72e76175468f6db8f8_293166_270x270_fill_q90_lanczos_center.jpg" alt="Rodrigo Lira"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://rodrigoclira.github.io/">Rodrigo Lira</a></h5>
+      <h6 class="card-subtitle">Professor</h6>
+      <p class="card-text">Rodrigo Lira é professor no IFPE e tem interesse nas áreas de inteligência computacional, IoT e Informática na Educação.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:rodrigo.lira@paulista.ifpe.edu.br" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.co.uk/citations?user=0Q8Bn70AAAAJ&amp;hl=pt-BR" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/rodrigoclira" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/rodrigoclira/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4408742J0" target="_blank" rel="noopener">
+        <i class="ai ai-lattes"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Rodrigo_Lira_Da_Silva" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<div class="article-widget">
+  
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Anterior</div>
+    <a href="/post/2021/oficina40/" rel="prev">Cinco projetos do IFPE são aprovados no edital Oficinas 4.0 da Setec</a>
+  </div>
+  
+</div>
 
 </div>
+
+
+
+
+
+
+
+  </div>
+</article>
   </div>
 
   <div class="page-footer">
