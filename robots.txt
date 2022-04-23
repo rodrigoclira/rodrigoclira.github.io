@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://rodrigoclira.github.io/sitemap.xml
