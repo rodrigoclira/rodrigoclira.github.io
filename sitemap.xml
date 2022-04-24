@@ -4,8 +4,6 @@
   
   
   <url>
-    <loc></loc><lastmod>2022-04-22T19:34:37-03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://rodrigoclira.github.io/tag/amazon-linux-2/</loc><lastmod>2022-04-22T19:34:37-03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://rodrigoclira.github.io/post/2022/updating-sqlite-amazon-linux-2/</loc><lastmod>2022-04-22T19:34:37-03:00</lastmod><changefreq>weekly</changefreq></url>
@@ -79,8 +77,6 @@
     <loc>https://rodrigoclira.github.io/tag/in/</loc><lastmod>2021-11-03T17:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://rodrigoclira.github.io/talk/modelling-the-social-interactions-in-grey-wolf-optimizer/</loc><lastmod>2021-11-03T17:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://rodrigoclira.github.io/event/</loc><lastmod>2021-11-03T17:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2021-11-03T17:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -198,17 +194,17 @@
   <url>
     <loc>https://rodrigoclira.github.io/post/2021/cloud-practitioner/</loc><lastmod>2021-09-27T01:12:35-03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://rodrigoclira.github.io/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://rodrigoclira.github.io/tag/academic/</loc><lastmod>2021-10-10T08:29:56-06:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://rodrigoclira.github.io/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://rodrigoclira.github.io/category/demo/</loc><lastmod>2021-10-10T08:29:56-06:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://rodrigoclira.github.io/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://rodrigoclira.github.io/post/getting-started/</loc><lastmod>2021-10-10T08:29:56-06:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2021-10-10T08:29:56-06:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://rodrigoclira.github.io/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://rodrigoclira.github.io/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2021-10-10T08:29:56-06:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://rodrigoclira.github.io/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://rodrigoclira.github.io/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2021-10-10T08:29:56-06:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://rodrigoclira.github.io/publication/conference/kdmile2020/</loc><lastmod>2020-12-15T01:44:47-03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -360,15 +356,7 @@
   <url>
     <loc>https://rodrigoclira.github.io/tag/wavelength-division-multiplexing/</loc><lastmod>2020-06-11T16:22:57-03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2020-06-11T16:22:57-03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-06-11T16:22:57-03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://rodrigoclira.github.io/tag/all-optical-networks/</loc><lastmod>2020-06-11T16:22:57-03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-06-11T16:22:57-03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-06-11T16:22:57-03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2020-06-11T16:22:57-03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -426,12 +414,22 @@
   <url>
     <loc></loc><lastmod>2020-06-11T16:22:57-03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc></loc><lastmod>2021-01-23T19:43:06+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://rodrigoclira.github.io/courses/</loc><lastmod>2020-12-15T01:22:35-03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://rodrigoclira.github.io/post/</loc><lastmod>2019-05-06T17:54:11+01:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://rodrigoclira.github.io/post/</loc><lastmod>2021-01-23T19:43:06+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://rodrigoclira.github.io/project/</loc><lastmod>2020-05-08T14:59:30-03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://rodrigoclira.github.io/publication/</loc><lastmod>2020-05-08T14:55:08-03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://rodrigoclira.github.io/publication/</loc><lastmod>2021-01-23T19:43:06+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2021-10-18T23:25:51-03:00</lastmod><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://rodrigoclira.github.io/event/</loc><lastmod>2021-01-23T19:43:06+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2021-10-18T23:25:51-03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><changefreq>weekly</changefreq></url></urlset>
