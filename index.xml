@@ -107,6 +107,14 @@ sudo yum install sqlite-3.9.0-1.fc21.x86_64.rpm -y
     </item>
     
     <item>
+      <title>Modelling the Social Interactions in Grey Wolf Optimizer</title>
+      <link>https://rodrigoclira.github.io/publication/conference/lacci2021/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/conference/lacci2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Huawei HCIA-AI e a AWS Solutions Architect</title>
       <link>https://rodrigoclira.github.io/post/2021/certificacoes-agosto/</link>
       <pubDate>Mon, 18 Oct 2021 23:00:14 -0300</pubDate>
