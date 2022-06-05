@@ -5,12 +5,140 @@
     <link>https://rodrigoclira.github.io/</link>
       <atom:link href="https://rodrigoclira.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo Lira</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2022</copyright><lastBuildDate>Fri, 18 Mar 2022 23:18:25 -0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2022</copyright><lastBuildDate>Sat, 04 Jun 2022 10:18:25 -0300</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>Rodrigo Lira</title>
       <link>https://rodrigoclira.github.io/</link>
     </image>
+    
+    <item>
+      <title>Grey Wolf Optimizer in a nutshell</title>
+      <link>https://rodrigoclira.github.io/post/2022/gwo-in-a-nutsshell/</link>
+      <pubDate>Sat, 04 Jun 2022 10:18:25 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/post/2022/gwo-in-a-nutsshell/</guid>
+      <description>&lt;p&gt;In nature, grey wolves live in a pack, and they organise themselves in a social hierarchy of four layers: alpha (α), beta (β), delta (δ) and omega (ω) as shown in Figure 1. The most dominant individual (leader) is the alpha, and it leads the pack. The second layer is the beta, it reinforces the commands of the alpha to the others, and it is an advisor of the alpha. Delta wolves are the scouts, sentinels, elders, hunters and caretakers. Delta wolves submit to alphas and betas, but they dominate the lowest level in the pack, the omegas. The grey wolves also hunt in a group. Hunting can be divided into three steps: (i) tracking, chasing and approaching the prey; (ii) pursuing encircling, and harassing the prey it stops moving; and (iii) attacking the prey.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;GWO social hierarchy&#34; srcset=&#34;
+               /post/2022/gwo-in-a-nutsshell/gwo-social2_hud4e9aa168a25acb99e96e30819c57629_24448_87b1ab40a2fb48050e88d40d9c26c316.webp 400w,
+               /post/2022/gwo-in-a-nutsshell/gwo-social2_hud4e9aa168a25acb99e96e30819c57629_24448_317ad949063d9f8c55059efc71f6a5f1.webp 760w,
+               /post/2022/gwo-in-a-nutsshell/gwo-social2_hud4e9aa168a25acb99e96e30819c57629_24448_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://rodrigoclira.github.io/post/2022/gwo-in-a-nutsshell/gwo-social2_hud4e9aa168a25acb99e96e30819c57629_24448_87b1ab40a2fb48050e88d40d9c26c316.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;582&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Mirjalili et al. [10] proposed the Grey Wolf Optimizer (Algorithm 1) inspired by the social hierarchy and group hunting of wolves. Each wolf (i.e. the agent) represents a candidate solution in the proposal, and the social hierarchy is based on the current fitness value. The fittest wolf in the swarm is labelled as alpha. The second and third best solutions are labelled as beta and delta, respectively. They influence the movement of the rest of the swarm that is assumed to be the omega. The movement of the wolves is modelled to reproduce the group hunting. The encircled behaviour is proposed using Equation 1 and Equation 2.&lt;/p&gt;
+
+(1)
+$$
+    \textbf{D} = | \textbf{C} \cdot \textbf{x}_{p}(i) - \textbf{x}(i)|               
+$$
+
+
+(2)
+$$
+    \textbf{x}(i+1) = \textbf{x}_{p}(i) - \textbf{A} \cdot \textbf{D},
+$$
+
+&lt;p&gt;where x(i) and x&lt;sub&gt;p&lt;/sub&gt;(i) are the wolf position, and the position of the prey in the iteration i, respectively. A and C are the coefficients that are calculated as follows&lt;/p&gt;
+
+(3)
+$$
+    \textbf{A} = 2\textbf{a} \cdot \textbf{r}_1 - \textbf{a},
+
+$$
+
+
+(4)
+$$
+  \textbf{C} = 2 \cdot \textbf{r}_2,
+$$
+
+&lt;p&gt;where r&lt;sub&gt;1&lt;/sub&gt;, and r&lt;sub&gt;2&lt;/sub&gt;, are random vectors generated in [0, 1]; a is a vector that the components are decreased linearly over iteration. As α, β and δ are the wolves nearest to the prey (i.e., best position), they are assumed as the prey position ( x_&lt;sub&gt;p&lt;/sub&gt;). Thus, the movement is performed using Equations 5 and 6 considering α as the example, but it is also computed for β and δ.&lt;/p&gt;
+
+(5)
+$$
+  \textbf{D}_{\alpha}  = | \textbf{C}_\alpha \cdot \textbf{x}_\alpha - \textbf{x} |
+$$
+
+
+(6)
+$$
+        \textbf{x&#39;}_{\alpha}  = \textbf{x}_\alpha - \textbf{A}_1 \cdot \textbf{D}_{\alpha},
+$$
+
+&lt;p&gt;Finally, the wolf new position is the mean of x’&lt;sub&gt;α&lt;/sub&gt;, x’&lt;sub&gt;β&lt;/sub&gt;, and x’&lt;sub&gt;δ&lt;/sub&gt;, as described in Equation 7.&lt;/p&gt;
+
+(7)
+$$
+    \textbf{x}(i+1)  = \frac{\textbf{x&#39;}_{\alpha} + \textbf{x&#39;}_{\beta} + \textbf{x&#39;}_{\delta}}{3}.
+$$
+
+&lt;h2 id=&#34;pseudocode&#34;&gt;Pseudocode&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;GWO Pseudo Code&#34; srcset=&#34;
+               /post/2022/gwo-in-a-nutsshell/gwo-pseudo_hu992ca17d23cb219f0c1f6cd081d60d54_106115_29820e89633b77ae2e4369ad897316d5.webp 400w,
+               /post/2022/gwo-in-a-nutsshell/gwo-pseudo_hu992ca17d23cb219f0c1f6cd081d60d54_106115_76cf9655fe759833b5a342ce393e5400.webp 760w,
+               /post/2022/gwo-in-a-nutsshell/gwo-pseudo_hu992ca17d23cb219f0c1f6cd081d60d54_106115_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://rodrigoclira.github.io/post/2022/gwo-in-a-nutsshell/gwo-pseudo_hu992ca17d23cb219f0c1f6cd081d60d54_106115_29820e89633b77ae2e4369ad897316d5.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;500&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;python-code&#34;&gt;Python Code&lt;/h2&gt;
+&lt;h3 id=&#34;agent&#34;&gt;Agent&lt;/h3&gt;
+&lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/rodrigoclira/7011024663d79a93f6ab766ed225b280.js&#34;&gt;&lt;/script&gt;
+
+&lt;h3 id=&#34;benchmark-function&#34;&gt;Benchmark Function&lt;/h3&gt;
+&lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/rodrigoclira/f283abd096696788ebc8938ca5f82193.js&#34;&gt;&lt;/script&gt;
+
+&lt;h3 id=&#34;grey-wolf-optimizer-code&#34;&gt;Grey Wolf Optimizer Code&lt;/h3&gt;
+&lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/rodrigoclira/e70da5406147f9b2baedb1bfb15ccae8.js&#34;&gt;&lt;/script&gt;
+
+&lt;h3 id=&#34;main-code&#34;&gt;Main code&lt;/h3&gt;
+&lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/rodrigoclira/370a35d29485401533cafdfc277ad716.js&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;Single file available here &lt;a href=&#34;https://github.com/rodrigoclira/gwo_nutshell&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/rodrigoclira/gwo_nutshell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Text from our paper &amp;lsquo;&lt;strong&gt;Modelling the Social Interactions in Grey Wolf Optimizer&lt;/strong&gt;&amp;rsquo; available in &lt;a href=&#34;https://ieeexplore.ieee.org/document/9769781&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ieeexplore.ieee.org/document/9769781/&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Atualizando o SQLITE no Amazon Linux 2</title>
