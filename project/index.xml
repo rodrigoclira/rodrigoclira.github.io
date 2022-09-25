@@ -17,8 +17,16 @@
       <link>https://rodrigoclira.github.io/project/jogo-ifpe/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://rodrigoclira.github.io/project/jogo-ifpe/</guid>
-      <description>&lt;p&gt;O IFPE Campus Paulista está recebendo no segundo semestre de 2020 a sua sede definitiva. Ao todo são seis blocos com dezenas de salas e ambientes para os alunos e servidores. Novos ambientes para estudos e espaços físicos que antes não existiam na sede provisória serão liberados. Evidentemente que a ocupação e sinalização desse espaço precisará de um esforço da administração. Devido a essa situação, esse projeto de extensão tem como objetivo criar um jogo no qual o estudante possa conhecer o novo campus de forma virtual, ainda no jogo serão destinados missões com o intuito de apresentar os principais setores do campus (Divisão de Pesquisa e Extensão, CRADT, Coordenações…) e também os artigos da organização acadêmica. Dessa forma espera-se que os novos alunos possam utilizar esse recurso para conseguir entender e conhecer o funcionamento do campus e do IFPE. Espera-se que esse jogo seja fundamental para os calouros conhecerem o novo campus e também sirva como uma ferramenta de promoção do IFPE Campus Paulista para a sociedade.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://ifpe-paulista-rodrigo.github.io/jogo-ifpe/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acesse a demonstração do projeto&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;O IFPE Campus Paulista está recebendo no segundo semestre de 2020 a sua sede definitiva. Ao todo são seis blocos com dezenas de salas e ambientes para os alunos e servidores. Novos ambientes para estudos e espaços físicos que antes não existiam na sede provisória serão liberados. Evidentemente que a ocupação e sinalização desse espaço precisará de um esforço da administração. Devido a essa situação, esse projeto de extensão tem como objetivo criar um jogo no qual o estudante possa conhecer o novo campus de forma virtual, ainda no jogo serão destinados missões com o intuito de apresentar os principais setores do campus (Divisão de Pesquisa e Extensão, CRADT, Coordenações…) e também os artigos da organização acadêmica. Dessa forma espera-se que os novos alunos possam utilizar esse recurso para conseguir entender e conhecer o funcionamento do campus e do IFPE e ele torne-se uma ferramenta de promoção do IFPE Campus Paulista para a sociedade.&lt;/p&gt;
+&lt;h2 id=&#34;vídeo-de-demonstração&#34;&gt;Vídeo de Demonstração&lt;/h2&gt;
+&lt;/br&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0;&#34;&gt;&lt;iframe src=&#34;https://www.loom.com/embed/4a62a80f55674c81865cd087722c8945&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;/br&gt;
+&lt;h2 id=&#34;experimente-o-jogo&#34;&gt;Experimente o jogo&lt;/h2&gt;
+&lt;/br&gt;
+Clique na tela abaixo e aperte &#34;Enter&#34;. Controle o jogador nas setas e interaja na tecla &#39;z&#39;. Em smartphones ou tablets será exibido um jostick na tela.
+&lt;iframe height=&#34;300rem&#34; width=&#34;400rem&#34; src=&#34;https://ifpe-paulista-rodrigo.github.io/jogo-ifpe/index.html&#34; title=&#34;Demonstração do Jogo&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#34;https://ifpe-paulista-rodrigo.github.io/jogo-ifpe/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Não funcionou? Clique aqui e acesse a demonstração&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -31,15 +39,17 @@
 &lt;p&gt;De acordo com Wing [1], o pensamento computacional amplia competências que desenvolvem e aprimoram nos alunos novas habilidades tais como: i) Pensar de forma abstrata em vários níveis e encontrar uma solução; ii) Desenvolver um produto, indo além do programa, pois é necessário pensar em diferentes níveis de abstração, permitindo o uso consciente das técnicas de programação; iii) Resolver ou desenvolver problemas com ou sem o computador; iv) Pensar ao invés de deixar que os problemas sejam resolvidos pelo computador; v) Correlacionar a área computacional com a matemática e as engenharias. Ele é uma habilidade fundamental para todos, não somente para cientistas da computação. Por esse motivo, nos últimos anos, vários países, incluindo EUA e Reino Unido [2][3], incentivaram a adição da adição desses conceitos no currículo escolar para ajudar a criar uma nova geração de ‘Mark Zuckerbegs’. Nesse sentido, a Sociedade Brasileira de Computação (SBC) apresentou, para ser incluída na Base Nacional Comum Curricular  (BNCC), proposta que se baseou em destacar a importância desse conhecimento para os estudantes serem capazes de solucionar desafios cotidianos [4].&lt;/p&gt;
 &lt;p&gt;Este projeto tem como objetivo o desenvolvimento de um jogo utilizando robótica educacional para estímulo do pensamento computacional. Nele, os jogadores precisaram utilizar conceitos de lógica de programação para poder controlar a movimentação de um robô em um mapa  que será o tabuleiro do jogo. O tabuleiro poderá ser utilizado de diversas formas, por exemplo, pode ser apresentado perguntas aos jogadores como: “Qual é a quinta letra do alfabeto?”, “Qual a capital do estado de Pernambuco?” e o jogador teria que responder com os comandos - direita, frente, esquerda e abaixo - necessária para que o robô chegue até a resposta. Uma outra forma de usá-lo é fazendo com que o robô se movimente por um percurso e desvie de obstáculos pré-definidos pelos jogadores.&lt;/p&gt;
 &lt;p&gt;Após a fase de desenvolvimento do projeto, espera-se criar oficinas na comunidade interna e externas do campus. Nessas oficinas serão utilizados os dois produtos, ambiente de simulação e robô educacional para estimular o pensamento computacional. Com isso espera-se despertar o interesse das crianças e adultos para a área de computação e apresentar de forma divertida os conceitos de programação.&lt;/p&gt;
-&lt;p&gt;Jogo Desenvolvido no PIBEX 2019&lt;/p&gt;
+&lt;h2 id=&#34;jogo-desenvolvido-no-pibex-2019&#34;&gt;Jogo Desenvolvido no PIBEX 2019&lt;/h2&gt;
 &lt;iframe src=&#34;https://scratch.mit.edu/projects/400783603/embed&#34; allowtransparency=&#34;true&#34; width=&#34;485&#34; height=&#34;402&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;Vídeo de apresentação do Encontro de Extensionista do IFPE 2020&lt;/p&gt;
-
+&lt;/br&gt;
+&lt;h2 id=&#34;vídeo-de-apresentação-do-encontro-de-extensionista-do-ifpe-2020&#34;&gt;Vídeo de apresentação do Encontro de Extensionista do IFPE 2020&lt;/h2&gt;
+&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/bnpLvxEoBQw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Imagens do robô desenvolvido no segundo ano do projeto&lt;/p&gt;
+&lt;/br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;imagens-do-robô-desenvolvido&#34;&gt;Imagens do robô desenvolvido&lt;/h2&gt;
 &lt;p&gt;
 
 
@@ -102,7 +112,15 @@
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./demo3.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
+
+&lt;/br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;apresentação-no-computer-on-de-beach-2021&#34;&gt;Apresentação no Computer On de Beach 2021&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/BibvG_auClA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/br&gt;
 &lt;p&gt;[1] WING, Jeannette Marie. Computational thinking. In: Communications of The ACM,
 Marz 2006. Vol. 49, no 3. p. 33-35&lt;/p&gt;
 &lt;p&gt;[2] Computer Science for all. Disponível em:   &amp;lt; &lt;a href=&#34;https://obamawhitehouse.archives.gov/blog/2016/01/30/computer-science-all&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://obamawhitehouse.archives.gov/blog/2016/01/30/computer-science-all&lt;/a&gt; &amp;gt;. Último acesso: 20 out. de 2018.&lt;/p&gt;
@@ -137,6 +155,7 @@ Os dois parâmetros citados anteriormente podem ser medidos através de sensores
   &lt;iframe src=&#34;https://www.youtube.com/embed/BB6DhS4MbDA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+&lt;p&gt;Slides&lt;/p&gt;
 &lt;div style=&#34;position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;&#34;&gt;
@@ -145,6 +164,12 @@ Os dois parâmetros citados anteriormente podem ser medidos através de sensores
   &lt;/iframe&gt;
 &lt;/div&gt;
 &lt;a href=&#34;https:&amp;#x2F;&amp;#x2F;www.canva.com&amp;#x2F;design&amp;#x2F;DAEtT5B0cZw&amp;#x2F;view?utm_content=DAEtT5B0cZw&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=embeds&amp;amp;utm_source=link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apresentação SNCT&lt;/a&gt; de Rodrigo Lira
+&lt;h2 id=&#34;demonstração-da-aplicação-web&#34;&gt;Demonstração da Aplicação Web&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/h5FF0H68Cm8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;h2 id=&#34;referências&#34;&gt;Referências&lt;/h2&gt;
 &lt;p&gt;Safe Drinking Water Foundation (SDWF). TDS and PH. Acessível em: &lt;a href=&#34;https://www.safewater.org/fact-sheets-1/2017/1/23/tds-and-ph&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.safewater.org/fact-sheets-1/2017/1/23/tds-and-ph&lt;/a&gt; . Último acesso: 21 de janeiro de 2020.&lt;/p&gt;
 &lt;p&gt;LIBÂNIO, M. Fundamentos de qualidade e tratamento de água. Campinas: Átomo, 2010.&lt;/p&gt;
