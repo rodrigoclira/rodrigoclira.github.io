@@ -5,12 +5,28 @@
     <link>https://rodrigoclira.github.io/tag/talk/</link>
       <atom:link href="https://rodrigoclira.github.io/tag/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>talk</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2022</copyright><lastBuildDate>Mon, 13 Dec 2021 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2022</copyright><lastBuildDate>Tue, 25 Oct 2022 10:30:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>talk</title>
       <link>https://rodrigoclira.github.io/tag/talk/</link>
     </image>
+    
+    <item>
+      <title>Oportunidades em Editais Externos de Pesquisa e Extensão Tecnológica</title>
+      <link>https://rodrigoclira.github.io/talk/oportunidades-em-editais-externos-de-pesquisa-e-extensao-tecnologica/</link>
+      <pubDate>Tue, 25 Oct 2022 10:30:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/talk/oportunidades-em-editais-externos-de-pesquisa-e-extensao-tecnologica/</guid>
+      <description>&lt;div style=&#34;position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;&#34;&gt;
+  &lt;iframe loading=&#34;lazy&#34; style=&#34;position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;&#34;
+    src=&#34;https:&amp;#x2F;&amp;#x2F;www.canva.com&amp;#x2F;design&amp;#x2F;DAFPicossAk&amp;#x2F;view?embed&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;fullscreen&#34;&gt;
+  &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;a href=&#34;https:&amp;#x2F;&amp;#x2F;www.canva.com&amp;#x2F;design&amp;#x2F;DAFPicossAk&amp;#x2F;view?utm_content=DAFPicossAk&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=embeds&amp;amp;utm_source=link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SNCT 2022&lt;/a&gt; de Rodrigo Lira
+</description>
+    </item>
     
     <item>
       <title>Capacitação Tecnológica em .NET do IFPE/SiDi</title>
