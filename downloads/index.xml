@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Downloads | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/downloads/</link>
+      <atom:link href="https://rodrigoclira.github.io/downloads/index.xml" rel="self" type="application/rss+xml" />
+    <description>Downloads</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2022</copyright><lastBuildDate>Thu, 24 Nov 2022 11:10:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>Downloads</title>
+      <link>https://rodrigoclira.github.io/downloads/</link>
+    </image>
+    
+    <item>
+      <title>Chaveiro do IFPE para impressão 3d</title>
+      <link>https://rodrigoclira.github.io/downloads/chaveiro-ifpe/</link>
+      <pubDate>Thu, 24 Nov 2022 11:10:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/downloads/chaveiro-ifpe/</guid>
+      <description>&lt;iframe width=&#34;725&#34; height=&#34;453&#34; src=&#34;https://www.tinkercad.com/embed/kbVkNnu1O0b?editbtn=1&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
