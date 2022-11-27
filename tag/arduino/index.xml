@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>arduino | Rodrigo Lira</title>
+    <title>Arduino | Rodrigo Lira</title>
     <link>https://rodrigoclira.github.io/tag/arduino/</link>
       <atom:link href="https://rodrigoclira.github.io/tag/arduino/index.xml" rel="self" type="application/rss+xml" />
-    <description>arduino</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2022</copyright><lastBuildDate>Thu, 06 Aug 2020 14:00:00 +0000</lastBuildDate>
+    <description>Arduino</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2022</copyright><lastBuildDate>Sat, 26 Nov 2022 11:10:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
-      <title>arduino</title>
+      <title>Arduino</title>
       <link>https://rodrigoclira.github.io/tag/arduino/</link>
     </image>
+    
+    <item>
+      <title>Placa robô para soldagem e ensino de programação com Arduino</title>
+      <link>https://rodrigoclira.github.io/downloads/robo-pcb/</link>
+      <pubDate>Sat, 26 Nov 2022 11:10:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/downloads/robo-pcb/</guid>
+      <description>&lt;p&gt;Conteúdo para fabricação da placa desenvolvida para ensino de soldagem e programação com Arduino. Mais informações sobre o projeto estão descritos na postagem &lt;a href=&#34;https://rodrigoclira.github.io/post/2020/projeto-easyeda/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Desenvolvimento de uma placa PCB para fins educacionais&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;Gerber_PCBV2_2022-11-27.zip&#34;&gt;Link para download&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Apresentação do projeto aprovado na chamada pública Mover-se na Web - Articulação Pró-Brumadinho</title>
