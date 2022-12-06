@@ -5,12 +5,20 @@
     <link>https://rodrigoclira.github.io/</link>
       <atom:link href="https://rodrigoclira.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo Lira</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2022</copyright><lastBuildDate>Sat, 26 Nov 2022 11:10:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2022</copyright><lastBuildDate>Thu, 01 Dec 2022 11:10:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>Rodrigo Lira</title>
       <link>https://rodrigoclira.github.io/</link>
     </image>
+    
+    <item>
+      <title>Banner de &#34;Um Jogo para Divulgação do IFPE Campus Paulista&#34;</title>
+      <link>https://rodrigoclira.github.io/talk/banner-de-um-jogo-para-divulgacao-do-ifpe-campus-paulista/</link>
+      <pubDate>Thu, 01 Dec 2022 11:10:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/talk/banner-de-um-jogo-para-divulgacao-do-ifpe-campus-paulista/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Placa robô para soldagem e ensino de programação com Arduino</title>
