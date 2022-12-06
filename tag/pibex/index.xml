@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PIBEX | Rodrigo Lira</title>
+    <title>pibex | Rodrigo Lira</title>
     <link>https://rodrigoclira.github.io/tag/pibex/</link>
       <atom:link href="https://rodrigoclira.github.io/tag/pibex/index.xml" rel="self" type="application/rss+xml" />
-    <description>PIBEX</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2022</copyright><lastBuildDate>Thu, 01 Dec 2022 11:10:00 +0000</lastBuildDate>
+    <description>pibex</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2022</copyright><lastBuildDate>Fri, 05 Mar 2021 23:57:14 -0300</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
-      <title>PIBEX</title>
+      <title>pibex</title>
       <link>https://rodrigoclira.github.io/tag/pibex/</link>
     </image>
-    
-    <item>
-      <title>Banner de &#34;Um Jogo para Divulgação do IFPE Campus Paulista&#34;</title>
-      <link>https://rodrigoclira.github.io/talk/banner-de-um-jogo-para-divulgacao-do-ifpe-campus-paulista/</link>
-      <pubDate>Thu, 01 Dec 2022 11:10:00 +0000</pubDate>
-      <guid>https://rodrigoclira.github.io/talk/banner-de-um-jogo-para-divulgacao-do-ifpe-campus-paulista/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Publicação no Computer on the Beach (COTB 2020)</title>

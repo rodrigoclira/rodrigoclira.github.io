@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IFPE | Rodrigo Lira</title>
+    <title>ifpe | Rodrigo Lira</title>
     <link>https://rodrigoclira.github.io/tag/ifpe/</link>
       <atom:link href="https://rodrigoclira.github.io/tag/ifpe/index.xml" rel="self" type="application/rss+xml" />
-    <description>IFPE</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2022</copyright><lastBuildDate>Thu, 01 Dec 2022 11:10:00 +0000</lastBuildDate>
+    <description>ifpe</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2022</copyright><lastBuildDate>Wed, 20 Jul 2022 10:18:25 -0300</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
-      <title>IFPE</title>
+      <title>ifpe</title>
       <link>https://rodrigoclira.github.io/tag/ifpe/</link>
     </image>
-    
-    <item>
-      <title>Banner de &#34;Um Jogo para Divulgação do IFPE Campus Paulista&#34;</title>
-      <link>https://rodrigoclira.github.io/talk/banner-de-um-jogo-para-divulgacao-do-ifpe-campus-paulista/</link>
-      <pubDate>Thu, 01 Dec 2022 11:10:00 +0000</pubDate>
-      <guid>https://rodrigoclira.github.io/talk/banner-de-um-jogo-para-divulgacao-do-ifpe-campus-paulista/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title> Aplicação Web para Monitoramento dos Ninhos de Tartarugas Marinhas no Litoral da Cidade de Paulista (PE)</title>
