@@ -5,12 +5,261 @@
     <link>https://rodrigoclira.github.io/</link>
       <atom:link href="https://rodrigoclira.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo Lira</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2022</copyright><lastBuildDate>Sat, 26 Nov 2022 11:10:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2023</copyright><lastBuildDate>Sun, 05 Mar 2023 10:18:25 -0300</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>Rodrigo Lira</title>
       <link>https://rodrigoclira.github.io/</link>
     </image>
+    
+    <item>
+      <title>IAs Úteis ao público geral</title>
+      <link>https://rodrigoclira.github.io/post/2023/ia-uteis/</link>
+      <pubDate>Sun, 05 Mar 2023 10:18:25 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/post/2023/ia-uteis/</guid>
+      <description>&lt;p&gt;A Super Interessante trouxe uma matéria intitulada: &amp;ldquo;&lt;a href=&#34;https://super.abril.com.br/tecnologia/o-futuro-da-inteligencia-artificial-e-o-que-vem-depois-do-chatgpt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;O Futuro da IA&lt;/a&gt;&amp;rdquo; no qual é apresentada a evolução dos projetos de IA. É uma matéria que detalha os projetos que vieram antes do ChatGPT e o que podemos esperar para o futuro. Em um dos infográficos foram apresentados projetos de IA que estão acessíveis (alguns pagos) para o usuário final, assim como o chatbot da OpenAI.&lt;/p&gt;
+&lt;p&gt;Resolvi pegar essa listagem para começar um repositório de projeto desse tipo que podem ser utilizados no nosso dia a dia.&lt;/p&gt;
+&lt;h2 id=&#34;1-synthesia&#34;&gt;1. Synthesia&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
+               /post/2023/ia-uteis/synthesia_hu34ba5b2c7529aae4f3e60587d5f0f764_321687_4b599ba172b51c7cd76bfdcdd8d9e8b8.webp 400w,
+               /post/2023/ia-uteis/synthesia_hu34ba5b2c7529aae4f3e60587d5f0f764_321687_05815a7559b649e54732f49536c292b7.webp 760w,
+               /post/2023/ia-uteis/synthesia_hu34ba5b2c7529aae4f3e60587d5f0f764_321687_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://rodrigoclira.github.io/post/2023/ia-uteis/synthesia_hu34ba5b2c7529aae4f3e60587d5f0f764_321687_4b599ba172b51c7cd76bfdcdd8d9e8b8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;471&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Acesso&lt;/strong&gt;: Pago&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;http://synthesia.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://synthesia.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;O que é?&lt;/strong&gt; Ferramenta para geração de vídeo com informações escritas pelo usuário. O avatar narra o texto que foi criado pelo usuário.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2-murf&#34;&gt;2. Murf&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
+               /post/2023/ia-uteis/murf_hu4dbd34375e3ff5bada8628e0b89c6da2_227123_2616b9b911795c2b64e2b2cd073b7803.webp 400w,
+               /post/2023/ia-uteis/murf_hu4dbd34375e3ff5bada8628e0b89c6da2_227123_98cec26aa8bad0d27f8bfaa33922b50b.webp 760w,
+               /post/2023/ia-uteis/murf_hu4dbd34375e3ff5bada8628e0b89c6da2_227123_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://rodrigoclira.github.io/post/2023/ia-uteis/murf_hu4dbd34375e3ff5bada8628e0b89c6da2_227123_2616b9b911795c2b64e2b2cd073b7803.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;591&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;http://murf.ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://murf.ai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Acesso&lt;/strong&gt;: Pago (com nível gratuito)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;O que é?&lt;/strong&gt; O Murf é uma empresa que possui várias soluções ligadas a síntese de voz. No site é possível mudar ou clonar a voz contida em um áudio, além de gerar uma narração a partir de um texto.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;3-runway&#34;&gt;3. Runway&lt;/h2&gt;
+&lt;video width=100% controls autoplay&gt;
+    &lt;source src=&#34;rw-hero-magic-tools.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    Your browser does not support the video tag.  
+&lt;/video&gt;
+&lt;p&gt;&lt;strong&gt;Acesso&lt;/strong&gt;: Pago (com nível gratuito)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;http://runwayml.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://runwayml.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;O que é?&lt;/strong&gt; É um software para edição de imagem com funcionalidades geradas através de &lt;em&gt;machine learning&lt;/em&gt;. Como ele é possível trocar/apagar objetos na imagem, separar as cenas e ampliar o cenário.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;4-typestudio&#34;&gt;4. Typestudio&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
+               /post/2023/ia-uteis/typestudio_hu0930838e2a42488b00341e495978f568_290598_23dddf92ea7c8bdeeea1cb0bbe377c5f.webp 400w,
+               /post/2023/ia-uteis/typestudio_hu0930838e2a42488b00341e495978f568_290598_8734df1ff87cce3c3877e67a3fdbd044.webp 760w,
+               /post/2023/ia-uteis/typestudio_hu0930838e2a42488b00341e495978f568_290598_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://rodrigoclira.github.io/post/2023/ia-uteis/typestudio_hu0930838e2a42488b00341e495978f568_290598_23dddf92ea7c8bdeeea1cb0bbe377c5f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;610&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;http://app.typestudio.co&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://app.typestudio.co&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Acesso&lt;/strong&gt;: Pago (com nível gratuito)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;O que é?&lt;/strong&gt; Permite editar vídeos e podcasts como se fossem textos: você apaga e reagrupa as frases e ele remonta automaticamente a gravação, fazendo ajustes necessários para que soe natural.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;5-ai-content-detector&#34;&gt;5. AI Content Detector&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
+               /post/2023/ia-uteis/aicontentdetector_hu2a73a2a57899c1e1190a9887ba3e29cf_60468_a02a05f7bb39c4b4c7b74b5fcce6a8ed.webp 400w,
+               /post/2023/ia-uteis/aicontentdetector_hu2a73a2a57899c1e1190a9887ba3e29cf_60468_468d72664ec40454e1866f65cb0d69c9.webp 760w,
+               /post/2023/ia-uteis/aicontentdetector_hu2a73a2a57899c1e1190a9887ba3e29cf_60468_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://rodrigoclira.github.io/post/2023/ia-uteis/aicontentdetector_hu2a73a2a57899c1e1190a9887ba3e29cf_60468_a02a05f7bb39c4b4c7b74b5fcce6a8ed.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;459&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;http://copyleaks.com/features/ai-content-detector&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://copyleaks.com/features/ai-content-detector&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Acesso&lt;/strong&gt;: Pago (com nível gratuito)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;O que é?&lt;/strong&gt; Serviço on-line para detecção de plagiarismo e geração automática de texto.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;6-ai-text-classifier-by-openai&#34;&gt;6. AI Text Classifier by OpenAI&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
+               /post/2023/ia-uteis/textclassifier_hu3a276cfaef7d501e234fd106cc7aa265_88594_6dfcaf39b51c722ab4c3cd96085ef880.webp 400w,
+               /post/2023/ia-uteis/textclassifier_hu3a276cfaef7d501e234fd106cc7aa265_88594_2c546efe25de3a8506bdc7a22db642f2.webp 760w,
+               /post/2023/ia-uteis/textclassifier_hu3a276cfaef7d501e234fd106cc7aa265_88594_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://rodrigoclira.github.io/post/2023/ia-uteis/textclassifier_hu3a276cfaef7d501e234fd106cc7aa265_88594_6dfcaf39b51c722ab4c3cd96085ef880.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;512&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;http://copyleaks.com/features/ai-content-detector&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://copyleaks.com/features/ai-content-detector&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Acesso&lt;/strong&gt;: Gratuito&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;O que é?&lt;/strong&gt; Um serviço de detecção de geração automática de texto, diponibilizado pela OpenAI.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;7-chatgpt&#34;&gt;7. ChatGPT&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
+               /post/2023/ia-uteis/chatgpt_hu358944aa7286faa617d89fa1b7d8b614_59895_2e246f5795806959a7330af9d71fc4ba.webp 400w,
+               /post/2023/ia-uteis/chatgpt_hu358944aa7286faa617d89fa1b7d8b614_59895_a4274a44605151087063fdcea3e17edc.webp 760w,
+               /post/2023/ia-uteis/chatgpt_hu358944aa7286faa617d89fa1b7d8b614_59895_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://rodrigoclira.github.io/post/2023/ia-uteis/chatgpt_hu358944aa7286faa617d89fa1b7d8b614_59895_2e246f5795806959a7330af9d71fc4ba.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;670&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;https://chat.openai.com/chat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://chat.openai.com/chat&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Acesso&lt;/strong&gt;: Gratuito&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;O que é?&lt;/strong&gt; É o chatbot com inteligência artificial desenvolvido pela OpenAI. Você pode fazer perguntas sobre assuntos diversos que ele vai responder de acordo com o conhecimento adquirido em um conjunto de textos utilizados no seu treinamento.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;8-dall-e-2&#34;&gt;8. DALL-E-2&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
+               /post/2023/ia-uteis/dalle2_hu62448f8acb45a30488923e250d7d78e3_910094_bdcb1ad4b8d5e05612a9a4c6035b2951.webp 400w,
+               /post/2023/ia-uteis/dalle2_hu62448f8acb45a30488923e250d7d78e3_910094_1e12d27fcc76f8c52df2697d64c7db41.webp 760w,
+               /post/2023/ia-uteis/dalle2_hu62448f8acb45a30488923e250d7d78e3_910094_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://rodrigoclira.github.io/post/2023/ia-uteis/dalle2_hu62448f8acb45a30488923e250d7d78e3_910094_bdcb1ad4b8d5e05612a9a4c6035b2951.webp&#34;
+               width=&#34;627&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;https://labs.openai.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://labs.openai.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Acesso&lt;/strong&gt;: Gratuito&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;O que é?&lt;/strong&gt; Segundo o site da OpenAI, DALL-E 2 o pode criar imagens originais e realistas e arte a partir de uma descrição de texto. Pode combinar conceitos, atributos e estilos.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Placa robô para soldagem e ensino de programação com Arduino</title>
