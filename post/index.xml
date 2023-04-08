@@ -13,11 +13,128 @@
     </image>
     
     <item>
+      <title>Passo a Passo para implantação de Aplicação Django na AWS</title>
+      <link>https://rodrigoclira.github.io/post/2023/implantacao-django/</link>
+      <pubDate>Sat, 08 Apr 2023 17:44:25 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/post/2023/implantacao-django/</guid>
+      <description>&lt;h2 id=&#34;pré-requisito&#34;&gt;Pré-Requisito&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Liberação da porta 80 no security group&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;Instalação do Nginx&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Amazon Linux 2&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;sudo amazon-linux-extras enable nginx1
+sudo yum install -y nginx
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Ubuntu Server&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;sudo apt-get install ngninx
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Criação de pastas de configurações do nginx&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;sudo mkdir /etc/nginx/sites-available
+sudo mkdir /etc/nginx/sites-enabled
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Edição do arquivo &lt;em&gt;nginx.conf&lt;/em&gt; para adição de novas configurações.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;sudo vim /etc/nginx/nginx.conf
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Adicione o texto abaixo na tag &lt;em&gt;http { }&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;include /etc/nginx/sites-enabled/*;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Crie a configuração do projeto na pasta &lt;em&gt;sites-available/&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;sudo vim /etc/nginx/sites-available/app
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;em que &lt;code&gt;app&lt;/code&gt; é o nome/acrônimo do projeto definido pelo usuário&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Adicione as seguintes informações&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;server {
+   server_name meudominio.com.br www.meudominio.com.br;    
+
+   location / {
+       proxy_pass http://127.0.0.1:8000;
+       proxy_set_header X-Forwarded-Host $server_name;
+       proxy_set_header X-Real-IP $remote_addr;
+       add_header P3P &#39;CP=&amp;quot;ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV&amp;quot;&#39;;
+   }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;em que meudominio.com.br deve ser o domínio ou ip do servidor. Caso não possua domínio, coloque o DNS Público informado para a EC2.&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;Crie um link do app na pasta de &lt;em&gt;sites-enabled&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;cd /etc/nginx/sites-enabled/
+sudo ln -s /etc/nginx/sites-available/app
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;Instale o gunicorn&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;cd ~
+source venv/bin/activate
+pip3.8 install gunicorn 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;9&#34;&gt;
+&lt;li&gt;Adicione a pasta dos arquivos estáticos no settings.py. Para isso deve ser configurado a variável STATIC_ROOT. Como no exemplo abaixo&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;STATIC_ROOT = &#39;/home/ec2-user/caminho-app-django/statics/&#39;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;o &lt;code&gt;STATIC_ROOT&lt;/code&gt; vai mudar para cada projeto, defina-o e use no passo 12.&lt;/p&gt;
+&lt;ol start=&#34;10&#34;&gt;
+&lt;li&gt;Execute o comando collectstatic para criar o caminho que você acabou de indicar no settings. Nele serão salvos todos os arquivos estáticos do projeto.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;python manage.py collectstatic
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;11&#34;&gt;
+&lt;li&gt;Edite o arquivo do nginx de configuração&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;sudo vim /etc/nginx/sites-available/app
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;12&#34;&gt;
+&lt;li&gt;Adicione o location abaixo:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;location /static/ {
+    alias  /home/ec2-user/caminho-app-django/statics/;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;note que o alias indica para o caminho do &lt;code&gt;static&lt;/code&gt; que vai mudar para cada caso.&lt;/p&gt;
+&lt;ol start=&#34;13&#34;&gt;
+&lt;li&gt;Mude a permissão da pasta do usuário  (pasta que contem o projeto)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;cd ~ 
+cd .. 
+chmod 701 ec2-user
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;No exemplo acima é considerado a utilização da Amazon Linux 2. No Ubuntu Server, a pasta do usuário é &lt;code&gt;/home/ubuntu&lt;/code&gt;&lt;/p&gt;
+&lt;ol start=&#34;14&#34;&gt;
+&lt;li&gt;Reinicie o ngnix e em seguida inicie o gunicorn&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;sudo service nginx restart
+cd ~
+cd caminho-app-django/
+gunicorn -b 127.0.0.1:8000 app.wsgi
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;code&gt;app.wsgi&lt;/code&gt; é o arquivo wsgi contigo no projeto&lt;/p&gt;
+&lt;p&gt;Por fim, acesse a aplicação na porta 80. Se o security group tiver configurado, você deve ter acesso a aplicação nor&lt;/p&gt;
+&lt;h2 id=&#34;fonte&#34;&gt;Fonte&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.alura.com.br/artigos/fazendo-o-deploy-de-uma-aplicacao-django&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.alura.com.br/artigos/fazendo-o-deploy-de-uma-aplicacao-django&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gist.github.com/jhjguxin/6208474&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gist.github.com/jhjguxin/6208474&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>IAs Úteis ao público geral</title>
       <link>https://rodrigoclira.github.io/post/2023/ia-uteis/</link>
       <pubDate>Sun, 05 Mar 2023 10:18:25 -0300</pubDate>
       <guid>https://rodrigoclira.github.io/post/2023/ia-uteis/</guid>
-      <description>&lt;p&gt;A Super Interessante trouxe uma matéria intitulada: &amp;ldquo;&lt;a href=&#34;https://super.abril.com.br/tecnologia/o-futuro-da-inteligencia-artificial-e-o-que-vem-depois-do-chatgpt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;O Futuro da IA&lt;/a&gt;&amp;rdquo; no qual é apresentada a evolução dos projetos de IA. É uma matéria que detalha os projetos que vieram antes do ChatGPT e o que podemos esperar para o futuro. Em um dos infográficos foram apresentados projetos de IA que estão acessíveis (alguns pagos) para o usuário final, assim como o chatbot da OpenAI.&lt;/p&gt;
+      <description>&lt;p&gt;A Super Interessante trouxe uma matéria intitulada: &amp;ldquo;&lt;a href=&#34;https://super.abril.com.br/tecnologia/o-futuro-da-inteligencia-artificial-e-o-que-vem-depois-do-chatgpt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;O Futuro da IA&lt;/a&gt;&amp;rdquo; onde é apresentada a evolução dos projetos de IA. É uma matéria que detalha os projetos que vieram antes do ChatGPT e o que podemos esperar para o futuro. Em um dos infográficos foram apresentados projetos de IA que estão acessíveis (alguns pagos) para o usuário final, assim como o chatbot da OpenAI.&lt;/p&gt;
 &lt;p&gt;Resolvi pegar essa listagem para começar um repositório de projeto desse tipo que podem ser utilizados no nosso dia a dia.&lt;/p&gt;
 &lt;h2 id=&#34;1-synthesia&#34;&gt;1. Synthesia&lt;/h2&gt;
 &lt;p&gt;
