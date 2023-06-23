@@ -5,12 +5,44 @@
     <link>https://rodrigoclira.github.io/tag/ia/</link>
       <atom:link href="https://rodrigoclira.github.io/tag/ia/index.xml" rel="self" type="application/rss+xml" />
     <description>ia</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2023</copyright><lastBuildDate>Sun, 05 Mar 2023 10:18:25 -0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2023</copyright><lastBuildDate>Thu, 22 Jun 2023 10:18:25 -0300</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>ia</title>
       <link>https://rodrigoclira.github.io/tag/ia/</link>
     </image>
+    
+    <item>
+      <title>Material sobre Reinforcement Learning</title>
+      <link>https://rodrigoclira.github.io/post/2023/rl-courses/</link>
+      <pubDate>Thu, 22 Jun 2023 10:18:25 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/post/2023/rl-courses/</guid>
+      <description>&lt;p&gt;Eu estou usando Aprendizam Por Reforço (do inglês, Reinforcement Learning) na minha tese de doutorado e no processo de aprendizado eu acabei encontrando muitos materias legais na internet. Resolvi fazer uma listagem deles para deixar público e também me ajudar em consultas futuras.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Para quem estiver procurando conhecimento teórico, eu sugiro os livros:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://incompleteideas.net/book/RLbook2020.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reinforcement Learning: An Introduction&lt;/a&gt; de Sutton e Barto&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.ualberta.ca/~szepesva/rlbook.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Algorithms of Reinforcement Learning&lt;/a&gt; de Szepesvari&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Para quem quiser conhecer um pouco da teoria ao mesmo tempo que desenvolve projetos práticos com Python:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://huggingface.co/learn/deep-rl-course/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep RL Course&lt;/a&gt; do Hugginfaces&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://applied-rl-course.netlify.app/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Applied Reinforcement Learning&lt;/a&gt; com RLLib&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://courses.dibya.online/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Real World Deep RL*&lt;/a&gt; do Dibya.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;* Há também o curso &lt;a href=&#34;https://courses.dibya.online/p/fastdeeprl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fast RL&lt;/a&gt; que eu não realizei.&lt;/p&gt;
+&lt;p&gt;Disciplinas em instituições renomadas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rail.eecs.berkeley.edu/deeprlcourse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS 285 at UC Berkeley&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>IAs Úteis ao público geral</title>
