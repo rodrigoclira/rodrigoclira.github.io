@@ -5,12 +5,20 @@
     <link>https://rodrigoclira.github.io/</link>
       <atom:link href="https://rodrigoclira.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo Lira</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2023</copyright><lastBuildDate>Thu, 22 Jun 2023 10:18:25 -0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2023</copyright><lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>Rodrigo Lira</title>
       <link>https://rodrigoclira.github.io/</link>
     </image>
+    
+    <item>
+      <title>Integrating Reinforcement Learning and Optimization Task: Evaluating an Agent to Dynamically Select PSO Communication Topology</title>
+      <link>https://rodrigoclira.github.io/publication/conference/icsi2023/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/conference/icsi2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Material sobre Reinforcement Learning</title>
@@ -35,12 +43,16 @@
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://courses.dibya.online/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Real World Deep RL*&lt;/a&gt; do Dibya.&lt;/p&gt;
 &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://spinningup.openai.com/en/latest/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open AI Spinning up in Deep RL&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;* Há também o curso &lt;a href=&#34;https://courses.dibya.online/p/fastdeeprl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fast RL&lt;/a&gt; que eu não realizei.&lt;/p&gt;
 &lt;p&gt;Disciplinas em instituições:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://rail.eecs.berkeley.edu/deeprlcourse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS 285 at UC Berkeley&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepMind x UCL RL Lecture Series&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rail.eecs.berkeley.edu/deeprlcourse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS 285 @ UC Berkeley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://web.stanford.edu/class/cs234/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS234 @ Stanford&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RL Lecture Series @ DeepMind and UCL &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
