@@ -121,7 +121,7 @@ cd ~
 cd caminho-app-django/
 gunicorn -b 127.0.0.1:8000 app.wsgi
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;code&gt;app.wsgi&lt;/code&gt; é o arquivo wsgi contigo no projeto&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;app.wsgi&lt;/code&gt; é o arquivo wsgi contido no projeto&lt;/p&gt;
 &lt;p&gt;Por fim, acesse a aplicação na porta 80. Se o security group tiver configurado, você deve ter acesso a aplicação normalmente.&lt;/p&gt;
 &lt;h2 id=&#34;fonte&#34;&gt;Fonte&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.alura.com.br/artigos/fazendo-o-deploy-de-uma-aplicacao-django&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.alura.com.br/artigos/fazendo-o-deploy-de-uma-aplicacao-django&lt;/a&gt;&lt;/p&gt;

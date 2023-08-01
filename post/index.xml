@@ -17,7 +17,7 @@
       <link>https://rodrigoclira.github.io/post/2023/rl-material/</link>
       <pubDate>Thu, 22 Jun 2023 10:18:25 -0300</pubDate>
       <guid>https://rodrigoclira.github.io/post/2023/rl-material/</guid>
-      <description>&lt;p&gt;Eu estou usando Aprendizam Por Reforço (do inglês, Reinforcement Learning) na minha tese de doutorado e no processo de aprendizado eu acabei encontrando muitos materias legais na internet. Resolvi fazer uma listagem deles para deixar público e também me ajudar em consultas futuras.&lt;/p&gt;
+      <description>&lt;p&gt;Eu estou usando Aprendizam Por Reforço (do inglês, Reinforcement Learning) na minha tese de doutorado e no processo de aprendizado eu acabei encontrando muitos materias interessantes na internet. Resolvi fazer uma listagem deles para deixar público e também me ajudar em consultas futuras.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Para quem estiver procurando conhecimento teórico, eu sugiro os livros:&lt;/p&gt;
 &lt;ul&gt;
@@ -166,7 +166,7 @@ cd ~
 cd caminho-app-django/
 gunicorn -b 127.0.0.1:8000 app.wsgi
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;code&gt;app.wsgi&lt;/code&gt; é o arquivo wsgi contigo no projeto&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;app.wsgi&lt;/code&gt; é o arquivo wsgi contido no projeto&lt;/p&gt;
 &lt;p&gt;Por fim, acesse a aplicação na porta 80. Se o security group tiver configurado, você deve ter acesso a aplicação normalmente.&lt;/p&gt;
 &lt;h2 id=&#34;fonte&#34;&gt;Fonte&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.alura.com.br/artigos/fazendo-o-deploy-de-uma-aplicacao-django&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.alura.com.br/artigos/fazendo-o-deploy-de-uma-aplicacao-django&lt;/a&gt;&lt;/p&gt;
