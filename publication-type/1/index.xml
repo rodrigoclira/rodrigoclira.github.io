@@ -5,12 +5,20 @@
     <link>https://rodrigoclira.github.io/publication-type/1/</link>
       <atom:link href="https://rodrigoclira.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2023</copyright><lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2023</copyright><lastBuildDate>Wed, 23 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://rodrigoclira.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Desenvolvimento de um 	extit{Advergame} para a Divulgação Institucional</title>
+      <link>https://rodrigoclira.github.io/publication/conference/ctrle2023/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/conference/ctrle2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Integrating Reinforcement Learning and Optimization Task: Evaluating an Agent to Dynamically Select PSO Communication Topology</title>

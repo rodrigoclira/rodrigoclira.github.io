@@ -5,12 +5,31 @@
     <link>https://rodrigoclira.github.io/</link>
       <atom:link href="https://rodrigoclira.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo Lira</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2023</copyright><lastBuildDate>Sat, 15 Jul 2023 11:10:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2023</copyright><lastBuildDate>Wed, 23 Aug 2023 08:15:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>Rodrigo Lira</title>
       <link>https://rodrigoclira.github.io/</link>
     </image>
+    
+    <item>
+      <title>Desenvolvimento de um Advergame para a Divulgação Institucional</title>
+      <link>https://rodrigoclira.github.io/talk/desenvolvimento-de-um-advergame-para-a-divulgacao-institucional/</link>
+      <pubDate>Wed, 23 Aug 2023 08:15:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/talk/desenvolvimento-de-um-advergame-para-a-divulgacao-institucional/</guid>
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vRPHVyV9FmHJF-c_xy01XBrd7GXWqYziyY4NssnF59Lh1Ngqn7A-sBYi8QlvLErRg/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Desenvolvimento de um 	extit{Advergame} para a Divulgação Institucional</title>
+      <link>https://rodrigoclira.github.io/publication/conference/ctrle2023/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/conference/ctrle2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Integrating Reinforcement Learning and Optimization Task - Evaluating an Agent to Dynamically Select PSO Communication Topology</title>
@@ -72,6 +91,7 @@
 &lt;li&gt;&lt;a href=&#34;https://rail.eecs.berkeley.edu/deeprlcourse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS 285 @ UC Berkeley&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://web.stanford.edu/class/cs234/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS234 @ Stanford&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RL Lecture Series @ DeepMind and UCL &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learning-with-david-silver&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Reinfocement Learning with David Silver @ Deep Learning&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
