@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reinforcement Learning | Rodrigo Lira</title>
+    <title>reinforcement learning | Rodrigo Lira</title>
     <link>https://rodrigoclira.github.io/tag/reinforcement-learning/</link>
       <atom:link href="https://rodrigoclira.github.io/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Reinforcement Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2023</copyright><lastBuildDate>Sat, 15 Jul 2023 11:10:00 +0000</lastBuildDate>
+    <description>reinforcement learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2023</copyright><lastBuildDate>Wed, 27 Sep 2023 17:15:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
-      <title>Reinforcement Learning</title>
+      <title>reinforcement learning</title>
       <link>https://rodrigoclira.github.io/tag/reinforcement-learning/</link>
     </image>
+    
+    <item>
+      <title>Applying Reinforcement Learning for Multiple Functions in Swarm Intelligence</title>
+      <link>https://rodrigoclira.github.io/talk/applying-reinforcement-learning-for-multiple-functions-in-swarm-intelligence/</link>
+      <pubDate>Wed, 27 Sep 2023 17:15:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/talk/applying-reinforcement-learning-for-multiple-functions-in-swarm-intelligence/</guid>
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTpPPjfMMDMwKfvTdcdDvUla1c0hghKYRYbZb46VSu_onSE6OeoRt9U7eENOs06CLwll5TwNrUf4GuF/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Integrating Reinforcement Learning and Optimization Task - Evaluating an Agent to Dynamically Select PSO Communication Topology</title>
