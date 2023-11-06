@@ -5,12 +5,23 @@
     <link>https://rodrigoclira.github.io/tag/pso/</link>
       <atom:link href="https://rodrigoclira.github.io/tag/pso/index.xml" rel="self" type="application/rss+xml" />
     <description>pso</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2023</copyright><lastBuildDate>Wed, 27 Sep 2023 17:15:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2023</copyright><lastBuildDate>Tue, 31 Oct 2023 17:15:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>pso</title>
       <link>https://rodrigoclira.github.io/tag/pso/</link>
     </image>
+    
+    <item>
+      <title>Applying Reinforcement Learning to Combine Multiple Swarm-based Algorithms</title>
+      <link>https://rodrigoclira.github.io/talk/applying-reinforcement-learning-to-combine-multiple-swarm-based-algorithms/</link>
+      <pubDate>Tue, 31 Oct 2023 17:15:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/talk/applying-reinforcement-learning-to-combine-multiple-swarm-based-algorithms/</guid>
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vSbE4VhbB5g93wNH0O3sH2z4U0AzwgXBQcgEPX8o_UlcvEqp1Pf-F25F18PyTsObzfXjsS2_wYEF0wi/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Applying Reinforcement Learning for Multiple Functions in Swarm Intelligence</title>
@@ -30,17 +41,6 @@
       <guid>https://rodrigoclira.github.io/talk/integrating-reinforcement-learning-and-optimization-task-evaluating-an-agent-to-dynamically-select-pso-communication-topology/</guid>
       <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vSppxUfx6PQqeXumrVvYYhzJPPBOtbJjcZmQHJwYl3HHR-yDTX6YKXIYfd9Z6AK2LJhl2oKBjqAn7U_/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Applying Reinforcement Learning to Combine Multiple Swarm-based Algorithms</title>
-      <link>https://rodrigoclira.github.io/talk/applying-reinforcement-learning-to-combine-multiple-swarm-based-algorithms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rodrigoclira.github.io/talk/applying-reinforcement-learning-to-combine-multiple-swarm-based-algorithms/</guid>
-      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vSbE4VhbB5g93wNH0O3sH2z4U0AzwgXBQcgEPX8o_UlcvEqp1Pf-F25F18PyTsObzfXjsS2_wYEF0wi/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>

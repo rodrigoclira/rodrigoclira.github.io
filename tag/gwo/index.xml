@@ -5,12 +5,23 @@
     <link>https://rodrigoclira.github.io/tag/gwo/</link>
       <atom:link href="https://rodrigoclira.github.io/tag/gwo/index.xml" rel="self" type="application/rss+xml" />
     <description>gwo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2023</copyright><lastBuildDate>Thu, 24 Nov 2022 11:10:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2023</copyright><lastBuildDate>Tue, 31 Oct 2023 17:15:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>gwo</title>
       <link>https://rodrigoclira.github.io/tag/gwo/</link>
     </image>
+    
+    <item>
+      <title>Applying Reinforcement Learning to Combine Multiple Swarm-based Algorithms</title>
+      <link>https://rodrigoclira.github.io/talk/applying-reinforcement-learning-to-combine-multiple-swarm-based-algorithms/</link>
+      <pubDate>Tue, 31 Oct 2023 17:15:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/talk/applying-reinforcement-learning-to-combine-multiple-swarm-based-algorithms/</guid>
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vSbE4VhbB5g93wNH0O3sH2z4U0AzwgXBQcgEPX8o_UlcvEqp1Pf-F25F18PyTsObzfXjsS2_wYEF0wi/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Boolean Binary Grey Wolf Optimizer</title>
@@ -171,17 +182,6 @@ $$
 &lt;p&gt;Autores: &lt;strong&gt;Rodrigo C. Lira&lt;/strong&gt;, Mariana Macedo, Hugo Valadares Siqueira. Ronaldo Menezes, Carmelo Bastos-Filho&lt;/p&gt;
 &lt;p&gt;Abstract:
 &amp;ldquo;Swarm  Intelligence  has  been  successfully  used  forsolving high-dimensional and multimodal optimization problems.However, the wide range of swarm-based techniques, operators,and  parameters  requires  prior  knowledge  before  applying  themto  real-world  problems.  Because  of  this,  we  have  been  study-ing  the  meso-level  characteristics  that  emerge  from  the  socialinteractions  within  the  swarm  to  understand  each  swarm-basedtechnique’s  unique  characteristics.  In  this  paper,  we  model  andstudy the interaction network of the Grey Wolf Optimizer (GWO)to  capture  its  social  behaviour.  We  used  Portrait  divergence  tocompare  the  similarity  between  network  structures  over  exper-iments,  simulations  and  iterations  of  the  GWO.  We  also  usedKullback divergence to compare the probability distributions ofthe  network  flows  varying  over  experiments,  simulations  anditerations  of  the  GWO.  Furthermore,  we  discovered  we  couldidentify  the  GWO  convergence  using  the  interaction  networkapproach.  Comparing  different  simulations,  we  found  that  thewolves  communicate  using  a  stable  network  structure  but  notnecessarily  a  stable  network  flow  indicating  variance  in  thenumber  of  highly  influential  wolves.  We  also  point  out  patternsfound in GWO that appears to be similar to other swarm-basedalgorithms  (GPSO  and  FSS).&amp;rdquo;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Applying Reinforcement Learning to Combine Multiple Swarm-based Algorithms</title>
-      <link>https://rodrigoclira.github.io/talk/applying-reinforcement-learning-to-combine-multiple-swarm-based-algorithms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rodrigoclira.github.io/talk/applying-reinforcement-learning-to-combine-multiple-swarm-based-algorithms/</guid>
-      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vSbE4VhbB5g93wNH0O3sH2z4U0AzwgXBQcgEPX8o_UlcvEqp1Pf-F25F18PyTsObzfXjsS2_wYEF0wi/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
 </description>
     </item>
     
