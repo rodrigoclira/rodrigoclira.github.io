@@ -30,9 +30,9 @@
   <url>
     <loc>https://rodrigoclira.github.io/tag/interaction-network/</loc><lastmod>2023-09-27T17:15:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://rodrigoclira.github.io/tag/particle-swarm-optimization/</loc><lastmod>2023-09-27T17:15:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://rodrigoclira.github.io/tag/proximal-policy-optimization/</loc><lastmod>2023-09-27T17:15:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://rodrigoclira.github.io/tag/pso/</loc><lastmod>2023-09-27T17:15:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://rodrigoclira.github.io/tag/reinforcement-learning/</loc><lastmod>2023-09-27T17:15:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -83,8 +83,6 @@
     <loc>https://rodrigoclira.github.io/talk/integrating-reinforcement-learning-and-optimization-task-evaluating-an-agent-to-dynamically-select-pso-communication-topology/</loc><lastmod>2023-07-15T11:00:11-03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://rodrigoclira.github.io/tag/ppo/</loc><lastmod>2023-07-15T11:00:11-03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://rodrigoclira.github.io/tag/pso/</loc><lastmod>2023-07-15T11:00:11-03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2023-07-15T11:00:11-03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -436,6 +434,8 @@
   <url>
     <loc>https://rodrigoclira.github.io/tag/optical-networking/</loc><lastmod>2020-06-11T16:22:57-03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://rodrigoclira.github.io/tag/particle-swarm-optimization/</loc><lastmod>2020-06-11T16:22:57-03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://rodrigoclira.github.io/tag/path-restoration/</loc><lastmod>2013-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://rodrigoclira.github.io/tag/physical-layer-impairments/</loc><lastmod>2020-06-11T16:22:57-03:00</lastmod><changefreq>weekly</changefreq></url>
@@ -523,8 +523,6 @@
     <loc>https://rodrigoclira.github.io/courses/</loc><lastmod>2020-12-15T01:22:35-03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://rodrigoclira.github.io/downloads/</loc><lastmod>2022-12-02T23:41:26-03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://rodrigoclira.github.io/tag/grey-wolf-optimizer/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://rodrigoclira.github.io/post/</loc><lastmod>2021-01-23T19:43:06+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
