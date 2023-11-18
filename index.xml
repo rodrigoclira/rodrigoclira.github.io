@@ -5,12 +5,23 @@
     <link>https://rodrigoclira.github.io/</link>
       <atom:link href="https://rodrigoclira.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo Lira</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2023</copyright><lastBuildDate>Tue, 31 Oct 2023 17:15:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2023</copyright><lastBuildDate>Sat, 18 Nov 2023 10:18:25 -0300</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>Rodrigo Lira</title>
       <link>https://rodrigoclira.github.io/</link>
     </image>
+    
+    <item>
+      <title>Docente e estudantes da UPE publicam artigo na Revista Nature, em colaboração com pesquisadores da Universidade de Toulouse</title>
+      <link>https://rodrigoclira.github.io/post/2023/nature-article/</link>
+      <pubDate>Sat, 18 Nov 2023 10:18:25 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/post/2023/nature-article/</guid>
+      <description>&lt;p&gt;Artigo elaborado por docente e estudantes da Universidade de Pernambuco (UPE), intitulado “Understanding political divisiveness using online participation data from the 2022 French and Brazilian presidential elections”, foi publicado na Revista Nature, considerada um dos principais periódicos científicos do mundo. O artigo é resultado de acordo de cooperação técnica internacional entre a Universidade de Toulouse e a UPE, com foco na democracia digital. No Brasil, a plataforma desenvolvida e utilizada para a investigação científica foi a brazucracia.org, ferramenta de participação digital em que os usuários podem criar os seus próprios programas de governo.&lt;/p&gt;
+&lt;p&gt;A plataforma permite que os interessados selecionem e classifiquem propostas retiradas dos programas oficiais de governo dos principais candidatos às eleições presidenciais de 2022, sem mencionar aos participantes qual o proponente do item em questão. Cada participação da população, mesmo que parcial, contribui para a criação de um programa coletivo de proposta política e identifica quais são as ideias que geram maior discordância entre os usuários.&lt;/p&gt;
+&lt;p&gt;O princípio utilizado no instrumento é o da inteligência coletiva e o objetivo é obter conhecimento sobre a participação cívica em plataformas digitais e estudar os limites empíricos da teoria de escolha social. O artigo demonstra resultados relacionados com a análise da aderência das propostas nas eleições presidenciais francesas e brasileiras de 2022. Com uma equipe composta por pesquisadores de diversas nacionalidades, a UPE contou com a participação do estudante do Programa de Pós-graduação em Engenharia da Computação, Rodrigo Lira, da egressa do mesmo programa e discente do pós-doutorado na Universidade de Toulouse, Mariana Macedo, e do Professor Carmelo Bastos, docente da Escola Politécnica de Pernambuco (POLI-UPE). Os interessados podem consultar o artigo no link: &lt;a href=&#34;https://www.nature.com/articles/s41562-023-01755-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nature.com/articles/s41562-023-01755-x&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Applying Reinforcement Learning to Combine Multiple Swarm-based Algorithms</title>
