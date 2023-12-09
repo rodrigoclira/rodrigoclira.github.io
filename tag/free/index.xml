@@ -5,12 +5,21 @@
     <link>https://rodrigoclira.github.io/tag/free/</link>
       <atom:link href="https://rodrigoclira.github.io/tag/free/index.xml" rel="self" type="application/rss+xml" />
     <description>free</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2023</copyright><lastBuildDate>Tue, 21 Nov 2023 10:18:25 -0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2023</copyright><lastBuildDate>Sat, 09 Dec 2023 10:18:25 -0300</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>free</title>
       <link>https://rodrigoclira.github.io/tag/free/</link>
     </image>
+    
+    <item>
+      <title>Python Fluente</title>
+      <link>https://rodrigoclira.github.io/recommendation/book/python-fluent/</link>
+      <pubDate>Sat, 09 Dec 2023 10:18:25 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/recommendation/book/python-fluent/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://pythonfluente.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pythonfluente.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Friends Don&#39;t Let Friends Make Bad Graphs</title>
