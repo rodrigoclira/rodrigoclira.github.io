@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>huawei | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/tag/huawei/</link>
+      <atom:link href="https://rodrigoclira.github.io/tag/huawei/index.xml" rel="self" type="application/rss+xml" />
+    <description>huawei</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2023</copyright><lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>huawei</title>
+      <link>https://rodrigoclira.github.io/tag/huawei/</link>
+    </image>
+    
+    <item>
+      <title>Popularização e Democratização da Inteligência Artificial no Nordeste Brasileiro: Um Relato de Experiência</title>
+      <link>https://rodrigoclira.github.io/publication/journal/praxis2023-b/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/journal/praxis2023-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
