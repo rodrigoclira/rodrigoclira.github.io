@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>active | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/tag/active/</link>
+      <atom:link href="https://rodrigoclira.github.io/tag/active/index.xml" rel="self" type="application/rss+xml" />
+    <description>active</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2024</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>active</title>
+      <link>https://rodrigoclira.github.io/tag/active/</link>
+    </image>
+    
+    <item>
+      <title>Inteligência de enxames com aprendizado de máquina por reforço para resolução de problemas de otimização</title>
+      <link>https://rodrigoclira.github.io/project/rl-mh/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/project/rl-mh/</guid>
+      <description>&lt;p&gt;Inteligência de enxames é uma subárea de computação inteligente que compreende abordagens que se inspiram no comportamento inteligente emergente da interação entre seres vivos para resolução de problemas complexos. Ao longo das últimas três décadas, muitas foram as propostas que surgiram na área, as quais são baseadas nas mais diversas metáforas. Uma característica em comum a essas propostas é que os agentes costumam seguir em todo o processo de resolução do problema a inspiração utilizada na sua concepção. Sabendo-se que existem diversos problemas de otimização e que mesmo em um único problema existem fases que precisam de diferentes comportamentos, seguir um conjunto de operadores bem definido por um algoritmo é um fator limitante. Por esse motivo, este projeto visa desenvolver uma meta-heurística adaptativa para resolução de problemas de otimização que consiga se auto-organizar no exame (ou sub-enxames) mais promissor de acordo com informações obtidas &lt;em&gt;on-line&lt;/em&gt; na execução.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
