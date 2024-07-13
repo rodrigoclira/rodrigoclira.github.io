@@ -13,6 +13,16 @@
     </image>
     
     <item>
+      <title>Flask Mega-Tutorial</title>
+      <link>https://rodrigoclira.github.io/recommendation/tutorial/flask/</link>
+      <pubDate>Fri, 12 Jul 2024 20:58:00 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/recommendation/tutorial/flask/</guid>
+      <description>&lt;p&gt;&amp;ldquo;&lt;em&gt;Flask Mega-Tutorial&lt;/em&gt;&amp;rdquo; por Miguel Grinberg&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Python Fluente</title>
       <link>https://rodrigoclira.github.io/recommendation/book/python-fluent/</link>
       <pubDate>Sat, 09 Dec 2023 10:18:25 -0300</pubDate>

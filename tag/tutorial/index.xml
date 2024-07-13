@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tutorial | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/tag/tutorial/</link>
+      <atom:link href="https://rodrigoclira.github.io/tag/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <description>tutorial</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2024</copyright><lastBuildDate>Fri, 12 Jul 2024 20:58:00 -0300</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>tutorial</title>
+      <link>https://rodrigoclira.github.io/tag/tutorial/</link>
+    </image>
+    
+    <item>
+      <title>Flask Mega-Tutorial</title>
+      <link>https://rodrigoclira.github.io/recommendation/tutorial/flask/</link>
+      <pubDate>Fri, 12 Jul 2024 20:58:00 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/recommendation/tutorial/flask/</guid>
+      <description>&lt;p&gt;&amp;ldquo;&lt;em&gt;Flask Mega-Tutorial&lt;/em&gt;&amp;rdquo; por Miguel Grinberg&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
