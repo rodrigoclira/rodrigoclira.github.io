@@ -5,12 +5,20 @@
     <link>https://rodrigoclira.github.io/</link>
       <atom:link href="https://rodrigoclira.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo Lira</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2024</copyright><lastBuildDate>Thu, 22 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2024</copyright><lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>Rodrigo Lira</title>
       <link>https://rodrigoclira.github.io/</link>
     </image>
+    
+    <item>
+      <title>Unpacking heterogeneities of Swarm Intelligence using Network Science</title>
+      <link>https://rodrigoclira.github.io/publication/conference/2024/ccs/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/conference/2024/ccs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Detecção de Anomalias em Rolamento de Aerogeradores Baseada em Modelos Não Supervisionados</title>
