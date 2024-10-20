@@ -5,12 +5,20 @@
     <link>https://rodrigoclira.github.io/publication-type/1/</link>
       <atom:link href="https://rodrigoclira.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2024</copyright><lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2024</copyright><lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://rodrigoclira.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>INOVA ID RS: Uma Federação de Identidade Aderente ao Ecossistema de Inovação Gaúcho</title>
+      <link>https://rodrigoclira.github.io/publication/conference/2024/anprotec/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/conference/2024/anprotec/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Unpacking heterogeneities of Swarm Intelligence using Network Science</title>
@@ -25,14 +33,6 @@
       <link>https://rodrigoclira.github.io/publication/conference/2024/brazil-windpower/</link>
       <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://rodrigoclira.github.io/publication/conference/2024/brazil-windpower/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>INOVA ID RS: Uma Federação de Identidade Aderente ao Ecossistema de Inovação Gaúcho</title>
-      <link>https://rodrigoclira.github.io/publication/conference/2024/anprotec/</link>
-      <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://rodrigoclira.github.io/publication/conference/2024/anprotec/</guid>
       <description></description>
     </item>
     
