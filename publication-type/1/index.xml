@@ -42,10 +42,9 @@
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://rodrigoclira.github.io/publication/conference/2024/lacci/</guid>
       <description>&lt;audio controls autoplay&gt;
-  &lt;source src=&#34;horse.ogg&#34; type=&#34;audio/ogg&#34;&gt;
-  &lt;source src=&#34;RL_Metaheuristic_Social_Dynamics_ Improvement_and_Turnover_Study.wav&#34; type=&#34;audio/mpeg&#34;&gt;
-Podcast generated automatically with [NotebookLM](https://notebooklm.google.com/).
+  &lt;source src=&#34;RL_Metaheuristic_Social_Dynamics_ Improvement_and_Turnover_Study.wav&#34; type=&#34;audio/wav&#34;&gt;
 &lt;/audio&gt;
+&lt;p&gt;Podcast generated automatically with &lt;a href=&#34;https://notebooklm.google.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NotebookLM&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
