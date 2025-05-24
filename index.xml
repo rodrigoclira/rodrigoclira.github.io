@@ -5,12 +5,21 @@
     <link>https://rodrigoclira.github.io/</link>
       <atom:link href="https://rodrigoclira.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo Lira</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2025</copyright><lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2025</copyright><lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>Rodrigo Lira</title>
       <link>https://rodrigoclira.github.io/</link>
     </image>
+    
+    <item>
+      <title>DroneShark Dataset: Um Conjunto de Imagens Aéreas para Detecção de Tubarões</title>
+      <link>https://rodrigoclira.github.io/publication/conference/2025/wcama/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/conference/2025/wcama/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Revealing Swarm Intelligence Patterns using Network Science (abstract)</title>
@@ -165,15 +174,6 @@
       <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vSjSBdBWOPgI63vy36AVsmaobQrWGE-Dbj0mgmVh1XHdaaMJmeQ5BqEeIfNiKO21ruJE8lGRoeDvl84/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DroneShark Dataset: Um Conjunto de Imagens Aéreas para Detecção de Tubarões</title>
-      <link>https://rodrigoclira.github.io/publication/conference/2025/wcama/</link>
-      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://rodrigoclira.github.io/publication/conference/2025/wcama/</guid>
-      <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you.&lt;/p&gt;
 </description>
     </item>
     

@@ -5,12 +5,21 @@
     <link>https://rodrigoclira.github.io/publication-type/1/</link>
       <atom:link href="https://rodrigoclira.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2025</copyright><lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2025</copyright><lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://rodrigoclira.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>DroneShark Dataset: Um Conjunto de Imagens Aéreas para Detecção de Tubarões</title>
+      <link>https://rodrigoclira.github.io/publication/conference/2025/wcama/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/conference/2025/wcama/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>INOVA ID RS: Uma Federação de Identidade Aderente ao Ecossistema de Inovação Gaúcho</title>
@@ -39,15 +48,6 @@
   &lt;source src=&#34;RL_Metaheuristic_Social_Dynamics_ Improvement_and_Turnover_Study.wav&#34; type=&#34;audio/wav&#34;&gt;
 &lt;/audio&gt;
 &lt;p&gt;Podcast generated automatically with &lt;a href=&#34;https://notebooklm.google.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NotebookLM&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DroneShark Dataset: Um Conjunto de Imagens Aéreas para Detecção de Tubarões</title>
-      <link>https://rodrigoclira.github.io/publication/conference/2025/wcama/</link>
-      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://rodrigoclira.github.io/publication/conference/2025/wcama/</guid>
-      <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you.&lt;/p&gt;
 </description>
     </item>
     
