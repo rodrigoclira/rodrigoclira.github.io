@@ -5,12 +5,23 @@
     <link>https://rodrigoclira.github.io/</link>
       <atom:link href="https://rodrigoclira.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo Lira</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2025</copyright><lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2025</copyright><lastBuildDate>Fri, 23 May 2025 11:15:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>Rodrigo Lira</title>
       <link>https://rodrigoclira.github.io/</link>
     </image>
+    
+    <item>
+      <title>Revolução de 1824: Uma viagem digital pela Confederação do Equador</title>
+      <link>https://rodrigoclira.github.io/talk/revolucao-de-1824-uma-viagem-digital-pela-confederacao-do-equador/</link>
+      <pubDate>Fri, 23 May 2025 11:15:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/talk/revolucao-de-1824-uma-viagem-digital-pela-confederacao-do-equador/</guid>
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTwS2ov51_BPb0oFt8Y5bZRHsve0YdS_ABWk4z3-5jI4xctOdSOkeKydjUrfAgfMg/pubembed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>DroneShark Dataset: Um Conjunto de Imagens Aéreas para Detecção de Tubarões</title>
@@ -163,17 +174,6 @@
       <guid>https://rodrigoclira.github.io/recommendation/tutorial/flask/</guid>
       <description>&lt;p&gt;&amp;ldquo;&lt;em&gt;Flask Mega-Tutorial&lt;/em&gt;&amp;rdquo; por Miguel Grinberg&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Revolução de 1824: Uma viagem digital pela Confederação do Equador</title>
-      <link>https://rodrigoclira.github.io/talk/revolucao-de-1824-uma-viagem-digital-pela-confederacao-do-equador/</link>
-      <pubDate>Thu, 23 May 2024 11:15:00 +0000</pubDate>
-      <guid>https://rodrigoclira.github.io/talk/revolucao-de-1824-uma-viagem-digital-pela-confederacao-do-equador/</guid>
-      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTwS2ov51_BPb0oFt8Y5bZRHsve0YdS_ABWk4z3-5jI4xctOdSOkeKydjUrfAgfMg/pubembed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
 </description>
     </item>
     
