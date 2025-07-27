@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>datapaper | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/tag/datapaper/</link>
+      <atom:link href="https://rodrigoclira.github.io/tag/datapaper/index.xml" rel="self" type="application/rss+xml" />
+    <description>datapaper</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2025</copyright><lastBuildDate>Thu, 28 Nov 2024 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>datapaper</title>
+      <link>https://rodrigoclira.github.io/tag/datapaper/</link>
+    </image>
+    
+    <item>
+      <title>DroneShark Dataset: Um Conjunto de Imagens Aéreas para Detecção de Tubarões</title>
+      <link>https://rodrigoclira.github.io/talk/droneshark-dataset-um-conjunto-de-imagens-aereas-para-deteccao-de-tubaroes/</link>
+      <pubDate>Thu, 28 Nov 2024 11:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/talk/droneshark-dataset-um-conjunto-de-imagens-aereas-para-deteccao-de-tubaroes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
