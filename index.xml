@@ -5,12 +5,20 @@
     <link>https://rodrigoclira.github.io/</link>
       <atom:link href="https://rodrigoclira.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo Lira</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2025</copyright><lastBuildDate>Sat, 21 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2025</copyright><lastBuildDate>Mon, 21 Jul 2025 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>Rodrigo Lira</title>
       <link>https://rodrigoclira.github.io/</link>
     </image>
+    
+    <item>
+      <title>DroneShark Dataset: Um Conjunto de Imagens Aéreas para Detecção de Tubarões</title>
+      <link>https://rodrigoclira.github.io/talk/droneshark-dataset-um-conjunto-de-imagens-aereas-para-deteccao-de-tubaroes/</link>
+      <pubDate>Mon, 21 Jul 2025 11:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/talk/droneshark-dataset-um-conjunto-de-imagens-aereas-para-deteccao-de-tubaroes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Multidimensional Analysis of Swarm Dynamics in a Reinforcement Learning-based Metaheuristic</title>
@@ -105,14 +113,6 @@
   &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vT7T1Y9nuw7t7UWeIfAqMetcN0-kkEd_bc0i9-46MgSZJu8YJ8Lb1DM22Kk22Gatg/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>DroneShark Dataset: Um Conjunto de Imagens Aéreas para Detecção de Tubarões</title>
-      <link>https://rodrigoclira.github.io/talk/droneshark-dataset-um-conjunto-de-imagens-aereas-para-deteccao-de-tubaroes/</link>
-      <pubDate>Thu, 28 Nov 2024 11:00:00 +0000</pubDate>
-      <guid>https://rodrigoclira.github.io/talk/droneshark-dataset-um-conjunto-de-imagens-aereas-para-deteccao-de-tubaroes/</guid>
-      <description></description>
     </item>
     
     <item>
