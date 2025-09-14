@@ -5,12 +5,20 @@
     <link>https://rodrigoclira.github.io/publication-type/1/</link>
       <atom:link href="https://rodrigoclira.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2025</copyright><lastBuildDate>Sat, 21 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2025</copyright><lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://rodrigoclira.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Estratégias de combinação Não-Supervisionadas para Detecção de Contextual de Anomalias em Aerogeradores</title>
+      <link>https://rodrigoclira.github.io/publication/conference/2025/snptee/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/conference/2025/snptee/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Multidimensional Analysis of Swarm Dynamics in a Reinforcement Learning-based Metaheuristic</title>
