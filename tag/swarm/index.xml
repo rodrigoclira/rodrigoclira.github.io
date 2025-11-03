@@ -5,12 +5,38 @@
     <link>https://rodrigoclira.github.io/tag/swarm/</link>
       <atom:link href="https://rodrigoclira.github.io/tag/swarm/index.xml" rel="self" type="application/rss+xml" />
     <description>swarm</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2025</copyright><lastBuildDate>Sat, 04 Jun 2022 10:18:25 -0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2025</copyright><lastBuildDate>Sun, 02 Nov 2025 10:18:25 -0300</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>swarm</title>
       <link>https://rodrigoclira.github.io/tag/swarm/</link>
     </image>
+    
+    <item>
+      <title>Murmuration</title>
+      <link>https://rodrigoclira.github.io/post/2025/murmuration/</link>
+      <pubDate>Sun, 02 Nov 2025 10:18:25 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/post/2025/murmuration/</guid>
+      <description>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://rodrigoclira.github.io/post/2025/murmuration/murmuration.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
     
     <item>
       <title>Grey Wolf Optimizer in a nutshell</title>

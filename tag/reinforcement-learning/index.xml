@@ -5,12 +5,23 @@
     <link>https://rodrigoclira.github.io/tag/reinforcement-learning/</link>
       <atom:link href="https://rodrigoclira.github.io/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>reinforcement learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2025</copyright><lastBuildDate>Fri, 15 Nov 2024 17:15:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2025</copyright><lastBuildDate>Thu, 30 Oct 2025 16:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>reinforcement learning</title>
       <link>https://rodrigoclira.github.io/tag/reinforcement-learning/</link>
     </image>
+    
+    <item>
+      <title>A Multidimensional Analysis of Swarm Dynamics in a Reinforcement Learning based Metaheuristic</title>
+      <link>https://rodrigoclira.github.io/talk/a-multidimensional-analysis-of-swarm-dynamics-in-a-reinforcement-learning-based-metaheuristic/</link>
+      <pubDate>Thu, 30 Oct 2025 16:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/talk/a-multidimensional-analysis-of-swarm-dynamics-in-a-reinforcement-learning-based-metaheuristic/</guid>
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTw8Soalhf6olSm4LvMuehON08QoeS-EkvCUGPaOIEwZ4qD7inBPjXtcmOABnP_uUknyMl3TCwVLahi/pubembed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Exploring Social Dynamics in a Reinforcement Learning-based Metaheuristic - A study using Improvement Frequency and Population Turnover</title>
@@ -30,17 +41,6 @@
       <guid>https://rodrigoclira.github.io/talk/applying-reinforcement-learning-to-combine-multiple-swarm-based-algorithms/</guid>
       <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vSbE4VhbB5g93wNH0O3sH2z4U0AzwgXBQcgEPX8o_UlcvEqp1Pf-F25F18PyTsObzfXjsS2_wYEF0wi/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Multidimensional Analysis of Swarm Dynamics in a Reinforcement Learning-based Metaheuristic</title>
-      <link>https://rodrigoclira.github.io/talk/a-multidimensional-analysis-of-swarm-dynamics-in-a-reinforcement-learning-based-metaheuristic/</link>
-      <pubDate>Wed, 27 Sep 2023 17:15:00 +0000</pubDate>
-      <guid>https://rodrigoclira.github.io/talk/a-multidimensional-analysis-of-swarm-dynamics-in-a-reinforcement-learning-based-metaheuristic/</guid>
-      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTw8Soalhf6olSm4LvMuehON08QoeS-EkvCUGPaOIEwZ4qD7inBPjXtcmOABnP_uUknyMl3TCwVLahi/pubembed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>

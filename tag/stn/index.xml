@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STN | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/tag/stn/</link>
+      <atom:link href="https://rodrigoclira.github.io/tag/stn/index.xml" rel="self" type="application/rss+xml" />
+    <description>STN</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2025</copyright><lastBuildDate>Thu, 30 Oct 2025 16:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <title>STN</title>
+      <link>https://rodrigoclira.github.io/tag/stn/</link>
+    </image>
+    
+    <item>
+      <title>A Multidimensional Analysis of Swarm Dynamics in a Reinforcement Learning based Metaheuristic</title>
+      <link>https://rodrigoclira.github.io/talk/a-multidimensional-analysis-of-swarm-dynamics-in-a-reinforcement-learning-based-metaheuristic/</link>
+      <pubDate>Thu, 30 Oct 2025 16:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/talk/a-multidimensional-analysis-of-swarm-dynamics-in-a-reinforcement-learning-based-metaheuristic/</guid>
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTw8Soalhf6olSm4LvMuehON08QoeS-EkvCUGPaOIEwZ4qD7inBPjXtcmOABnP_uUknyMl3TCwVLahi/pubembed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
