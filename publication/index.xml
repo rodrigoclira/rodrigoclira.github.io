@@ -5,7 +5,7 @@
     <link>https://rodrigoclira.github.io/publication/</link>
       <atom:link href="https://rodrigoclira.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publicações</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2025</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2026</copyright>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>Publicações</title>
@@ -13,11 +13,20 @@
     </image>
     
     <item>
+      <title>Efficient parallel upscaling of river drainage networks for large data sets</title>
+      <link>https://rodrigoclira.github.io/publication/journal/computational-geosciences/</link>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publication/journal/computational-geosciences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Estratégias de combinação Não-Supervisionadas para Detecção de Contextual de Anomalias em Aerogeradores</title>
       <link>https://rodrigoclira.github.io/publication/conference/2025/snptee/</link>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://rodrigoclira.github.io/publication/conference/2025/snptee/</guid>
-      <description></description>
+      <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you.&lt;/p&gt;
+</description>
     </item>
     
     <item>

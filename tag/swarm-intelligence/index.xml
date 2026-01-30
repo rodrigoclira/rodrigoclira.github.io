@@ -5,12 +5,37 @@
     <link>https://rodrigoclira.github.io/tag/swarm-intelligence/</link>
       <atom:link href="https://rodrigoclira.github.io/tag/swarm-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <description>swarm intelligence</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2025</copyright><lastBuildDate>Thu, 30 Oct 2025 16:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2026</copyright><lastBuildDate>Tue, 27 Jan 2026 10:10:00 -0300</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
       <title>swarm intelligence</title>
       <link>https://rodrigoclira.github.io/tag/swarm-intelligence/</link>
     </image>
+    
+    <item>
+      <title>Swarm Dynamics Frameworks</title>
+      <link>https://rodrigoclira.github.io/post/2026/swarm-dynamics-framework/</link>
+      <pubDate>Tue, 27 Jan 2026 10:10:00 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/post/2026/swarm-dynamics-framework/</guid>
+      <description>&lt;h2 id=&#34;interaction-networks&#34;&gt;Interaction Networks&lt;/h2&gt;
+&lt;p&gt;Oliveira et. al. [1] proposed a framework named Interaction Networks (IN) that captures the social interactions between individuals in Swarm Intelligence metaheuristics. This network-based approach provides a meso-level perspective between the micro-level rules followed by individual agents and the macro-level performance of the metaheuristic.&lt;/p&gt;
+&lt;p&gt;In an Interaction Network, nodes represent agents in the swarm, while the edges represent the interactions among them. The network I(t) describes the interactions at time &lt;em&gt;t&lt;/em&gt;, with edges I$_{ij}$ indicating the extent to which agent &lt;em&gt;i&lt;/em&gt; influences the movement of agent &lt;em&gt;j&lt;/em&gt;. Thus, Interaction Network captures actual information exchanges that occur during the optimisation.&lt;/p&gt;
+&lt;h2 id=&#34;search-trajectory-networks&#34;&gt;Search Trajectory Networks&lt;/h2&gt;
+&lt;p&gt;Introduced by Ochoa et. al. [2], Search Trajectory Networks (STNs) provide a tool for analysing and visualising the behaviour of algorithms during optimisation. STNs transform the complex search trajectories of algorithms into network representations that can be quantitatively analysed.&lt;/p&gt;
+&lt;p&gt;In an STNs, nodes represent locations in the search space, and edges represent transitions between these locations. A location is defined as a subset of the search space resulting from partitioning, and each search trajectory is a sequence of locations visited by representative solutions. Unlike Interaction Networks that focus on agent relationships, STNs focus on how algorithms traverse the search space.&lt;/p&gt;
+&lt;p&gt;STNs can be constructed for any metaheuristic algorithm, whether population-based or single-solution based. Moreover, STNs from different algorithms can be merged into a single model. In the STN framework, each node represents a location in the search space containing at least one representative solution from the algorithm&amp;rsquo;s trajectory [3]. For continuous optimisation problems, these locations are typically defined by partitioning the search space into hypercubes of a predetermined size, effectively mapping the high-dimensional solution space onto a more manageable network representation while preserving the essential characteristics of the search behaviour.&lt;/p&gt;
+&lt;h2 id=&#34;improvement-frequency-and-population-turnover&#34;&gt;Improvement Frequency and Population Turnover&lt;/h2&gt;
+&lt;p&gt;Hayward and Engelbrecht [4] introduced two metrics to characterise swarm dynamics in metaheuristics: Improvement Frequency and Population Turnover. These two metrics provide simple yet effective ways to visualise and analyse the fitness behaviour of swarm-based metaheuristics.&lt;/p&gt;
+&lt;p&gt;Improvement Frequency tracks when agents improve their fitness during the search process. It reveals patterns of ``freshness&#39;&#39; in the population, with coloured clusters indicating active improvement periods and uncoloured spaces showing information staleness. The temporal patterns in these improvements help identify how information propagates through the swarm.&lt;/p&gt;
+&lt;p&gt;Population Turnover measures the breadth of good information by tracking how many agents improved their fitness at each iteration. It helps identify distinct behaviour stages in the algorithm&amp;rsquo;s execution,  revealing when exploration or exploitation dominates the search process.&lt;/p&gt;
+&lt;p&gt;Together, these metrics provide insights into how information spreads and influences the swarm over time. When visualised, they create distinctive patterns that characterise different metaheuristics and their behaviour on specific problems.&lt;/p&gt;
+&lt;h2 id=&#34;referências&#34;&gt;Referências&lt;/h2&gt;
+&lt;p&gt;[1] Oliveira, M., Bastos-Filho, C.J.A., Menezes, R.: Using network science to assess particle swarm optimizers. Social Network Analysis and Mining 5(1), 3 (Jan 2015). &lt;a href=&#34;https://doi.org/10.1007/s13278-015-0245-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/s13278-015-0245-5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] Ochoa, G., Malan, K.M., Blum, C.: Search trajectory networks: A tool for analysing and visualising the behaviour of metaheuristics. Applied Soft Computing 109, 107492 (2021). &lt;a href=&#34;https://doi.org/10.1016/j.asoc.2021.107492&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.asoc.2021.107492&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[3] Narvaez-Teran, V., Ochoa, G., Rodriguez-Tello, E.: Search trajectory networks applied to the cyclic bandwidth sum problem. IEEE Access 9, 151266–151277 (2021). &lt;a href=&#34;https://doi.org/10.1109/ACCESS.2021.3126015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1109/ACCESS.2021.3126015&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[4] heuristic search behaviour characteristics. In: Proceedings of the Companion Conference on Genetic and Evolutionary Computation. p. 1562–1569. GECCO ’23 Companion, Association for Computing Machinery, New York, NY, USA (2023). &lt;a href=&#34;https://doi.org/10.1145/3583133.3596338&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1145/3583133.3596338&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Multidimensional Analysis of Swarm Dynamics in a Reinforcement Learning based Metaheuristic</title>
