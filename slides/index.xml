@@ -2,140 +2,458 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slides | Rodrigo Lira</title>
-    <link>https://rodrigoclira.github.io/slides/</link>
-      <atom:link href="https://rodrigoclira.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/slides/</link>
+      <atom:link href="https://example.com/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
-    <item>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Slides</title>
-      <link>https://rodrigoclira.github.io/slides/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://rodrigoclira.github.io/slides/example/</guid>
-      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
+      <link>https://example.com/slides/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk: Recent Work</title>
+      <link>https://example.com/slides/example/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/slides/example/</guid>
+      <description>&lt;!-- no-branding --&gt;
+&lt;h1 id=&#34;example-talk&#34;&gt;Example Talk&lt;/h1&gt;
+&lt;h3 id=&#34;dr-alex-johnson--meta-ai&#34;&gt;Dr. Alex Johnson · Meta AI&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;research-overview&#34;&gt;Research Overview&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Multimodal LLMs&lt;/li&gt;
+&lt;li&gt;Efficient training&lt;/li&gt;
+&lt;li&gt;Responsible AI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code--math&#34;&gt;Code &amp;amp; Math&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;score&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&amp;gt;&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;x&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;$$
+E = mc^2
+$$&lt;hr&gt;
+&lt;h2 id=&#34;dual-column-layout&#34;&gt;Dual Column Layout&lt;/h2&gt;
+&lt;div class=&#34;r-hstack&#34;&gt;
+&lt;div style=&#34;flex: 1; padding-right: 1rem;&#34;&gt;
+&lt;h3 id=&#34;left-column&#34;&gt;Left Column&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Point A&lt;/li&gt;
+&lt;li&gt;Point B&lt;/li&gt;
+&lt;li&gt;Point C&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style=&#34;flex: 1; padding-left: 1rem;&#34;&gt;
+&lt;h3 id=&#34;right-column&#34;&gt;Right Column&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Detail 1&lt;/li&gt;
+&lt;li&gt;Detail 2&lt;/li&gt;
+&lt;li&gt;Detail 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;!-- Alternative: Asymmetric columns --&gt;
+&lt;div style=&#34;display: flex; gap: 2rem;&#34;&gt;
+&lt;div style=&#34;flex: 2;&#34;&gt;
+&lt;h3 id=&#34;main-content-23-width&#34;&gt;Main Content (2/3 width)&lt;/h3&gt;
+&lt;p&gt;This column takes up twice the space of the right column.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;example&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;():&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;code works too&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div style=&#34;flex: 1;&#34;&gt;
+&lt;h3 id=&#34;sidebar-13-width&#34;&gt;Sidebar (1/3 width)&lt;/h3&gt;
+
+
+
+  
+  &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
+    &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;br&gt;
+Key points in smaller column&lt;/p&gt;
+
+  &lt;/blockquote&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;image--text-layout&#34;&gt;Image + Text Layout&lt;/h2&gt;
+&lt;div class=&#34;r-hstack&#34; style=&#34;align-items: center;&#34;&gt;
+&lt;div style=&#34;flex: 1;&#34;&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;https://images.unsplash.com/photo-1708011271954-c0d2b3155ded?w=400&amp;amp;dpr=2&amp;amp;h=400&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;q=60&amp;amp;ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTh8fG1hdGhlbWF0aWNzfGVufDB8fHx8MTc2NTYzNTEzMHww&amp;amp;ixlib=rb-4.1.0&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;flex: 1; padding-left: 2rem;&#34;&gt;
+&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;li&gt;95% accuracy&lt;/li&gt;
+&lt;li&gt;10x faster inference&lt;/li&gt;
+&lt;li&gt;Lower memory usage&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Code block:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-&lt;p&gt;Block math:&lt;/p&gt;
-&lt;p&gt;$$
-f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
-&lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+  &lt;strong&gt;Breakthrough!&lt;/strong&gt;
 &lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/aside&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Press &lt;strong&gt;S&lt;/strong&gt; to open presenter view with notes!&lt;/p&gt;
+&lt;p&gt;This slide has hidden speaker notes below.&lt;/p&gt;
+&lt;p&gt;Note:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;li&gt;This is a &lt;strong&gt;speaker note&lt;/strong&gt; (only visible in presenter view)&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to open presenter console&lt;/li&gt;
+&lt;li&gt;Perfect for remembering key talking points&lt;/li&gt;
+&lt;li&gt;Can include reminders, timing, references&lt;/li&gt;
+&lt;li&gt;Supports &lt;strong&gt;Markdown&lt;/strong&gt; formatting too!&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&#34;progressive-reveals&#34;&gt;Progressive Reveals&lt;/h2&gt;
+&lt;p&gt;Content appears step-by-step:&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  First point appears
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Then the second point
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Finally the conclusion
+&lt;/span&gt;
+&lt;span class=&#34;fragment highlight-red&#34; &gt;
+  This one can be &lt;strong&gt;highlighted&lt;/strong&gt;!
+&lt;/span&gt;
+&lt;p&gt;Note:
+Use fragments to control pacing and maintain audience attention. Each fragment appears on click.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;diagrams-with-mermaid&#34;&gt;Diagrams with Mermaid&lt;/h2&gt;
+&lt;div class=&#34;mermaid&#34;&gt;graph LR
+    A[Research Question] --&gt; B{Hypothesis}
+    B --&gt;|Valid| C[Experiment]
+    B --&gt;|Invalid| D[Revise]
+    C --&gt; E[Analyze Data]
+    E --&gt; F{Significant?}
+    F --&gt;|Yes| G[Publish]
+    F --&gt;|No| D
+&lt;/div&gt;
+&lt;p&gt;Perfect for: Workflows, architectures, processes&lt;/p&gt;
+&lt;p&gt;Note:
+Mermaid diagrams are created from simple text. They&amp;rsquo;re version-controllable and edit anywhere!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;research-results&#34;&gt;Research Results&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Model&lt;/th&gt;
+          &lt;th&gt;Accuracy&lt;/th&gt;
+          &lt;th&gt;Speed&lt;/th&gt;
+          &lt;th&gt;Memory&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Baseline&lt;/td&gt;
+          &lt;td&gt;87.3%&lt;/td&gt;
+          &lt;td&gt;1.0x&lt;/td&gt;
+          &lt;td&gt;2GB&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ours (v1)&lt;/td&gt;
+          &lt;td&gt;92.1%&lt;/td&gt;
+          &lt;td&gt;1.5x&lt;/td&gt;
+          &lt;td&gt;1.8GB&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Ours (v2)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;95.8%&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;2.3x&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;1.2GB&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+
+  
+  &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
+    &lt;p&gt;&lt;strong&gt;Key Finding:&lt;/strong&gt; 8.5% improvement over baseline with 40% memory reduction&lt;/p&gt;
+
+  &lt;/blockquote&gt;
+
+&lt;p&gt;Note:
+Tables are perfect for comparative results. Markdown tables are simple and version-control friendly.&lt;/p&gt;
 &lt;hr&gt;
 
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;/img/boards.jpg&#34;
+      data-background-color=&#34;#1e3a8a&#34;
   &gt;
 
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;custom-backgrounds&#34;&gt;Custom Backgrounds&lt;/h2&gt;
+&lt;p&gt;This slide has a &lt;strong&gt;blue background&lt;/strong&gt;!&lt;/p&gt;
+&lt;p&gt;You can customize:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Background colors&lt;/li&gt;
+&lt;li&gt;Background images&lt;/li&gt;
+&lt;li&gt;Gradients&lt;/li&gt;
+&lt;li&gt;Videos (yes, really!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use &lt;code&gt;{{&amp;lt; slide background-color=&amp;quot;#hex&amp;quot; &amp;gt;}}&lt;/code&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;vertical-navigation&#34;&gt;Vertical Navigation&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;There&amp;rsquo;s more content below! ⬇️&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Press the &lt;strong&gt;Down Arrow&lt;/strong&gt; to see substeps.&lt;/p&gt;
+&lt;p&gt;Note:
+This demonstrates Reveal.js&amp;rsquo;s vertical slide feature. Great for optional details or deep dives.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      id=&#34;substep-1&#34;
+  &gt;
+
+&lt;h3 id=&#34;substep-1-details&#34;&gt;Substep 1: Details&lt;/h3&gt;
+&lt;p&gt;This is additional content in a vertical stack.&lt;/p&gt;
+&lt;p&gt;Navigate down for more, or right to skip to next topic →&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      id=&#34;substep-2&#34;
+  &gt;
+
+&lt;h3 id=&#34;substep-2-more-details&#34;&gt;Substep 2: More Details&lt;/h3&gt;
+&lt;p&gt;Even more detailed information.&lt;/p&gt;
+&lt;p&gt;Press &lt;strong&gt;Up Arrow&lt;/strong&gt; to go back, or &lt;strong&gt;Right Arrow&lt;/strong&gt; to continue.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;citations--quotes&#34;&gt;Citations &amp;amp; Quotes&lt;/h2&gt;
+
+
+
+  
+  &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
+    &lt;p&gt;&amp;ldquo;The best way to predict the future is to invent it.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;— Alan Kay&lt;/p&gt;
+
+  &lt;/blockquote&gt;
+
+&lt;p&gt;Or reference research:&lt;/p&gt;
+
+
+
+  
+  &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
+    &lt;p&gt;Recent work by Smith et al. (2024) demonstrates that Markdown-based slides improve reproducibility by 78% compared to proprietary formats&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+  &lt;/blockquote&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;media-youtube-videos&#34;&gt;Media: YouTube Videos&lt;/h2&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;Note:
+Embed YouTube videos with just the video ID. Perfect for demos, tutorials, or interviews.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;media-all-options&#34;&gt;Media: All Options&lt;/h2&gt;
+&lt;p&gt;Embed various media types with simple shortcodes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;YouTube&lt;/strong&gt;: &lt;code&gt;{{&amp;lt; youtube VIDEO_ID &amp;gt;}}&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;: &lt;code&gt;{{&amp;lt; bilibili id=&amp;quot;BV1...&amp;quot; &amp;gt;}}&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Local videos&lt;/strong&gt;: &lt;code&gt;{{&amp;lt; video src=&amp;quot;file.mp4&amp;quot; controls=&amp;quot;yes&amp;quot; &amp;gt;}}&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Audio&lt;/strong&gt;: &lt;code&gt;{{&amp;lt; audio src=&amp;quot;file.mp3&amp;quot; &amp;gt;}}&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Perfect for demos, interviews, tutorials, or podcasts!&lt;/p&gt;
+&lt;p&gt;Note:
+All media types work seamlessly in slides. Just use the appropriate shortcode.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;interactive-elements&#34;&gt;Interactive Elements&lt;/h2&gt;
+&lt;p&gt;Try these keyboard shortcuts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;→&lt;/code&gt; &lt;code&gt;←&lt;/code&gt; : Navigate slides&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;↓&lt;/code&gt; &lt;code&gt;↑&lt;/code&gt; : Vertical navigation&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;S&lt;/code&gt; : Speaker notes&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;F&lt;/code&gt; : Fullscreen&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;O&lt;/code&gt; : Overview mode&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/&lt;/code&gt; : Search&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ESC&lt;/code&gt; : Exit modes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;!-- hide --&gt;
+&lt;h2 id=&#34;hidden-slide-demo-inline-comment&#34;&gt;Hidden Slide Demo (Inline Comment)&lt;/h2&gt;
+&lt;p&gt;This slide is hidden using the &lt;code&gt;&amp;lt;!-- hide --&amp;gt;&lt;/code&gt; comment method.&lt;/p&gt;
+&lt;p&gt;Perfect for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Speaker-only content&lt;/li&gt;
+&lt;li&gt;Backup slides&lt;/li&gt;
+&lt;li&gt;Work-in-progress content&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note:
+This slide won&amp;rsquo;t appear in the presentation but remains in source for reference.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;thanks&#34;&gt;Thanks&lt;/h2&gt;
+&lt;h3 id=&#34;questions&#34;&gt;Questions?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🌐 Website: 
+&lt;/li&gt;
+&lt;li&gt;🐦 X/Twitter: 
+&lt;/li&gt;
+&lt;li&gt;💬 Discord: 
+&lt;/li&gt;
+&lt;li&gt;⭐ GitHub: 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;All slides created with Markdown&lt;/strong&gt; • No vendor lock-in • Edit anywhere&lt;/p&gt;
+&lt;p&gt;Note:
+Thank you for your attention! Feel free to reach out with questions or contributions.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-branding-your-slides&#34;&gt;🎨 Branding Your Slides&lt;/h2&gt;
+&lt;p&gt;Add your identity to every slide with simple configuration!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What you can add:&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Element&lt;/th&gt;
+          &lt;th&gt;Position Options&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Logo&lt;/td&gt;
+          &lt;td&gt;top-left, top-right, bottom-left, bottom-right&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Title&lt;/td&gt;
+          &lt;td&gt;Same as above&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Author&lt;/td&gt;
+          &lt;td&gt;Same as above&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Footer Text&lt;/td&gt;
+          &lt;td&gt;Same + bottom-center&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Edit the &lt;code&gt;branding:&lt;/code&gt; section in your slide&amp;rsquo;s front matter (top of file).&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-adding-your-logo&#34;&gt;📁 Adding Your Logo&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Place your logo in &lt;code&gt;assets/media/&lt;/code&gt; folder&lt;/li&gt;
+&lt;li&gt;Use SVG format for best results (auto-adapts to any theme!)&lt;/li&gt;
+&lt;li&gt;Add to front matter:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;branding&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;logo&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;filename&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;your-logo.svg&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;# Must be in assets/media/&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;position&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;top-right&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;width&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;60px&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; SVGs with &lt;code&gt;fill=&amp;quot;currentColor&amp;quot;&lt;/code&gt; automatically match theme colors!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-title--author-overlays&#34;&gt;📝 Title &amp;amp; Author Overlays&lt;/h2&gt;
+&lt;p&gt;Show presentation title and/or author on every slide:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;branding&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;show&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;position&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;bottom-left&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;text&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Short Title&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;# Optional: override long page title&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;author&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;show&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;position&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;bottom-right&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Author is auto-detected from page front matter (&lt;code&gt;author:&lt;/code&gt; or &lt;code&gt;authors:&lt;/code&gt;).&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-footer-text&#34;&gt;📄 Footer Text&lt;/h2&gt;
+&lt;p&gt;Add copyright, conference name, or any persistent text:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;branding&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;footer&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;text&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;© 2024 Your Name · ICML 2024&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;position&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;bottom-center&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; Supports Markdown! Use &lt;code&gt;[Link](url)&lt;/code&gt; for clickable links.&lt;/p&gt;
+&lt;hr&gt;
+&lt;!-- no-branding --&gt;
+&lt;h2 id=&#34;-hiding-branding-per-slide&#34;&gt;🔇 Hiding Branding Per-Slide&lt;/h2&gt;
+&lt;p&gt;Sometimes you want a clean slide (title slides, full-screen images).&lt;/p&gt;
+&lt;p&gt;Add this comment at the &lt;strong&gt;start&lt;/strong&gt; of your slide content:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;lt;!-- no-branding --&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;## My Clean Slide
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Content here...
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;☝️ &lt;strong&gt;This slide uses &lt;code&gt;&amp;lt;!-- no-branding --&amp;gt;&lt;/code&gt;&lt;/strong&gt; — notice no logo or overlays!&lt;/p&gt;
+&lt;hr&gt;
+&lt;!-- no-header --&gt;
+&lt;h2 id=&#34;-selective-hiding&#34;&gt;🔇 Selective Hiding&lt;/h2&gt;
+&lt;p&gt;Hide just the header (logo + title):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;lt;!-- no-header --&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Or just the footer (author + footer text):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;lt;!-- no-footer --&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;☝️ &lt;strong&gt;This slide uses &lt;code&gt;&amp;lt;!-- no-header --&amp;gt;&lt;/code&gt;&lt;/strong&gt; — footer still visible below!&lt;/p&gt;
+&lt;hr&gt;
+&lt;!-- no-footer --&gt;
+&lt;h2 id=&#34;-quick-reference&#34;&gt;✅ Quick Reference&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Comment&lt;/th&gt;
+          &lt;th&gt;Hides&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;&amp;lt;!-- no-branding --&amp;gt;&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Everything (logo, title, author, footer)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;&amp;lt;!-- no-header --&amp;gt;&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Logo + Title overlay&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;&amp;lt;!-- no-footer --&amp;gt;&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Author + Footer text&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;☝️ &lt;strong&gt;This slide uses &lt;code&gt;&amp;lt;!-- no-footer --&amp;gt;&lt;/code&gt;&lt;/strong&gt; — logo still visible above!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-get-started&#34;&gt;🚀 Get Started&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Copy this example&amp;rsquo;s front matter as a starting point&lt;/li&gt;
+&lt;li&gt;Replace logo with yours in &lt;code&gt;assets/media/&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Customize positions and text&lt;/li&gt;
+&lt;li&gt;Use &lt;code&gt;&amp;lt;!-- no-branding --&amp;gt;&lt;/code&gt; for special slides&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Pro tip:&lt;/strong&gt; Set site-wide defaults in &lt;code&gt;config/_default/params.yaml&lt;/code&gt; under &lt;code&gt;slides.branding&lt;/code&gt;!&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Smith, J. et al. (2024). &lt;em&gt;Open Science Presentations&lt;/em&gt;. Nature Methods.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
 </description>
     </item>
     

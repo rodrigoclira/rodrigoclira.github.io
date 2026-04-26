@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | Rodrigo Lira</title>
-    <link>https://rodrigoclira.github.io/courses/</link>
-      <atom:link href="https://rodrigoclira.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/courses/</link>
+      <atom:link href="https://example.com/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Rodrigo Lira · 2026</copyright>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rodrigoclira.github.io/media/icon_huf2b89bb3aeddaf27bedd36282c847631_693_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Courses</title>
-      <link>https://rodrigoclira.github.io/courses/</link>
+      <link>https://example.com/courses/</link>
     </image>
     
   </channel>
