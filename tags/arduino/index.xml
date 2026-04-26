@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arduino | Rodrigo Lira</title>
-    <link>https://example.com/tags/arduino/</link>
-      <atom:link href="https://example.com/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/arduino/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
     <description>Arduino</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Arduino</title>
-      <link>https://example.com/tags/arduino/</link>
+      <link>https://rodrigoclira.github.io/tags/arduino/</link>
     </image>
     
     <item>
       <title>Placa robô para soldagem e ensino de programação com Arduino</title>
-      <link>https://example.com/downloads/robo-pcb/</link>
+      <link>https://rodrigoclira.github.io/downloads/robo-pcb/</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/downloads/robo-pcb/</guid>
+      <guid>https://rodrigoclira.github.io/downloads/robo-pcb/</guid>
       <description>&lt;p&gt;Arquivos para fabricação da placa desenvolvida para ensino de soldagem e programação com Arduino. Mais informações sobre o projeto estão descritos na postagem 
 .&lt;/p&gt;
 &lt;p&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>Desenvolvimento de uma placa PCB para fins educacionais</title>
-      <link>https://example.com/blog/2020/projeto-easyeda/</link>
+      <link>https://rodrigoclira.github.io/blog/2020/projeto-easyeda/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/2020/projeto-easyeda/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2020/projeto-easyeda/</guid>
       <description>&lt;h2 id=&#34;motivação&#34;&gt;Motivação&lt;/h2&gt;
 &lt;p&gt;Desde 2018.2 ensino a disciplina de Prática Profissional Supervisionada no curso técnico de Manutenção e Suporte em Informática do IFPE Campus Paulista. Venho implementando, cada semestre com maior intensidade, a realização de atividades práticas que possam sejam úteis na formação dos alunos desse curso. Pela característica do curso, as atividades ficam muito relacionadas as áreas de redes de computadores, manutenção de computadores e eletrônica.&lt;/p&gt;
 &lt;p&gt;Uma atividade que sempre faço questão de realizar é a de remoção e soldagem de componentes eletrônicos. Já utilizei num passado a placa 
@@ -139,9 +139,9 @@
     
     <item>
       <title>Extensão | Desenvolvimento de um Jogo para o Estímulo do Pensamento Computacional</title>
-      <link>https://example.com/projects/pensamento-computacional/</link>
+      <link>https://rodrigoclira.github.io/projects/pensamento-computacional/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/pensamento-computacional/</guid>
+      <guid>https://rodrigoclira.github.io/projects/pensamento-computacional/</guid>
       <description>&lt;p&gt;A humanidade vive numa sociedade conectada onde cada vez mais conhecimento sobre tecnologia são necessários. Iniciativas como o code.org apresentam como o conhecimento em programação são necessários para as futuras gerações. Por isso, cada dia mais o termo “Pensamento Computacional” está sendo difundido entre professores e pesquisadores.&lt;/p&gt;
 &lt;p&gt;De acordo com Wing [1], o pensamento computacional amplia competências que desenvolvem e aprimoram nos alunos novas habilidades tais como: i) Pensar de forma abstrata em vários níveis e encontrar uma solução; ii) Desenvolver um produto, indo além do programa, pois é necessário pensar em diferentes níveis de abstração, permitindo o uso consciente das técnicas de programação; iii) Resolver ou desenvolver problemas com ou sem o computador; iv) Pensar ao invés de deixar que os problemas sejam resolvidos pelo computador; v) Correlacionar a área computacional com a matemática e as engenharias. Ele é uma habilidade fundamental para todos, não somente para cientistas da computação. Por esse motivo, nos últimos anos, vários países, incluindo EUA e Reino Unido [2][3], incentivaram a adição da adição desses conceitos no currículo escolar para ajudar a criar uma nova geração de ‘Mark Zuckerbegs’. Nesse sentido, a Sociedade Brasileira de Computação (SBC) apresentou, para ser incluída na Base Nacional Comum Curricular  (BNCC), proposta que se baseou em destacar a importância desse conhecimento para os estudantes serem capazes de solucionar desafios cotidianos [4].&lt;/p&gt;
 &lt;p&gt;Este projeto tem como objetivo o desenvolvimento de um jogo utilizando robótica educacional para estímulo do pensamento computacional. Nele, os jogadores precisaram utilizar conceitos de lógica de programação para poder controlar a movimentação de um robô em um mapa  que será o tabuleiro do jogo. O tabuleiro poderá ser utilizado de diversas formas, por exemplo, pode ser apresentado perguntas aos jogadores como: “Qual é a quinta letra do alfabeto?”, “Qual a capital do estado de Pernambuco?” e o jogador teria que responder com os comandos - direita, frente, esquerda e abaixo - necessária para que o robô chegue até a resposta. Uma outra forma de usá-lo é fazendo com que o robô se movimente por um percurso e desvie de obstáculos pré-definidos pelos jogadores.&lt;/p&gt;
@@ -239,9 +239,9 @@ Marz 2006. Vol. 49, no 3. p. 33-35&lt;/p&gt;
     
     <item>
       <title>Sistema de Monitoramento em Tempo Real de Qualidade de Água de um Rio</title>
-      <link>https://example.com/projects/sistema-monitoramento/</link>
+      <link>https://rodrigoclira.github.io/projects/sistema-monitoramento/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/sistema-monitoramento/</guid>
+      <guid>https://rodrigoclira.github.io/projects/sistema-monitoramento/</guid>
       <description>&lt;p&gt;A água é essencial para a vida e por isso deve-se criar formas de monitorar as principais fontes desse recurso. Tragédias recentes, como os rompimentos das barragens em Brumadinho e Mariana fizeram com que rejeitos de minérios alcançassem rios e contaminasse a principal fonte de captação de água das cidades dessas regiões.&lt;/p&gt;
 &lt;p&gt;Sabe-se que é possível medir a qualidade da água através de diversos parâmetros. O valor dos sólidos dissolvidos totais (do inglês Total Dissolved Solids - TDS) representa a concentração total de substâncias dissolvidas na água. O TDS é composto por sais inorgânicos, além de uma pequena quantidade de matéria orgânica (SDWF, 2020). Por sua vez, a turbidez é um parâmetro físico relacionado à água. Ela é considerada um dos principais parâmetros para a determinação de sua qualidade, principalmente àquelas destinadas ao consumo humano, e está relacionada à capacidade ótica de absorção e reflexão da luz, e não depende tão somente da concentração dos sedimentos em suspensão, mas também de aspectos como tamanho, composição mineral, cor e quantidade de matéria orgânica (LIBÂNIO, 2010).
 Os dois parâmetros citados anteriormente podem ser medidos através de sensores que estejam instalados na bacia, nascente de um rio ou até mesmo estações de tratamento de água (ETA) para que as ações de preservação e as precauções necessárias para quem utiliza aquela água sejam tomadas. Uma rede de sensores espalhados numa bacia hidrográfica ou numa ETA pode ser fundamental para uma rápida tomada de decisão, além de evitar gastos com coletas manuais.&lt;/p&gt;
@@ -288,9 +288,9 @@ Os dois parâmetros citados anteriormente podem ser medidos através de sensores
     
     <item>
       <title>Apresentação do projeto aprovado na chamada pública Mover-se na Web - Articulação Pró-Brumadinho</title>
-      <link>https://example.com/events/apresentacao-brumadinho/</link>
+      <link>https://rodrigoclira.github.io/events/apresentacao-brumadinho/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/apresentacao-brumadinho/</guid>
+      <guid>https://rodrigoclira.github.io/events/apresentacao-brumadinho/</guid>
       <description></description>
     </item>
     

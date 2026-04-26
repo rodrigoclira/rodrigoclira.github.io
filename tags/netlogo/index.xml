@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Netlogo | Rodrigo Lira</title>
-    <link>https://example.com/tags/netlogo/</link>
-      <atom:link href="https://example.com/tags/netlogo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/netlogo/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/netlogo/index.xml" rel="self" type="application/rss+xml" />
     <description>Netlogo</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Mon, 08 Jun 2020 15:14:19 -0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Netlogo</title>
-      <link>https://example.com/tags/netlogo/</link>
+      <link>https://rodrigoclira.github.io/tags/netlogo/</link>
     </image>
     
     <item>
       <title>Usando o Netlogo para simular a transmissão do coronavírus</title>
-      <link>https://example.com/blog/2020/usando-netlogo-para-simular-transmissao-covid19/</link>
+      <link>https://rodrigoclira.github.io/blog/2020/usando-netlogo-para-simular-transmissao-covid19/</link>
       <pubDate>Mon, 08 Jun 2020 15:14:19 -0300</pubDate>
-      <guid>https://example.com/blog/2020/usando-netlogo-para-simular-transmissao-covid19/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2020/usando-netlogo-para-simular-transmissao-covid19/</guid>
       <description>&lt;p&gt;E se tentássemos simular o comportamento do vírus utilizando um sistema multiagentes? Essa pergunta passou pela minha cabeça em uma das noites de quarentena. Foi por isso que eu resolvi utilizar o 
 , um ambiente de simulação que permite o desenvolvimento de modelos multiagentes, para simular a transmissão do novo coronavírus e mostrar como as ações recomendadas pela Organização Mundial de Saúde (OMS) são importantes para diminuir o contágio dele.&lt;/p&gt;
 &lt;p&gt;Antes de continuarmos, é importante deixar claro que a simulação não tem pretensões de prever o quantitativo de óbitos que serão causadas pela doença . O objetivo principal é demonstrar o comportamento do vírus e seus efeitos em diferentes cenários num mundo restrito composto inicialmente por 700 agentes . Ressalta-se que certas informações não foram levadas em consideração no experimento, como a sobrecarga de unidades de saúde, comorbidades ou idade dos infectados, fatores que podem agravar o combate à doença.&lt;/p&gt;

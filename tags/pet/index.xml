@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PET | Rodrigo Lira</title>
-    <link>https://example.com/tags/pet/</link>
-      <atom:link href="https://example.com/tags/pet/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/pet/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/pet/index.xml" rel="self" type="application/rss+xml" />
     <description>PET</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Wed, 15 Dec 2021 23:18:25 -0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>PET</title>
-      <link>https://example.com/tags/pet/</link>
+      <link>https://rodrigoclira.github.io/tags/pet/</link>
     </image>
     
     <item>
       <title>Apresentação do projeto &#39;Capacitação tecnológica em .NET do IFPE/SIDI&#39; no Seminário de Integração e Avaliação do Programa de Extensão Tecnológica</title>
-      <link>https://example.com/blog/2021/pet-facepe-encerramento-2021/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/pet-facepe-encerramento-2021/</link>
       <pubDate>Wed, 15 Dec 2021 23:18:25 -0300</pubDate>
-      <guid>https://example.com/blog/2021/pet-facepe-encerramento-2021/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/pet-facepe-encerramento-2021/</guid>
       <description>&lt;p&gt;Vídeo apresentado no Seminário de Integração e Avaliação Final do Programa de Extensão Tecnológica (PET) da FACEPE/SECTI.&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/LwEwKuJse1M?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;

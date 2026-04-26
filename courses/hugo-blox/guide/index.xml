@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guide | Rodrigo Lira</title>
-    <link>https://example.com/courses/hugo-blox/guide/</link>
-      <atom:link href="https://example.com/courses/hugo-blox/guide/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/courses/hugo-blox/guide/</link>
+      <atom:link href="https://rodrigoclira.github.io/courses/hugo-blox/guide/index.xml" rel="self" type="application/rss+xml" />
     <description>Guide</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Guide</title>
-      <link>https://example.com/courses/hugo-blox/guide/</link>
+      <link>https://rodrigoclira.github.io/courses/hugo-blox/guide/</link>
     </image>
     
     <item>
       <title>Project Structure</title>
-      <link>https://example.com/courses/hugo-blox/guide/project-structure/</link>
+      <link>https://rodrigoclira.github.io/courses/hugo-blox/guide/project-structure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/hugo-blox/guide/project-structure/</guid>
+      <guid>https://rodrigoclira.github.io/courses/hugo-blox/guide/project-structure/</guid>
       <description>&lt;h2 id=&#34;folder-structure&#34;&gt;Folder Structure&lt;/h2&gt;
 &lt;p&gt;There are &lt;strong&gt;4 main folders for Hugo-based sites&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
@@ -70,9 +70,9 @@
     
     <item>
       <title>Configuration</title>
-      <link>https://example.com/courses/hugo-blox/guide/configuration/</link>
+      <link>https://rodrigoclira.github.io/courses/hugo-blox/guide/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/hugo-blox/guide/configuration/</guid>
+      <guid>https://rodrigoclira.github.io/courses/hugo-blox/guide/configuration/</guid>
       <description>&lt;p&gt;The configuration of your site can be found in &lt;code&gt;config/_default/&lt;/code&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;full-documentation&#34;&gt;Full Documentation&lt;/h2&gt;
 &lt;p&gt;See 

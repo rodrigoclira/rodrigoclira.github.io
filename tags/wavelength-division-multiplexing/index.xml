@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wavelength Division Multiplexing | Rodrigo Lira</title>
-    <link>https://example.com/tags/wavelength-division-multiplexing/</link>
-      <atom:link href="https://example.com/tags/wavelength-division-multiplexing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/wavelength-division-multiplexing/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/wavelength-division-multiplexing/index.xml" rel="self" type="application/rss+xml" />
     <description>Wavelength Division Multiplexing</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Wavelength Division Multiplexing</title>
-      <link>https://example.com/tags/wavelength-division-multiplexing/</link>
+      <link>https://rodrigoclira.github.io/tags/wavelength-division-multiplexing/</link>
     </image>
     
     <item>
       <title>Comparing OSNR based policies for an adaptive-alternative IA-RWA algorithm applied to all-optical networks</title>
-      <link>https://example.com/publications/journal/jmoe-2013/</link>
+      <link>https://rodrigoclira.github.io/publications/journal/jmoe-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/journal/jmoe-2013/</guid>
+      <guid>https://rodrigoclira.github.io/publications/journal/jmoe-2013/</guid>
       <description></description>
     </item>
     

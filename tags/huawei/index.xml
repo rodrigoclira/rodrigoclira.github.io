@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Huawei | Rodrigo Lira</title>
-    <link>https://example.com/tags/huawei/</link>
-      <atom:link href="https://example.com/tags/huawei/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/huawei/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/huawei/index.xml" rel="self" type="application/rss+xml" />
     <description>Huawei</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Huawei</title>
-      <link>https://example.com/tags/huawei/</link>
+      <link>https://rodrigoclira.github.io/tags/huawei/</link>
     </image>
     
     <item>
       <title>Popularização e Democratização da Inteligência Artificial no Nordeste Brasileiro: Um Relato de Experiência</title>
-      <link>https://example.com/publications/journal/praxis2023-b/</link>
+      <link>https://rodrigoclira.github.io/publications/journal/praxis2023-b/</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/journal/praxis2023-b/</guid>
+      <guid>https://rodrigoclira.github.io/publications/journal/praxis2023-b/</guid>
       <description></description>
     </item>
     

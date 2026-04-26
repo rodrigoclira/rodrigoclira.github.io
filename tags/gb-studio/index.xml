@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gb Studio | Rodrigo Lira</title>
-    <link>https://example.com/tags/gb-studio/</link>
-      <atom:link href="https://example.com/tags/gb-studio/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/gb-studio/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/gb-studio/index.xml" rel="self" type="application/rss+xml" />
     <description>Gb Studio</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Gb Studio</title>
-      <link>https://example.com/tags/gb-studio/</link>
+      <link>https://rodrigoclira.github.io/tags/gb-studio/</link>
     </image>
     
     <item>
       <title>Extensão | Revolução de 1824 - Uma viagem digital pela Confederação do Equador</title>
-      <link>https://example.com/projects/jogo-confederacao-equador/</link>
+      <link>https://rodrigoclira.github.io/projects/jogo-confederacao-equador/</link>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/jogo-confederacao-equador/</guid>
+      <guid>https://rodrigoclira.github.io/projects/jogo-confederacao-equador/</guid>
       <description>&lt;p&gt;A Confederação do Equador foi um movimento revolucionário de 1824, liderado por Manoel de Carvalho e Frei Caneca em Recife, que reuniu as províncias de Pernambuco, Ceará, Rio Grande do Norte e Paraíba. O movimento surgiu como continuidade de insatisfações anteriores, como a Conspiração dos Suassuna (1801) e a Revolução Pernambucana de 1817, devido à centralização excessiva do poder.Segundo Andrade (1995), após a independência do Brasil, as tensões aumentaram com o fechamento da assembleia constituinte em 1823 e a imposição da constituição de 1824 por D. Pedro I. O estopim foi a disputa pela presidência da Província, levando Manoel de Carvalho a proclamar a Confederação e convocar outras províncias do Nordeste para uma Constituinte mais liberal. De acordo com Koshiba &amp;amp; Pereira (2003, p. 226), aderiram ao movimento Ceará, Rio Grande do Norte e Paraíba. Andrade (1995, p. 10) destaca que o movimento teve maior força em Pernambuco e no Ceará, onde os revolucionários chegaram a ocupar Fortaleza.&lt;/p&gt;
 &lt;p&gt;De fato, Pernambuco intencionou um “Brasil alternativo” ao Império de Pedro I (WESTIN, Agência Senado, 2024), com propostas liberais e republicanas. Pernambuco já foi um país e uma Confederação, separando-se do Brasil. Isto tudo em curto período, em 1817 e 1824. Entretanto, há um relativo desconhecimento desses feitos. Por isso, faz-se necessário reavivar estas histórias que marcaram não só a história de Pernambuco, mas do Brasil. A história desses movimentos, por vezes, fica restrita aos círculos acadêmicos, criando um distanciamento entre os jovens e seu próprio patrimônio histórico.&lt;/p&gt;
 &lt;p&gt;Para superar este desafio e aproximar as novas gerações deste importante capítulo da história pernambucana, esse projeto propõe desenvolver um jogo educativo em estilo 2D. Esta ferramenta visa traduzir a complexidade dos eventos históricos para uma linguagem acessível e envolvente, permitindo que os jovens estudantes não apenas aprendam sobre a Confederação do Equador, mas experimentem, por meio de mecânicas interativas, os dilemas e escolhas enfrentados pelos revolucionários.&lt;/p&gt;
@@ -36,9 +36,9 @@
     
     <item>
       <title>Extensão | Um jogo para divulgação do IFPE Campus Paulista</title>
-      <link>https://example.com/projects/jogo-ifpe/</link>
+      <link>https://rodrigoclira.github.io/projects/jogo-ifpe/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/jogo-ifpe/</guid>
+      <guid>https://rodrigoclira.github.io/projects/jogo-ifpe/</guid>
       <description>&lt;p&gt;O IFPE Campus Paulista está recebendo no segundo semestre de 2020 a sua sede definitiva. Ao todo são seis blocos com dezenas de salas e ambientes para os alunos e servidores. Novos ambientes para estudos e espaços físicos que antes não existiam na sede provisória serão liberados. Evidentemente que a ocupação e sinalização desse espaço precisará de um esforço da administração. Devido a essa situação, esse projeto de extensão tem como objetivo criar um jogo no qual o estudante possa conhecer o novo campus de forma virtual, ainda no jogo serão destinados missões com o intuito de apresentar os principais setores do campus (Divisão de Pesquisa e Extensão, CRADT, Coordenações…) e também os artigos da organização acadêmica. Dessa forma espera-se que os novos alunos possam utilizar esse recurso para conseguir entender e conhecer o funcionamento do campus e do IFPE e ele torne-se uma ferramenta de promoção do IFPE Campus Paulista para a sociedade.&lt;/p&gt;
 &lt;p&gt;Participantes do projeto:&lt;/p&gt;
 &lt;ul&gt;
@@ -64,17 +64,17 @@ Clique na tela abaixo e aperte &#34;Enter&#34;. Controle o jogador nas setas e i
     
     <item>
       <title>Desenvolvimento de um Advergame para a Divulgação Institucional</title>
-      <link>https://example.com/events/2023/ctrle2023/</link>
+      <link>https://rodrigoclira.github.io/events/2023/ctrle2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2023/ctrle2023/</guid>
+      <guid>https://rodrigoclira.github.io/events/2023/ctrle2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Revolução de 1824: Uma viagem digital pela Confederação do Equador</title>
-      <link>https://example.com/events/2025/facepe-seminario-confederao-equador/</link>
+      <link>https://rodrigoclira.github.io/events/2025/facepe-seminario-confederao-equador/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2025/facepe-seminario-confederao-equador/</guid>
+      <guid>https://rodrigoclira.github.io/events/2025/facepe-seminario-confederao-equador/</guid>
       <description></description>
     </item>
     

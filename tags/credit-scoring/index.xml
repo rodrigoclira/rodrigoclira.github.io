@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Credit Scoring | Rodrigo Lira</title>
-    <link>https://example.com/tags/credit-scoring/</link>
-      <atom:link href="https://example.com/tags/credit-scoring/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/credit-scoring/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/credit-scoring/index.xml" rel="self" type="application/rss+xml" />
     <description>Credit Scoring</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Wed, 26 May 2021 23:57:14 -0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Credit Scoring</title>
-      <link>https://example.com/tags/credit-scoring/</link>
+      <link>https://rodrigoclira.github.io/tags/credit-scoring/</link>
     </image>
     
     <item>
       <title>Publicação no Journal of Information and Data Management (JIDM 2021)</title>
-      <link>https://example.com/blog/2021/jidm2021/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/jidm2021/</link>
       <pubDate>Wed, 26 May 2021 23:57:14 -0300</pubDate>
-      <guid>https://example.com/blog/2021/jidm2021/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/jidm2021/</guid>
       <description>&lt;p&gt;O artigo &amp;ldquo;Analysis of Distinct Feature Groups in the Credit Scoring
 Problem&amp;rdquo; foi aceito no 
 . O artigo é uma extensão do publicado no 
@@ -29,9 +29,9 @@ Problem&amp;rdquo; foi aceito no
     
     <item>
       <title>Publicação no Symposium on Knowledge Discovery, Mining and Learning (KDMiLe 2020)</title>
-      <link>https://example.com/blog/2020/kdmile2020/</link>
+      <link>https://rodrigoclira.github.io/blog/2020/kdmile2020/</link>
       <pubDate>Thu, 24 Sep 2020 23:57:14 -0300</pubDate>
-      <guid>https://example.com/blog/2020/kdmile2020/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2020/kdmile2020/</guid>
       <description>&lt;p&gt;O artigo &amp;ldquo;Impact of Unusual Features in Credit Scoring Problem&amp;rdquo; foi aceito no 
 . O trabalho foi fruto do projeto da disciplina de Mineração de Dados do PPGEC/Ecomp. Mais informações sobre o artigo:&lt;/p&gt;
 &lt;p&gt;Autores: L. F. Vercosa, &lt;strong&gt;R. Lira&lt;/strong&gt;, R. Monteiro, K. Silva, J. Magalhaes, A. Maciel, B. Leite, C. Bastos-Filho&lt;/p&gt;

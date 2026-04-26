@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Setec | Rodrigo Lira</title>
-    <link>https://example.com/tags/setec/</link>
-      <atom:link href="https://example.com/tags/setec/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/setec/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/setec/index.xml" rel="self" type="application/rss+xml" />
     <description>Setec</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Wed, 22 Dec 2021 23:57:14 -0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Setec</title>
-      <link>https://example.com/tags/setec/</link>
+      <link>https://rodrigoclira.github.io/tags/setec/</link>
     </image>
     
     <item>
       <title>Cinco projetos do IFPE são aprovados no edital Oficinas 4.0 da Setec</title>
-      <link>https://example.com/blog/2021/oficina40/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/oficina40/</link>
       <pubDate>Wed, 22 Dec 2021 23:57:14 -0300</pubDate>
-      <guid>https://example.com/blog/2021/oficina40/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/oficina40/</guid>
       <description>&lt;p&gt;A Secretaria de Educação Profissional e Tecnológica (Setec) do Ministério da Educação, com o apoio técnico-operacional do Instituto Federal do Espírito Santo, divulgou o resultado final referente ao Edital nº 67/2021, destinado à seleção de projetos voltados à implementação das Oﬁcinas 4.0.&lt;/p&gt;
 &lt;p&gt;O Programa Oficina 4.0 tem o objetivo de promover a imersão de estudantes da Rede Federal em atividades de formação e pesquisa aplicada, com foco no desenvolvimento de habilidades e competências relacionadas ao uso das tecnologias digitais, ao empreendedorismo e à inovação, demandadas pela Economia 4.0.&lt;/p&gt;
 &lt;p&gt;O IFPE, por meio da Pró-Reitoria de Pesquisa, Pós-Graduação e Inovação (Propesq) e dos diretores de pesquisa, pós-graduação e inovação dos campi, articularam a submissão de diversos projetos para o edital nacional, no qual foram aprovados os projetos coordenados por:&lt;/p&gt;

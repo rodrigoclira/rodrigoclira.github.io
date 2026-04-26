@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Datapaper | Rodrigo Lira</title>
-    <link>https://example.com/tags/datapaper/</link>
-      <atom:link href="https://example.com/tags/datapaper/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/datapaper/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/datapaper/index.xml" rel="self" type="application/rss+xml" />
     <description>Datapaper</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Datapaper</title>
-      <link>https://example.com/tags/datapaper/</link>
+      <link>https://rodrigoclira.github.io/tags/datapaper/</link>
     </image>
     
     <item>
       <title>DroneShark Dataset: Um Conjunto de Imagens Aéreas para Detecção de Tubarões</title>
-      <link>https://example.com/events/2025/wcama/</link>
+      <link>https://rodrigoclira.github.io/events/2025/wcama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2025/wcama/</guid>
+      <guid>https://rodrigoclira.github.io/events/2025/wcama/</guid>
       <description></description>
     </item>
     

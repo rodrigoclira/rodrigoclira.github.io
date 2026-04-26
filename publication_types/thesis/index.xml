@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thesis | Rodrigo Lira</title>
-    <link>https://example.com/publication_types/thesis/</link>
-      <atom:link href="https://example.com/publication_types/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/publication_types/thesis/</link>
+      <atom:link href="https://rodrigoclira.github.io/publication_types/thesis/index.xml" rel="self" type="application/rss+xml" />
     <description>Thesis</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Thesis</title>
-      <link>https://example.com/publication_types/thesis/</link>
+      <link>https://rodrigoclira.github.io/publication_types/thesis/</link>
     </image>
     
     <item>
       <title>Um algoritmo adaptativo alternativo para restauração em redes ópticas transparentes</title>
-      <link>https://example.com/publications/thesis/msc2014/</link>
+      <link>https://rodrigoclira.github.io/publications/thesis/msc2014/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/thesis/msc2014/</guid>
+      <guid>https://rodrigoclira.github.io/publications/thesis/msc2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>POLÍTICAS BASEADAS NA OSNR PARA UM ALGORITMO DE ROTEAMENTO ADAPTATIVO-ALTERNATIVO APLICADO A REDES ÓPTICAS TRANSPARENTES</title>
-      <link>https://example.com/publications/thesis/bsc2013/</link>
+      <link>https://rodrigoclira.github.io/publications/thesis/bsc2013/</link>
       <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/thesis/bsc2013/</guid>
+      <guid>https://rodrigoclira.github.io/publications/thesis/bsc2013/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slides | Rodrigo Lira</title>
-    <link>https://example.com/slides/</link>
-      <atom:link href="https://example.com/slides/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/slides/</link>
+      <atom:link href="https://rodrigoclira.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Slides</title>
-      <link>https://example.com/slides/</link>
+      <link>https://rodrigoclira.github.io/slides/</link>
     </image>
     
     <item>
       <title>Example Talk: Recent Work</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://rodrigoclira.github.io/slides/example/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://rodrigoclira.github.io/slides/example/</guid>
       <description>&lt;!-- no-branding --&gt;
 &lt;h1 id=&#34;example-talk&#34;&gt;Example Talk&lt;/h1&gt;
 &lt;h3 id=&#34;dr-alex-johnson--meta-ai&#34;&gt;Dr. Alex Johnson · Meta AI&lt;/h3&gt;

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Single Link Failure | Rodrigo Lira</title>
-    <link>https://example.com/tags/single-link-failure/</link>
-      <atom:link href="https://example.com/tags/single-link-failure/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/single-link-failure/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/single-link-failure/index.xml" rel="self" type="application/rss+xml" />
     <description>Single Link Failure</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Single Link Failure</title>
-      <link>https://example.com/tags/single-link-failure/</link>
+      <link>https://rodrigoclira.github.io/tags/single-link-failure/</link>
     </image>
     
     <item>
       <title>An adaptive path restoration algorithm based on power series routing for all-optical networks</title>
-      <link>https://example.com/publications/conference/2013/icton2013/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2013/icton2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2013/icton2013/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2013/icton2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Performance Analysis of Different Link to Path Restoration Schemes for All-Optical Networks</title>
-      <link>https://example.com/publications/conference/2012/sbrt2012/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2012/sbrt2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2012/sbrt2012/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2012/sbrt2012/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you&lt;/p&gt;
 </description>
     </item>

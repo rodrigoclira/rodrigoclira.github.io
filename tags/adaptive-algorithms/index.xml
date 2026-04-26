@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adaptive Algorithms | Rodrigo Lira</title>
-    <link>https://example.com/tags/adaptive-algorithms/</link>
-      <atom:link href="https://example.com/tags/adaptive-algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/adaptive-algorithms/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/adaptive-algorithms/index.xml" rel="self" type="application/rss+xml" />
     <description>Adaptive Algorithms</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Adaptive Algorithms</title>
-      <link>https://example.com/tags/adaptive-algorithms/</link>
+      <link>https://rodrigoclira.github.io/tags/adaptive-algorithms/</link>
     </image>
     
     <item>
       <title>An adaptive–alternative restoration algorithm for optical networks</title>
-      <link>https://example.com/publications/journal/pnc-2018/</link>
+      <link>https://rodrigoclira.github.io/publications/journal/pnc-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/journal/pnc-2018/</guid>
+      <guid>https://rodrigoclira.github.io/publications/journal/pnc-2018/</guid>
       <description></description>
     </item>
     

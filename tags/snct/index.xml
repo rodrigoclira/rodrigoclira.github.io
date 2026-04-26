@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snct | Rodrigo Lira</title>
-    <link>https://example.com/tags/snct/</link>
-      <atom:link href="https://example.com/tags/snct/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/snct/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/snct/index.xml" rel="self" type="application/rss+xml" />
     <description>Snct</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Snct</title>
-      <link>https://example.com/tags/snct/</link>
+      <link>https://rodrigoclira.github.io/tags/snct/</link>
     </image>
     
     <item>
       <title>Computação Bioinspirada</title>
-      <link>https://example.com/events/snctsema/</link>
+      <link>https://rodrigoclira.github.io/events/snctsema/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/snctsema/</guid>
+      <guid>https://rodrigoclira.github.io/events/snctsema/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oportunidades em Editais Externos de Pesquisa e Extensão Tecnológica</title>
-      <link>https://example.com/events/2022/snct2022/</link>
+      <link>https://rodrigoclira.github.io/events/2022/snct2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2022/snct2022/</guid>
+      <guid>https://rodrigoclira.github.io/events/2022/snct2022/</guid>
       <description>&lt;div style=&#34;position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;&#34;&gt;

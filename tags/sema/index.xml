@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sema | Rodrigo Lira</title>
-    <link>https://example.com/tags/sema/</link>
-      <atom:link href="https://example.com/tags/sema/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/sema/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/sema/index.xml" rel="self" type="application/rss+xml" />
     <description>Sema</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Sema</title>
-      <link>https://example.com/tags/sema/</link>
+      <link>https://rodrigoclira.github.io/tags/sema/</link>
     </image>
     
     <item>
       <title>Computação Bioinspirada</title>
-      <link>https://example.com/events/snctsema/</link>
+      <link>https://rodrigoclira.github.io/events/snctsema/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/snctsema/</guid>
+      <guid>https://rodrigoclira.github.io/events/snctsema/</guid>
       <description></description>
     </item>
     

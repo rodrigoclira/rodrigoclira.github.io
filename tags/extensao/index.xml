@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Extensão | Rodrigo Lira</title>
-    <link>https://example.com/tags/extensao/</link>
-      <atom:link href="https://example.com/tags/extensao/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/extensao/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/extensao/index.xml" rel="self" type="application/rss+xml" />
     <description>Extensão</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Extensão</title>
-      <link>https://example.com/tags/extensao/</link>
+      <link>https://rodrigoclira.github.io/tags/extensao/</link>
     </image>
     
     <item>
       <title>Extensão | Revolução de 1824 - Uma viagem digital pela Confederação do Equador</title>
-      <link>https://example.com/projects/jogo-confederacao-equador/</link>
+      <link>https://rodrigoclira.github.io/projects/jogo-confederacao-equador/</link>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/jogo-confederacao-equador/</guid>
+      <guid>https://rodrigoclira.github.io/projects/jogo-confederacao-equador/</guid>
       <description>&lt;p&gt;A Confederação do Equador foi um movimento revolucionário de 1824, liderado por Manoel de Carvalho e Frei Caneca em Recife, que reuniu as províncias de Pernambuco, Ceará, Rio Grande do Norte e Paraíba. O movimento surgiu como continuidade de insatisfações anteriores, como a Conspiração dos Suassuna (1801) e a Revolução Pernambucana de 1817, devido à centralização excessiva do poder.Segundo Andrade (1995), após a independência do Brasil, as tensões aumentaram com o fechamento da assembleia constituinte em 1823 e a imposição da constituição de 1824 por D. Pedro I. O estopim foi a disputa pela presidência da Província, levando Manoel de Carvalho a proclamar a Confederação e convocar outras províncias do Nordeste para uma Constituinte mais liberal. De acordo com Koshiba &amp;amp; Pereira (2003, p. 226), aderiram ao movimento Ceará, Rio Grande do Norte e Paraíba. Andrade (1995, p. 10) destaca que o movimento teve maior força em Pernambuco e no Ceará, onde os revolucionários chegaram a ocupar Fortaleza.&lt;/p&gt;
 &lt;p&gt;De fato, Pernambuco intencionou um “Brasil alternativo” ao Império de Pedro I (WESTIN, Agência Senado, 2024), com propostas liberais e republicanas. Pernambuco já foi um país e uma Confederação, separando-se do Brasil. Isto tudo em curto período, em 1817 e 1824. Entretanto, há um relativo desconhecimento desses feitos. Por isso, faz-se necessário reavivar estas histórias que marcaram não só a história de Pernambuco, mas do Brasil. A história desses movimentos, por vezes, fica restrita aos círculos acadêmicos, criando um distanciamento entre os jovens e seu próprio patrimônio histórico.&lt;/p&gt;
 &lt;p&gt;Para superar este desafio e aproximar as novas gerações deste importante capítulo da história pernambucana, esse projeto propõe desenvolver um jogo educativo em estilo 2D. Esta ferramenta visa traduzir a complexidade dos eventos históricos para uma linguagem acessível e envolvente, permitindo que os jovens estudantes não apenas aprendam sobre a Confederação do Equador, mas experimentem, por meio de mecânicas interativas, os dilemas e escolhas enfrentados pelos revolucionários.&lt;/p&gt;
@@ -36,25 +36,25 @@
     
     <item>
       <title>Popularização e Democratização da Inteligência Artificial no Nordeste Brasileiro: Um Relato de Experiência</title>
-      <link>https://example.com/publications/journal/praxis2023-b/</link>
+      <link>https://rodrigoclira.github.io/publications/journal/praxis2023-b/</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/journal/praxis2023-b/</guid>
+      <guid>https://rodrigoclira.github.io/publications/journal/praxis2023-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Um Relato sobre a criação de um clube de xadrez no campus Palmares do IFPE</title>
-      <link>https://example.com/publications/journal/praxis2023-a/</link>
+      <link>https://rodrigoclira.github.io/publications/journal/praxis2023-a/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/journal/praxis2023-a/</guid>
+      <guid>https://rodrigoclira.github.io/publications/journal/praxis2023-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apresentação do projeto &#39;Capacitação tecnológica em .NET do IFPE/SIDI&#39; no Seminário de Integração e Avaliação do Programa de Extensão Tecnológica</title>
-      <link>https://example.com/blog/2021/pet-facepe-encerramento-2021/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/pet-facepe-encerramento-2021/</link>
       <pubDate>Wed, 15 Dec 2021 23:18:25 -0300</pubDate>
-      <guid>https://example.com/blog/2021/pet-facepe-encerramento-2021/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/pet-facepe-encerramento-2021/</guid>
       <description>&lt;p&gt;Vídeo apresentado no Seminário de Integração e Avaliação Final do Programa de Extensão Tecnológica (PET) da FACEPE/SECTI.&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/LwEwKuJse1M?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -67,9 +67,9 @@
     
     <item>
       <title>Capacitação tecnológica em .NET do IFPE/SIDI</title>
-      <link>https://example.com/blog/2021/pet-facepe-2021/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/pet-facepe-2021/</link>
       <pubDate>Thu, 02 Sep 2021 23:18:25 -0300</pubDate>
-      <guid>https://example.com/blog/2021/pet-facepe-2021/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/pet-facepe-2021/</guid>
       <description>&lt;p&gt;No último dia 30 de agosto a FACEPE divulgou o resultado do Edital 12/2021 do Programa de Extensão Tecnológica. O Campus Paulista teve projeto aprovado, por meio do professor Rodrigo Lira. O projeto intitulado “Capacitação Tecnológica em .Net do IFPE/SIDI” será desenvolvido em parceria com a Samsung Instituto de Desenvolvimento para Informática. O projeto selecionará estudantes de graduação na área de TI do IFPE (50 vagas) para participarem de curso de extensão intitulado “Curso introdutório da plataforma .Net”. Deste curso serão selecionados 10 estudantes, com os melhores desempenhos, para a etapa seguinte, ao qual participarão da atividade de extensão, junto a empresa parceira, durante 3 meses. Os 10 alunos selecionados receberão bolsa neste período.&lt;/p&gt;
 &lt;h2 id=&#34;introdução-da-proposta&#34;&gt;Introdução da proposta&lt;/h2&gt;
 &lt;p&gt;Movido pela necessidade humana de se transformar e evoluir, o setor de TIC vive em transformação. Uma pesquisa revelou que esse setor manteve um crescimento constante nos últimos 10 anos [1] e mesmo com todas as incertezas trazidas pela pandemia, ele seguiu crescendo em contratações e faturamento. Especificamente no ano de 2020 houve um aumento de 310% de vagas apenas para a área em comparação com o ano anterior [2].&lt;/p&gt;
@@ -83,9 +83,9 @@
     
     <item>
       <title>Extensão | Desenvolvimento de um Jogo para o Estímulo do Pensamento Computacional</title>
-      <link>https://example.com/projects/pensamento-computacional/</link>
+      <link>https://rodrigoclira.github.io/projects/pensamento-computacional/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/pensamento-computacional/</guid>
+      <guid>https://rodrigoclira.github.io/projects/pensamento-computacional/</guid>
       <description>&lt;p&gt;A humanidade vive numa sociedade conectada onde cada vez mais conhecimento sobre tecnologia são necessários. Iniciativas como o code.org apresentam como o conhecimento em programação são necessários para as futuras gerações. Por isso, cada dia mais o termo “Pensamento Computacional” está sendo difundido entre professores e pesquisadores.&lt;/p&gt;
 &lt;p&gt;De acordo com Wing [1], o pensamento computacional amplia competências que desenvolvem e aprimoram nos alunos novas habilidades tais como: i) Pensar de forma abstrata em vários níveis e encontrar uma solução; ii) Desenvolver um produto, indo além do programa, pois é necessário pensar em diferentes níveis de abstração, permitindo o uso consciente das técnicas de programação; iii) Resolver ou desenvolver problemas com ou sem o computador; iv) Pensar ao invés de deixar que os problemas sejam resolvidos pelo computador; v) Correlacionar a área computacional com a matemática e as engenharias. Ele é uma habilidade fundamental para todos, não somente para cientistas da computação. Por esse motivo, nos últimos anos, vários países, incluindo EUA e Reino Unido [2][3], incentivaram a adição da adição desses conceitos no currículo escolar para ajudar a criar uma nova geração de ‘Mark Zuckerbegs’. Nesse sentido, a Sociedade Brasileira de Computação (SBC) apresentou, para ser incluída na Base Nacional Comum Curricular  (BNCC), proposta que se baseou em destacar a importância desse conhecimento para os estudantes serem capazes de solucionar desafios cotidianos [4].&lt;/p&gt;
 &lt;p&gt;Este projeto tem como objetivo o desenvolvimento de um jogo utilizando robótica educacional para estímulo do pensamento computacional. Nele, os jogadores precisaram utilizar conceitos de lógica de programação para poder controlar a movimentação de um robô em um mapa  que será o tabuleiro do jogo. O tabuleiro poderá ser utilizado de diversas formas, por exemplo, pode ser apresentado perguntas aos jogadores como: “Qual é a quinta letra do alfabeto?”, “Qual a capital do estado de Pernambuco?” e o jogador teria que responder com os comandos - direita, frente, esquerda e abaixo - necessária para que o robô chegue até a resposta. Uma outra forma de usá-lo é fazendo com que o robô se movimente por um percurso e desvie de obstáculos pré-definidos pelos jogadores.&lt;/p&gt;

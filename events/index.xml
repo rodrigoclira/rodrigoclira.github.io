@@ -2,141 +2,141 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Rodrigo Lira</title>
-    <link>https://example.com/events/</link>
-      <atom:link href="https://example.com/events/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/events/</link>
+      <atom:link href="https://rodrigoclira.github.io/events/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://example.com/events/</link>
+      <link>https://rodrigoclira.github.io/events/</link>
     </image>
     
     <item>
       <title>Applying Reinforcement Learning for Multiple Functions in Swarm Intelligence</title>
-      <link>https://example.com/events/2023/bracis2023/</link>
+      <link>https://rodrigoclira.github.io/events/2023/bracis2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2023/bracis2023/</guid>
+      <guid>https://rodrigoclira.github.io/events/2023/bracis2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applying Reinforcement Learning to Combine Multiple Swarm-based Algorithms</title>
-      <link>https://example.com/events/2023/lacci2023/</link>
+      <link>https://rodrigoclira.github.io/events/2023/lacci2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2023/lacci2023/</guid>
+      <guid>https://rodrigoclira.github.io/events/2023/lacci2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apresentação do curso ADS (IFPE Campus Paulista)</title>
-      <link>https://example.com/events/ads-magna/</link>
+      <link>https://rodrigoclira.github.io/events/ads-magna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/ads-magna/</guid>
+      <guid>https://rodrigoclira.github.io/events/ads-magna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apresentação do projeto aprovado na chamada pública Mover-se na Web - Articulação Pró-Brumadinho</title>
-      <link>https://example.com/events/apresentacao-brumadinho/</link>
+      <link>https://rodrigoclira.github.io/events/apresentacao-brumadinho/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/apresentacao-brumadinho/</guid>
+      <guid>https://rodrigoclira.github.io/events/apresentacao-brumadinho/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boolean Binary Grey Wolf Optimizer</title>
-      <link>https://example.com/events/2022/lacci2022/</link>
+      <link>https://rodrigoclira.github.io/events/2022/lacci2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2022/lacci2022/</guid>
+      <guid>https://rodrigoclira.github.io/events/2022/lacci2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computação Bioinspirada</title>
-      <link>https://example.com/events/snctsema/</link>
+      <link>https://rodrigoclira.github.io/events/snctsema/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/snctsema/</guid>
+      <guid>https://rodrigoclira.github.io/events/snctsema/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Construção de um Jogo Usando Robótica para a Formação de Habilidades de Programação em Crianças</title>
-      <link>https://example.com/events/2021/cotb2021/</link>
+      <link>https://rodrigoclira.github.io/events/2021/cotb2021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2021/cotb2021/</guid>
+      <guid>https://rodrigoclira.github.io/events/2021/cotb2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Desenvolvimento de modelos de aprendizado de máquina para simulação e otimização de controles térmicos em planta automotiva</title>
-      <link>https://example.com/events/2024/wcda2024-banner/</link>
+      <link>https://rodrigoclira.github.io/events/2024/wcda2024-banner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2024/wcda2024-banner/</guid>
+      <guid>https://rodrigoclira.github.io/events/2024/wcda2024-banner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Desenvolvimento de um Advergame para a Divulgação Institucional</title>
-      <link>https://example.com/events/2023/ctrle2023/</link>
+      <link>https://rodrigoclira.github.io/events/2023/ctrle2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2023/ctrle2023/</guid>
+      <guid>https://rodrigoclira.github.io/events/2023/ctrle2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Desenvolvimento de um Jogo Utilizando Robótica para o Estı́mulo do Pensamento Computacional</title>
-      <link>https://example.com/events/2020/ctrel2020/</link>
+      <link>https://rodrigoclira.github.io/events/2020/ctrel2020/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2020/ctrel2020/</guid>
+      <guid>https://rodrigoclira.github.io/events/2020/ctrel2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DroneShark Dataset: Um Conjunto de Imagens Aéreas para Detecção de Tubarões</title>
-      <link>https://example.com/events/2025/wcama/</link>
+      <link>https://rodrigoclira.github.io/events/2025/wcama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2025/wcama/</guid>
+      <guid>https://rodrigoclira.github.io/events/2025/wcama/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring Social Dynamics in a Reinforcement Learning-based Metaheuristic - A study using Improvement Frequency and Population Turnover</title>
-      <link>https://example.com/events/2024/lacci2024/</link>
+      <link>https://rodrigoclira.github.io/events/2024/lacci2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2024/lacci2024/</guid>
+      <guid>https://rodrigoclira.github.io/events/2024/lacci2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>INOVA ID RS</title>
-      <link>https://example.com/events/2024/wrnp/</link>
+      <link>https://rodrigoclira.github.io/events/2024/wrnp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2024/wrnp/</guid>
+      <guid>https://rodrigoclira.github.io/events/2024/wrnp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrating Reinforcement Learning and Optimization Task - Evaluating an Agent to Dynamically Select PSO Communication Topology</title>
-      <link>https://example.com/events/2023/icsi2023/</link>
+      <link>https://rodrigoclira.github.io/events/2023/icsi2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2023/icsi2023/</guid>
+      <guid>https://rodrigoclira.github.io/events/2023/icsi2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling the Social Interactions in Grey Wolf Optimizer</title>
-      <link>https://example.com/events/2021/lacci2021/</link>
+      <link>https://rodrigoclira.github.io/events/2021/lacci2021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2021/lacci2021/</guid>
+      <guid>https://rodrigoclira.github.io/events/2021/lacci2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oportunidades em Editais Externos de Pesquisa e Extensão Tecnológica</title>
-      <link>https://example.com/events/2022/snct2022/</link>
+      <link>https://rodrigoclira.github.io/events/2022/snct2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2022/snct2022/</guid>
+      <guid>https://rodrigoclira.github.io/events/2022/snct2022/</guid>
       <description>&lt;div style=&#34;position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;&#34;&gt;
@@ -150,25 +150,25 @@
     
     <item>
       <title>Otimização Energética</title>
-      <link>https://example.com/events/2024/wcda2024-mesa/</link>
+      <link>https://rodrigoclira.github.io/events/2024/wcda2024-mesa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2024/wcda2024-mesa/</guid>
+      <guid>https://rodrigoclira.github.io/events/2024/wcda2024-mesa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Revolução de 1824: Uma viagem digital pela Confederação do Equador</title>
-      <link>https://example.com/events/2025/facepe-seminario-confederao-equador/</link>
+      <link>https://rodrigoclira.github.io/events/2025/facepe-seminario-confederao-equador/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2025/facepe-seminario-confederao-equador/</guid>
+      <guid>https://rodrigoclira.github.io/events/2025/facepe-seminario-confederao-equador/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sistemas Inteligentes - Inovação e o seu papel no novo mundo</title>
-      <link>https://example.com/events/2020/summerexperience2020/</link>
+      <link>https://rodrigoclira.github.io/events/2020/summerexperience2020/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2020/summerexperience2020/</guid>
+      <guid>https://rodrigoclira.github.io/events/2020/summerexperience2020/</guid>
       <description>
 
 

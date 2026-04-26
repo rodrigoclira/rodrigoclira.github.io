@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Django | Rodrigo Lira</title>
-    <link>https://example.com/tags/django/</link>
-      <atom:link href="https://example.com/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/django/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/django/index.xml" rel="self" type="application/rss+xml" />
     <description>Django</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Sat, 08 Apr 2023 17:44:25 -0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Django</title>
-      <link>https://example.com/tags/django/</link>
+      <link>https://rodrigoclira.github.io/tags/django/</link>
     </image>
     
     <item>
       <title>Passo a Passo para Implantação de Aplicação Django na AWS</title>
-      <link>https://example.com/blog/2023/implantacao-django/</link>
+      <link>https://rodrigoclira.github.io/blog/2023/implantacao-django/</link>
       <pubDate>Sat, 08 Apr 2023 17:44:25 -0300</pubDate>
-      <guid>https://example.com/blog/2023/implantacao-django/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2023/implantacao-django/</guid>
       <description>&lt;h2 id=&#34;pré-requisito&#34;&gt;Pré-Requisito&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Liberação da porta 80 no security group&lt;/li&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rodrigo Lira</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/</link>
+      <atom:link href="https://rodrigoclira.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo Lira</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Rodrigo Lira</title>
-      <link>https://example.com/</link>
+      <link>https://rodrigoclira.github.io/</link>
     </image>
     
     <item>
       <title>Getting Started</title>
-      <link>https://example.com/courses/hugo-blox/getting-started/</link>
+      <link>https://rodrigoclira.github.io/courses/hugo-blox/getting-started/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/hugo-blox/getting-started/</guid>
+      <guid>https://rodrigoclira.github.io/courses/hugo-blox/getting-started/</guid>
       <description>&lt;h2 id=&#34;quick-start-from-template&#34;&gt;Quick Start from Template&lt;/h2&gt;
 &lt;div class=&#34;hb-steps&#34;&gt;
 &lt;h3 id=&#34;create-a-site&#34;&gt;Create a site&lt;/h3&gt;
@@ -65,9 +65,9 @@
     
     <item>
       <title>Customizing Hugo</title>
-      <link>https://example.com/courses/hugo-blox/reference/customization/</link>
+      <link>https://rodrigoclira.github.io/courses/hugo-blox/reference/customization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/hugo-blox/reference/customization/</guid>
+      <guid>https://rodrigoclira.github.io/courses/hugo-blox/reference/customization/</guid>
       <description>&lt;p&gt;View the full docs at 
 &lt;/p&gt;
 </description>
@@ -75,9 +75,9 @@
     
     <item>
       <title>Project Structure</title>
-      <link>https://example.com/courses/hugo-blox/guide/project-structure/</link>
+      <link>https://rodrigoclira.github.io/courses/hugo-blox/guide/project-structure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/hugo-blox/guide/project-structure/</guid>
+      <guid>https://rodrigoclira.github.io/courses/hugo-blox/guide/project-structure/</guid>
       <description>&lt;h2 id=&#34;folder-structure&#34;&gt;Folder Structure&lt;/h2&gt;
 &lt;p&gt;There are &lt;strong&gt;4 main folders for Hugo-based sites&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
@@ -131,9 +131,9 @@
     
     <item>
       <title>Configuration</title>
-      <link>https://example.com/courses/hugo-blox/guide/configuration/</link>
+      <link>https://rodrigoclira.github.io/courses/hugo-blox/guide/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/hugo-blox/guide/configuration/</guid>
+      <guid>https://rodrigoclira.github.io/courses/hugo-blox/guide/configuration/</guid>
       <description>&lt;p&gt;The configuration of your site can be found in &lt;code&gt;config/_default/&lt;/code&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;full-documentation&#34;&gt;Full Documentation&lt;/h2&gt;
 &lt;p&gt;See 
@@ -170,53 +170,53 @@
     
     <item>
       <title></title>
-      <link>https://example.com/news/exemplo/</link>
+      <link>https://rodrigoclira.github.io/news/exemplo/</link>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.com/news/exemplo/</guid>
+      <guid>https://rodrigoclira.github.io/news/exemplo/</guid>
       <description>&lt;p&gt;Exemplo de notícia curta. Use este formato para informações rápidas — datas de eventos, comunicados, destaques sem necessidade de texto longo.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Estratégias de combinação Não-Supervisionadas para Detecção de Contextual de Anomalias em Aerogeradores</title>
-      <link>https://example.com/publications/conference/2025/snptee/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2025/snptee/</link>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2025/snptee/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2025/snptee/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Multidimensional Analysis of Swarm Dynamics in a Reinforcement Learning-based Metaheuristic</title>
-      <link>https://example.com/publications/conference/2025/bracis/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2025/bracis/</link>
       <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2025/bracis/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2025/bracis/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>DroneShark Dataset: Um Conjunto de Imagens Aéreas para Detecção de Tubarões</title>
-      <link>https://example.com/publications/conference/2025/wcama/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2025/wcama/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2025/wcama/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2025/wcama/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Revealing Swarm Intelligence Patterns using Network Science (abstract)</title>
-      <link>https://example.com/publications/conference/2025/complenet/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2025/complenet/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2025/complenet/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2025/complenet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IFPE empossa novos/as conselheiros/as do Consup para biênio 2025-2027</title>
-      <link>https://example.com/blog/2025/consup-2025/</link>
+      <link>https://rodrigoclira.github.io/blog/2025/consup-2025/</link>
       <pubDate>Wed, 29 Jan 2025 10:18:25 -0300</pubDate>
-      <guid>https://example.com/blog/2025/consup-2025/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2025/consup-2025/</guid>
       <description>&lt;p&gt;Na manhã desta quarta-feira (29), aconteceu a solenidade de posse dos/as novos/as conselheiros/as do Conselho Superior (Consup) do IFPE, órgão máximo da instituição, de caráter consultivo e deliberativo. Presidido pelo reitor do IFPE, José Carlos de Sá, o evento aconteceu no auditório do Campus Recife e reuniu os/as conselheiros/as eleitos/as pela comunidade acadêmica para mandato no biênio 2025/2027, em processo eleitoral realizado de forma online nos dias 10 e 11 de dezembro de 2024 e divulgado no dia 13 do mesmo mês.&lt;/p&gt;
 &lt;p&gt;Ao todo, foram eleitos/as 33 conselheiros/as, distribuídos entre os segmentos docente (10), discente (10), técnico-administrativo (10), egresso (2) e aposentado (1), além dos/as respectivos/as suplentes.&lt;/p&gt;
 &lt;p&gt;Durante sua fala, o reitor do IFPE, José Carlos de Sá, destacou a importância do Consup e a participação dos diferentes setores da instituição. “Como o nosso Conselho Superior é de uma casa de educação, temos essa premissa do debate, da discussão, da construção coletiva das nossas decisões. É no Consup que tiramos as diretrizes documentais e referências da nossa organização, a partir das quais nossos/as gestores/as e toda comunidade acadêmica podem se referenciar. Então é um lugar de muita uma responsabilidade. Por isso, quero deixar registrada aqui toda minha gratidão por todas realizações do Consup no biênio passado, nessa perspectiva de ser pilar da governança do IFPE. E já faço um convite a quem está chegando agora para se unir a esse propósito de construção da nossa instituição”, declarou.&lt;/p&gt;
@@ -242,9 +242,9 @@
     
     <item>
       <title>Extensão | Revolução de 1824 - Uma viagem digital pela Confederação do Equador</title>
-      <link>https://example.com/projects/jogo-confederacao-equador/</link>
+      <link>https://rodrigoclira.github.io/projects/jogo-confederacao-equador/</link>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/jogo-confederacao-equador/</guid>
+      <guid>https://rodrigoclira.github.io/projects/jogo-confederacao-equador/</guid>
       <description>&lt;p&gt;A Confederação do Equador foi um movimento revolucionário de 1824, liderado por Manoel de Carvalho e Frei Caneca em Recife, que reuniu as províncias de Pernambuco, Ceará, Rio Grande do Norte e Paraíba. O movimento surgiu como continuidade de insatisfações anteriores, como a Conspiração dos Suassuna (1801) e a Revolução Pernambucana de 1817, devido à centralização excessiva do poder.Segundo Andrade (1995), após a independência do Brasil, as tensões aumentaram com o fechamento da assembleia constituinte em 1823 e a imposição da constituição de 1824 por D. Pedro I. O estopim foi a disputa pela presidência da Província, levando Manoel de Carvalho a proclamar a Confederação e convocar outras províncias do Nordeste para uma Constituinte mais liberal. De acordo com Koshiba &amp;amp; Pereira (2003, p. 226), aderiram ao movimento Ceará, Rio Grande do Norte e Paraíba. Andrade (1995, p. 10) destaca que o movimento teve maior força em Pernambuco e no Ceará, onde os revolucionários chegaram a ocupar Fortaleza.&lt;/p&gt;
 &lt;p&gt;De fato, Pernambuco intencionou um “Brasil alternativo” ao Império de Pedro I (WESTIN, Agência Senado, 2024), com propostas liberais e republicanas. Pernambuco já foi um país e uma Confederação, separando-se do Brasil. Isto tudo em curto período, em 1817 e 1824. Entretanto, há um relativo desconhecimento desses feitos. Por isso, faz-se necessário reavivar estas histórias que marcaram não só a história de Pernambuco, mas do Brasil. A história desses movimentos, por vezes, fica restrita aos círculos acadêmicos, criando um distanciamento entre os jovens e seu próprio patrimônio histórico.&lt;/p&gt;
 &lt;p&gt;Para superar este desafio e aproximar as novas gerações deste importante capítulo da história pernambucana, esse projeto propõe desenvolver um jogo educativo em estilo 2D. Esta ferramenta visa traduzir a complexidade dos eventos históricos para uma linguagem acessível e envolvente, permitindo que os jovens estudantes não apenas aprendam sobre a Confederação do Equador, mas experimentem, por meio de mecânicas interativas, os dilemas e escolhas enfrentados pelos revolucionários.&lt;/p&gt;
@@ -264,34 +264,34 @@
     
     <item>
       <title>INOVA ID RS: Uma Federação de Identidade Aderente ao Ecossistema de Inovação Gaúcho</title>
-      <link>https://example.com/publications/conference/2024/anprotec/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2024/anprotec/</link>
       <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2024/anprotec/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2024/anprotec/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Unpacking heterogeneities of Swarm Intelligence using Network Science (abstract)</title>
-      <link>https://example.com/publications/conference/2024/ccs/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2024/ccs/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2024/ccs/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2024/ccs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detecção de Anomalias em Rolamento de Aerogeradores Baseada em Modelos Não Supervisionados</title>
-      <link>https://example.com/publications/conference/2024/brazil-windpower/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2024/brazil-windpower/</link>
       <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2024/brazil-windpower/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2024/brazil-windpower/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Artigo escrito por aluno do IFPE recebe o prêmio de melhor artigo no Encontro Nacional de Computação dos Institutos Federais</title>
-      <link>https://example.com/blog/2024/encompif-2024/</link>
+      <link>https://rodrigoclira.github.io/blog/2024/encompif-2024/</link>
       <pubDate>Thu, 25 Jul 2024 10:18:25 -0300</pubDate>
-      <guid>https://example.com/blog/2024/encompif-2024/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2024/encompif-2024/</guid>
       <description>&lt;p&gt;No dia 25/07/2024, em Brasília, o artigo &amp;ldquo;Avaliando o Desempenho de Modelos Generativos de Dados para Classificação de Notícias Falsas&amp;rdquo; conquistou a premiação de Melhor Trabalho de Graduação do Encontro Nacional de Computação dos Institutos Federais (ENCompIF), evento realizado no 44º Congresso da Sociedade Brasileira de Computação!&lt;/p&gt;
 &lt;p&gt;Esse artigo é fruto do Trabalho de Conclusão de Curso (TCC) do estudante William Teles, egresso do curso superior em Análise e Desenvolvimento de Sistemas (ADS). O artigo teve orientação dos Professores Rodrigo Lira e Antônio Sá Barreto Neto e colaboração de João Gabriel Rocha Silva, professor do Instituto Federal de Brasília - IFB.&lt;/p&gt;
 &lt;p&gt;Postagem original:
@@ -302,9 +302,9 @@
     
     <item>
       <title>Exploring Social Dynamics in a Reinforcement Learning-based Metaheuristic: A study using Improvement Frequency and Population Turnover</title>
-      <link>https://example.com/publications/conference/2024/lacci/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2024/lacci/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2024/lacci/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2024/lacci/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you&lt;/p&gt;
 &lt;audio controls&gt;
   &lt;source src=&#34;RL_Metaheuristic_Social_Dynamics_ Improvement_and_Turnover_Study.wav&#34; type=&#34;audio/wav&#34;&gt;
@@ -316,18 +316,18 @@
     
     <item>
       <title>Avaliando o Desempenho de Modelos Generativos de Dados para Classificação de Notícias Falsas</title>
-      <link>https://example.com/publications/conference/2024/encompif/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2024/encompif/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2024/encompif/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2024/encompif/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Social Interactions Matter: Is Grey Wolf Optimizer a Particle Swarm Optimization Variation?</title>
-      <link>https://example.com/publications/conference/2024/complenet/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2024/complenet/</link>
       <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2024/complenet/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2024/complenet/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you&lt;/p&gt;
 &lt;audio controls&gt;
   &lt;source src=&#34;Grey_Wolf_Optimizer_and_Particle_Swarm_Optimization_A_Network_Analysis.wav&#34; type=&#34;audio/wav&#34;&gt;
@@ -339,9 +339,9 @@
     
     <item>
       <title>Example Talk: Recent Work</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://rodrigoclira.github.io/slides/example/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://rodrigoclira.github.io/slides/example/</guid>
       <description>&lt;!-- no-branding --&gt;
 &lt;h1 id=&#34;example-talk&#34;&gt;Example Talk&lt;/h1&gt;
 &lt;h3 id=&#34;dr-alex-johnson--meta-ai&#34;&gt;Dr. Alex Johnson · Meta AI&lt;/h3&gt;
@@ -784,17 +784,17 @@ Thank you for your attention! Feel free to reach out with questions or contribut
     
     <item>
       <title>Popularização e Democratização da Inteligência Artificial no Nordeste Brasileiro: Um Relato de Experiência</title>
-      <link>https://example.com/publications/journal/praxis2023-b/</link>
+      <link>https://rodrigoclira.github.io/publications/journal/praxis2023-b/</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/journal/praxis2023-b/</guid>
+      <guid>https://rodrigoclira.github.io/publications/journal/praxis2023-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docente e estudantes da UPE publicam artigo na Revista Nature, em colaboração com pesquisadores da Universidade de Toulouse</title>
-      <link>https://example.com/blog/2023/nature-article/</link>
+      <link>https://rodrigoclira.github.io/blog/2023/nature-article/</link>
       <pubDate>Sat, 18 Nov 2023 10:18:25 -0300</pubDate>
-      <guid>https://example.com/blog/2023/nature-article/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2023/nature-article/</guid>
       <description>&lt;p&gt;Artigo elaborado por docente e estudantes da Universidade de Pernambuco (UPE), intitulado “Understanding political divisiveness using online participation data from the 2022 French and Brazilian presidential elections”, foi publicado na Revista Nature, considerada um dos principais periódicos científicos do mundo. O artigo é resultado de acordo de cooperação técnica internacional entre a Universidade de Toulouse e a UPE, com foco na democracia digital. No Brasil, a plataforma desenvolvida e utilizada para a investigação científica foi a brazucracia.org, ferramenta de participação digital em que os usuários podem criar os seus próprios programas de governo.&lt;/p&gt;
 &lt;p&gt;A plataforma permite que os interessados selecionem e classifiquem propostas retiradas dos programas oficiais de governo dos principais candidatos às eleições presidenciais de 2022, sem mencionar aos participantes qual o proponente do item em questão. Cada participação da população, mesmo que parcial, contribui para a criação de um programa coletivo de proposta política e identifica quais são as ideias que geram maior discordância entre os usuários.&lt;/p&gt;
 &lt;p&gt;O princípio utilizado no instrumento é o da inteligência coletiva e o objetivo é obter conhecimento sobre a participação cívica em plataformas digitais e estudar os limites empíricos da teoria de escolha social. O artigo demonstra resultados relacionados com a análise da aderência das propostas nas eleições presidenciais francesas e brasileiras de 2022. Com uma equipe composta por pesquisadores de diversas nacionalidades, a UPE contou com a participação do estudante do Programa de Pós-graduação em Engenharia da Computação, Rodrigo Lira, da egressa do mesmo programa e discente do pós-doutorado na Universidade de Toulouse, Mariana Macedo, e do Professor Carmelo Bastos, docente da Escola Politécnica de Pernambuco (POLI-UPE). Os interessados podem consultar o artigo no link: 
@@ -806,26 +806,26 @@ Thank you for your attention! Feel free to reach out with questions or contribut
     
     <item>
       <title>Understanding political divisiveness using online participation data from the 2022 French and Brazilian presidential elections</title>
-      <link>https://example.com/publications/journal/nature-human-behaviour-2023/</link>
+      <link>https://rodrigoclira.github.io/publications/journal/nature-human-behaviour-2023/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/journal/nature-human-behaviour-2023/</guid>
+      <guid>https://rodrigoclira.github.io/publications/journal/nature-human-behaviour-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applying Reinforcement Learning to Combine Multiple Swarm-based Algorithms</title>
-      <link>https://example.com/publications/conference/2023/lacci/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2023/lacci/</link>
       <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2023/lacci/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2023/lacci/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Embed Media</title>
-      <link>https://example.com/courses/hugo-blox/guide/formatting/media/</link>
+      <link>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/media/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/hugo-blox/guide/formatting/media/</guid>
+      <guid>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/media/</guid>
       <description>&lt;p&gt;
  is designed to give technical content creators a seamless experience. You can focus on the content and the HugoBlox Kit which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
@@ -989,70 +989,70 @@ data.head()
     
     <item>
       <title>Experience</title>
-      <link>https://example.com/experience/</link>
+      <link>https://rodrigoclira.github.io/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/experience/</guid>
+      <guid>https://rodrigoclira.github.io/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Volitive Grey Wolf Optimizer</title>
-      <link>https://example.com/publications/conference/2023/cbic/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2023/cbic/</link>
       <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2023/cbic/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2023/cbic/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Applying Reinforcement Learning for Multiple Functions in Swarm Intelligence</title>
-      <link>https://example.com/publications/conference/2023/bracis/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2023/bracis/</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2023/bracis/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2023/bracis/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>INOVA ID RS: Desenvolvimento de um Sistema de Gestão de Identidade Federada Aderente ao Ecossistema de Inovação Rio Grande do Sul</title>
-      <link>https://example.com/publications/conference/2023/wgid/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2023/wgid/</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2023/wgid/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2023/wgid/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Desenvolvimento de um Advergame para a Divulgação Institucional</title>
-      <link>https://example.com/publications/conference/2023/ctrle/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2023/ctrle/</link>
       <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2023/ctrle/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2023/ctrle/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Integrating Reinforcement Learning and Optimization Task: Evaluating an Agent to Dynamically Select PSO Communication Topology</title>
-      <link>https://example.com/publications/conference/2023/icsi/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2023/icsi/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2023/icsi/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2023/icsi/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Um Relato sobre a criação de um clube de xadrez no campus Palmares do IFPE</title>
-      <link>https://example.com/publications/journal/praxis2023-a/</link>
+      <link>https://rodrigoclira.github.io/publications/journal/praxis2023-a/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/journal/praxis2023-a/</guid>
+      <guid>https://rodrigoclira.github.io/publications/journal/praxis2023-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Material sobre Reinforcement Learning</title>
-      <link>https://example.com/blog/2023/rl-material/</link>
+      <link>https://rodrigoclira.github.io/blog/2023/rl-material/</link>
       <pubDate>Thu, 22 Jun 2023 10:18:25 -0300</pubDate>
-      <guid>https://example.com/blog/2023/rl-material/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2023/rl-material/</guid>
       <description>&lt;p&gt;Eu estou usando Aprendizam Por Reforço (do inglês, Reinforcement Learning) na minha tese de doutorado e no processo de aprendizado eu acabei encontrando muitos materias interessantes na internet. Resolvi fazer uma listagem deles para deixar público e também me ajudar em consultas futuras.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Para quem estiver procurando conhecimento teórico, eu sugiro os livros:&lt;/p&gt;
@@ -1099,17 +1099,17 @@ data.head()
     
     <item>
       <title>Nature Abstract</title>
-      <link>https://example.com/blog/2023/nature-abstract/</link>
+      <link>https://rodrigoclira.github.io/blog/2023/nature-abstract/</link>
       <pubDate>Thu, 22 Jun 2023 10:18:25 -0300</pubDate>
-      <guid>https://example.com/blog/2023/nature-abstract/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2023/nature-abstract/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Passo a Passo para Implantação de Aplicação Django na AWS</title>
-      <link>https://example.com/blog/2023/implantacao-django/</link>
+      <link>https://rodrigoclira.github.io/blog/2023/implantacao-django/</link>
       <pubDate>Sat, 08 Apr 2023 17:44:25 -0300</pubDate>
-      <guid>https://example.com/blog/2023/implantacao-django/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2023/implantacao-django/</guid>
       <description>&lt;h2 id=&#34;pré-requisito&#34;&gt;Pré-Requisito&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Liberação da porta 80 no security group&lt;/li&gt;
@@ -1211,9 +1211,9 @@ data.head()
     
     <item>
       <title>IAs Úteis ao público geral</title>
-      <link>https://example.com/blog/2023/ia-uteis/</link>
+      <link>https://rodrigoclira.github.io/blog/2023/ia-uteis/</link>
       <pubDate>Sun, 05 Mar 2023 10:18:25 -0300</pubDate>
-      <guid>https://example.com/blog/2023/ia-uteis/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2023/ia-uteis/</guid>
       <description>&lt;p&gt;A Super Interessante trouxe uma matéria intitulada: &amp;ldquo;
 &amp;rdquo; onde é apresentada a evolução dos projetos de IA. É uma matéria que detalha os projetos que vieram antes do ChatGPT e o que podemos esperar para o futuro. Em um dos infográficos foram apresentados projetos de IA que estão acessíveis (alguns pagos) para o usuário final, assim como o chatbot da OpenAI.&lt;/p&gt;
 &lt;p&gt;Resolvi pegar essa listagem para começar um repositório de projeto desse tipo que podem ser utilizados no nosso dia a dia.&lt;/p&gt;
@@ -1238,9 +1238,9 @@ data.head()
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;png&#34; 
-               srcset=&#34;https://example.com/blog/2023/ia-uteis/synthesia_hu_ce10f53e91aaf31f.webp 320w, https://example.com/blog/2023/ia-uteis/synthesia_hu_9f1a4292a826d5ce.webp 480w, https://example.com/blog/2023/ia-uteis/synthesia_hu_c929febc3df4737.webp 760w&#34;
+               srcset=&#34;https://rodrigoclira.github.io/blog/2023/ia-uteis/synthesia_hu_ce10f53e91aaf31f.webp 320w, https://rodrigoclira.github.io/blog/2023/ia-uteis/synthesia_hu_9f1a4292a826d5ce.webp 480w, https://rodrigoclira.github.io/blog/2023/ia-uteis/synthesia_hu_c929febc3df4737.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://example.com/blog/2023/ia-uteis/synthesia_hu_ce10f53e91aaf31f.webp&#34;
+               src=&#34;https://rodrigoclira.github.io/blog/2023/ia-uteis/synthesia_hu_ce10f53e91aaf31f.webp&#34;
                width=&#34;760&#34;
                height=&#34;471&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1272,9 +1272,9 @@ data.head()
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;png&#34; 
-               srcset=&#34;https://example.com/blog/2023/ia-uteis/murf_hu_72a1091e7e0182b0.webp 320w, https://example.com/blog/2023/ia-uteis/murf_hu_974747433ce8c38d.webp 480w, https://example.com/blog/2023/ia-uteis/murf_hu_c89fe39d59c72b08.webp 760w&#34;
+               srcset=&#34;https://rodrigoclira.github.io/blog/2023/ia-uteis/murf_hu_72a1091e7e0182b0.webp 320w, https://rodrigoclira.github.io/blog/2023/ia-uteis/murf_hu_974747433ce8c38d.webp 480w, https://rodrigoclira.github.io/blog/2023/ia-uteis/murf_hu_c89fe39d59c72b08.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://example.com/blog/2023/ia-uteis/murf_hu_72a1091e7e0182b0.webp&#34;
+               src=&#34;https://rodrigoclira.github.io/blog/2023/ia-uteis/murf_hu_72a1091e7e0182b0.webp&#34;
                width=&#34;760&#34;
                height=&#34;591&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1316,9 +1316,9 @@ data.head()
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;png&#34; 
-               srcset=&#34;https://example.com/blog/2023/ia-uteis/typestudio_hu_12a445af91ed3109.webp 320w, https://example.com/blog/2023/ia-uteis/typestudio_hu_def53c4ac657b96.webp 480w, https://example.com/blog/2023/ia-uteis/typestudio_hu_2623a86009c63503.webp 760w&#34;
+               srcset=&#34;https://rodrigoclira.github.io/blog/2023/ia-uteis/typestudio_hu_12a445af91ed3109.webp 320w, https://rodrigoclira.github.io/blog/2023/ia-uteis/typestudio_hu_def53c4ac657b96.webp 480w, https://rodrigoclira.github.io/blog/2023/ia-uteis/typestudio_hu_2623a86009c63503.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://example.com/blog/2023/ia-uteis/typestudio_hu_12a445af91ed3109.webp&#34;
+               src=&#34;https://rodrigoclira.github.io/blog/2023/ia-uteis/typestudio_hu_12a445af91ed3109.webp&#34;
                width=&#34;760&#34;
                height=&#34;610&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1350,9 +1350,9 @@ data.head()
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;png&#34; 
-               srcset=&#34;https://example.com/blog/2023/ia-uteis/aicontentdetector_hu_c1adc60d23727e5a.webp 320w, https://example.com/blog/2023/ia-uteis/aicontentdetector_hu_9274bd34c52f271e.webp 480w, https://example.com/blog/2023/ia-uteis/aicontentdetector_hu_66853be34b8369e.webp 760w&#34;
+               srcset=&#34;https://rodrigoclira.github.io/blog/2023/ia-uteis/aicontentdetector_hu_c1adc60d23727e5a.webp 320w, https://rodrigoclira.github.io/blog/2023/ia-uteis/aicontentdetector_hu_9274bd34c52f271e.webp 480w, https://rodrigoclira.github.io/blog/2023/ia-uteis/aicontentdetector_hu_66853be34b8369e.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://example.com/blog/2023/ia-uteis/aicontentdetector_hu_c1adc60d23727e5a.webp&#34;
+               src=&#34;https://rodrigoclira.github.io/blog/2023/ia-uteis/aicontentdetector_hu_c1adc60d23727e5a.webp&#34;
                width=&#34;760&#34;
                height=&#34;459&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1384,9 +1384,9 @@ data.head()
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;png&#34; 
-               srcset=&#34;https://example.com/blog/2023/ia-uteis/textclassifier_hu_d73125cb6850cecd.webp 320w, https://example.com/blog/2023/ia-uteis/textclassifier_hu_52bac07506559c2.webp 480w, https://example.com/blog/2023/ia-uteis/textclassifier_hu_2b34f8a77d9e9f2d.webp 760w&#34;
+               srcset=&#34;https://rodrigoclira.github.io/blog/2023/ia-uteis/textclassifier_hu_d73125cb6850cecd.webp 320w, https://rodrigoclira.github.io/blog/2023/ia-uteis/textclassifier_hu_52bac07506559c2.webp 480w, https://rodrigoclira.github.io/blog/2023/ia-uteis/textclassifier_hu_2b34f8a77d9e9f2d.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://example.com/blog/2023/ia-uteis/textclassifier_hu_d73125cb6850cecd.webp&#34;
+               src=&#34;https://rodrigoclira.github.io/blog/2023/ia-uteis/textclassifier_hu_d73125cb6850cecd.webp&#34;
                width=&#34;760&#34;
                height=&#34;512&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1418,9 +1418,9 @@ data.head()
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;png&#34; 
-               srcset=&#34;https://example.com/blog/2023/ia-uteis/chatgpt_hu_7faafee5e5be4bd0.webp 320w, https://example.com/blog/2023/ia-uteis/chatgpt_hu_248efb6f3e79ed44.webp 480w, https://example.com/blog/2023/ia-uteis/chatgpt_hu_43b24f5c05aff8fb.webp 760w&#34;
+               srcset=&#34;https://rodrigoclira.github.io/blog/2023/ia-uteis/chatgpt_hu_7faafee5e5be4bd0.webp 320w, https://rodrigoclira.github.io/blog/2023/ia-uteis/chatgpt_hu_248efb6f3e79ed44.webp 480w, https://rodrigoclira.github.io/blog/2023/ia-uteis/chatgpt_hu_43b24f5c05aff8fb.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://example.com/blog/2023/ia-uteis/chatgpt_hu_7faafee5e5be4bd0.webp&#34;
+               src=&#34;https://rodrigoclira.github.io/blog/2023/ia-uteis/chatgpt_hu_7faafee5e5be4bd0.webp&#34;
                width=&#34;760&#34;
                height=&#34;670&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1452,9 +1452,9 @@ data.head()
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;png&#34; 
-               srcset=&#34;https://example.com/blog/2023/ia-uteis/dalle2_hu_7c6bc727edebfad9.webp 320w, https://example.com/blog/2023/ia-uteis/dalle2_hu_3826e4bc3e465fa3.webp 480w, https://example.com/blog/2023/ia-uteis/dalle2_hu_1b786abb1095be46.webp 627w&#34;
+               srcset=&#34;https://rodrigoclira.github.io/blog/2023/ia-uteis/dalle2_hu_7c6bc727edebfad9.webp 320w, https://rodrigoclira.github.io/blog/2023/ia-uteis/dalle2_hu_3826e4bc3e465fa3.webp 480w, https://rodrigoclira.github.io/blog/2023/ia-uteis/dalle2_hu_1b786abb1095be46.webp 627w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://example.com/blog/2023/ia-uteis/dalle2_hu_7c6bc727edebfad9.webp&#34;
+               src=&#34;https://rodrigoclira.github.io/blog/2023/ia-uteis/dalle2_hu_7c6bc727edebfad9.webp&#34;
                width=&#34;627&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1489,9 +1489,9 @@ data.head()
     
     <item>
       <title>Placa robô para soldagem e ensino de programação com Arduino</title>
-      <link>https://example.com/downloads/robo-pcb/</link>
+      <link>https://rodrigoclira.github.io/downloads/robo-pcb/</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/downloads/robo-pcb/</guid>
+      <guid>https://rodrigoclira.github.io/downloads/robo-pcb/</guid>
       <description>&lt;p&gt;Arquivos para fabricação da placa desenvolvida para ensino de soldagem e programação com Arduino. Mais informações sobre o projeto estão descritos na postagem 
 .&lt;/p&gt;
 &lt;p&gt;
@@ -1501,27 +1501,27 @@ data.head()
     
     <item>
       <title>Chaveiro do IFPE para impressão 3d</title>
-      <link>https://example.com/downloads/chaveiro-ifpe/</link>
+      <link>https://rodrigoclira.github.io/downloads/chaveiro-ifpe/</link>
       <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/downloads/chaveiro-ifpe/</guid>
+      <guid>https://rodrigoclira.github.io/downloads/chaveiro-ifpe/</guid>
       <description>&lt;iframe width=&#34;725&#34; height=&#34;453&#34; src=&#34;https://www.tinkercad.com/embed/kbVkNnu1O0b?editbtn=1&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>Boolean Binary Grey Wolf Optimizer</title>
-      <link>https://example.com/publications/conference/2022/lacci2022/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2022/lacci2022/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2022/lacci2022/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2022/lacci2022/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Qual idade dos meus filhos?</title>
-      <link>https://example.com/blog/2022/qual-idade-dos-meus-filhos/</link>
+      <link>https://rodrigoclira.github.io/blog/2022/qual-idade-dos-meus-filhos/</link>
       <pubDate>Thu, 01 Sep 2022 10:18:25 -0300</pubDate>
-      <guid>https://example.com/blog/2022/qual-idade-dos-meus-filhos/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2022/qual-idade-dos-meus-filhos/</guid>
       <description>&lt;p&gt;Dois homens se encontram na rua. Elas não se viam há muitos anos. Eles conversam sobre várias coisas, e depois de algum tempo um deles diz: &amp;ldquo;Já que você é professor de matemática, eu gostaria de lhe dar um problema para resolver. Sabe, hoje é um dia muito especial para mim: Todos três dos meus filhos comemoram seu aniversário neste mesmo dia! Então, você pode me dizer quantos anos cada um deles tem?&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Claro&amp;rdquo;, responde o matemático, &amp;ldquo;mas você terá que me dizer algo sobre eles.&amp;rdquo; &amp;ldquo;Ok, vou te dar algumas dicas&amp;rdquo;, responde o pai dos três filhos, &amp;ldquo;O o produto das idades dos meus filhos é 36.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Tudo bem&amp;rdquo;, diz o matemático, &amp;ldquo;mas vou precisar de mais do que apenas isso.&amp;rdquo;&lt;/p&gt;
@@ -1537,9 +1537,9 @@ diz o pai apontando para uma estrutura ao lado deles. O matemático pensa por al
     
     <item>
       <title> Aplicação Web para Monitoramento dos Ninhos de Tartarugas Marinhas no Litoral da Cidade de Paulista (PE)</title>
-      <link>https://example.com/blog/2022/app-monitoramento-ninho-tartarugas/</link>
+      <link>https://rodrigoclira.github.io/blog/2022/app-monitoramento-ninho-tartarugas/</link>
       <pubDate>Wed, 20 Jul 2022 10:18:25 -0300</pubDate>
-      <guid>https://example.com/blog/2022/app-monitoramento-ninho-tartarugas/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2022/app-monitoramento-ninho-tartarugas/</guid>
       <description>&lt;p&gt;A primeira defesa de Trabalho de Conclusão de Curso de Análise e Desenvolvimento e Sistema aconteceu julho e nela foi apresentada um aplicativo desenvolvido pelo aluno Gabriel Lima para ser uma ferramenta de apoio para os servidores do  Nucleo de Sustentabilidade Urbana (NSU) da Prefeitura de Paulista no trabalho de preservação e monitoramento dos ninhos de tartarugas marinha no litoral da cidade.&lt;/p&gt;
 &lt;p&gt;Anteriormente, o foi apresentado na Semana do Meio Ambiente da cidade que aconteceu no dia 28 de junho.&lt;/p&gt;
 &lt;h2 id=&#34;semana-do-meio-ambiente-da-cidade-de-paulista&#34;&gt;Semana do Meio Ambiente da Cidade de Paulista&lt;/h2&gt;
@@ -1563,9 +1563,9 @@ diz o pai apontando para uma estrutura ao lado deles. O matemático pensa por al
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Semana do Meio Ambiente da Cidade de Paulista&#34; 
-               srcset=&#34;https://example.com/blog/2022/app-monitoramento-ninho-tartarugas/app2_hu_98a5651d5c3b6a60.webp 320w, https://example.com/blog/2022/app-monitoramento-ninho-tartarugas/app2_hu_6237e26b14e661aa.webp 480w, https://example.com/blog/2022/app-monitoramento-ninho-tartarugas/app2_hu_3dc60ef0a4051baa.webp 760w&#34;
+               srcset=&#34;https://rodrigoclira.github.io/blog/2022/app-monitoramento-ninho-tartarugas/app2_hu_98a5651d5c3b6a60.webp 320w, https://rodrigoclira.github.io/blog/2022/app-monitoramento-ninho-tartarugas/app2_hu_6237e26b14e661aa.webp 480w, https://rodrigoclira.github.io/blog/2022/app-monitoramento-ninho-tartarugas/app2_hu_3dc60ef0a4051baa.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://example.com/blog/2022/app-monitoramento-ninho-tartarugas/app2_hu_98a5651d5c3b6a60.webp&#34;
+               src=&#34;https://rodrigoclira.github.io/blog/2022/app-monitoramento-ninho-tartarugas/app2_hu_98a5651d5c3b6a60.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1591,9 +1591,9 @@ diz o pai apontando para uma estrutura ao lado deles. O matemático pensa por al
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Semana do Meio Ambiente da Cidade de Paulista&#34; 
-               srcset=&#34;https://example.com/blog/2022/app-monitoramento-ninho-tartarugas/app1_hu_18a50e42ff790314.webp 320w, https://example.com/blog/2022/app-monitoramento-ninho-tartarugas/app1_hu_5e96aecad69dcb47.webp 480w, https://example.com/blog/2022/app-monitoramento-ninho-tartarugas/app1_hu_747eb2a8f6d9375f.webp 760w&#34;
+               srcset=&#34;https://rodrigoclira.github.io/blog/2022/app-monitoramento-ninho-tartarugas/app1_hu_18a50e42ff790314.webp 320w, https://rodrigoclira.github.io/blog/2022/app-monitoramento-ninho-tartarugas/app1_hu_5e96aecad69dcb47.webp 480w, https://rodrigoclira.github.io/blog/2022/app-monitoramento-ninho-tartarugas/app1_hu_747eb2a8f6d9375f.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://example.com/blog/2022/app-monitoramento-ninho-tartarugas/app1_hu_18a50e42ff790314.webp&#34;
+               src=&#34;https://rodrigoclira.github.io/blog/2022/app-monitoramento-ninho-tartarugas/app1_hu_18a50e42ff790314.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1621,9 +1621,9 @@ diz o pai apontando para uma estrutura ao lado deles. O matemático pensa por al
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Defesa do TCC&#34; 
-               srcset=&#34;https://example.com/blog/2022/app-monitoramento-ninho-tartarugas/app3_hu_632debbcb5a00be4.webp 320w, https://example.com/blog/2022/app-monitoramento-ninho-tartarugas/app3_hu_9e2744d8b97d1d3.webp 480w, https://example.com/blog/2022/app-monitoramento-ninho-tartarugas/app3_hu_5a7163d67f548c5d.webp 760w&#34;
+               srcset=&#34;https://rodrigoclira.github.io/blog/2022/app-monitoramento-ninho-tartarugas/app3_hu_632debbcb5a00be4.webp 320w, https://rodrigoclira.github.io/blog/2022/app-monitoramento-ninho-tartarugas/app3_hu_9e2744d8b97d1d3.webp 480w, https://rodrigoclira.github.io/blog/2022/app-monitoramento-ninho-tartarugas/app3_hu_5a7163d67f548c5d.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://example.com/blog/2022/app-monitoramento-ninho-tartarugas/app3_hu_632debbcb5a00be4.webp&#34;
+               src=&#34;https://rodrigoclira.github.io/blog/2022/app-monitoramento-ninho-tartarugas/app3_hu_632debbcb5a00be4.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1634,9 +1634,9 @@ diz o pai apontando para uma estrutura ao lado deles. O matemático pensa por al
     
     <item>
       <title>Grey Wolf Optimizer in a nutshell</title>
-      <link>https://example.com/blog/2022/gwo-in-a-nutsshell/</link>
+      <link>https://rodrigoclira.github.io/blog/2022/gwo-in-a-nutsshell/</link>
       <pubDate>Sat, 04 Jun 2022 10:18:25 -0300</pubDate>
-      <guid>https://example.com/blog/2022/gwo-in-a-nutsshell/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2022/gwo-in-a-nutsshell/</guid>
       <description>&lt;p&gt;In nature, grey wolves live in a pack, and they organise themselves in a social hierarchy of four layers: alpha (α), beta (β), delta (δ) and omega (ω) as shown in Figure 1. The most dominant individual (leader) is the alpha, and it leads the pack. The second layer is the beta, it reinforces the commands of the alpha to the others, and it is an advisor of the alpha. Delta wolves are the scouts, sentinels, elders, hunters and caretakers. Delta wolves submit to alphas and betas, but they dominate the lowest level in the pack, the omegas. The grey wolves also hunt in a group. Hunting can be divided into three steps: (i) tracking, chasing and approaching the prey; (ii) pursuing encircling, and harassing the prey it stops moving; and (iii) attacking the prey.&lt;/p&gt;
 &lt;p&gt;
 
@@ -1658,9 +1658,9 @@ diz o pai apontando para uma estrutura ao lado deles. O matemático pensa por al
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;GWO social hierarchy&#34; 
-               srcset=&#34;https://example.com/blog/2022/gwo-in-a-nutsshell/gwo-social2_hu_447bde16171c2597.webp 320w, https://example.com/blog/2022/gwo-in-a-nutsshell/gwo-social2_hu_41feab7a83a17278.webp 480w, https://example.com/blog/2022/gwo-in-a-nutsshell/gwo-social2_hu_e690a172bdb3a832.webp 760w&#34;
+               srcset=&#34;https://rodrigoclira.github.io/blog/2022/gwo-in-a-nutsshell/gwo-social2_hu_447bde16171c2597.webp 320w, https://rodrigoclira.github.io/blog/2022/gwo-in-a-nutsshell/gwo-social2_hu_41feab7a83a17278.webp 480w, https://rodrigoclira.github.io/blog/2022/gwo-in-a-nutsshell/gwo-social2_hu_e690a172bdb3a832.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://example.com/blog/2022/gwo-in-a-nutsshell/gwo-social2_hu_447bde16171c2597.webp&#34;
+               src=&#34;https://rodrigoclira.github.io/blog/2022/gwo-in-a-nutsshell/gwo-social2_hu_447bde16171c2597.webp&#34;
                width=&#34;760&#34;
                height=&#34;582&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1742,9 +1742,9 @@ $$
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;GWO Pseudo Code&#34; 
-               srcset=&#34;https://example.com/blog/2022/gwo-in-a-nutsshell/gwo-pseudo_hu_1cd422bb5699fe4c.webp 320w, https://example.com/blog/2022/gwo-in-a-nutsshell/gwo-pseudo_hu_92cc1ede0eb47f0b.webp 480w, https://example.com/blog/2022/gwo-in-a-nutsshell/gwo-pseudo_hu_1f55d97fd5b3a468.webp 760w&#34;
+               srcset=&#34;https://rodrigoclira.github.io/blog/2022/gwo-in-a-nutsshell/gwo-pseudo_hu_1cd422bb5699fe4c.webp 320w, https://rodrigoclira.github.io/blog/2022/gwo-in-a-nutsshell/gwo-pseudo_hu_92cc1ede0eb47f0b.webp 480w, https://rodrigoclira.github.io/blog/2022/gwo-in-a-nutsshell/gwo-pseudo_hu_1f55d97fd5b3a468.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://example.com/blog/2022/gwo-in-a-nutsshell/gwo-pseudo_hu_1cd422bb5699fe4c.webp&#34;
+               src=&#34;https://rodrigoclira.github.io/blog/2022/gwo-in-a-nutsshell/gwo-pseudo_hu_1cd422bb5699fe4c.webp&#34;
                width=&#34;760&#34;
                height=&#34;500&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1772,9 +1772,9 @@ $$
     
     <item>
       <title>Atualizando o SQLITE no Amazon Linux 2</title>
-      <link>https://example.com/blog/2022/updating-sqlite-amazon-linux-2/</link>
+      <link>https://rodrigoclira.github.io/blog/2022/updating-sqlite-amazon-linux-2/</link>
       <pubDate>Fri, 18 Mar 2022 23:18:25 -0300</pubDate>
-      <guid>https://example.com/blog/2022/updating-sqlite-amazon-linux-2/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2022/updating-sqlite-amazon-linux-2/</guid>
       <description>&lt;p&gt;O Django 3.x não suporta a versão do sqlite instalada no Amazon Linux 2. Para atualizar, baixe o pacote atualizado fedora e instale-o na sua EC2. Depois disso será possível usar projetos com sqlite.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wget https://kojipkgs.fedoraproject.org//packages/sqlite/3.9.0/1.fc21/x86_64/sqlite-3.9.0-1.fc21.x86_64.rpm
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo yum install sqlite-3.9.0-1.fc21.x86_64.rpm -y
@@ -1783,9 +1783,9 @@ $$
     
     <item>
       <title>Cinco projetos do IFPE são aprovados no edital Oficinas 4.0 da Setec</title>
-      <link>https://example.com/blog/2021/oficina40/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/oficina40/</link>
       <pubDate>Wed, 22 Dec 2021 23:57:14 -0300</pubDate>
-      <guid>https://example.com/blog/2021/oficina40/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/oficina40/</guid>
       <description>&lt;p&gt;A Secretaria de Educação Profissional e Tecnológica (Setec) do Ministério da Educação, com o apoio técnico-operacional do Instituto Federal do Espírito Santo, divulgou o resultado final referente ao Edital nº 67/2021, destinado à seleção de projetos voltados à implementação das Oﬁcinas 4.0.&lt;/p&gt;
 &lt;p&gt;O Programa Oficina 4.0 tem o objetivo de promover a imersão de estudantes da Rede Federal em atividades de formação e pesquisa aplicada, com foco no desenvolvimento de habilidades e competências relacionadas ao uso das tecnologias digitais, ao empreendedorismo e à inovação, demandadas pela Economia 4.0.&lt;/p&gt;
 &lt;p&gt;O IFPE, por meio da Pró-Reitoria de Pesquisa, Pós-Graduação e Inovação (Propesq) e dos diretores de pesquisa, pós-graduação e inovação dos campi, articularam a submissão de diversos projetos para o edital nacional, no qual foram aprovados os projetos coordenados por:&lt;/p&gt;
@@ -1841,9 +1841,9 @@ $$
     
     <item>
       <title>Apresentação do projeto &#39;Capacitação tecnológica em .NET do IFPE/SIDI&#39; no Seminário de Integração e Avaliação do Programa de Extensão Tecnológica</title>
-      <link>https://example.com/blog/2021/pet-facepe-encerramento-2021/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/pet-facepe-encerramento-2021/</link>
       <pubDate>Wed, 15 Dec 2021 23:18:25 -0300</pubDate>
-      <guid>https://example.com/blog/2021/pet-facepe-encerramento-2021/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/pet-facepe-encerramento-2021/</guid>
       <description>&lt;p&gt;Vídeo apresentado no Seminário de Integração e Avaliação Final do Programa de Extensão Tecnológica (PET) da FACEPE/SECTI.&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/LwEwKuJse1M?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -1856,9 +1856,9 @@ $$
     
     <item>
       <title>Apresentação de projeto na Câmara Municipal de Brumadinho</title>
-      <link>https://example.com/blog/2021/apresentacao-brumadinho/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/apresentacao-brumadinho/</link>
       <pubDate>Tue, 07 Dec 2021 23:57:14 -0300</pubDate>
-      <guid>https://example.com/blog/2021/apresentacao-brumadinho/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/apresentacao-brumadinho/</guid>
       <description>&lt;p&gt;No dia 7 de dezembro estive na sala de reunião da Câmara Municipal de Brumadinho (MG) apresentando um projeto Sistema de Monitoramento da Qualdidade da Água de um Rio desenvolvido na Chamada Pública Mover-se na Web: Desafio Pró-Brumadinho do NIC.BR. Além dos representantes do NIC.br, estiveram presentes representantes da sociedade civil, câmara municipal e governo estadual/federal.&lt;/p&gt;
 &lt;p&gt;O projeto teve apoio da FADE-UFPE e foi desenvolvido pelos alunos do curso de ADS, Gabriel Lima e Gaston Gouveia do IFPE &lt;em&gt;Campus&lt;/em&gt; Paulista .&lt;/p&gt;
 &lt;p&gt;Álbum com fotos: 
@@ -1869,34 +1869,34 @@ $$
     
     <item>
       <title>Acordo de Cooperação Técnica entre o IFPE Paulista e o Softex Recife</title>
-      <link>https://example.com/blog/2021/act-softex-recife/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/act-softex-recife/</link>
       <pubDate>Mon, 15 Nov 2021 23:18:25 -0300</pubDate>
-      <guid>https://example.com/blog/2021/act-softex-recife/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/act-softex-recife/</guid>
       <description>&lt;p&gt;O IFPE Campus Paulista por meio do professor Rodrigo Lira celebrou um acordo de cooperação técnica com o Centro de Excelência em Tecnologia de Software do Recife - Softex Recife. Através desse acoordo as partes irão constituit uma parceria para o desenvolvimento de uma aplicação para gerenciamento / monitoramenoto / previsão de dados obtidos pelas estações de metorologia modular. Através desse acordo também será possível que o IFPE Campus Paulista utilize as dependências do Softex Recife no Porto Digital.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Overview on Binary Optimisation using Swarm-inspired Algorithms</title>
-      <link>https://example.com/publications/journal/ieeeaccess-2021/</link>
+      <link>https://rodrigoclira.github.io/publications/journal/ieeeaccess-2021/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/journal/ieeeaccess-2021/</guid>
+      <guid>https://rodrigoclira.github.io/publications/journal/ieeeaccess-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling the Social Interactions in Grey Wolf Optimizer</title>
-      <link>https://example.com/publications/conference/2021/lacci2021/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2021/lacci2021/</link>
       <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2021/lacci2021/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2021/lacci2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Huawei HCIA-AI e a AWS Solutions Architect</title>
-      <link>https://example.com/blog/2021/certificacoes-agosto/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/certificacoes-agosto/</link>
       <pubDate>Mon, 18 Oct 2021 23:00:14 -0300</pubDate>
-      <guid>https://example.com/blog/2021/certificacoes-agosto/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/certificacoes-agosto/</guid>
       <description>&lt;p&gt;No mês de agosto foi o momento de retirar duas certificações importantes. A primeira foi o 
  que valida os conhecimentos em IA e a utilização dos serviços e produtos da Hauwei nessa área. A seguda certificação foi 
  que valida o conhecimento na criação de projetos de sistemas distribuídos usando os serviços da AWS.&lt;/p&gt;
@@ -1906,9 +1906,9 @@ $$
     
     <item>
       <title>Publicação no Latin America Conference on Computational Intelligence (LA-CCI 2021)</title>
-      <link>https://example.com/blog/2021/lacci2021/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/lacci2021/</link>
       <pubDate>Sun, 26 Sep 2021 23:57:14 -0300</pubDate>
-      <guid>https://example.com/blog/2021/lacci2021/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/lacci2021/</guid>
       <description>&lt;p&gt;O artigo &amp;ldquo;Modelling the Social Interactions in Grey Wolf Optimizer&amp;rdquo; foi aceito no 
 .&lt;/p&gt;
 &lt;p&gt;Autores: &lt;strong&gt;Rodrigo C. Lira&lt;/strong&gt;, Mariana Macedo, Hugo Valadares Siqueira. Ronaldo Menezes, Carmelo Bastos-Filho&lt;/p&gt;
@@ -1919,9 +1919,9 @@ $$
     
     <item>
       <title>IFPE promove curso de informática básica para povos do campo e territórios quilombolas</title>
-      <link>https://example.com/blog/2021/curso-inf-basica/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/curso-inf-basica/</link>
       <pubDate>Fri, 24 Sep 2021 03:57:14 -0300</pubDate>
-      <guid>https://example.com/blog/2021/curso-inf-basica/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/curso-inf-basica/</guid>
       <description>&lt;p&gt;O Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE) deu início às aulas do curso de extensão de informática básica para os povos do campo e territórios quilombolas. De acordo com o Instituto, as 45 vagas ofertadas nessa primeira turma foram distribuídas entre o Movimento dos Trabalhadores Rurais Sem Terra (MST), Federação dos Trabalhadores Rurais Agricultores e Agricultoras Familiares do Estado de Pernambuco (FETAPE), Movimento Camponês Popular (MCP), Comissão Estadual dos Quilombolas de Pernambuco e Associação Agroecológica do Pajeú (ASAP).&lt;/p&gt;
 &lt;p&gt;O curso, que começou no último dia 17, se estenderá até o dia três de dezembro, sendo realizado através de aulas on-line. Com encontros uma vez por semana, a iniciativa é dividida em três módulos: Uso de Smartphone e de Internet, com o professor Allan Diego, do IFPE Campus Igarassu; Uso de Computadores, com o docente João Samarone Lima, do Campus Belo Jardim; e por último, Ferramentas On-line (Estado e Governo Federal), que será ministrado pelo docente &lt;strong&gt;Rodrigo César&lt;/strong&gt;, do Campus Paulista.&lt;/p&gt;
 &lt;p&gt;Um dos estudantes é o agricultor e agente de saúde Mário dos Santos Júnior, 38 anos, integrante do Quilombo Estivas, localizado na região rural do município de Garanhuns (PE).&lt;/p&gt;
@@ -1933,9 +1933,9 @@ $$
     
     <item>
       <title>Capacitação tecnológica em .NET do IFPE/SIDI</title>
-      <link>https://example.com/blog/2021/pet-facepe-2021/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/pet-facepe-2021/</link>
       <pubDate>Thu, 02 Sep 2021 23:18:25 -0300</pubDate>
-      <guid>https://example.com/blog/2021/pet-facepe-2021/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/pet-facepe-2021/</guid>
       <description>&lt;p&gt;No último dia 30 de agosto a FACEPE divulgou o resultado do Edital 12/2021 do Programa de Extensão Tecnológica. O Campus Paulista teve projeto aprovado, por meio do professor Rodrigo Lira. O projeto intitulado “Capacitação Tecnológica em .Net do IFPE/SIDI” será desenvolvido em parceria com a Samsung Instituto de Desenvolvimento para Informática. O projeto selecionará estudantes de graduação na área de TI do IFPE (50 vagas) para participarem de curso de extensão intitulado “Curso introdutório da plataforma .Net”. Deste curso serão selecionados 10 estudantes, com os melhores desempenhos, para a etapa seguinte, ao qual participarão da atividade de extensão, junto a empresa parceira, durante 3 meses. Os 10 alunos selecionados receberão bolsa neste período.&lt;/p&gt;
 &lt;h2 id=&#34;introdução-da-proposta&#34;&gt;Introdução da proposta&lt;/h2&gt;
 &lt;p&gt;Movido pela necessidade humana de se transformar e evoluir, o setor de TIC vive em transformação. Uma pesquisa revelou que esse setor manteve um crescimento constante nos últimos 10 anos [1] e mesmo com todas as incertezas trazidas pela pandemia, ele seguiu crescendo em contratações e faturamento. Especificamente no ano de 2020 houve um aumento de 310% de vagas apenas para a área em comparação com o ano anterior [2].&lt;/p&gt;
@@ -1949,17 +1949,17 @@ $$
     
     <item>
       <title>Analysis of Distinct Feature Groups in the Credit Scoring Problem</title>
-      <link>https://example.com/publications/journal/jidm-2021/</link>
+      <link>https://rodrigoclira.github.io/publications/journal/jidm-2021/</link>
       <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/journal/jidm-2021/</guid>
+      <guid>https://rodrigoclira.github.io/publications/journal/jidm-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Git Cheat Sheet</title>
-      <link>https://example.com/blog/2021/git-cheat-sheet/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/git-cheat-sheet/</link>
       <pubDate>Thu, 15 Jul 2021 23:57:14 -0300</pubDate>
-      <guid>https://example.com/blog/2021/git-cheat-sheet/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/git-cheat-sheet/</guid>
       <description>&lt;p&gt;Git é o sistema de controle de versão distribuído gratuito e de código aberto responsável por tudo o que o 
  relacionado que acontece localmente no seu computador. Esta folha de dicas apresenta os mais importantes e comumente usados comandos para fácil referência.&lt;/p&gt;
 &lt;h2 id=&#34;instalação-e-gui&#34;&gt;Instalação e GUI&lt;/h2&gt;
@@ -2023,9 +2023,9 @@ $$
     
     <item>
       <title>Publicação no Journal of Information and Data Management (JIDM 2021)</title>
-      <link>https://example.com/blog/2021/jidm2021/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/jidm2021/</link>
       <pubDate>Wed, 26 May 2021 23:57:14 -0300</pubDate>
-      <guid>https://example.com/blog/2021/jidm2021/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/jidm2021/</guid>
       <description>&lt;p&gt;O artigo &amp;ldquo;Analysis of Distinct Feature Groups in the Credit Scoring
 Problem&amp;rdquo; foi aceito no 
 . O artigo é uma extensão do publicado no 
@@ -2038,9 +2038,9 @@ Problem&amp;rdquo; foi aceito no
     
     <item>
       <title>Como manter o processo mesmo após sair da sessão</title>
-      <link>https://example.com/blog/2021/cmd-screen/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/cmd-screen/</link>
       <pubDate>Wed, 05 May 2021 23:57:14 -0300</pubDate>
-      <guid>https://example.com/blog/2021/cmd-screen/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/cmd-screen/</guid>
       <description>&lt;p&gt;Para manter a execução de um comando mesmo após sair da sessão pode-se utilizar o comando screen. Os passos são os seguintes:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -2058,17 +2058,17 @@ Problem&amp;rdquo; foi aceito no
     
     <item>
       <title>Fishing for Interactions: A Network Science Approach to Modeling Fish School Search</title>
-      <link>https://example.com/publications/conference/2021/gecco2021/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2021/gecco2021/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2021/gecco2021/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2021/gecco2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publicação no Computer on the Beach (COTB 2020)</title>
-      <link>https://example.com/blog/2021/cotb2021/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/cotb2021/</link>
       <pubDate>Fri, 05 Mar 2021 23:57:14 -0300</pubDate>
-      <guid>https://example.com/blog/2021/cotb2021/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/cotb2021/</guid>
       <description>&lt;p&gt;O artigo &amp;ldquo;Construção de um Jogo Usando Robótica para a Formação deHabilidades de Programação em Crianças&amp;rdquo; foi aceito no 
 . O trabalho foi fruto de projeto aprovado no Programa Institucional para Concessão de Bolsas de Extensão (PIBEX), com a participação dos seguintes autores:&lt;/p&gt;
 &lt;p&gt;William Teles de AndradeJunio, Gaston Alexandre Gouveia, Gabriel Lima Gonçalves da Silva, Julia Yasmim de Castro Silva e &lt;strong&gt;Rodrigo Cesar Lira da Silva&lt;/strong&gt;&lt;/p&gt;
@@ -2079,17 +2079,17 @@ Problem&amp;rdquo; foi aceito no
     
     <item>
       <title>Construção de um Jogo Usando Robótica para a Formação de Habilidades de Programação em Crianças</title>
-      <link>https://example.com/publications/conference/2021/cotb2021/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2021/cotb2021/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2021/cotb2021/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2021/cotb2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extensão | Um jogo para divulgação do IFPE Campus Paulista</title>
-      <link>https://example.com/projects/jogo-ifpe/</link>
+      <link>https://rodrigoclira.github.io/projects/jogo-ifpe/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/jogo-ifpe/</guid>
+      <guid>https://rodrigoclira.github.io/projects/jogo-ifpe/</guid>
       <description>&lt;p&gt;O IFPE Campus Paulista está recebendo no segundo semestre de 2020 a sua sede definitiva. Ao todo são seis blocos com dezenas de salas e ambientes para os alunos e servidores. Novos ambientes para estudos e espaços físicos que antes não existiam na sede provisória serão liberados. Evidentemente que a ocupação e sinalização desse espaço precisará de um esforço da administração. Devido a essa situação, esse projeto de extensão tem como objetivo criar um jogo no qual o estudante possa conhecer o novo campus de forma virtual, ainda no jogo serão destinados missões com o intuito de apresentar os principais setores do campus (Divisão de Pesquisa e Extensão, CRADT, Coordenações…) e também os artigos da organização acadêmica. Dessa forma espera-se que os novos alunos possam utilizar esse recurso para conseguir entender e conhecer o funcionamento do campus e do IFPE e ele torne-se uma ferramenta de promoção do IFPE Campus Paulista para a sociedade.&lt;/p&gt;
 &lt;p&gt;Participantes do projeto:&lt;/p&gt;
 &lt;ul&gt;
@@ -2115,9 +2115,9 @@ Clique na tela abaixo e aperte &#34;Enter&#34;. Controle o jogador nas setas e i
     
     <item>
       <title>Accredited Educator da AWS Academy</title>
-      <link>https://example.com/blog/2021/cloud-practitioner/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/cloud-practitioner/</link>
       <pubDate>Mon, 18 Jan 2021 23:57:14 -0300</pubDate>
-      <guid>https://example.com/blog/2021/cloud-practitioner/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/cloud-practitioner/</guid>
       <description>&lt;p&gt;No início de janeiro eu fui aprovado na certificação da AWS chamada 
 . Isso me garantiu o título de &lt;em&gt;Accredited Educator&lt;/em&gt;, um credenciamento que a AWS dá aos docentes que forem aprovados no seu programa de treinamento. Dessa forma agora eu estou apto a lecionar o conteúdo da AWS Academy.&lt;/p&gt;
 &lt;p&gt;A Amazon Web Services (AWS) é um dos 
@@ -2155,17 +2155,17 @@ Clique na tela abaixo e aperte &#34;Enter&#34;. Controle o jogador nas setas e i
     
     <item>
       <title>Impact of Unusual Features in Credit Scoring Problem</title>
-      <link>https://example.com/publications/conference/2020/kdmile2020/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2020/kdmile2020/</link>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2020/kdmile2020/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2020/kdmile2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publicação no Symposium on Knowledge Discovery, Mining and Learning (KDMiLe 2020)</title>
-      <link>https://example.com/blog/2020/kdmile2020/</link>
+      <link>https://rodrigoclira.github.io/blog/2020/kdmile2020/</link>
       <pubDate>Thu, 24 Sep 2020 23:57:14 -0300</pubDate>
-      <guid>https://example.com/blog/2020/kdmile2020/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2020/kdmile2020/</guid>
       <description>&lt;p&gt;O artigo &amp;ldquo;Impact of Unusual Features in Credit Scoring Problem&amp;rdquo; foi aceito no 
 . O trabalho foi fruto do projeto da disciplina de Mineração de Dados do PPGEC/Ecomp. Mais informações sobre o artigo:&lt;/p&gt;
 &lt;p&gt;Autores: L. F. Vercosa, &lt;strong&gt;R. Lira&lt;/strong&gt;, R. Monteiro, K. Silva, J. Magalhaes, A. Maciel, B. Leite, C. Bastos-Filho&lt;/p&gt;
@@ -2176,9 +2176,9 @@ Clique na tela abaixo e aperte &#34;Enter&#34;. Controle o jogador nas setas e i
     
     <item>
       <title>O elefante de Von Neumann</title>
-      <link>https://example.com/blog/2020/elefante-von-neumann/</link>
+      <link>https://rodrigoclira.github.io/blog/2020/elefante-von-neumann/</link>
       <pubDate>Sun, 28 Jun 2020 17:32:05 -0300</pubDate>
-      <guid>https://example.com/blog/2020/elefante-von-neumann/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2020/elefante-von-neumann/</guid>
       <description>&lt;p&gt;Acho que ouvi uma menção a essa história pela primeira vez quando estava lendo o 
 , mas também pode ter sido em alguma aula do doutorado. Pesquisei um pouco e achei poucas informações sobre ela. Apesar de ter acontecido na década de 50, o conteúdo me parece muito atual.&lt;/p&gt;
 &lt;p&gt;Em um 
@@ -2298,9 +2298,9 @@ Clique na tela abaixo e aperte &#34;Enter&#34;. Controle o jogador nas setas e i
     
     <item>
       <title>Handbook of AI-based Metaheuristics: Chapter 2 - Fish School Search: Account for the First Decade</title>
-      <link>https://example.com/publications/book/chapter-fss/</link>
+      <link>https://rodrigoclira.github.io/publications/book/chapter-fss/</link>
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/book/chapter-fss/</guid>
+      <guid>https://rodrigoclira.github.io/publications/book/chapter-fss/</guid>
       <description>&lt;p&gt;#&amp;gt; [!NOTE]
 #&amp;gt; Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
 &lt;p&gt;#&amp;gt; [!NOTE]
@@ -2312,9 +2312,9 @@ Clique na tela abaixo e aperte &#34;Enter&#34;. Controle o jogador nas setas e i
     
     <item>
       <title>Políticas Adaptativas para um Algoritmo de Roteamento em Redes Ópticas</title>
-      <link>https://example.com/publications/book/book-2016/</link>
+      <link>https://rodrigoclira.github.io/publications/book/book-2016/</link>
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/book/book-2016/</guid>
+      <guid>https://rodrigoclira.github.io/publications/book/book-2016/</guid>
       <description>&lt;p&gt;#&amp;gt; [!NOTE]
 #&amp;gt; Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
 &lt;p&gt;#&amp;gt; [!NOTE]
@@ -2326,9 +2326,9 @@ Clique na tela abaixo e aperte &#34;Enter&#34;. Controle o jogador nas setas e i
     
     <item>
       <title>Usando o Netlogo para simular a transmissão do coronavírus</title>
-      <link>https://example.com/blog/2020/usando-netlogo-para-simular-transmissao-covid19/</link>
+      <link>https://rodrigoclira.github.io/blog/2020/usando-netlogo-para-simular-transmissao-covid19/</link>
       <pubDate>Mon, 08 Jun 2020 15:14:19 -0300</pubDate>
-      <guid>https://example.com/blog/2020/usando-netlogo-para-simular-transmissao-covid19/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2020/usando-netlogo-para-simular-transmissao-covid19/</guid>
       <description>&lt;p&gt;E se tentássemos simular o comportamento do vírus utilizando um sistema multiagentes? Essa pergunta passou pela minha cabeça em uma das noites de quarentena. Foi por isso que eu resolvi utilizar o 
 , um ambiente de simulação que permite o desenvolvimento de modelos multiagentes, para simular a transmissão do novo coronavírus e mostrar como as ações recomendadas pela Organização Mundial de Saúde (OMS) são importantes para diminuir o contágio dele.&lt;/p&gt;
 &lt;p&gt;Antes de continuarmos, é importante deixar claro que a simulação não tem pretensões de prever o quantitativo de óbitos que serão causadas pela doença . O objetivo principal é demonstrar o comportamento do vírus e seus efeitos em diferentes cenários num mundo restrito composto inicialmente por 700 agentes . Ressalta-se que certas informações não foram levadas em consideração no experimento, como a sobrecarga de unidades de saúde, comorbidades ou idade dos infectados, fatores que podem agravar o combate à doença.&lt;/p&gt;
@@ -2532,17 +2532,17 @@ Clique na tela abaixo e aperte &#34;Enter&#34;. Controle o jogador nas setas e i
     
     <item>
       <title>An adaptive-alternative routing algorithm for all-optical networks</title>
-      <link>https://example.com/publications/conference/2011/imoc-11a/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2011/imoc-11a/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2011/imoc-11a/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2011/imoc-11a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Desenvolvimento de uma placa PCB para fins educacionais</title>
-      <link>https://example.com/blog/2020/projeto-easyeda/</link>
+      <link>https://rodrigoclira.github.io/blog/2020/projeto-easyeda/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/2020/projeto-easyeda/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2020/projeto-easyeda/</guid>
       <description>&lt;h2 id=&#34;motivação&#34;&gt;Motivação&lt;/h2&gt;
 &lt;p&gt;Desde 2018.2 ensino a disciplina de Prática Profissional Supervisionada no curso técnico de Manutenção e Suporte em Informática do IFPE Campus Paulista. Venho implementando, cada semestre com maior intensidade, a realização de atividades práticas que possam sejam úteis na formação dos alunos desse curso. Pela característica do curso, as atividades ficam muito relacionadas as áreas de redes de computadores, manutenção de computadores e eletrônica.&lt;/p&gt;
 &lt;p&gt;Uma atividade que sempre faço questão de realizar é a de remoção e soldagem de componentes eletrônicos. Já utilizei num passado a placa 
@@ -2653,9 +2653,9 @@ Clique na tela abaixo e aperte &#34;Enter&#34;. Controle o jogador nas setas e i
     
     <item>
       <title>Hello World!</title>
-      <link>https://example.com/blog/2020/novo-site/</link>
+      <link>https://rodrigoclira.github.io/blog/2020/novo-site/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/2020/novo-site/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2020/novo-site/</guid>
       <description>&lt;h2 id=&#34;motivação&#34;&gt;Motivação&lt;/h2&gt;
 &lt;p&gt;Resolvi tirar o meu site do Google Sites e colocá-lo no Github.io. Tive essa ideia de migrar o site há alguns dias quando eu vi uma dicussão que aconteceu em resposta ao tweet do 
 . Conhecer o site da 
@@ -2720,26 +2720,26 @@ Clique na tela abaixo e aperte &#34;Enter&#34;. Controle o jogador nas setas e i
     
     <item>
       <title>Inteligência de enxames com aprendizado de máquina por reforço para resolução de problemas de otimização</title>
-      <link>https://example.com/projects/rl-mh/</link>
+      <link>https://rodrigoclira.github.io/projects/rl-mh/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/rl-mh/</guid>
+      <guid>https://rodrigoclira.github.io/projects/rl-mh/</guid>
       <description>&lt;p&gt;Inteligência de enxames é uma subárea de computação inteligente que compreende abordagens que se inspiram no comportamento inteligente emergente da interação entre seres vivos para resolução de problemas complexos. Ao longo das últimas três décadas, muitas foram as propostas que surgiram na área, as quais são baseadas nas mais diversas metáforas. Uma característica em comum a essas propostas é que os agentes costumam seguir em todo o processo de resolução do problema a inspiração utilizada na sua concepção. Sabendo-se que existem diversos problemas de otimização e que mesmo em um único problema existem fases que precisam de diferentes comportamentos, seguir um conjunto de operadores bem definido por um algoritmo é um fator limitante. Por esse motivo, este projeto visa desenvolver uma meta-heurística adaptativa para resolução de problemas de otimização que consiga se auto-organizar no exame (ou sub-enxames) mais promissor de acordo com informações obtidas &lt;em&gt;on-line&lt;/em&gt; na execução.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Desenvolvimento de um Jogo Utilizando Robótica para o Estímulo do Pensamento Computacional</title>
-      <link>https://example.com/publications/conference/2019/ctrle2019/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2019/ctrle2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2019/ctrle2019/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2019/ctrle2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extensão | Desenvolvimento de um Jogo para o Estímulo do Pensamento Computacional</title>
-      <link>https://example.com/projects/pensamento-computacional/</link>
+      <link>https://rodrigoclira.github.io/projects/pensamento-computacional/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/pensamento-computacional/</guid>
+      <guid>https://rodrigoclira.github.io/projects/pensamento-computacional/</guid>
       <description>&lt;p&gt;A humanidade vive numa sociedade conectada onde cada vez mais conhecimento sobre tecnologia são necessários. Iniciativas como o code.org apresentam como o conhecimento em programação são necessários para as futuras gerações. Por isso, cada dia mais o termo “Pensamento Computacional” está sendo difundido entre professores e pesquisadores.&lt;/p&gt;
 &lt;p&gt;De acordo com Wing [1], o pensamento computacional amplia competências que desenvolvem e aprimoram nos alunos novas habilidades tais como: i) Pensar de forma abstrata em vários níveis e encontrar uma solução; ii) Desenvolver um produto, indo além do programa, pois é necessário pensar em diferentes níveis de abstração, permitindo o uso consciente das técnicas de programação; iii) Resolver ou desenvolver problemas com ou sem o computador; iv) Pensar ao invés de deixar que os problemas sejam resolvidos pelo computador; v) Correlacionar a área computacional com a matemática e as engenharias. Ele é uma habilidade fundamental para todos, não somente para cientistas da computação. Por esse motivo, nos últimos anos, vários países, incluindo EUA e Reino Unido [2][3], incentivaram a adição da adição desses conceitos no currículo escolar para ajudar a criar uma nova geração de ‘Mark Zuckerbegs’. Nesse sentido, a Sociedade Brasileira de Computação (SBC) apresentou, para ser incluída na Base Nacional Comum Curricular  (BNCC), proposta que se baseou em destacar a importância desse conhecimento para os estudantes serem capazes de solucionar desafios cotidianos [4].&lt;/p&gt;
 &lt;p&gt;Este projeto tem como objetivo o desenvolvimento de um jogo utilizando robótica educacional para estímulo do pensamento computacional. Nele, os jogadores precisaram utilizar conceitos de lógica de programação para poder controlar a movimentação de um robô em um mapa  que será o tabuleiro do jogo. O tabuleiro poderá ser utilizado de diversas formas, por exemplo, pode ser apresentado perguntas aos jogadores como: “Qual é a quinta letra do alfabeto?”, “Qual a capital do estado de Pernambuco?” e o jogador teria que responder com os comandos - direita, frente, esquerda e abaixo - necessária para que o robô chegue até a resposta. Uma outra forma de usá-lo é fazendo com que o robô se movimente por um percurso e desvie de obstáculos pré-definidos pelos jogadores.&lt;/p&gt;
@@ -2837,9 +2837,9 @@ Marz 2006. Vol. 49, no 3. p. 33-35&lt;/p&gt;
     
     <item>
       <title>Sistema de Monitoramento em Tempo Real de Qualidade de Água de um Rio</title>
-      <link>https://example.com/projects/sistema-monitoramento/</link>
+      <link>https://rodrigoclira.github.io/projects/sistema-monitoramento/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/sistema-monitoramento/</guid>
+      <guid>https://rodrigoclira.github.io/projects/sistema-monitoramento/</guid>
       <description>&lt;p&gt;A água é essencial para a vida e por isso deve-se criar formas de monitorar as principais fontes desse recurso. Tragédias recentes, como os rompimentos das barragens em Brumadinho e Mariana fizeram com que rejeitos de minérios alcançassem rios e contaminasse a principal fonte de captação de água das cidades dessas regiões.&lt;/p&gt;
 &lt;p&gt;Sabe-se que é possível medir a qualidade da água através de diversos parâmetros. O valor dos sólidos dissolvidos totais (do inglês Total Dissolved Solids - TDS) representa a concentração total de substâncias dissolvidas na água. O TDS é composto por sais inorgânicos, além de uma pequena quantidade de matéria orgânica (SDWF, 2020). Por sua vez, a turbidez é um parâmetro físico relacionado à água. Ela é considerada um dos principais parâmetros para a determinação de sua qualidade, principalmente àquelas destinadas ao consumo humano, e está relacionada à capacidade ótica de absorção e reflexão da luz, e não depende tão somente da concentração dos sedimentos em suspensão, mas também de aspectos como tamanho, composição mineral, cor e quantidade de matéria orgânica (LIBÂNIO, 2010).
 Os dois parâmetros citados anteriormente podem ser medidos através de sensores que estejam instalados na bacia, nascente de um rio ou até mesmo estações de tratamento de água (ETA) para que as ações de preservação e as precauções necessárias para quem utiliza aquela água sejam tomadas. Uma rede de sensores espalhados numa bacia hidrográfica ou numa ETA pode ser fundamental para uma rápida tomada de decisão, além de evitar gastos com coletas manuais.&lt;/p&gt;
@@ -2886,188 +2886,188 @@ Os dois parâmetros citados anteriormente podem ser medidos através de sensores
     
     <item>
       <title>Clube de Xadrez do IFPE Palmares</title>
-      <link>https://example.com/blog/2021/clube-xadrez/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/clube-xadrez/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/2021/clube-xadrez/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/clube-xadrez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An adaptive–alternative restoration algorithm for optical networks</title>
-      <link>https://example.com/publications/journal/pnc-2018/</link>
+      <link>https://rodrigoclira.github.io/publications/journal/pnc-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/journal/pnc-2018/</guid>
+      <guid>https://rodrigoclira.github.io/publications/journal/pnc-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RELATO DO USO DO SUPERLOGO E DO SCRATCH EM UMA DISCIPLINA DE INTRODUÇÃO A INFORMÁTICA</title>
-      <link>https://example.com/publications/conference/2018/connepi2018/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2018/connepi2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2018/connepi2018/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2018/connepi2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Um Panorama dos Sistemas Operacionais Livres para Ambiente Um Panorama dos Sistemas Operacionais Livres para Ambiente Educacionais com Suporte a Língua Portuguesa</title>
-      <link>https://example.com/publications/journal/sinforme-2016/</link>
+      <link>https://rodrigoclira.github.io/publications/journal/sinforme-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/journal/sinforme-2016/</guid>
+      <guid>https://rodrigoclira.github.io/publications/journal/sinforme-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Um algoritmo adaptativo alternativo para restauração em redes ópticas transparentes</title>
-      <link>https://example.com/publications/thesis/msc2014/</link>
+      <link>https://rodrigoclira.github.io/publications/thesis/msc2014/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/thesis/msc2014/</guid>
+      <guid>https://rodrigoclira.github.io/publications/thesis/msc2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Um Algoritmo Adaptativo-Alternativo para Restauração em Redes Ópticas</title>
-      <link>https://example.com/publications/conference/2014/momag2014/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2014/momag2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2014/momag2014/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2014/momag2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>POLÍTICAS BASEADAS NA OSNR PARA UM ALGORITMO DE ROTEAMENTO ADAPTATIVO-ALTERNATIVO APLICADO A REDES ÓPTICAS TRANSPARENTES</title>
-      <link>https://example.com/publications/thesis/bsc2013/</link>
+      <link>https://rodrigoclira.github.io/publications/thesis/bsc2013/</link>
       <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/thesis/bsc2013/</guid>
+      <guid>https://rodrigoclira.github.io/publications/thesis/bsc2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An adaptive path restoration algorithm based on power series routing for all-optical networks</title>
-      <link>https://example.com/publications/conference/2013/icton2013/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2013/icton2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2013/icton2013/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2013/icton2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparing OSNR based policies for an adaptive-alternative IA-RWA algorithm applied to all-optical networks</title>
-      <link>https://example.com/publications/journal/jmoe-2013/</link>
+      <link>https://rodrigoclira.github.io/publications/journal/jmoe-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/journal/jmoe-2013/</guid>
+      <guid>https://rodrigoclira.github.io/publications/journal/jmoe-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The NrPSR-Elastic routing algorithm for flexible grid optical networks</title>
-      <link>https://example.com/publications/conference/2013/imoc-2013/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2013/imoc-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2013/imoc-2013/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2013/imoc-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Performance Analysis of Different Link to Path Restoration Schemes for All-Optical Networks</title>
-      <link>https://example.com/publications/conference/2012/sbrt2012/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2012/sbrt2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2012/sbrt2012/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2012/sbrt2012/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>OSNR based Adaptive-Alternative IA-RWA Algorithm for All-Optical Networks</title>
-      <link>https://example.com/publications/conference/2012/momag2012/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2012/momag2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2012/momag2012/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2012/momag2012/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>OSNR-based restoration algorithm for optical network resilience to node failures</title>
-      <link>https://example.com/publications/journal/ieeela-2012/</link>
+      <link>https://rodrigoclira.github.io/publications/journal/ieeela-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/journal/ieeela-2012/</guid>
+      <guid>https://rodrigoclira.github.io/publications/journal/ieeela-2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A novel double-link failure restoration algorithm based on optical signal-to-noise ratio for all-optical networks</title>
-      <link>https://example.com/publications/conference/2011/imoc-11b/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2011/imoc-11b/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2011/imoc-11b/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2011/imoc-11b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Novel Restoration Algorithm Based on Optical Signal-to-Noise Ratio for Transparent Optical Networks</title>
-      <link>https://example.com/publications/conference/2011/sbrt2011/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2011/sbrt2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2011/sbrt2011/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2011/sbrt2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optical signal-to-noise ratio restoration algorithm applied to optical network resilience to node failures</title>
-      <link>https://example.com/publications/conference/2011/laticom2011/</link>
+      <link>https://rodrigoclira.github.io/publications/conference/2011/laticom2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/conference/2011/laticom2011/</guid>
+      <guid>https://rodrigoclira.github.io/publications/conference/2011/laticom2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/news/noticias/</link>
+      <link>https://rodrigoclira.github.io/news/noticias/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/news/noticias/</guid>
+      <guid>https://rodrigoclira.github.io/news/noticias/</guid>
       <description>&lt;p&gt;&lt;strong&gt;21 abr 2026&lt;/strong&gt; — Exemplo de notícia curta. Use este formato para informações rápidas — datas de eventos, comunicados, destaques.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Applying Reinforcement Learning for Multiple Functions in Swarm Intelligence</title>
-      <link>https://example.com/events/2023/bracis2023/</link>
+      <link>https://rodrigoclira.github.io/events/2023/bracis2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2023/bracis2023/</guid>
+      <guid>https://rodrigoclira.github.io/events/2023/bracis2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applying Reinforcement Learning to Combine Multiple Swarm-based Algorithms</title>
-      <link>https://example.com/events/2023/lacci2023/</link>
+      <link>https://rodrigoclira.github.io/events/2023/lacci2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2023/lacci2023/</guid>
+      <guid>https://rodrigoclira.github.io/events/2023/lacci2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apresentação do curso ADS (IFPE Campus Paulista)</title>
-      <link>https://example.com/events/ads-magna/</link>
+      <link>https://rodrigoclira.github.io/events/ads-magna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/ads-magna/</guid>
+      <guid>https://rodrigoclira.github.io/events/ads-magna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apresentação do projeto aprovado na chamada pública Mover-se na Web - Articulação Pró-Brumadinho</title>
-      <link>https://example.com/events/apresentacao-brumadinho/</link>
+      <link>https://rodrigoclira.github.io/events/apresentacao-brumadinho/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/apresentacao-brumadinho/</guid>
+      <guid>https://rodrigoclira.github.io/events/apresentacao-brumadinho/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boolean Binary Grey Wolf Optimizer</title>
-      <link>https://example.com/events/2022/lacci2022/</link>
+      <link>https://rodrigoclira.github.io/events/2022/lacci2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2022/lacci2022/</guid>
+      <guid>https://rodrigoclira.github.io/events/2022/lacci2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Buttons</title>
-      <link>https://example.com/courses/hugo-blox/guide/formatting/button/</link>
+      <link>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/button/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/hugo-blox/guide/formatting/button/</guid>
+      <guid>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/button/</guid>
       <description>&lt;p&gt;A modern, customizable button shortcode with gradient styling, icons, and smart link handling.&lt;/p&gt;
 &lt;h2 id=&#34;basic-usage&#34;&gt;Basic Usage&lt;/h2&gt;
 
@@ -3076,7 +3076,7 @@ Os dois parâmetros citados anteriormente podem ser medidos através de sensores
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-351ac412531c23e422b81c6422c17da5&#34;
-    href=&#34;https://example.com/contact&#34;
+    href=&#34;https://rodrigoclira.github.io/contact&#34;
     
     
     
@@ -3604,7 +3604,7 @@ Os dois parâmetros citados anteriormente podem ser medidos através de sensores
 &lt;div class=&#34;text-center&#34;&gt;
   &lt;a
     id=&#34;button-62059f8d62052633590d3f60ec092595&#34;
-    href=&#34;https://example.com/signup&#34;
+    href=&#34;https://rodrigoclira.github.io/signup&#34;
     
     
     
@@ -3666,7 +3666,7 @@ Os dois parâmetros citados anteriormente podem ser medidos através de sensores
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-72ec86801f391f16b84b269ade9d2995&#34;
-    href=&#34;https://example.com/files/document.pdf&#34;
+    href=&#34;https://rodrigoclira.github.io/files/document.pdf&#34;
     
     
     
@@ -3785,9 +3785,9 @@ Os dois parâmetros citados anteriormente podem ser medidos através de sensores
     
     <item>
       <title>Callouts</title>
-      <link>https://example.com/courses/hugo-blox/guide/formatting/callout/</link>
+      <link>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/callout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/hugo-blox/guide/formatting/callout/</guid>
+      <guid>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/callout/</guid>
       <description>&lt;p&gt;Hugo Blox supports GitHub and Obsidian-style Markdown callouts for maximum compatibility and content portability.&lt;/p&gt;
 &lt;p&gt;Callouts are a useful feature to draw attention to important or related content such as notes, hints, or warnings in your articles.&lt;/p&gt;
 &lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
@@ -4652,9 +4652,9 @@ Os dois parâmetros citados anteriormente podem ser medidos através de sensores
     
     <item>
       <title>Cards</title>
-      <link>https://example.com/courses/hugo-blox/guide/formatting/cards/</link>
+      <link>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/cards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/hugo-blox/guide/formatting/cards/</guid>
+      <guid>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/cards/</guid>
       <description>&lt;p&gt;A Hugo extension to create cards. Cards can be shown as links or as plain text.&lt;/p&gt;
 &lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
 
@@ -4715,81 +4715,81 @@ Os dois parâmetros citados anteriormente podem ser medidos através de sensores
     
     <item>
       <title>Computação Bioinspirada</title>
-      <link>https://example.com/events/snctsema/</link>
+      <link>https://rodrigoclira.github.io/events/snctsema/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/snctsema/</guid>
+      <guid>https://rodrigoclira.github.io/events/snctsema/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Construção de um Jogo Usando Robótica para a Formação de Habilidades de Programação em Crianças</title>
-      <link>https://example.com/events/2021/cotb2021/</link>
+      <link>https://rodrigoclira.github.io/events/2021/cotb2021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2021/cotb2021/</guid>
+      <guid>https://rodrigoclira.github.io/events/2021/cotb2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Desenvolvimento de modelos de aprendizado de máquina para simulação e otimização de controles térmicos em planta automotiva</title>
-      <link>https://example.com/events/2024/wcda2024-banner/</link>
+      <link>https://rodrigoclira.github.io/events/2024/wcda2024-banner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2024/wcda2024-banner/</guid>
+      <guid>https://rodrigoclira.github.io/events/2024/wcda2024-banner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Desenvolvimento de um Advergame para a Divulgação Institucional</title>
-      <link>https://example.com/events/2023/ctrle2023/</link>
+      <link>https://rodrigoclira.github.io/events/2023/ctrle2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2023/ctrle2023/</guid>
+      <guid>https://rodrigoclira.github.io/events/2023/ctrle2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Desenvolvimento de um Jogo Utilizando Robótica para o Estı́mulo do Pensamento Computacional</title>
-      <link>https://example.com/events/2020/ctrel2020/</link>
+      <link>https://rodrigoclira.github.io/events/2020/ctrel2020/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2020/ctrel2020/</guid>
+      <guid>https://rodrigoclira.github.io/events/2020/ctrel2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DroneShark Dataset: Um Conjunto de Imagens Aéreas para Detecção de Tubarões</title>
-      <link>https://example.com/events/2025/wcama/</link>
+      <link>https://rodrigoclira.github.io/events/2025/wcama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2025/wcama/</guid>
+      <guid>https://rodrigoclira.github.io/events/2025/wcama/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring Social Dynamics in a Reinforcement Learning-based Metaheuristic - A study using Improvement Frequency and Population Turnover</title>
-      <link>https://example.com/events/2024/lacci2024/</link>
+      <link>https://rodrigoclira.github.io/events/2024/lacci2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2024/lacci2024/</guid>
+      <guid>https://rodrigoclira.github.io/events/2024/lacci2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>INOVA ID RS</title>
-      <link>https://example.com/events/2024/wrnp/</link>
+      <link>https://rodrigoclira.github.io/events/2024/wrnp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2024/wrnp/</guid>
+      <guid>https://rodrigoclira.github.io/events/2024/wrnp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrating Reinforcement Learning and Optimization Task - Evaluating an Agent to Dynamically Select PSO Communication Topology</title>
-      <link>https://example.com/events/2023/icsi2023/</link>
+      <link>https://rodrigoclira.github.io/events/2023/icsi2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2023/icsi2023/</guid>
+      <guid>https://rodrigoclira.github.io/events/2023/icsi2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internationalization (i18n)</title>
-      <link>https://example.com/courses/hugo-blox/reference/i18n/</link>
+      <link>https://rodrigoclira.github.io/courses/hugo-blox/reference/i18n/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/hugo-blox/reference/i18n/</guid>
+      <guid>https://rodrigoclira.github.io/courses/hugo-blox/reference/i18n/</guid>
       <description>&lt;p&gt;Hugo Blox enables you to easily edit the interface text as well as translating your site into multiple languages using Hugo&amp;rsquo;s 
  feature.&lt;/p&gt;
 &lt;p&gt;View the full docs at 
@@ -4798,17 +4798,17 @@ Os dois parâmetros citados anteriormente podem ser medidos através de sensores
     
     <item>
       <title>Modelling the Social Interactions in Grey Wolf Optimizer</title>
-      <link>https://example.com/events/2021/lacci2021/</link>
+      <link>https://rodrigoclira.github.io/events/2021/lacci2021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2021/lacci2021/</guid>
+      <guid>https://rodrigoclira.github.io/events/2021/lacci2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oportunidades em Editais Externos de Pesquisa e Extensão Tecnológica</title>
-      <link>https://example.com/events/2022/snct2022/</link>
+      <link>https://rodrigoclira.github.io/events/2022/snct2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2022/snct2022/</guid>
+      <guid>https://rodrigoclira.github.io/events/2022/snct2022/</guid>
       <description>&lt;div style=&#34;position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;&#34;&gt;
@@ -4822,25 +4822,25 @@ Os dois parâmetros citados anteriormente podem ser medidos através de sensores
     
     <item>
       <title>Otimização Energética</title>
-      <link>https://example.com/events/2024/wcda2024-mesa/</link>
+      <link>https://rodrigoclira.github.io/events/2024/wcda2024-mesa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2024/wcda2024-mesa/</guid>
+      <guid>https://rodrigoclira.github.io/events/2024/wcda2024-mesa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Revolução de 1824: Uma viagem digital pela Confederação do Equador</title>
-      <link>https://example.com/events/2025/facepe-seminario-confederao-equador/</link>
+      <link>https://rodrigoclira.github.io/events/2025/facepe-seminario-confederao-equador/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2025/facepe-seminario-confederao-equador/</guid>
+      <guid>https://rodrigoclira.github.io/events/2025/facepe-seminario-confederao-equador/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sistemas Inteligentes - Inovação e o seu papel no novo mundo</title>
-      <link>https://example.com/events/2020/summerexperience2020/</link>
+      <link>https://rodrigoclira.github.io/events/2020/summerexperience2020/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2020/summerexperience2020/</guid>
+      <guid>https://rodrigoclira.github.io/events/2020/summerexperience2020/</guid>
       <description>
 
 
@@ -4895,9 +4895,9 @@ Os dois parâmetros citados anteriormente podem ser medidos através de sensores
     
     <item>
       <title>Spoilers</title>
-      <link>https://example.com/courses/hugo-blox/guide/formatting/toggle/</link>
+      <link>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/toggle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/hugo-blox/guide/formatting/toggle/</guid>
+      <guid>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/toggle/</guid>
       <description>&lt;p&gt;A Hugo shortcode to toggle collapsible content.&lt;/p&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
@@ -4921,9 +4921,9 @@ Os dois parâmetros citados anteriormente podem ser medidos através de sensores
     
     <item>
       <title>Steps</title>
-      <link>https://example.com/courses/hugo-blox/guide/formatting/steps/</link>
+      <link>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/steps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/hugo-blox/guide/formatting/steps/</guid>
+      <guid>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/steps/</guid>
       <description>&lt;p&gt;Display a series of steps, such as for a tutorial.&lt;/p&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;div class=&#34;hb-steps&#34;&gt;

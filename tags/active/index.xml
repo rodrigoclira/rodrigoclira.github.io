@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Active | Rodrigo Lira</title>
-    <link>https://example.com/tags/active/</link>
-      <atom:link href="https://example.com/tags/active/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/active/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/active/index.xml" rel="self" type="application/rss+xml" />
     <description>Active</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Active</title>
-      <link>https://example.com/tags/active/</link>
+      <link>https://rodrigoclira.github.io/tags/active/</link>
     </image>
     
     <item>
       <title>Inteligência de enxames com aprendizado de máquina por reforço para resolução de problemas de otimização</title>
-      <link>https://example.com/projects/rl-mh/</link>
+      <link>https://rodrigoclira.github.io/projects/rl-mh/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/rl-mh/</guid>
+      <guid>https://rodrigoclira.github.io/projects/rl-mh/</guid>
       <description>&lt;p&gt;Inteligência de enxames é uma subárea de computação inteligente que compreende abordagens que se inspiram no comportamento inteligente emergente da interação entre seres vivos para resolução de problemas complexos. Ao longo das últimas três décadas, muitas foram as propostas que surgiram na área, as quais são baseadas nas mais diversas metáforas. Uma característica em comum a essas propostas é que os agentes costumam seguir em todo o processo de resolução do problema a inspiração utilizada na sua concepção. Sabendo-se que existem diversos problemas de otimização e que mesmo em um único problema existem fases que precisam de diferentes comportamentos, seguir um conjunto de operadores bem definido por um algoritmo é um fator limitante. Por esse motivo, este projeto visa desenvolver uma meta-heurística adaptativa para resolução de problemas de otimização que consiga se auto-organizar no exame (ou sub-enxames) mais promissor de acordo com informações obtidas &lt;em&gt;on-line&lt;/em&gt; na execução.&lt;/p&gt;
 </description>
     </item>

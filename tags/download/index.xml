@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Download | Rodrigo Lira</title>
-    <link>https://example.com/tags/download/</link>
-      <atom:link href="https://example.com/tags/download/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/download/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/download/index.xml" rel="self" type="application/rss+xml" />
     <description>Download</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Download</title>
-      <link>https://example.com/tags/download/</link>
+      <link>https://rodrigoclira.github.io/tags/download/</link>
     </image>
     
     <item>
       <title>Placa robô para soldagem e ensino de programação com Arduino</title>
-      <link>https://example.com/downloads/robo-pcb/</link>
+      <link>https://rodrigoclira.github.io/downloads/robo-pcb/</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/downloads/robo-pcb/</guid>
+      <guid>https://rodrigoclira.github.io/downloads/robo-pcb/</guid>
       <description>&lt;p&gt;Arquivos para fabricação da placa desenvolvida para ensino de soldagem e programação com Arduino. Mais informações sobre o projeto estão descritos na postagem 
 .&lt;/p&gt;
 &lt;p&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>Chaveiro do IFPE para impressão 3d</title>
-      <link>https://example.com/downloads/chaveiro-ifpe/</link>
+      <link>https://rodrigoclira.github.io/downloads/chaveiro-ifpe/</link>
       <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/downloads/chaveiro-ifpe/</guid>
+      <guid>https://rodrigoclira.github.io/downloads/chaveiro-ifpe/</guid>
       <description>&lt;iframe width=&#34;725&#34; height=&#34;453&#34; src=&#34;https://www.tinkercad.com/embed/kbVkNnu1O0b?editbtn=1&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>

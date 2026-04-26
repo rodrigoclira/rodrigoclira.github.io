@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pensamento Computacional | Rodrigo Lira</title>
-    <link>https://example.com/tags/pensamento-computacional/</link>
-      <atom:link href="https://example.com/tags/pensamento-computacional/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/pensamento-computacional/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/pensamento-computacional/index.xml" rel="self" type="application/rss+xml" />
     <description>Pensamento Computacional</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Pensamento Computacional</title>
-      <link>https://example.com/tags/pensamento-computacional/</link>
+      <link>https://rodrigoclira.github.io/tags/pensamento-computacional/</link>
     </image>
     
     <item>
       <title>Construção de um Jogo Usando Robótica para a Formação de Habilidades de Programação em Crianças</title>
-      <link>https://example.com/events/2021/cotb2021/</link>
+      <link>https://rodrigoclira.github.io/events/2021/cotb2021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2021/cotb2021/</guid>
+      <guid>https://rodrigoclira.github.io/events/2021/cotb2021/</guid>
       <description></description>
     </item>
     

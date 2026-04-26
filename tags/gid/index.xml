@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gid | Rodrigo Lira</title>
-    <link>https://example.com/tags/gid/</link>
-      <atom:link href="https://example.com/tags/gid/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/gid/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/gid/index.xml" rel="self" type="application/rss+xml" />
     <description>Gid</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Gid</title>
-      <link>https://example.com/tags/gid/</link>
+      <link>https://rodrigoclira.github.io/tags/gid/</link>
     </image>
     
     <item>
       <title>INOVA ID RS</title>
-      <link>https://example.com/events/2024/wrnp/</link>
+      <link>https://rodrigoclira.github.io/events/2024/wrnp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2024/wrnp/</guid>
+      <guid>https://rodrigoclira.github.io/events/2024/wrnp/</guid>
       <description></description>
     </item>
     

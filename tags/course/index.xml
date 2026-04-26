@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Course | Rodrigo Lira</title>
-    <link>https://example.com/tags/course/</link>
-      <atom:link href="https://example.com/tags/course/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/course/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/course/index.xml" rel="self" type="application/rss+xml" />
     <description>Course</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Course</title>
-      <link>https://example.com/tags/course/</link>
+      <link>https://rodrigoclira.github.io/tags/course/</link>
     </image>
     
     <item>
       <title>Learn Hugo Blox in 10 minutes!</title>
-      <link>https://example.com/courses/hugo-blox/</link>
+      <link>https://rodrigoclira.github.io/courses/hugo-blox/</link>
       <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/hugo-blox/</guid>
+      <guid>https://rodrigoclira.github.io/courses/hugo-blox/</guid>
       <description>&lt;p&gt;👋 Welcome to your shiny new site. Ready to learn more?&lt;/p&gt;
 &lt;p&gt;This course provides a brief introduction to creating and editing your site with Hugo Blox. For full documentation, refer to the 
 .&lt;/p&gt;

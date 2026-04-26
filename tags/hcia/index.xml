@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hcia | Rodrigo Lira</title>
-    <link>https://example.com/tags/hcia/</link>
-      <atom:link href="https://example.com/tags/hcia/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/hcia/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/hcia/index.xml" rel="self" type="application/rss+xml" />
     <description>Hcia</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Mon, 18 Oct 2021 23:00:14 -0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Hcia</title>
-      <link>https://example.com/tags/hcia/</link>
+      <link>https://rodrigoclira.github.io/tags/hcia/</link>
     </image>
     
     <item>
       <title>Huawei HCIA-AI e a AWS Solutions Architect</title>
-      <link>https://example.com/blog/2021/certificacoes-agosto/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/certificacoes-agosto/</link>
       <pubDate>Mon, 18 Oct 2021 23:00:14 -0300</pubDate>
-      <guid>https://example.com/blog/2021/certificacoes-agosto/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/certificacoes-agosto/</guid>
       <description>&lt;p&gt;No mês de agosto foi o momento de retirar duas certificações importantes. A primeira foi o 
  que valida os conhecimentos em IA e a utilização dos serviços e produtos da Hauwei nessa área. A seguda certificação foi 
  que valida o conhecimento na criação de projetos de sistemas distribuídos usando os serviços da AWS.&lt;/p&gt;

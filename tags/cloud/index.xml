@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud | Rodrigo Lira</title>
-    <link>https://example.com/tags/cloud/</link>
-      <atom:link href="https://example.com/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/cloud/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
     <description>Cloud</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Mon, 18 Oct 2021 23:00:14 -0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Cloud</title>
-      <link>https://example.com/tags/cloud/</link>
+      <link>https://rodrigoclira.github.io/tags/cloud/</link>
     </image>
     
     <item>
       <title>Huawei HCIA-AI e a AWS Solutions Architect</title>
-      <link>https://example.com/blog/2021/certificacoes-agosto/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/certificacoes-agosto/</link>
       <pubDate>Mon, 18 Oct 2021 23:00:14 -0300</pubDate>
-      <guid>https://example.com/blog/2021/certificacoes-agosto/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/certificacoes-agosto/</guid>
       <description>&lt;p&gt;No mês de agosto foi o momento de retirar duas certificações importantes. A primeira foi o 
  que valida os conhecimentos em IA e a utilização dos serviços e produtos da Hauwei nessa área. A seguda certificação foi 
  que valida o conhecimento na criação de projetos de sistemas distribuídos usando os serviços da AWS.&lt;/p&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>Como manter o processo mesmo após sair da sessão</title>
-      <link>https://example.com/blog/2021/cmd-screen/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/cmd-screen/</link>
       <pubDate>Wed, 05 May 2021 23:57:14 -0300</pubDate>
-      <guid>https://example.com/blog/2021/cmd-screen/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/cmd-screen/</guid>
       <description>&lt;p&gt;Para manter a execução de um comando mesmo após sair da sessão pode-se utilizar o comando screen. Os passos são os seguintes:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -46,9 +46,9 @@
     
     <item>
       <title>Accredited Educator da AWS Academy</title>
-      <link>https://example.com/blog/2021/cloud-practitioner/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/cloud-practitioner/</link>
       <pubDate>Mon, 18 Jan 2021 23:57:14 -0300</pubDate>
-      <guid>https://example.com/blog/2021/cloud-practitioner/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/cloud-practitioner/</guid>
       <description>&lt;p&gt;No início de janeiro eu fui aprovado na certificação da AWS chamada 
 . Isso me garantiu o título de &lt;em&gt;Accredited Educator&lt;/em&gt;, um credenciamento que a AWS dá aos docentes que forem aprovados no seu programa de treinamento. Dessa forma agora eu estou apto a lecionar o conteúdo da AWS Academy.&lt;/p&gt;
 &lt;p&gt;A Amazon Web Services (AWS) é um dos 

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AWS | Rodrigo Lira</title>
-    <link>https://example.com/tags/aws/</link>
-      <atom:link href="https://example.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
-    <description>AWS</description>
+    <title>Aws | Rodrigo Lira</title>
+    <link>https://rodrigoclira.github.io/tags/aws/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aws</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Fri, 18 Mar 2022 23:18:25 -0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
-      <title>AWS</title>
-      <link>https://example.com/tags/aws/</link>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <title>Aws</title>
+      <link>https://rodrigoclira.github.io/tags/aws/</link>
     </image>
     
     <item>
       <title>Atualizando o SQLITE no Amazon Linux 2</title>
-      <link>https://example.com/blog/2022/updating-sqlite-amazon-linux-2/</link>
+      <link>https://rodrigoclira.github.io/blog/2022/updating-sqlite-amazon-linux-2/</link>
       <pubDate>Fri, 18 Mar 2022 23:18:25 -0300</pubDate>
-      <guid>https://example.com/blog/2022/updating-sqlite-amazon-linux-2/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2022/updating-sqlite-amazon-linux-2/</guid>
       <description>&lt;p&gt;O Django 3.x não suporta a versão do sqlite instalada no Amazon Linux 2. Para atualizar, baixe o pacote atualizado fedora e instale-o na sua EC2. Depois disso será possível usar projetos com sqlite.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;wget https://kojipkgs.fedoraproject.org//packages/sqlite/3.9.0/1.fc21/x86_64/sqlite-3.9.0-1.fc21.x86_64.rpm
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo yum install sqlite-3.9.0-1.fc21.x86_64.rpm -y
@@ -25,9 +25,9 @@
     
     <item>
       <title>Huawei HCIA-AI e a AWS Solutions Architect</title>
-      <link>https://example.com/blog/2021/certificacoes-agosto/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/certificacoes-agosto/</link>
       <pubDate>Mon, 18 Oct 2021 23:00:14 -0300</pubDate>
-      <guid>https://example.com/blog/2021/certificacoes-agosto/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/certificacoes-agosto/</guid>
       <description>&lt;p&gt;No mês de agosto foi o momento de retirar duas certificações importantes. A primeira foi o 
  que valida os conhecimentos em IA e a utilização dos serviços e produtos da Hauwei nessa área. A seguda certificação foi 
  que valida o conhecimento na criação de projetos de sistemas distribuídos usando os serviços da AWS.&lt;/p&gt;
@@ -37,9 +37,9 @@
     
     <item>
       <title>Como manter o processo mesmo após sair da sessão</title>
-      <link>https://example.com/blog/2021/cmd-screen/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/cmd-screen/</link>
       <pubDate>Wed, 05 May 2021 23:57:14 -0300</pubDate>
-      <guid>https://example.com/blog/2021/cmd-screen/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/cmd-screen/</guid>
       <description>&lt;p&gt;Para manter a execução de um comando mesmo após sair da sessão pode-se utilizar o comando screen. Os passos são os seguintes:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -57,9 +57,9 @@
     
     <item>
       <title>Accredited Educator da AWS Academy</title>
-      <link>https://example.com/blog/2021/cloud-practitioner/</link>
+      <link>https://rodrigoclira.github.io/blog/2021/cloud-practitioner/</link>
       <pubDate>Mon, 18 Jan 2021 23:57:14 -0300</pubDate>
-      <guid>https://example.com/blog/2021/cloud-practitioner/</guid>
+      <guid>https://rodrigoclira.github.io/blog/2021/cloud-practitioner/</guid>
       <description>&lt;p&gt;No início de janeiro eu fui aprovado na certificação da AWS chamada 
 . Isso me garantiu o título de &lt;em&gt;Accredited Educator&lt;/em&gt;, um credenciamento que a AWS dá aos docentes que forem aprovados no seu programa de treinamento. Dessa forma agora eu estou apto a lecionar o conteúdo da AWS Academy.&lt;/p&gt;
 &lt;p&gt;A Amazon Web Services (AWS) é um dos 

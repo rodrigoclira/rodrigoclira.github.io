@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Confederacao-Equador | Rodrigo Lira</title>
-    <link>https://example.com/tags/confederacao-equador/</link>
-      <atom:link href="https://example.com/tags/confederacao-equador/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/tags/confederacao-equador/</link>
+      <atom:link href="https://rodrigoclira.github.io/tags/confederacao-equador/index.xml" rel="self" type="application/rss+xml" />
     <description>Confederacao-Equador</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Confederacao-Equador</title>
-      <link>https://example.com/tags/confederacao-equador/</link>
+      <link>https://rodrigoclira.github.io/tags/confederacao-equador/</link>
     </image>
     
     <item>
       <title>Extensão | Revolução de 1824 - Uma viagem digital pela Confederação do Equador</title>
-      <link>https://example.com/projects/jogo-confederacao-equador/</link>
+      <link>https://rodrigoclira.github.io/projects/jogo-confederacao-equador/</link>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/jogo-confederacao-equador/</guid>
+      <guid>https://rodrigoclira.github.io/projects/jogo-confederacao-equador/</guid>
       <description>&lt;p&gt;A Confederação do Equador foi um movimento revolucionário de 1824, liderado por Manoel de Carvalho e Frei Caneca em Recife, que reuniu as províncias de Pernambuco, Ceará, Rio Grande do Norte e Paraíba. O movimento surgiu como continuidade de insatisfações anteriores, como a Conspiração dos Suassuna (1801) e a Revolução Pernambucana de 1817, devido à centralização excessiva do poder.Segundo Andrade (1995), após a independência do Brasil, as tensões aumentaram com o fechamento da assembleia constituinte em 1823 e a imposição da constituição de 1824 por D. Pedro I. O estopim foi a disputa pela presidência da Província, levando Manoel de Carvalho a proclamar a Confederação e convocar outras províncias do Nordeste para uma Constituinte mais liberal. De acordo com Koshiba &amp;amp; Pereira (2003, p. 226), aderiram ao movimento Ceará, Rio Grande do Norte e Paraíba. Andrade (1995, p. 10) destaca que o movimento teve maior força em Pernambuco e no Ceará, onde os revolucionários chegaram a ocupar Fortaleza.&lt;/p&gt;
 &lt;p&gt;De fato, Pernambuco intencionou um “Brasil alternativo” ao Império de Pedro I (WESTIN, Agência Senado, 2024), com propostas liberais e republicanas. Pernambuco já foi um país e uma Confederação, separando-se do Brasil. Isto tudo em curto período, em 1817 e 1824. Entretanto, há um relativo desconhecimento desses feitos. Por isso, faz-se necessário reavivar estas histórias que marcaram não só a história de Pernambuco, mas do Brasil. A história desses movimentos, por vezes, fica restrita aos círculos acadêmicos, criando um distanciamento entre os jovens e seu próprio patrimônio histórico.&lt;/p&gt;
 &lt;p&gt;Para superar este desafio e aproximar as novas gerações deste importante capítulo da história pernambucana, esse projeto propõe desenvolver um jogo educativo em estilo 2D. Esta ferramenta visa traduzir a complexidade dos eventos históricos para uma linguagem acessível e envolvente, permitindo que os jovens estudantes não apenas aprendam sobre a Confederação do Equador, mas experimentem, por meio de mecânicas interativas, os dilemas e escolhas enfrentados pelos revolucionários.&lt;/p&gt;

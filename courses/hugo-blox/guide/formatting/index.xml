@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Formatting | Rodrigo Lira</title>
-    <link>https://example.com/courses/hugo-blox/guide/formatting/</link>
-      <atom:link href="https://example.com/courses/hugo-blox/guide/formatting/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/</link>
+      <atom:link href="https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/index.xml" rel="self" type="application/rss+xml" />
     <description>Formatting</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Formatting</title>
-      <link>https://example.com/courses/hugo-blox/guide/formatting/</link>
+      <link>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/</link>
     </image>
     
     <item>
       <title>Embed Media</title>
-      <link>https://example.com/courses/hugo-blox/guide/formatting/media/</link>
+      <link>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/media/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/hugo-blox/guide/formatting/media/</guid>
+      <guid>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/media/</guid>
       <description>&lt;p&gt;
  is designed to give technical content creators a seamless experience. You can focus on the content and the HugoBlox Kit which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
@@ -180,9 +180,9 @@ data.head()
     
     <item>
       <title>Buttons</title>
-      <link>https://example.com/courses/hugo-blox/guide/formatting/button/</link>
+      <link>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/button/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/hugo-blox/guide/formatting/button/</guid>
+      <guid>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/button/</guid>
       <description>&lt;p&gt;A modern, customizable button shortcode with gradient styling, icons, and smart link handling.&lt;/p&gt;
 &lt;h2 id=&#34;basic-usage&#34;&gt;Basic Usage&lt;/h2&gt;
 
@@ -191,7 +191,7 @@ data.head()
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-351ac412531c23e422b81c6422c17da5&#34;
-    href=&#34;https://example.com/contact&#34;
+    href=&#34;https://rodrigoclira.github.io/contact&#34;
     
     
     
@@ -719,7 +719,7 @@ data.head()
 &lt;div class=&#34;text-center&#34;&gt;
   &lt;a
     id=&#34;button-62059f8d62052633590d3f60ec092595&#34;
-    href=&#34;https://example.com/signup&#34;
+    href=&#34;https://rodrigoclira.github.io/signup&#34;
     
     
     
@@ -781,7 +781,7 @@ data.head()
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-72ec86801f391f16b84b269ade9d2995&#34;
-    href=&#34;https://example.com/files/document.pdf&#34;
+    href=&#34;https://rodrigoclira.github.io/files/document.pdf&#34;
     
     
     
@@ -900,9 +900,9 @@ data.head()
     
     <item>
       <title>Callouts</title>
-      <link>https://example.com/courses/hugo-blox/guide/formatting/callout/</link>
+      <link>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/callout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/hugo-blox/guide/formatting/callout/</guid>
+      <guid>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/callout/</guid>
       <description>&lt;p&gt;Hugo Blox supports GitHub and Obsidian-style Markdown callouts for maximum compatibility and content portability.&lt;/p&gt;
 &lt;p&gt;Callouts are a useful feature to draw attention to important or related content such as notes, hints, or warnings in your articles.&lt;/p&gt;
 &lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
@@ -1767,9 +1767,9 @@ data.head()
     
     <item>
       <title>Cards</title>
-      <link>https://example.com/courses/hugo-blox/guide/formatting/cards/</link>
+      <link>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/cards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/hugo-blox/guide/formatting/cards/</guid>
+      <guid>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/cards/</guid>
       <description>&lt;p&gt;A Hugo extension to create cards. Cards can be shown as links or as plain text.&lt;/p&gt;
 &lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
 
@@ -1830,9 +1830,9 @@ data.head()
     
     <item>
       <title>Spoilers</title>
-      <link>https://example.com/courses/hugo-blox/guide/formatting/toggle/</link>
+      <link>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/toggle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/hugo-blox/guide/formatting/toggle/</guid>
+      <guid>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/toggle/</guid>
       <description>&lt;p&gt;A Hugo shortcode to toggle collapsible content.&lt;/p&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
@@ -1856,9 +1856,9 @@ data.head()
     
     <item>
       <title>Steps</title>
-      <link>https://example.com/courses/hugo-blox/guide/formatting/steps/</link>
+      <link>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/steps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/hugo-blox/guide/formatting/steps/</guid>
+      <guid>https://rodrigoclira.github.io/courses/hugo-blox/guide/formatting/steps/</guid>
       <description>&lt;p&gt;Display a series of steps, such as for a tutorial.&lt;/p&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;div class=&#34;hb-steps&#34;&gt;
