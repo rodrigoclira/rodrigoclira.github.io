@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Routing | Rodrigo Lira</title>
+    <link>https://example.com/tags/routing/</link>
+      <atom:link href="https://example.com/tags/routing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Routing</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <title>Routing</title>
+      <link>https://example.com/tags/routing/</link>
+    </image>
+    
+    <item>
+      <title>An adaptive–alternative restoration algorithm for optical networks</title>
+      <link>https://example.com/publications/journal/pnc-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publications/journal/pnc-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

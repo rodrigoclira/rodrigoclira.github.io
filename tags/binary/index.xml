@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Binary | Rodrigo Lira</title>
+    <link>https://example.com/tags/binary/</link>
+      <atom:link href="https://example.com/tags/binary/index.xml" rel="self" type="application/rss+xml" />
+    <description>Binary</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language>
+    <image>
+      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <title>Binary</title>
+      <link>https://example.com/tags/binary/</link>
+    </image>
+    
+    <item>
+      <title>Boolean Binary Grey Wolf Optimizer</title>
+      <link>https://example.com/events/2022/lacci2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/events/2022/lacci2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

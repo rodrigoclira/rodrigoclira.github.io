@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xadrez | Rodrigo Lira</title>
+    <link>https://example.com/tags/xadrez/</link>
+      <atom:link href="https://example.com/tags/xadrez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xadrez</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <title>Xadrez</title>
+      <link>https://example.com/tags/xadrez/</link>
+    </image>
+    
+    <item>
+      <title>Clube de Xadrez do IFPE Palmares</title>
+      <link>https://example.com/blog/2021/clube-xadrez/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/2021/clube-xadrez/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

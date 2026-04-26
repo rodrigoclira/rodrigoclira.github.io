@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhD | Rodrigo Lira</title>
+    <link>https://example.com/tags/phd/</link>
+      <atom:link href="https://example.com/tags/phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>PhD</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Thu, 22 Jun 2023 10:18:25 -0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <title>PhD</title>
+      <link>https://example.com/tags/phd/</link>
+    </image>
+    
+    <item>
+      <title>Material sobre Reinforcement Learning</title>
+      <link>https://example.com/blog/2023/rl-material/</link>
+      <pubDate>Thu, 22 Jun 2023 10:18:25 -0300</pubDate>
+      <guid>https://example.com/blog/2023/rl-material/</guid>
+      <description>&lt;p&gt;Eu estou usando Aprendizam Por Reforço (do inglês, Reinforcement Learning) na minha tese de doutorado e no processo de aprendizado eu acabei encontrando muitos materias interessantes na internet. Resolvi fazer uma listagem deles para deixar público e também me ajudar em consultas futuras.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Para quem estiver procurando conhecimento teórico, eu sugiro os livros:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+ de Sutton e Barto&lt;/li&gt;
+&lt;li&gt;
+ de Szepesvari&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Para quem quiser conhecer um pouco da teoria ao mesmo tempo que desenvolve projetos práticos com Python:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+ do Hugginfaces&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+ com RLLib&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+ do Dibya.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;* Há também o curso 
+ que eu não realizei.&lt;/p&gt;
+&lt;p&gt;Disciplinas em instituições:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publicação no Latin America Conference on Computational Intelligence (LA-CCI 2021)</title>
+      <link>https://example.com/blog/2021/lacci2021/</link>
+      <pubDate>Sun, 26 Sep 2021 23:57:14 -0300</pubDate>
+      <guid>https://example.com/blog/2021/lacci2021/</guid>
+      <description>&lt;p&gt;O artigo &amp;ldquo;Modelling the Social Interactions in Grey Wolf Optimizer&amp;rdquo; foi aceito no 
+.&lt;/p&gt;
+&lt;p&gt;Autores: &lt;strong&gt;Rodrigo C. Lira&lt;/strong&gt;, Mariana Macedo, Hugo Valadares Siqueira. Ronaldo Menezes, Carmelo Bastos-Filho&lt;/p&gt;
+&lt;p&gt;Abstract:
+&amp;ldquo;Swarm  Intelligence  has  been  successfully  used  forsolving high-dimensional and multimodal optimization problems.However, the wide range of swarm-based techniques, operators,and  parameters  requires  prior  knowledge  before  applying  themto  real-world  problems.  Because  of  this,  we  have  been  study-ing  the  meso-level  characteristics  that  emerge  from  the  socialinteractions  within  the  swarm  to  understand  each  swarm-basedtechnique’s  unique  characteristics.  In  this  paper,  we  model  andstudy the interaction network of the Grey Wolf Optimizer (GWO)to  capture  its  social  behaviour.  We  used  Portrait  divergence  tocompare  the  similarity  between  network  structures  over  exper-iments,  simulations  and  iterations  of  the  GWO.  We  also  usedKullback divergence to compare the probability distributions ofthe  network  flows  varying  over  experiments,  simulations  anditerations  of  the  GWO.  Furthermore,  we  discovered  we  couldidentify  the  GWO  convergence  using  the  interaction  networkapproach.  Comparing  different  simulations,  we  found  that  thewolves  communicate  using  a  stable  network  structure  but  notnecessarily  a  stable  network  flow  indicating  variance  in  thenumber  of  highly  influential  wolves.  We  also  point  out  patternsfound in GWO that appears to be similar to other swarm-basedalgorithms  (GPSO  and  FSS).&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

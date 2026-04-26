@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nic.br | Rodrigo Lira</title>
+    <link>https://example.com/tags/nic.br/</link>
+      <atom:link href="https://example.com/tags/nic.br/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nic.br</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Tue, 07 Dec 2021 23:57:14 -0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <title>Nic.br</title>
+      <link>https://example.com/tags/nic.br/</link>
+    </image>
+    
+    <item>
+      <title>Apresentação de projeto na Câmara Municipal de Brumadinho</title>
+      <link>https://example.com/blog/2021/apresentacao-brumadinho/</link>
+      <pubDate>Tue, 07 Dec 2021 23:57:14 -0300</pubDate>
+      <guid>https://example.com/blog/2021/apresentacao-brumadinho/</guid>
+      <description>&lt;p&gt;No dia 7 de dezembro estive na sala de reunião da Câmara Municipal de Brumadinho (MG) apresentando um projeto Sistema de Monitoramento da Qualdidade da Água de um Rio desenvolvido na Chamada Pública Mover-se na Web: Desafio Pró-Brumadinho do NIC.BR. Além dos representantes do NIC.br, estiveram presentes representantes da sociedade civil, câmara municipal e governo estadual/federal.&lt;/p&gt;
+&lt;p&gt;O projeto teve apoio da FADE-UFPE e foi desenvolvido pelos alunos do curso de ADS, Gabriel Lima e Gaston Gouveia do IFPE &lt;em&gt;Campus&lt;/em&gt; Paulista .&lt;/p&gt;
+&lt;p&gt;Álbum com fotos: 
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lh3.googleusercontent.com/Mo_je5KnG8RV72ItWa8VvkYnvFDqPloZArAPSBtDEfTycY_cBdcGmOrtAV43X7ztQB_2hmy4vxxhelF31osrfxtCkwGTv_mkeFe_SS5TEM4C5520pbDWlFRE3FxtYWUL5yiQnWC37Tw=w2400?source=screenshot.guru&#34;&gt; &lt;img src=&#34;https://lh3.googleusercontent.com/Mo_je5KnG8RV72ItWa8VvkYnvFDqPloZArAPSBtDEfTycY_cBdcGmOrtAV43X7ztQB_2hmy4vxxhelF31osrfxtCkwGTv_mkeFe_SS5TEM4C5520pbDWlFRE3FxtYWUL5yiQnWC37Tw=w600-h315-p-k&#34; /&gt; &lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apresentação do projeto aprovado na chamada pública Mover-se na Web - Articulação Pró-Brumadinho</title>
+      <link>https://example.com/events/apresentacao-brumadinho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/events/apresentacao-brumadinho/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

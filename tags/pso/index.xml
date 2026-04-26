@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pso | Rodrigo Lira</title>
+    <link>https://example.com/tags/pso/</link>
+      <atom:link href="https://example.com/tags/pso/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pso</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language>
+    <image>
+      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <title>Pso</title>
+      <link>https://example.com/tags/pso/</link>
+    </image>
+    
+    <item>
+      <title>Applying Reinforcement Learning for Multiple Functions in Swarm Intelligence</title>
+      <link>https://example.com/events/2023/bracis2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/events/2023/bracis2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying Reinforcement Learning to Combine Multiple Swarm-based Algorithms</title>
+      <link>https://example.com/events/2023/lacci2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/events/2023/lacci2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Social Dynamics in a Reinforcement Learning-based Metaheuristic - A study using Improvement Frequency and Population Turnover</title>
+      <link>https://example.com/events/2024/lacci2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/events/2024/lacci2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Reinforcement Learning and Optimization Task - Evaluating an Agent to Dynamically Select PSO Communication Topology</title>
+      <link>https://example.com/events/2023/icsi2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/events/2023/icsi2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

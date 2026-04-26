@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuscript | Rodrigo Lira</title>
+    <link>https://example.com/publication_types/manuscript/</link>
+      <atom:link href="https://example.com/publication_types/manuscript/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuscript</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <title>Manuscript</title>
+      <link>https://example.com/publication_types/manuscript/</link>
+    </image>
+    
+    <item>
+      <title>Revealing Swarm Intelligence Patterns using Network Science (abstract)</title>
+      <link>https://example.com/publications/conference/2025/complenet/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publications/conference/2025/complenet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unpacking heterogeneities of Swarm Intelligence using Network Science (abstract)</title>
+      <link>https://example.com/publications/conference/2024/ccs/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publications/conference/2024/ccs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Swarm Intelligence | Rodrigo Lira</title>
+    <link>https://example.com/tags/swarm-intelligence/</link>
+      <atom:link href="https://example.com/tags/swarm-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Swarm Intelligence</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <title>Swarm Intelligence</title>
+      <link>https://example.com/tags/swarm-intelligence/</link>
+    </image>
+    
+    <item>
+      <title>Inteligência de enxames com aprendizado de máquina por reforço para resolução de problemas de otimização</title>
+      <link>https://example.com/projects/rl-mh/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/rl-mh/</guid>
+      <description>&lt;p&gt;Inteligência de enxames é uma subárea de computação inteligente que compreende abordagens que se inspiram no comportamento inteligente emergente da interação entre seres vivos para resolução de problemas complexos. Ao longo das últimas três décadas, muitas foram as propostas que surgiram na área, as quais são baseadas nas mais diversas metáforas. Uma característica em comum a essas propostas é que os agentes costumam seguir em todo o processo de resolução do problema a inspiração utilizada na sua concepção. Sabendo-se que existem diversos problemas de otimização e que mesmo em um único problema existem fases que precisam de diferentes comportamentos, seguir um conjunto de operadores bem definido por um algoritmo é um fator limitante. Por esse motivo, este projeto visa desenvolver uma meta-heurística adaptativa para resolução de problemas de otimização que consiga se auto-organizar no exame (ou sub-enxames) mais promissor de acordo com informações obtidas &lt;em&gt;on-line&lt;/em&gt; na execução.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Applying Reinforcement Learning for Multiple Functions in Swarm Intelligence</title>
+      <link>https://example.com/events/2023/bracis2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/events/2023/bracis2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying Reinforcement Learning to Combine Multiple Swarm-based Algorithms</title>
+      <link>https://example.com/events/2023/lacci2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/events/2023/lacci2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Social Dynamics in a Reinforcement Learning-based Metaheuristic - A study using Improvement Frequency and Population Turnover</title>
+      <link>https://example.com/events/2024/lacci2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/events/2024/lacci2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

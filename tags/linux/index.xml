@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux | Rodrigo Lira</title>
+    <link>https://example.com/tags/linux/</link>
+      <atom:link href="https://example.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linux</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Wed, 05 May 2021 23:57:14 -0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <title>Linux</title>
+      <link>https://example.com/tags/linux/</link>
+    </image>
+    
+    <item>
+      <title>Como manter o processo mesmo após sair da sessão</title>
+      <link>https://example.com/blog/2021/cmd-screen/</link>
+      <pubDate>Wed, 05 May 2021 23:57:14 -0300</pubDate>
+      <guid>https://example.com/blog/2021/cmd-screen/</guid>
+      <description>&lt;p&gt;Para manter a execução de um comando mesmo após sair da sessão pode-se utilizar o comando screen. Os passos são os seguintes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Acesse via ssh o computador. Escreva o comando &lt;code&gt;screen&lt;/code&gt; e então execute o programa/script que dejas manter em segundo plano.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pressione Ctrl+A e então Ctrl+D. Isso fará com que você saia daquela sessão do screen, mas o manterá conectado no computador.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Caso desejes voltar para visualizar a execução do programa/script, use o comando &lt;code&gt;screen -r&lt;/code&gt;. Isso irá levá-lo de volta a sessão iniciada pelo screen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

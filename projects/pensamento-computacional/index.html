@@ -1,0 +1,4336 @@
+<!doctype html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: April 25, 2026 --><html lang="pt-br" dir="ltr"
+      data-wc-theme-default="dark"
+      data-hbb-relurl="/">
+  
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="generator" content="Hugo Blox Kit 0.11.0" />
+
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+  
+  
+  
+
+
+
+
+<meta name="author" content="Rodrigo Lira" />
+
+  
+  
+  
+  
+  
+  <meta name="description" content="Projeto aprovado no PIBEX IFPE 2019" />
+
+  
+  <link rel="alternate" hreflang="pt-br" href="https://example.com/projects/pensamento-computacional/" />
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+      
+      
+        
+      
+    
+    
+      
+      
+      
+      
+        
+      
+    
+    
+  
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+      
+      
+        
+      
+    
+    
+      
+      
+      
+      
+        
+      
+    
+    
+  
+
+
+
+
+<style>
+   
+     
+  
+   
+  :root {
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+  
+
+  
+  --hb-primary-500-rgb: 9 105 218;
+  --color-primary-500: rgb(var(--hb-primary-500-rgb));
+
+  
+  
+  
+    
+    
+    
+    
+    --hb-primary-50-rgb: 242 247 253;
+    --color-primary-50: rgb(var(--hb-primary-50-rgb));
+  
+    
+    
+    
+    
+    --hb-primary-100-rgb: 230 240 251;
+    --color-primary-100: rgb(var(--hb-primary-100-rgb));
+  
+    
+    
+    
+    
+    --hb-primary-200-rgb: 205 225 247;
+    --color-primary-200: rgb(var(--hb-primary-200-rgb));
+  
+    
+    
+    
+    
+    --hb-primary-300-rgb: 181 210 243;
+    --color-primary-300: rgb(var(--hb-primary-300-rgb));
+  
+    
+    
+    
+    
+    --hb-primary-400-rgb: 156 195 240;
+    --color-primary-400: rgb(var(--hb-primary-400-rgb));
+  
+
+  
+  
+  
+    
+    
+    
+    
+    --hb-primary-600-rgb: 8 94 196;
+    --color-primary-600: rgb(var(--hb-primary-600-rgb));
+  
+    
+    
+    
+    
+    --hb-primary-700-rgb: 7 84 174;
+    --color-primary-700: rgb(var(--hb-primary-700-rgb));
+  
+    
+    
+    
+    
+    --hb-primary-800-rgb: 5 68 141;
+    --color-primary-800: rgb(var(--hb-primary-800-rgb));
+  
+    
+    
+    
+    
+    --hb-primary-900-rgb: 4 52 109;
+    --color-primary-900: rgb(var(--hb-primary-900-rgb));
+  
+    
+    
+    
+    
+    --hb-primary-950-rgb: 2 31 65;
+    --color-primary-950: rgb(var(--hb-primary-950-rgb));
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+  
+
+  
+  --hb-secondary-500-rgb: 31 136 61;
+  --color-secondary-500: rgb(var(--hb-secondary-500-rgb));
+
+  
+  
+  
+    
+    
+    
+    
+    --hb-secondary-50-rgb: 243 249 245;
+    --color-secondary-50: rgb(var(--hb-secondary-50-rgb));
+  
+    
+    
+    
+    
+    --hb-secondary-100-rgb: 232 243 235;
+    --color-secondary-100: rgb(var(--hb-secondary-100-rgb));
+  
+    
+    
+    
+    
+    --hb-secondary-200-rgb: 210 231 216;
+    --color-secondary-200: rgb(var(--hb-secondary-200-rgb));
+  
+    
+    
+    
+    
+    --hb-secondary-300-rgb: 187 219 196;
+    --color-secondary-300: rgb(var(--hb-secondary-300-rgb));
+  
+    
+    
+    
+    
+    --hb-secondary-400-rgb: 165 207 177;
+    --color-secondary-400: rgb(var(--hb-secondary-400-rgb));
+  
+
+  
+  
+  
+    
+    
+    
+    
+    --hb-secondary-600-rgb: 27 122 54;
+    --color-secondary-600: rgb(var(--hb-secondary-600-rgb));
+  
+    
+    
+    
+    
+    --hb-secondary-700-rgb: 24 108 48;
+    --color-secondary-700: rgb(var(--hb-secondary-700-rgb));
+  
+    
+    
+    
+    
+    --hb-secondary-800-rgb: 20 88 39;
+    --color-secondary-800: rgb(var(--hb-secondary-800-rgb));
+  
+    
+    
+    
+    
+    --hb-secondary-900-rgb: 15 68 30;
+    --color-secondary-900: rgb(var(--hb-secondary-900-rgb));
+  
+    
+    
+    
+    
+    --hb-secondary-950-rgb: 9 40 18;
+    --color-secondary-950: rgb(var(--hb-secondary-950-rgb));
+  
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+  
+
+  
+  --hb-gray-500-rgb: 36 41 47;
+  --color-gray-500: rgb(var(--hb-gray-500-rgb));
+
+  
+  
+  
+    
+    
+    
+    
+    --hb-gray-50-rgb: 244 244 244;
+    --color-gray-50: rgb(var(--hb-gray-50-rgb));
+  
+    
+    
+    
+    
+    --hb-gray-100-rgb: 233 233 234;
+    --color-gray-100: rgb(var(--hb-gray-100-rgb));
+  
+    
+    
+    
+    
+    --hb-gray-200-rgb: 211 212 213;
+    --color-gray-200: rgb(var(--hb-gray-200-rgb));
+  
+    
+    
+    
+    
+    --hb-gray-300-rgb: 189 190 192;
+    --color-gray-300: rgb(var(--hb-gray-300-rgb));
+  
+    
+    
+    
+    
+    --hb-gray-400-rgb: 167 169 171;
+    --color-gray-400: rgb(var(--hb-gray-400-rgb));
+  
+
+  
+  
+  
+    
+    
+    
+    
+    --hb-gray-600-rgb: 32 36 42;
+    --color-gray-600: rgb(var(--hb-gray-600-rgb));
+  
+    
+    
+    
+    
+    --hb-gray-700-rgb: 28 32 37;
+    --color-gray-700: rgb(var(--hb-gray-700-rgb));
+  
+    
+    
+    
+    
+    --hb-gray-800-rgb: 23 26 30;
+    --color-gray-800: rgb(var(--hb-gray-800-rgb));
+  
+    
+    
+    
+    
+    --hb-gray-900-rgb: 18 20 23;
+    --color-gray-900: rgb(var(--hb-gray-900-rgb));
+  
+    
+    
+    
+    
+    --hb-gray-950-rgb: 10 12 14;
+    --color-gray-950: rgb(var(--hb-gray-950-rgb));
+  
+
+
+
+
+
+
+--color-background: #ffffff;
+--color-foreground: #24292f;
+
+
+--color-header-bg: #f6f8fa;
+--color-header-fg: #24292f;
+
+
+--color-footer-bg: #ffffff;
+--color-footer-fg: #57606a;
+
+    
+  }
+
+   
+  .dark {
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+  
+
+  
+  --hb-primary-500-rgb: 88 166 255;
+  --color-primary-500: rgb(var(--hb-primary-500-rgb));
+
+  
+  
+  
+    
+    
+    
+    
+    --hb-primary-50-rgb: 246 250 255;
+    --color-primary-50: rgb(var(--hb-primary-50-rgb));
+  
+    
+    
+    
+    
+    --hb-primary-100-rgb: 238 246 255;
+    --color-primary-100: rgb(var(--hb-primary-100-rgb));
+  
+    
+    
+    
+    
+    --hb-primary-200-rgb: 221 237 255;
+    --color-primary-200: rgb(var(--hb-primary-200-rgb));
+  
+    
+    
+    
+    
+    --hb-primary-300-rgb: 204 228 255;
+    --color-primary-300: rgb(var(--hb-primary-300-rgb));
+  
+    
+    
+    
+    
+    --hb-primary-400-rgb: 188 219 255;
+    --color-primary-400: rgb(var(--hb-primary-400-rgb));
+  
+
+  
+  
+  
+    
+    
+    
+    
+    --hb-primary-600-rgb: 79 149 229;
+    --color-primary-600: rgb(var(--hb-primary-600-rgb));
+  
+    
+    
+    
+    
+    --hb-primary-700-rgb: 70 132 204;
+    --color-primary-700: rgb(var(--hb-primary-700-rgb));
+  
+    
+    
+    
+    
+    --hb-primary-800-rgb: 57 107 165;
+    --color-primary-800: rgb(var(--hb-primary-800-rgb));
+  
+    
+    
+    
+    
+    --hb-primary-900-rgb: 44 83 127;
+    --color-primary-900: rgb(var(--hb-primary-900-rgb));
+  
+    
+    
+    
+    
+    --hb-primary-950-rgb: 26 49 76;
+    --color-primary-950: rgb(var(--hb-primary-950-rgb));
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+  
+
+  
+  --hb-secondary-500-rgb: 35 134 54;
+  --color-secondary-500: rgb(var(--hb-secondary-500-rgb));
+
+  
+  
+  
+    
+    
+    
+    
+    --hb-secondary-50-rgb: 244 248 244;
+    --color-secondary-50: rgb(var(--hb-secondary-50-rgb));
+  
+    
+    
+    
+    
+    --hb-secondary-100-rgb: 233 242 234;
+    --color-secondary-100: rgb(var(--hb-secondary-100-rgb));
+  
+    
+    
+    
+    
+    --hb-secondary-200-rgb: 211 230 214;
+    --color-secondary-200: rgb(var(--hb-secondary-200-rgb));
+  
+    
+    
+    
+    
+    --hb-secondary-300-rgb: 189 218 194;
+    --color-secondary-300: rgb(var(--hb-secondary-300-rgb));
+  
+    
+    
+    
+    
+    --hb-secondary-400-rgb: 167 206 174;
+    --color-secondary-400: rgb(var(--hb-secondary-400-rgb));
+  
+
+  
+  
+  
+    
+    
+    
+    
+    --hb-secondary-600-rgb: 31 120 48;
+    --color-secondary-600: rgb(var(--hb-secondary-600-rgb));
+  
+    
+    
+    
+    
+    --hb-secondary-700-rgb: 28 107 43;
+    --color-secondary-700: rgb(var(--hb-secondary-700-rgb));
+  
+    
+    
+    
+    
+    --hb-secondary-800-rgb: 22 87 35;
+    --color-secondary-800: rgb(var(--hb-secondary-800-rgb));
+  
+    
+    
+    
+    
+    --hb-secondary-900-rgb: 17 67 27;
+    --color-secondary-900: rgb(var(--hb-secondary-900-rgb));
+  
+    
+    
+    
+    
+    --hb-secondary-950-rgb: 10 40 16;
+    --color-secondary-950: rgb(var(--hb-secondary-950-rgb));
+  
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+  
+
+  
+  --hb-gray-500-rgb: 201 209 217;
+  --color-gray-500: rgb(var(--hb-gray-500-rgb));
+
+  
+  
+  
+    
+    
+    
+    
+    --hb-gray-50-rgb: 252 252 253;
+    --color-gray-50: rgb(var(--hb-gray-50-rgb));
+  
+    
+    
+    
+    
+    --hb-gray-100-rgb: 249 250 251;
+    --color-gray-100: rgb(var(--hb-gray-100-rgb));
+  
+    
+    
+    
+    
+    --hb-gray-200-rgb: 244 245 247;
+    --color-gray-200: rgb(var(--hb-gray-200-rgb));
+  
+    
+    
+    
+    
+    --hb-gray-300-rgb: 238 241 243;
+    --color-gray-300: rgb(var(--hb-gray-300-rgb));
+  
+    
+    
+    
+    
+    --hb-gray-400-rgb: 233 236 239;
+    --color-gray-400: rgb(var(--hb-gray-400-rgb));
+  
+
+  
+  
+  
+    
+    
+    
+    
+    --hb-gray-600-rgb: 180 188 195;
+    --color-gray-600: rgb(var(--hb-gray-600-rgb));
+  
+    
+    
+    
+    
+    --hb-gray-700-rgb: 160 167 173;
+    --color-gray-700: rgb(var(--hb-gray-700-rgb));
+  
+    
+    
+    
+    
+    --hb-gray-800-rgb: 130 135 141;
+    --color-gray-800: rgb(var(--hb-gray-800-rgb));
+  
+    
+    
+    
+    
+    --hb-gray-900-rgb: 100 104 108;
+    --color-gray-900: rgb(var(--hb-gray-900-rgb));
+  
+    
+    
+    
+    
+    --hb-gray-950-rgb: 60 62 65;
+    --color-gray-950: rgb(var(--hb-gray-950-rgb));
+  
+
+
+
+
+
+
+--color-background: #0d1117;
+--color-foreground: #c9d1d9;
+
+
+--color-header-bg: #161b22;
+--color-header-fg: #f0f6fc;
+
+
+--color-footer-bg: #0d1117;
+--color-footer-fg: #8b949e;
+
+    
+  }
+   
+</style>
+
+
+  
+  
+
+  
+  
+  
+    
+
+  
+  
+  
+  
+  
+  
+  
+    
+      
+        <link rel="stylesheet" href="/css/_entry.3bb9fe7836321069c4f3bf419a52f2f6b5b95d0b4fc7e43c4af01a7a43099bd1.css" integrity="sha256-O7n&#43;eDYyEGnE879BmlLy9rW5XQtPx&#43;Q8SvAaekMJm9E=" crossorigin="anonymous">
+      
+    
+  
+
+
+  
+
+  
+  
+  
+
+  
+
+  <script src="/js/hb-head.min.e9ff67ddf77122b225756bf5a926e24420bea2586199fddcb3b1813a009f4ee5.js" integrity="sha256-6f9n3fdxIrIldWv1qSbiRCC&#43;olhhmf3cs7GBOgCfTuU=" crossorigin="anonymous"></script>
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+    <link rel="icon" type="image/png" href="/media/icon_hu_73cb432c8090f5b.png" />
+  
+  
+  
+  
+    
+      <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_3584b9720d8f8559.png" />
+    
+  
+
+  <link rel="canonical" href="https://example.com/projects/pensamento-computacional/" />
+
+  
+  
+  
+
+  
+  
+  
+
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+    <meta property="twitter:site" content="@MakeOwnable" />
+    <meta property="twitter:creator" content="@MakeOwnable" />
+  
+  <meta property="og:site_name" content="Rodrigo Lira" />
+  <meta property="og:url" content="https://example.com/projects/pensamento-computacional/" />
+  <meta property="og:title" content="Extensão | Desenvolvimento de um Jogo para o Estímulo do Pensamento Computacional | Rodrigo Lira" />
+  <meta property="og:description" content="Projeto aprovado no PIBEX IFPE 2019" /><meta property="og:image" content="https://example.com/projects/pensamento-computacional/featured.jpg" />
+    <meta property="twitter:image" content="https://example.com/projects/pensamento-computacional/featured.jpg" /><meta property="og:locale" content="pt-br" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2019-01-01T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2019-01-01T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://example.com/projects/pensamento-computacional/"
+  },
+  "headline": "Extensão | Desenvolvimento de um Jogo para o Estímulo do Pensamento Computacional",
+  
+  "image": [
+    "https://example.com/projects/pensamento-computacional/featured.jpg"
+  ],
+  
+  "datePublished": "2019-01-01T00:00:00Z",
+  "dateModified": "2019-01-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Rodrigo Lira"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "IFPE",
+    "logo": {
+      "@type": "ImageObject",
+      "url":  null 
+    }
+  },
+  "description": "Projeto aprovado no PIBEX IFPE 2019"
+}
+</script>
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@id": "https://example.com/projects/pensamento-computacional/",
+  "@type": "WebPage",
+  "dateModified": "2019-01-01T00:00:00Z",
+  "datePublished": "2019-01-01T00:00:00Z",
+  "description": "Projeto aprovado no PIBEX IFPE 2019",
+  "inLanguage": "pt-br",
+  "isPartOf": {
+    "@id": "https://example.com/",
+    "@type": "WebSite",
+    "name": "Rodrigo Lira",
+    "url": "https://example.com/"
+  },
+  "name": "Extensão | Desenvolvimento de um Jogo para o Estímulo do Pensamento Computacional",
+  "primaryImageOfPage": {
+    "@type": "ImageObject",
+    "height": 2541,
+    "url": "https://example.com/projects/pensamento-computacional/featured.jpg",
+    "width": 2541
+  },
+  "url": "https://example.com/projects/pensamento-computacional/"
+}
+</script>
+
+
+
+  <script type="application/ld+json">
+    {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "item": {
+        "@id": "https://example.com/",
+        "name": "Rodrigo Lira"
+      },
+      "name": "Rodrigo Lira",
+      "position": 1
+    },
+    {
+      "@type": "ListItem",
+      "item": {
+        "@id": "https://example.com/projects/",
+        "name": "Projects"
+      },
+      "name": "Projects",
+      "position": 2
+    },
+    {
+      "@type": "ListItem",
+      "item": {
+        "@id": "https://example.com/projects/pensamento-computacional/",
+        "name": "Extensão | Desenvolvimento de um Jogo para o Estímulo do Pensamento Computacional"
+      },
+      "name": "Extensão | Desenvolvimento de um Jogo para o Estímulo do Pensamento Computacional",
+      "position": 3
+    }
+  ]
+}
+    </script>
+
+
+
+
+
+
+  <title>Extensão | Desenvolvimento de um Jogo para o Estímulo do Pensamento Computacional | Rodrigo Lira</title>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <style>
+    :root {
+       
+      --hb-font-size-base: 1rem;
+      --hb-font-size-scale: 1.25;
+      
+       
+      --hb-radius: 0.5rem;
+      --hb-spacing-base: 1rem;
+      --hb-spacing-section: 4rem;
+    }
+    
+    
+    @font-face {
+      font-family: 'Inter var';
+      font-style: normal;
+      font-weight: 100 900;
+      font-display: swap;
+      src: url(/dist/font/Inter.var.woff2) format(woff2);
+    }
+    
+  </style>
+
+  
+
+  
+  
+
+
+
+
+  
+  
+
+  
+  
+
+  
+
+  
+  
+    
+    
+      
+      
+      
+    
+    
+  
+
+  
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+    
+    
+      
+      
+      
+    
+    
+  
+
+  
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+    
+    
+      
+      
+      
+    
+    
+  
+
+  
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+    
+    
+      
+      
+      
+    
+      
+      
+      
+    
+      
+      
+      
+    
+      
+      
+      
+    
+    
+  
+
+  
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+  
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+  
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+  
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+    
+    
+      
+      
+      
+    
+    
+  
+
+  
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+    
+    
+      
+      
+      
+    
+      
+      
+      
+    
+      
+      
+      
+    
+      
+      
+      
+    
+      
+      
+      
+    
+    
+  
+
+  
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+  
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+  
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+  
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        
+        
+        
+
+
+
+
+
+
+
+      
+    
+  
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  <script
+    defer
+    src="/js/hugo-blox-en.min.8e67887d1e4e773521ed17aef87acbf3d4d07207c99e1e3f4d76d00fc44e7065.js"
+    integrity="sha256-jmeIfR5OdzUh7Reu&#43;HrL89TQcgfJnh4/TXbQD8ROcGU="
+  ></script>
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <script>console.log('✓ Alpine.js loading on demand');</script>
+  
+  
+  <script src="/dist/lib/alpinejs/cdn.min.e041f1b639d1e6b2fc2736d8d7638a409afcd444a6ec90446f8f4e44fa36f406.js" integrity="sha256-4EHxtjnR5rL8JzbY12OKQJr81ESm7JBEb49ORPo29AY=" defer></script>
+
+
+
+
+<script defer src="/js/hb-search.min.135366008264b9d452ff89aad28374bc7e4b40d2c047098318511786419873b0.js" integrity="sha256-E1NmAIJkudRS/4mq0oN0vH5LQNLARwmDGFEXhkGYc7A="></script>
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link type="text/css" rel="stylesheet" href="/dist/lib/katex/katex.min.19095127357ed6d29fe0a63a6b000c913a89f7f1963b765dd3715e97c9852e75.css" integrity="sha256-GQlRJzV&#43;1tKf4KY6awAMkTqJ9/GWO3Zd03Fel8mFLnU=" />
+  
+  
+  <script defer src="/dist/lib/katex/katex.min.e8d885505949f3a5f4abdd5dd0d53696bd1371ad26ffbf4f310dcd77c8cdae89.js" integrity="sha256-6NiFUFlJ86X0q91d0NU2lr0Tca0m/79PMQ3Nd8jNrok="></script>
+  
+  
+  
+  
+  <script defer src="/js/katex-renderer.7bdcf3f3f669a04734c54d2fe7c91a2d07b44e4ec8f1ea72384893db11a740eb.js" integrity="sha256-e9zz8/ZpoEc0xU0v58kaLQe0Tk7I8epyOEiT2xGnQOs="></script>
+  
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+      
+        
+        <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+        
+      
+    
+  
+
+
+
+
+</head>
+
+  <body class="bg-[var(--color-background)] text-[var(--color-foreground)] page-wrapper" id="top">
+    <div id="page-bg"></div>
+    <div class="page-header sticky top-0 z-30">
+      
+      
+      
+        
+          
+
+<header id="site-header" class="header">
+  <nav class="navbar px-3 flex justify-start">
+    <div class="order-0 h-full">
+      
+      <a class="navbar-brand" href="/" title="Rodrigo Lira">
+        
+        
+        
+        Rodrigo Lira
+      </a>
+    </div>
+    
+    <input id="nav-toggle" type="checkbox" class="hidden" />
+    <label
+      for="nav-toggle"
+      class="order-3 cursor-pointer flex items-center lg:hidden text-[var(--color-header-fg)] lg:order-1">
+      <svg id="show-button" class="h-6 fill-current block" viewBox="0 0 20 20">
+        <title>Open Menu</title>
+        <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z"></path>
+      </svg>
+      <svg id="hide-button" class="h-6 fill-current hidden" viewBox="0 0 20 20">
+        <title>Close Menu</title>
+        <polygon
+          points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2"
+          transform="rotate(45 10 10)"></polygon>
+      </svg>
+    </label>
+    
+
+    
+    
+    <ul
+      id="nav-menu"
+      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 justify-start
+      ">
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/"
+        >Home</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/publications/"
+        >Publicações</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/events/"
+        >Palestras</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/blog/"
+        >Blog</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/projects/"
+        >Projetos</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/downloads/"
+        >Downloads</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/#contact"
+        >Contato</a
+        >
+      </li>
+      
+      
+      
+    </ul>
+
+    <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
+
+      
+      
+      
+      <button
+        aria-label="toggle search"
+        class="inline-block px-3 text-xl text-[var(--color-header-fg)] hover:text-primary-500 cursor-pointer"
+        data-search-toggle>
+        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
+      </button>
+      
+
+      
+      
+      <div class="px-3 text-[var(--color-header-fg)] hover:text-primary-500
+            [&.active]:font-bold [&.active]:text-primary-500">
+        <button class="theme-toggle mt-1" accesskey="t" title="appearance">
+          <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+               fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+               stroke-linejoin="round" class="block dark:hidden">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+          <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+               fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+               stroke-linejoin="round" class="hidden dark:block">
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+          </svg>
+        </button>
+      </div>
+      
+
+      
+      
+
+      
+      
+
+      
+      
+    </div>
+  </nav>
+</header>
+
+
+<div
+  x-data="searchModal()"
+  x-show="$store.search.open"
+  @keydown.escape.window="$store.search.open = false"
+  @keydown.cmd.k.window.prevent="$store.search.open = !$store.search.open"
+  @keydown.ctrl.k.window.prevent="$store.search.open = !$store.search.open"
+  x-cloak
+  class="fixed inset-0 z-[100] bg-black/50 backdrop-blur-sm"
+  style="display: none;"
+>
+  
+  <div class="absolute inset-0" @click="$store.search.open = false"></div>
+  
+  
+  <div 
+    class="relative mx-auto mt-[10vh] max-w-3xl"
+    x-show="$store.search.open"
+    x-transition:enter="transition ease-out duration-200"
+    x-transition:enter-start="opacity-0 translate-y-4 scale-95"
+    x-transition:enter-end="opacity-100 translate-y-0 scale-100"
+    x-transition:leave="transition ease-in duration-150"
+    x-transition:leave-start="opacity-100 translate-y-0 scale-100"
+    x-transition:leave-end="opacity-0 translate-y-4 scale-95"
+  >
+    <div class="mx-4 overflow-hidden rounded-2xl bg-white dark:bg-gray-900 shadow-2xl ring-1 ring-gray-900/10 dark:ring-white/10">
+      
+      
+      <div class="border-b border-gray-200 dark:border-gray-800">
+        <div class="flex items-center gap-3 px-4 py-3">
+          
+          
+          <svg class="h-5 w-5 flex-shrink-0 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+          </svg>
+          
+          
+          <input
+            x-ref="searchInput"
+            x-model="query"
+            @input="loading = query.trim() !== ''"
+            @input.debounce.300ms="search()"
+            type="text"
+            placeholder="Search for answers..."
+            class="flex-1 bg-transparent text-lg outline-none text-gray-900 dark:text-gray-100 placeholder-gray-400"
+            autocomplete="off"
+            autofocus
+          />
+          
+          
+          <div x-show="loading" class="flex-shrink-0">
+            <svg class="animate-spin h-5 w-5 text-primary-600" fill="none" viewBox="0 0 24 24">
+              <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+              <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+            </svg>
+          </div>
+          
+          
+          <kbd class="hidden sm:block flex-shrink-0 rounded bg-gray-100 px-2 py-1 text-xs font-semibold text-gray-600 dark:bg-gray-800 dark:text-gray-400">ESC</kbd>
+          
+          
+    <button
+            @click="$store.search.open = false"
+            class="flex-shrink-0 rounded-lg p-1 text-gray-400 hover:bg-gray-100 hover:text-gray-600 dark:hover:bg-gray-800 dark:hover:text-gray-300 cursor-pointer"
+    >
+            <svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+      </svg>
+    </button>
+  </div>
+
+        
+        <div x-show="query && availableFilters.length > 0" x-transition class="border-t border-gray-100 dark:border-gray-800 px-4 py-2">
+          <div class="flex flex-wrap gap-2">
+            <button
+              @click="activeFilter = null; search()"
+              :class="activeFilter === null ? 'bg-primary-100 text-primary-700 dark:bg-primary-900 dark:text-primary-300' : 'bg-gray-100 text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-400'"
+              class="rounded-full px-3 py-1 text-xs font-medium transition-colors cursor-pointer"
+            >
+              All Results
+            </button>
+            <template x-for="filter in availableFilters" :key="filter.filterKey">
+              <button
+                @click="activeFilter = filter.filterKey; search()"
+                :class="activeFilter === filter.filterKey ? 'bg-primary-100 text-primary-700 dark:bg-primary-900 dark:text-primary-300' : 'bg-gray-100 text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-400'"
+                class="rounded-full px-3 py-1 text-xs font-medium transition-colors cursor-pointer"
+                x-text="filter.label + ' (' + filter.count + ')'"
+              ></button>
+            </template>
+          </div>
+        </div>
+      </div>
+      
+      
+      <div class="max-h-[60vh] overflow-y-auto">
+        
+        
+        <div x-show="!query && results.length === 0" class="p-6">
+          
+          
+          
+          
+          
+          
+          
+          
+        </div>
+        
+        
+        <div x-show="query && results.length > 0" class="divide-y divide-gray-200 dark:divide-gray-800">
+          <template x-for="(result, index) in results" :key="result.id">
+            <a
+              :href="result.url"
+              @mouseenter="selectedIndex = index"
+              @click="$store.search.open = false"
+              :class="selectedIndex === index ? 'bg-primary-50 dark:bg-primary-900/20 border-l-2 border-primary-600' : ''"
+              class="block px-6 py-4 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors group search-result"
+            >
+              
+              <div class="flex items-center gap-2 mb-2 flex-wrap">
+                
+                <span
+                  x-show="result.filters && result.filters.type"
+                  :class="{
+                    'bg-primary-100 text-primary-700 dark:bg-primary-900 dark:text-primary-300': result.filters.type && result.filters.type[0] === 'questions',
+                    'bg-green-100 text-green-700 dark:bg-green-900 dark:text-green-300': result.filters.type && result.filters.type[0] === 'faq',
+                    'bg-blue-100 text-blue-700 dark:bg-blue-900 dark:text-blue-300': result.filters.type && result.filters.type[0] === 'docs'
+                  }"
+                  class="inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium"
+                  x-text="result.filters.type ? (typeLabels[result.filters.type[0]] || result.filters.type[0]) : ''"
+                ></span>
+                
+                
+                <span 
+                  x-show="result.filters && result.filters.category" 
+                  class="inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300"
+                  x-text="result.filters.category ? result.filters.category[0] : ''"
+                ></span>
+                
+                
+                <span 
+                  x-show="result.filters && result.filters.difficulty" 
+                  class="inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium bg-amber-100 text-amber-700 dark:bg-amber-900 dark:text-amber-300"
+                  x-text="result.filters.difficulty ? result.filters.difficulty[0] : ''"
+                ></span>
+              </div>
+              
+              
+              <h3 class="text-lg font-semibold text-gray-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors mb-2" x-html="result.meta.title || 'Untitled'"></h3>
+              
+              
+              <p class="text-sm text-gray-600 dark:text-gray-400 line-clamp-2" x-html="result.excerpt"></p>
+            </a>
+          </template>
+        </div>
+        
+        
+        <div x-show="query && loading" class="px-6 py-16 text-center">
+          <div class="inline-flex items-center gap-3">
+            <svg class="animate-spin h-8 w-8 text-primary-600" fill="none" viewBox="0 0 24 24">
+              <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+              <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+            </svg>
+            <div class="text-left">
+              <p class="text-lg font-medium text-gray-900 dark:text-white">Searching...</p>
+              <p class="text-sm text-gray-500 dark:text-gray-400" x-text="'Finding results for &quot;' + query + '&quot;'"></p>
+            </div>
+          </div>
+        </div>
+        
+        
+        <div x-show="query && results.length === 0 && !loading && hasSearched" class="px-6 py-12 text-center">
+          <svg class="mx-auto h-12 w-12 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+          </svg>
+          <h3 class="mt-4 text-lg font-semibold text-gray-900 dark:text-white">No results found</h3>
+          <p class="mt-2 text-gray-600 dark:text-gray-400" x-text="'No results for &quot;' + query + '&quot;'"></p>
+          <button
+            @click="query = ''; $refs.searchInput.focus()"
+            class="mt-4 text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300 font-medium"
+          >
+            Clear search
+          </button>
+        </div>
+      </div>
+      
+      
+      <div class="border-t border-gray-200 dark:border-gray-800 px-4 py-3 bg-gray-50 dark:bg-gray-900/50">
+        <div class="flex items-center justify-between text-xs text-gray-500 dark:text-gray-400">
+          <div class="flex items-center gap-3">
+            <span class="flex items-center gap-1">
+              <kbd class="rounded bg-white dark:bg-gray-800 px-1.5 py-0.5 font-mono text-[10px] font-semibold border border-gray-300 dark:border-gray-700">↑↓</kbd>
+              Navigate
+            </span>
+            <span class="flex items-center gap-1">
+              <kbd class="rounded bg-white dark:bg-gray-800 px-1.5 py-0.5 font-mono text-[10px] font-semibold border border-gray-300 dark:border-gray-700">↵</kbd>
+              Select
+            </span>
+            <span x-show="availableFilters.length > 0" class="flex items-center gap-1">
+              <svg class="h-3 w-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z"></path>
+              </svg>
+              <span x-text="availableFilters.length + ' filters'"></span>
+            </span>
+          </div>
+          <a href="https://hugoblox.com" target="_blank" rel="noopener" class="flex items-center gap-1 hover:text-primary-600 dark:hover:text-primary-400 transition-colors">
+            <svg class="h-3 w-3" fill="currentColor" viewBox="0 0 24 24">
+              <path d="M13 10V3L4 14h7v7l9-11h-7z"/>
+            </svg>
+            Powered by Hugo Blox
+          </a>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+<script>
+  
+  function searchModal() {
+    return {
+      query: '',
+      results: [],
+      loading: false,
+      hasSearched: false,  
+      selectedIndex: -1,
+      activeFilter: null,
+      availableFilters: [],
+      allFilters: [],
+      trendingSearches: "[\"Search term 1\",\"Search term 2\"]",
+      pagefind: null,
+      pagefindModulePath: window.hbb?.assetPaths?.pagefind ?? '/pagefind/pagefind.js',
+      
+      
+      typeLabels: {
+        'questions': "\"Questions\"",
+        'faq': "\"FAQ\"",
+        'docs': "\"Documentation\""
+      },
+      
+      async init() {
+        
+        try {
+          this.pagefind = await import(this.pagefindModulePath);
+          await this.pagefind.init();
+          console.log('✓ Pagefind initialized');
+          
+          
+          await this.loadFilters();
+        } catch (error) {
+          console.error('Failed to initialize Pagefind:', error);
+        }
+        
+        
+        this.$watch('$store.search.open', (open) => {
+          if (open) {
+            this.$nextTick(() => this.$refs.searchInput?.focus());
+            document.body.style.overflow = 'hidden';
+          } else {
+            document.body.style.overflow = '';
+            this.query = '';
+            this.results = [];
+            this.selectedIndex = -1;
+            this.hasSearched = false;  
+          }
+        });
+        
+        
+        window.addEventListener('keydown', (e) => {
+          if (!this.$store.search.open || this.results.length === 0) return;
+          
+          if (e.key === 'ArrowDown') {
+            e.preventDefault();
+            this.selectedIndex = this.selectedIndex < this.results.length - 1 ? this.selectedIndex + 1 : 0;
+            this.scrollToSelected();
+          } else if (e.key === 'ArrowUp') {
+            e.preventDefault();
+            this.selectedIndex = this.selectedIndex > 0 ? this.selectedIndex - 1 : this.results.length - 1;
+            this.scrollToSelected();
+          } else if (e.key === 'Enter' && this.selectedIndex >= 0) {
+            e.preventDefault();
+            const selected = this.results[this.selectedIndex];
+            if (selected) {
+              window.location.href = selected.url;
+              this.$store.search.open = false;
+            }
+          }
+        });
+      },
+      
+      scrollToSelected() {
+        this.$nextTick(() => {
+          const selectedEl = document.querySelector('.search-result:nth-child(' + (this.selectedIndex + 1) + ')');
+          if (selectedEl) {
+            selectedEl.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+          }
+        });
+      },
+
+      buildFilters(filterIndex) {
+        const filters = [];
+
+        if (filterIndex?.type) {
+          Object.entries(filterIndex.type).forEach(([value, count]) => {
+            filters.push({
+              category: 'type',
+              value,
+              label: this.typeLabels[value] || value.charAt(0).toUpperCase() + value.slice(1),
+              count,
+              filterKey: `type:${value}`
+            });
+          });
+        }
+
+        if (filterIndex?.category) {
+          Object.entries(filterIndex.category).forEach(([value, count]) => {
+            filters.push({
+              category: 'category',
+              value,
+              label: value,
+              count,
+              filterKey: `category:${value}`
+            });
+          });
+        }
+
+        if (filterIndex?.difficulty) {
+          Object.entries(filterIndex.difficulty).forEach(([value, count]) => {
+            filters.push({
+              category: 'difficulty',
+              value,
+              label: value,
+              count,
+              filterKey: `difficulty:${value}`
+            });
+          });
+        }
+
+        return filters;
+      },
+
+      mergeFilterCounts(filterCounts) {
+        if (!this.allFilters.length) {
+          return [];
+        }
+
+        return this.allFilters.map((filter) => {
+          const count = filterCounts?.[filter.category]?.[filter.value];
+          return {
+            ...filter,
+            count: typeof count === 'number' ? count : 0
+          };
+        });
+      },
+      
+      async search() {
+        if (!this.query.trim()) {
+          this.results = [];
+          this.hasSearched = false;
+          return;
+        }
+        
+        this.loading = true;
+        this.hasSearched = false;  
+        
+        try {
+          const options = {};
+          
+          
+          if (this.activeFilter) {
+            const [filterCategory, filterValue] = this.activeFilter.split(':');
+            options.filters = { [filterCategory]: filterValue };
+          }
+          
+          const search = await this.pagefind.search(this.query, options);
+          console.log('Search results:', search);
+          console.log('Search filters:', search.filters);
+          
+          
+          this.results = await Promise.all(
+            search.results.slice(0, 10).map(async (result) => {
+              const data = await result.data();
+              console.log('Result data:', data);
+              return {
+                id: data.url,
+                url: data.url,
+                meta: data.meta,
+                excerpt: data.excerpt,
+                filters: data.filters || {}
+              };
+            })
+          );
+
+          const filterCounts = search.totalFilters || search.filters || {};
+
+          if (this.allFilters.length) {
+            this.availableFilters = this.mergeFilterCounts(filterCounts);
+          } else {
+            this.availableFilters = this.buildFilters(filterCounts);
+          }
+          console.log('Final availableFilters array:', this.availableFilters);
+          
+          
+          if (this.results.length > 0) {
+            this.selectedIndex = 0;
+          }
+        } catch (error) {
+          console.error('Search error:', error);
+          this.results = [];
+        } finally {
+          this.loading = false;
+          this.hasSearched = true;  
+        }
+      },
+      
+      async loadFilters() {
+        
+        try {
+          const filterIndex = await this.pagefind.filters();
+          console.log('Available Pagefind filters:', filterIndex);
+
+          const filters = this.buildFilters(filterIndex);
+          this.allFilters = filters;
+          this.availableFilters = filters;
+          console.log('Processed filters:', this.availableFilters);
+        } catch (error) {
+          console.error('Failed to load filters:', error);
+        }
+      }
+    };
+  }
+  
+  
+  document.addEventListener('alpine:init', () => {
+    Alpine.store('search', {
+      open: false
+    });
+  });
+</script>
+
+<style>
+  [x-cloak] { display: none !important; }
+</style>
+
+
+        
+      
+    </div>
+    
+    <div class="page-body  my-10">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="mx-auto flex max-w-screen-xl">
+  
+
+
+
+<aside class="hb-sidebar-container max-lg:[transform:translate3d(0,-100%,0)] lg:hidden xl:block">
+  
+  <div class="px-4 pt-4 lg:hidden">
+    
+    
+  </div>
+  <div class="hb-scrollbar lg:h-[calc(100vh-var(--navbar-height))]">
+    <ul class="flex flex-col gap-1 lg:hidden">
+      
+      
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/news/"
+    
+  >Notícias
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a><div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/news/exemplo/"
+    
+  >exemplo
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/news/noticias/"
+    
+  >noticias
+    </a>
+              
+            </li></ul>
+      </div></li>
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/"
+    
+  >Publications
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a><div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2025/snptee/"
+    
+  >Estratégias de combinação Não-Supervisionadas para Detecção de Contextual de Anomalias em Aerogeradores
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2025/bracis/"
+    
+  >A Multidimensional Analysis of Swarm Dynamics in a Reinforcement Learning-based Metaheuristic
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2025/wcama/"
+    
+  >DroneShark Dataset: Um Conjunto de Imagens Aéreas para Detecção de Tubarões
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2025/complenet/"
+    
+  >Revealing Swarm Intelligence Patterns using Network Science (abstract)
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2024/anprotec/"
+    
+  >INOVA ID RS: Uma Federação de Identidade Aderente ao Ecossistema de Inovação Gaúcho
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2024/ccs/"
+    
+  >Unpacking heterogeneities of Swarm Intelligence using Network Science (abstract)
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2024/brazil-windpower/"
+    
+  >Detecção de Anomalias em Rolamento de Aerogeradores Baseada em Modelos Não Supervisionados
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2024/lacci/"
+    
+  >Exploring Social Dynamics in a Reinforcement Learning-based Metaheuristic: A study using Improvement Frequency and Population Turnover
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2024/encompif/"
+    
+  >Avaliando o Desempenho de Modelos Generativos de Dados para Classificação de Notícias Falsas
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2024/complenet/"
+    
+  >Social Interactions Matter: Is Grey Wolf Optimizer a Particle Swarm Optimization Variation?
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/journal/praxis2023-b/"
+    
+  >Popularização e Democratização da Inteligência Artificial no Nordeste Brasileiro: Um Relato de Experiência
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/journal/nature-human-behaviour-2023/"
+    
+  >Understanding political divisiveness using online participation data from the 2022 French and Brazilian presidential elections
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2023/lacci/"
+    
+  >Applying Reinforcement Learning to Combine Multiple Swarm-based Algorithms
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2023/cbic/"
+    
+  >Volitive Grey Wolf Optimizer
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2023/bracis/"
+    
+  >Applying Reinforcement Learning for Multiple Functions in Swarm Intelligence
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2023/wgid/"
+    
+  >INOVA ID RS: Desenvolvimento de um Sistema de Gestão de Identidade Federada Aderente ao Ecossistema de Inovação Rio Grande do Sul
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2023/ctrle/"
+    
+  >Desenvolvimento de um Advergame para a Divulgação Institucional
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2023/icsi/"
+    
+  >Integrating Reinforcement Learning and Optimization Task: Evaluating an Agent to Dynamically Select PSO Communication Topology
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/journal/praxis2023-a/"
+    
+  >Um Relato sobre a criação de um clube de xadrez no campus Palmares do IFPE
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2022/lacci2022/"
+    
+  >Boolean Binary Grey Wolf Optimizer
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/journal/ieeeaccess-2021/"
+    
+  >Overview on Binary Optimisation using Swarm-inspired Algorithms
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2021/lacci2021/"
+    
+  >Modelling the Social Interactions in Grey Wolf Optimizer
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/journal/jidm-2021/"
+    
+  >Analysis of Distinct Feature Groups in the Credit Scoring Problem
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2021/gecco2021/"
+    
+  >Fishing for Interactions: A Network Science Approach to Modeling Fish School Search
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2021/cotb2021/"
+    
+  >Construção de um Jogo Usando Robótica para a Formação de Habilidades de Programação em Crianças
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2020/kdmile2020/"
+    
+  >Impact of Unusual Features in Credit Scoring Problem
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/book/chapter-fss/"
+    
+  >Handbook of AI-based Metaheuristics: Chapter 2 - Fish School Search: Account for the First Decade
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/book/book-2016/"
+    
+  >Políticas Adaptativas para um Algoritmo de Roteamento em Redes Ópticas
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2011/imoc-11a/"
+    
+  >An adaptive-alternative routing algorithm for all-optical networks
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2019/ctrle2019/"
+    
+  >Desenvolvimento de um Jogo Utilizando Robótica para o Estímulo do Pensamento Computacional
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/journal/pnc-2018/"
+    
+  >An adaptive–alternative restoration algorithm for optical networks
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2018/connepi2018/"
+    
+  >RELATO DO USO DO SUPERLOGO E DO SCRATCH EM UMA DISCIPLINA DE INTRODUÇÃO A INFORMÁTICA
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/journal/sinforme-2016/"
+    
+  >Um Panorama dos Sistemas Operacionais Livres para Ambiente Um Panorama dos Sistemas Operacionais Livres para Ambiente Educacionais com Suporte a Língua Portuguesa
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/thesis/msc2014/"
+    
+  >Um algoritmo adaptativo alternativo para restauração em redes ópticas transparentes
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2014/momag2014/"
+    
+  >Um Algoritmo Adaptativo-Alternativo para Restauração em Redes Ópticas
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/thesis/bsc2013/"
+    
+  >POLÍTICAS BASEADAS NA OSNR PARA UM ALGORITMO DE ROTEAMENTO ADAPTATIVO-ALTERNATIVO APLICADO A REDES ÓPTICAS TRANSPARENTES
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2013/icton2013/"
+    
+  >An adaptive path restoration algorithm based on power series routing for all-optical networks
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/journal/jmoe-2013/"
+    
+  >Comparing OSNR based policies for an adaptive-alternative IA-RWA algorithm applied to all-optical networks
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2013/imoc-2013/"
+    
+  >The NrPSR-Elastic routing algorithm for flexible grid optical networks
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2012/sbrt2012/"
+    
+  >On the Performance Analysis of Different Link to Path Restoration Schemes for All-Optical Networks
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2012/momag2012/"
+    
+  >OSNR based Adaptive-Alternative IA-RWA Algorithm for All-Optical Networks
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/journal/ieeela-2012/"
+    
+  >OSNR-based restoration algorithm for optical network resilience to node failures
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2011/imoc-11b/"
+    
+  >A novel double-link failure restoration algorithm based on optical signal-to-noise ratio for all-optical networks
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2011/sbrt2011/"
+    
+  >A Novel Restoration Algorithm Based on Optical Signal-to-Noise Ratio for Transparent Optical Networks
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/publications/conference/2011/laticom2011/"
+    
+  >Optical signal-to-noise ratio restoration algorithm applied to optical network resilience to node failures
+    </a>
+              
+            </li></ul>
+      </div></li>
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/courses/"
+    
+  >Courses
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a><div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/courses/hugo-blox/"
+    
+  >Hugo Blox
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a>
+              <div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/courses/hugo-blox/getting-started/"
+    
+  >Getting Started
+    </a>
+              
+            </li><li class="flex flex-col open"><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/courses/hugo-blox/guide/"
+    
+  >Guide
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a>
+              <div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/courses/hugo-blox/guide/project-structure/"
+    
+  >Project Structure
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/courses/hugo-blox/guide/configuration/"
+    
+  >Configuration
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/courses/hugo-blox/guide/formatting/"
+    
+  >Formatting
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a>
+              <div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/courses/hugo-blox/guide/formatting/media/"
+    
+  >Embed Media
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/courses/hugo-blox/guide/formatting/button/"
+    
+  >Buttons
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/courses/hugo-blox/guide/formatting/callout/"
+    
+  >Callouts
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/courses/hugo-blox/guide/formatting/cards/"
+    
+  >Cards
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/courses/hugo-blox/guide/formatting/toggle/"
+    
+  >Spoilers
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/courses/hugo-blox/guide/formatting/steps/"
+    
+  >Steps
+    </a>
+              
+            </li></ul>
+      </div>
+            </li></ul>
+      </div>
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/courses/hugo-blox/reference/"
+    
+  >Reference
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a>
+              <div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/courses/hugo-blox/reference/customization/"
+    
+  >Customization
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/courses/hugo-blox/reference/i18n/"
+    
+  >Internationalization (i18n)
+    </a>
+              
+            </li></ul>
+      </div>
+            </li></ul>
+      </div>
+            </li></ul>
+      </div></li>
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/"
+    
+  >Blog
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a><div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2025/consup-2025/"
+    
+  >IFPE empossa novos/as conselheiros/as do Consup para biênio 2025-2027
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2024/encompif-2024/"
+    
+  >Artigo escrito por aluno do IFPE recebe o prêmio de melhor artigo no Encontro Nacional de Computação dos Institutos Federais
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2023/nature-article/"
+    
+  >Docente e estudantes da UPE publicam artigo na Revista Nature, em colaboração com pesquisadores da Universidade de Toulouse
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2023/rl-material/"
+    
+  >Material sobre Reinforcement Learning
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2023/nature-abstract/"
+    
+  >Nature Abstract
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2023/implantacao-django/"
+    
+  >Passo a Passo para Implantação de Aplicação Django na AWS
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2023/ia-uteis/"
+    
+  >IAs Úteis ao público geral
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2022/qual-idade-dos-meus-filhos/"
+    
+  >Qual idade dos meus filhos?
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2022/app-monitoramento-ninho-tartarugas/"
+    
+  > Aplicação Web para Monitoramento dos Ninhos de Tartarugas Marinhas no Litoral da Cidade de Paulista (PE)
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2022/gwo-in-a-nutsshell/"
+    
+  >Grey Wolf Optimizer in a nutshell
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2022/updating-sqlite-amazon-linux-2/"
+    
+  >Atualizando o SQLITE no Amazon Linux 2
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2021/oficina40/"
+    
+  >Cinco projetos do IFPE são aprovados no edital Oficinas 4.0 da Setec
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2021/pet-facepe-encerramento-2021/"
+    
+  >Apresentação do projeto &#39;Capacitação tecnológica em .NET do IFPE/SIDI&#39; no Seminário de Integração e Avaliação do Programa de Extensão Tecnológica
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2021/apresentacao-brumadinho/"
+    
+  >Apresentação de projeto na Câmara Municipal de Brumadinho
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2021/act-softex-recife/"
+    
+  >Acordo de Cooperação Técnica entre o IFPE Paulista e o Softex Recife
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2021/certificacoes-agosto/"
+    
+  >Huawei HCIA-AI e a AWS Solutions Architect
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2021/lacci2021/"
+    
+  >Publicação no Latin America Conference on Computational Intelligence (LA-CCI 2021)
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2021/curso-inf-basica/"
+    
+  >IFPE promove curso de informática básica para povos do campo e territórios quilombolas
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2021/pet-facepe-2021/"
+    
+  >Capacitação tecnológica em .NET do IFPE/SIDI
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2021/git-cheat-sheet/"
+    
+  >Git Cheat Sheet
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2021/jidm2021/"
+    
+  >Publicação no Journal of Information and Data Management (JIDM 2021)
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2021/cmd-screen/"
+    
+  >Como manter o processo mesmo após sair da sessão
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2021/cotb2021/"
+    
+  >Publicação no Computer on the Beach (COTB 2020)
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2021/cloud-practitioner/"
+    
+  >Accredited Educator da AWS Academy
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2020/kdmile2020/"
+    
+  >Publicação no Symposium on Knowledge Discovery, Mining and Learning (KDMiLe 2020)
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2020/elefante-von-neumann/"
+    
+  >O elefante de Von Neumann
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2020/usando-netlogo-para-simular-transmissao-covid19/"
+    
+  >Usando o Netlogo para simular a transmissão do coronavírus
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2020/projeto-easyeda/"
+    
+  >Desenvolvimento de uma placa PCB para fins educacionais
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2020/novo-site/"
+    
+  >Hello World!
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/blog/2021/clube-xadrez/"
+    
+  >Clube de Xadrez do IFPE Palmares
+    </a>
+              
+            </li></ul>
+      </div></li>
+        <li class="open"><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/projects/"
+    
+  >Projects
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a><div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/projects/jogo-confederacao-equador/"
+    
+  >Extensão | Revolução de 1824 - Uma viagem digital pela Confederação do Equador
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/projects/jogo-ifpe/"
+    
+  >Extensão | Um jogo para divulgação do IFPE Campus Paulista
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/projects/rl-mh/"
+    
+  >Inteligência de enxames com aprendizado de máquina por reforço para resolução de problemas de otimização
+    </a>
+              
+            </li><li class="flex flex-col open"><a
+    class="hb-sidebar-custom-link
+      sidebar-active-item bg-primary-100 font-semibold text-primary-800 dark:bg-primary-300 dark:text-primary-900"
+    href="/projects/pensamento-computacional/"
+    
+  >Extensão | Desenvolvimento de um Jogo para o Estímulo do Pensamento Computacional
+    </a>
+  
+    <ul class="hb-sidebar-mobile-toc"><li>
+              <a
+                href="#jogo-desenvolvido-no-pibex-2019"
+                class="hb-docs-link"
+              >Jogo Desenvolvido no PIBEX 2019</a>
+            </li>
+          <li>
+              <a
+                href="#v%c3%addeo-de-apresenta%c3%a7%c3%a3o-do-encontro-de-extensionista-do-ifpe-2020"
+                class="hb-docs-link"
+              >Vídeo de apresentação do Encontro de Extensionista do IFPE 2020</a>
+            </li>
+          <li>
+              <a
+                href="#imagens-do-rob%c3%b4-desenvolvido"
+                class="hb-docs-link"
+              >Imagens do robô desenvolvido</a>
+            </li>
+          <li>
+              <a
+                href="#apresenta%c3%a7%c3%a3o-no-computer-on-de-beach-2021"
+                class="hb-docs-link"
+              >Apresentação no Computer On de Beach 2021</a>
+            </li>
+          </ul>
+  
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/projects/sistema-monitoramento/"
+    
+  >Sistema de Monitoramento em Tempo Real de Qualidade de Água de um Rio
+    </a>
+              
+            </li></ul>
+      </div></li>
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/slides/"
+    
+  >Slides
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a><div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/slides/example/"
+    
+  >Example Talk: Recent Work
+    </a>
+              
+            </li></ul>
+      </div></li>
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/experience/"
+    
+  >Experience
+    </a></li>
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/downloads/"
+    
+  >Downloads
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a><div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/downloads/robo-pcb/"
+    
+  >Placa robô para soldagem e ensino de programação com Arduino
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/downloads/chaveiro-ifpe/"
+    
+  >Chaveiro do IFPE para impressão 3d
+    </a>
+              
+            </li></ul>
+      </div></li>
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/events/"
+    
+  >Recent &amp; Upcoming Talks
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a><div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/events/example/"
+    
+  >Create Beautiful Presentations with Markdown
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/events/2023/bracis2023/"
+    
+  >Applying Reinforcement Learning for Multiple Functions in Swarm Intelligence
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/events/2023/lacci2023/"
+    
+  >Applying Reinforcement Learning to Combine Multiple Swarm-based Algorithms
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/events/ads-magna/"
+    
+  >Apresentação do curso ADS (IFPE Campus Paulista)
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/events/apresentacao-brumadinho/"
+    
+  >Apresentação do projeto aprovado na chamada pública Mover-se na Web - Articulação Pró-Brumadinho
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/events/2022/lacci2022/"
+    
+  >Boolean Binary Grey Wolf Optimizer
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/events/snctsema/"
+    
+  >Computação Bioinspirada
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/events/2021/cotb2021/"
+    
+  >Construção de um Jogo Usando Robótica para a Formação de Habilidades de Programação em Crianças
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/events/2024/wcda2024-banner/"
+    
+  >Desenvolvimento de modelos de aprendizado de máquina para simulação e otimização de controles térmicos em planta automotiva
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/events/2023/ctrle2023/"
+    
+  >Desenvolvimento de um Advergame para a Divulgação Institucional
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/events/2020/ctrel2020/"
+    
+  >Desenvolvimento de um Jogo Utilizando Robótica para o Estı́mulo do Pensamento Computacional
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/events/2025/wcama/"
+    
+  >DroneShark Dataset: Um Conjunto de Imagens Aéreas para Detecção de Tubarões
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/events/2024/lacci2024/"
+    
+  >Exploring Social Dynamics in a Reinforcement Learning-based Metaheuristic - A study using Improvement Frequency and Population Turnover
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/events/2024/wrnp/"
+    
+  >INOVA ID RS
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/events/2023/icsi2023/"
+    
+  >Integrating Reinforcement Learning and Optimization Task - Evaluating an Agent to Dynamically Select PSO Communication Topology
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/events/2021/lacci2021/"
+    
+  >Modelling the Social Interactions in Grey Wolf Optimizer
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/events/2022/snct2022/"
+    
+  >Oportunidades em Editais Externos de Pesquisa e Extensão Tecnológica
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/events/2024/wcda2024-mesa/"
+    
+  >Otimização Energética
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/events/2025/facepe-seminario-confederao-equador/"
+    
+  >Revolução de 1824: Uma viagem digital pela Confederação do Equador
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/events/2020/summerexperience2020/"
+    
+  >Sistemas Inteligentes - Inovação e o seu papel no novo mundo
+    </a>
+              
+            </li></ul>
+      </div></li>
+    </ul>
+
+    <div class="max-xl:hidden h-0 w-64 shrink-0"></div></div>
+
+</aside>
+  
+
+<nav class="hb-toc order-last hidden w-64 shrink-0 xl:block print:hidden px-4" aria-label="table of contents">
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  <div class="hb-scrollbar text-sm [hyphens:auto] sticky top-16 overflow-y-auto pr-4 pt-6 max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] -mr-4 rtl:-ml-4"><p class="mb-4 font-semibold tracking-tight">On this page</p><ul>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#jogo-desenvolvido-no-pibex-2019">Jogo Desenvolvido no PIBEX 2019</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#v%c3%addeo-de-apresenta%c3%a7%c3%a3o-do-encontro-de-extensionista-do-ifpe-2020">Vídeo de apresentação do Encontro de Extensionista do IFPE 2020</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#imagens-do-rob%c3%b4-desenvolvido">Imagens do robô desenvolvido</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#apresenta%c3%a7%c3%a3o-no-computer-on-de-beach-2021">Apresentação no Computer On de Beach 2021</a>
+      </li></ul>
+
+  
+  
+    
+    
+  
+
+
+
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  </div>
+  </nav>
+
+
+  <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
+    <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
+
+      
+
+      
+      
+      
+      
+
+      <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100" data-pagefind-meta="title" data-pagefind-body>
+        
+        Extensão | Desenvolvimento de um Jogo para o Estímulo do Pensamento Computacional
+      </h1>
+
+      
+      <div class="mt-4 mb-16">
+      <div class="text-gray-500 dark:text-gray-300 text-sm flex items-center flex-wrap gap-y-2"><span class="mr-1">Jan 1, 2019</span>
+        
+
+        
+
+        
+        <span class="mx-1">·</span>
+        <span class="mx-1">
+          3 min read
+        </span>
+        
+        </div>
+
+        <div class="mt-3">
+          
+
+
+
+
+        </div>
+      </div>
+
+
+
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+
+      
+      
+      
+      
+      
+      
+      
+        
+        
+        
+      
+      
+      
+      
+        
+        
+        
+          
+        
+        
+        
+        
+        
+        <div class="article-header article-container featured-image-wrapper mt-4 mb-16" style="max-width: 720px; max-height: 720px;">
+          <div style="position: relative">
+            <img srcset="/projects/pensamento-computacional/featured_hu_3eafd19972517f6b.webp 320w, /projects/pensamento-computacional/featured_hu_3aaf290d5fb32b8b.webp 480w, /projects/pensamento-computacional/featured_hu_81af442ed158b097.webp 640w, /projects/pensamento-computacional/featured_hu_bdd7fd20b573c0bc.webp 720w, /projects/pensamento-computacional/featured_hu_ac6494dacb66fc4e.webp 720w"
+                 sizes="(max-width: 480px) 100vw, (max-width: 640px) 90vw, (max-width: 720px) 80vw, 720px"
+                 src="/projects/pensamento-computacional/featured_hu_3eafd19972517f6b.webp" 
+                 data-pagefind-meta="image[src]"
+                 width="720" 
+                 height="720" 
+                 alt="" 
+                 class="featured-image"
+                 fetchpriority="high">
+            <span class="article-header-caption">Imagem do jogo utilizando Scratch desenvolvido no projeto.</span>
+          </div>
+        </div>
+      
+      
+
+      
+      
+
+      <div class="prose prose-slate lg:prose-xl dark:prose-invert" data-pagefind-body>
+        
+          <span data-pagefind-filter="type" style="display:none;">projects</span>
+        
+        
+        <p>A humanidade vive numa sociedade conectada onde cada vez mais conhecimento sobre tecnologia são necessários. Iniciativas como o code.org apresentam como o conhecimento em programação são necessários para as futuras gerações. Por isso, cada dia mais o termo “Pensamento Computacional” está sendo difundido entre professores e pesquisadores.</p>
+<p>De acordo com Wing [1], o pensamento computacional amplia competências que desenvolvem e aprimoram nos alunos novas habilidades tais como: i) Pensar de forma abstrata em vários níveis e encontrar uma solução; ii) Desenvolver um produto, indo além do programa, pois é necessário pensar em diferentes níveis de abstração, permitindo o uso consciente das técnicas de programação; iii) Resolver ou desenvolver problemas com ou sem o computador; iv) Pensar ao invés de deixar que os problemas sejam resolvidos pelo computador; v) Correlacionar a área computacional com a matemática e as engenharias. Ele é uma habilidade fundamental para todos, não somente para cientistas da computação. Por esse motivo, nos últimos anos, vários países, incluindo EUA e Reino Unido [2][3], incentivaram a adição da adição desses conceitos no currículo escolar para ajudar a criar uma nova geração de ‘Mark Zuckerbegs’. Nesse sentido, a Sociedade Brasileira de Computação (SBC) apresentou, para ser incluída na Base Nacional Comum Curricular  (BNCC), proposta que se baseou em destacar a importância desse conhecimento para os estudantes serem capazes de solucionar desafios cotidianos [4].</p>
+<p>Este projeto tem como objetivo o desenvolvimento de um jogo utilizando robótica educacional para estímulo do pensamento computacional. Nele, os jogadores precisaram utilizar conceitos de lógica de programação para poder controlar a movimentação de um robô em um mapa  que será o tabuleiro do jogo. O tabuleiro poderá ser utilizado de diversas formas, por exemplo, pode ser apresentado perguntas aos jogadores como: “Qual é a quinta letra do alfabeto?”, “Qual a capital do estado de Pernambuco?” e o jogador teria que responder com os comandos - direita, frente, esquerda e abaixo - necessária para que o robô chegue até a resposta. Uma outra forma de usá-lo é fazendo com que o robô se movimente por um percurso e desvie de obstáculos pré-definidos pelos jogadores.</p>
+<p>Após a fase de desenvolvimento do projeto, espera-se criar oficinas na comunidade interna e externas do campus. Nessas oficinas serão utilizados os dois produtos, ambiente de simulação e robô educacional para estimular o pensamento computacional. Com isso espera-se despertar o interesse das crianças e adultos para a área de computação e apresentar de forma divertida os conceitos de programação.</p>
+<h2 id="jogo-desenvolvido-no-pibex-2019">Jogo Desenvolvido no PIBEX 2019</h2>
+<iframe src="https://scratch.mit.edu/projects/400783603/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</br>
+<h2 id="vídeo-de-apresentação-do-encontro-de-extensionista-do-ifpe-2020">Vídeo de apresentação do Encontro de Extensionista do IFPE 2020</h2>
+<p><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/bnpLvxEoBQw?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+    </div>
+
+</br></p>
+<h2 id="imagens-do-robô-desenvolvido">Imagens do robô desenvolvido</h2>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-full" ><img src="./demo1.jpg" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-full" ><img src="./demo2.jpg" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-full" ><img src="./demo3.jpg" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+</br></p>
+<h2 id="apresentação-no-computer-on-de-beach-2021">Apresentação no Computer On de Beach 2021</h2>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/BibvG_auClA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+    </div>
+
+</br>
+<p>[1] WING, Jeannette Marie. Computational thinking. In: Communications of The ACM,
+Marz 2006. Vol. 49, no 3. p. 33-35</p>
+<p>[2] Computer Science for all. Disponível em:   &lt; <a href="https://obamawhitehouse.archives.gov/blog/2016/01/30/computer-science-all" target="_blank" rel="noopener">https://obamawhitehouse.archives.gov/blog/2016/01/30/computer-science-all</a> &gt;. Último acesso: 20 out. de 2018.</p>
+<p>[3] Coding at school: a parent&rsquo;s guide to England&rsquo;s new computing curriculum. Disponível em: <a href="https://www.theguardian.com/technology/2014/sep/04/coding-school-computing-children-programming" target="_blank" rel="noopener">https://www.theguardian.com/technology/2014/sep/04/coding-school-computing-children-programming</a> . Último acesso: 20 out. de 2018</p>
+<p>[4] Fundação Telefônica Vivo; Fundação Lemann. Programaê: Um guia para construção do pensamento computacional. 1 ed. São Paulo. 2018. Disponível em: <a href="http://fundacaotelefonica.org.br/download.php?dir=pdfs&amp;file=Guia_Final_06_09_2018.pdf" target="_blank" rel="noopener">http://fundacaotelefonica.org.br/download.php?dir=pdfs&file=Guia_Final_06_09_2018.pdf</a></p>
+
+      </div>
+
+      
+  <time class="mt-12 mb-8 block text-xs text-gray-500 ltr:text-right rtl:text-left dark:text-gray-400" datetime="2019-01-01T00:00:00.000Z">
+    <span>Last updated on</span>
+    Jan 1, 2019</time>
+
+      <div class="container mx-auto prose prose-slate lg:prose-xl dark:prose-invert mt-5">
+        
+        <div class="max-w-prose print:hidden">
+  
+  
+
+  
+<div class="flex justify-center">
+  
+  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/informatica-na-educacao/">Informática Na Educação</a>
+  
+  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/pibex/">Pibex</a>
+  
+  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/arduino/">Arduino</a>
+  
+  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/stalled/">Stalled</a>
+  
+  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/extensao/">Extensão</a>
+  
+</div>
+
+
+  
+<section class="flex flex-row flex-wrap justify-center pt-4 text-xl">
+  
+
+  
+  
+  
+  
+  
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="https://x.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fprojects%2Fpensamento-computacional%2F&amp;text=Extens%C3%A3o&#43;%7C&#43;Desenvolvimento&#43;de&#43;um&#43;Jogo&#43;para&#43;o&#43;Est%C3%ADmulo&#43;do&#43;Pensamento&#43;Computacional"
+    title="X"
+    aria-label="X"
+    id="share-link-x"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg>
+  </a>
+  
+
+  
+  
+  
+  
+  
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fprojects%2Fpensamento-computacional%2F&amp;t=Extens%C3%A3o&#43;%7C&#43;Desenvolvimento&#43;de&#43;um&#43;Jogo&#43;para&#43;o&#43;Est%C3%ADmulo&#43;do&#43;Pensamento&#43;Computacional"
+    title="Facebook"
+    aria-label="Facebook"
+    id="share-link-facebook"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12c0 4.84 3.44 8.87 8 9.8V15H8v-3h2V9.5C10 7.57 11.57 6 13.5 6H16v3h-2c-.55 0-1 .45-1 1v2h3v3h-3v6.95c5.05-.5 9-4.76 9-9.95z"/></svg>
+  </a>
+  
+
+  
+  
+  
+  
+  
+  
+    
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="mailto:?subject=Extens%C3%A3o%20%7C%20Desenvolvimento%20de%20um%20Jogo%20para%20o%20Est%C3%ADmulo%20do%20Pensamento%20Computacional&amp;body=https%3A%2F%2Fexample.com%2Fprojects%2Fpensamento-computacional%2F"
+    title="Email"
+    aria-label="Email"
+    id="share-link-email"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="M16.5 12a4.5 4.5 0 1 1-9 0a4.5 4.5 0 0 1 9 0Zm0 0c0 1.657 1.007 3 2.25 3S21 13.657 21 12a9 9 0 1 0-2.636 6.364M16.5 12V8.25"/></svg>
+  </a>
+  
+
+  
+  
+  
+  
+  
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fprojects%2Fpensamento-computacional%2F&amp;title=Extens%C3%A3o&#43;%7C&#43;Desenvolvimento&#43;de&#43;um&#43;Jogo&#43;para&#43;o&#43;Est%C3%ADmulo&#43;do&#43;Pensamento&#43;Computacional"
+    title="LinkedIn"
+    aria-label="LinkedIn"
+    id="share-link-linkedin"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+  </a>
+  
+
+  
+  
+  
+  
+  
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="whatsapp://send?text=Extens%C3%A3o&#43;%7C&#43;Desenvolvimento&#43;de&#43;um&#43;Jogo&#43;para&#43;o&#43;Est%C3%ADmulo&#43;do&#43;Pensamento&#43;Computacional%20https%3A%2F%2Fexample.com%2Fprojects%2Fpensamento-computacional%2F"
+    title="WhatsApp"
+    aria-label="WhatsApp"
+    id="share-link-whatsapp"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="currentColor"><path d="m187.58 144.84-32-16a8 8 0 0 0-8 .5l-14.69 9.8a40.55 40.55 0 0 1-16-16l9.8-14.69a8 8 0 0 0 .5-8l-16-32A8 8 0 0 0 104 64a40 40 0 0 0-40 40 88.1 88.1 0 0 0 88 88 40 40 0 0 0 40-40 8 8 0 0 0-4.42-7.16ZM152 176a72.08 72.08 0 0 1-72-72 24 24 0 0 1 19.29-23.54l11.48 23L101 118a8 8 0 0 0-.73 7.51 56.47 56.47 0 0 0 30.15 30.15A8 8 0 0 0 138 155l14.61-9.74 23 11.48A24 24 0 0 1 152 176ZM128 24a104 104 0 0 0-91.82 152.88l-11.35 34.05a16 16 0 0 0 20.24 20.24l34.05-11.35A104 104 0 1 0 128 24Zm0 192a87.87 87.87 0 0 1-44.06-11.81 8 8 0 0 0-6.54-.67L40 216l12.47-37.4a8 8 0 0 0-.66-6.54A88 88 0 1 1 128 216Z"/></svg>
+  </a>
+  
+</section>
+
+
+  
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+
+  
+    
+    
+      
+
+
+
+
+
+  
+  
+  
+    
+  
+
+  
+
+<div class="flex pt-12 pb-4">
+  
+    
+    
+    <img
+      class="mr-4 h-24 w-24 rounded-full"
+      srcset="/media/authors/me_hu_736a36c5bf3716cb.webp 96w, /media/authors/me_hu_57ebba6841ac54cf.webp 192w, /media/authors/me_hu_674496128951cdaa.webp 288w, /media/authors/me_hu_66617e2a862477f7.webp 384w"
+      sizes="96px"
+      src="/media/authors/me_hu_736a36c5bf3716cb.webp"
+      width="96"
+      height="96"
+      alt="Rodrigo Lira"
+      loading="lazy"
+      />
+  
+  <div class="place-self-center">
+    <div class="text-[0.6rem] uppercase leading-3 text-neutral-500 dark:text-neutral-400">
+      Authors
+    </div>
+    <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
+      <span class="inline-block">
+        <a href="https://example.com/" class="no-underline">
+        Rodrigo Lira
+        </a>
+      </span></div>
+
+    
+    <div class="text-sm font-bold text-neutral-700 dark:text-neutral-300">
+    Professor EBTT
+    </div>
+    
+
+
+    
+    <div class="text-sm text-neutral-700 dark:text-neutral-300"><p>Professor no Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE) com doutorado em Engenharia da Computação pela Universidade de Pernambuco (2025) na área de Inteligência de Enxames e Aprendizado de Máquina. Possui Mestrado (2014) e Bacharelado (2013) em Engenharia da Computação pela mesma instituição. Realiza pesquisa de pós-doutorado em Engenharia de Sistemas na UPE. É conselheiro do Conselho Superior (CONSUP) do IFPE, atual coordenador de curso do Tecnológo em Análise e Desenvolvimento de Sistemas do Campus Paulista, possuitambém experiência coordenador da Divisão de Pesquisa e Extensão.</p>
+<p>É membro da <a href="https://www.sbc.org.br/" target="_blank" rel="noopener">Sociedade Brasileira de Computação (SBC)</a>, <a href="https://ieee.org/" target="_blank" rel="noopener">IEEE</a> e <a href="https://cssociety.org/" target="_blank" rel="noopener">Complexity Systems Society</a>. Desde 2023, participa de projetos de inovação tecnológica da Rede Nacional de Ensino e Pesquisa (RNP). Já coordenou projetos de pesquisa e extensão no IFPE em parceria com instituições como FACEPE, SiDi, IPA, SOFTEX, NIC.BR e Prefeitura de Paulista.</p>
+</div>
+    
+
+    <div class="text-2xl sm:text-lg pt-1">
+      
+<div class="flex flex-wrap text-neutral-500 dark:text-neutral-300">
+  
+    
+    
+    
+    
+      
+    
+    <a
+      class="pr-2 transition-transform hover:scale-125 hover:text-primary-700 dark:hover:text-primary-400"
+      style="will-change:transform;"
+      href="https://github.com/rodrigoclira"
+      target="_blank" rel="noopener" rel="me noopener noreferrer"
+      aria-label="Brands/Github"
+    ><svg style="height: 1em;" fill="currentColor" viewBox="3 3 18 18"><path d="M12 3C7.0275 3 3 7.12937 3 12.2276C3 16.3109 5.57625 19.7597 9.15374 20.9824C9.60374 21.0631 9.77249 20.7863 9.77249 20.5441C9.77249 20.3249 9.76125 19.5982 9.76125 18.8254C7.5 19.2522 6.915 18.2602 6.735 17.7412C6.63375 17.4759 6.19499 16.6569 5.8125 16.4378C5.4975 16.2647 5.0475 15.838 5.80124 15.8264C6.51 15.8149 7.01625 16.4954 7.18499 16.7723C7.99499 18.1679 9.28875 17.7758 9.80625 17.5335C9.885 16.9337 10.1212 16.53 10.38 16.2993C8.3775 16.0687 6.285 15.2728 6.285 11.7432C6.285 10.7397 6.63375 9.9092 7.20749 9.26326C7.1175 9.03257 6.8025 8.08674 7.2975 6.81794C7.2975 6.81794 8.05125 6.57571 9.77249 7.76377C10.4925 7.55615 11.2575 7.45234 12.0225 7.45234C12.7875 7.45234 13.5525 7.55615 14.2725 7.76377C15.9937 6.56418 16.7475 6.81794 16.7475 6.81794C17.2424 8.08674 16.9275 9.03257 16.8375 9.26326C17.4113 9.9092 17.76 10.7281 17.76 11.7432C17.76 15.2843 15.6563 16.0687 13.6537 16.2993C13.98 16.5877 14.2613 17.1414 14.2613 18.0065C14.2613 19.2407 14.25 20.2326 14.25 20.5441C14.25 20.7863 14.4188 21.0746 14.8688 20.9824C16.6554 20.364 18.2079 19.1866 19.3078 17.6162C20.4077 16.0457 20.9995 14.1611 21 12.2276C21 7.12937 16.9725 3 12 3Z"></path></svg></a>
+  
+    
+    
+    
+    
+      
+    
+    <a
+      class="pr-2 transition-transform hover:scale-125 hover:text-primary-700 dark:hover:text-primary-400"
+      style="will-change:transform;"
+      href="https://www.linkedin.com/in/rodrigoclira/"
+      target="_blank" rel="noopener" rel="me noopener noreferrer"
+      aria-label="Brands/Linkedin"
+    ><svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg></a>
+  
+    
+    
+    
+    
+      
+    
+    <a
+      class="pr-2 transition-transform hover:scale-125 hover:text-primary-700 dark:hover:text-primary-400"
+      style="will-change:transform;"
+      href="https://scholar.google.com/citations?user=0Q8Bn70AAAAJ&amp;hl=pt-BR"
+      target="_blank" rel="noopener" rel="me noopener noreferrer"
+      aria-label="Academicons/Google-Scholar"
+    ><svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M343.759 106.662V79.43L363.524 64h-213.89L20.476 176.274h85.656a82.339 82.339 0 0 0-.219 6.225c0 20.845 7.22 38.087 21.672 51.861c14.453 13.797 32.252 20.648 53.327 20.648c4.923 0 9.75-.368 14.438-1.024c-2.907 6.5-4.374 12.523-4.374 18.142c0 9.875 4.499 20.43 13.467 31.642c-39.234 2.67-68.061 9.732-86.437 21.163c-10.531 6.5-19 14.704-25.39 24.531c-6.391 9.9-9.578 20.515-9.578 31.962c0 9.648 2.062 18.336 6.219 26.062c4.156 7.726 9.578 14.07 16.312 18.984c6.718 4.968 14.469 9.101 23.219 12.469c8.734 3.344 17.406 5.718 26.061 7.062A167.052 167.052 0 0 0 180.555 448c13.469 0 26.953-1.734 40.547-5.187c13.562-3.485 26.28-8.642 38.171-15.493c11.86-6.805 21.515-16.086 28.922-27.718c7.39-11.68 11.094-24.805 11.094-39.336c0-11.016-2.25-21.039-6.75-30.14c-4.468-9.073-9.938-16.542-16.452-22.345c-6.501-5.813-13-11.155-19.516-15.968c-6.5-4.845-12-9.75-16.468-14.813c-4.485-5.046-6.735-10.054-6.735-14.984c0-4.921 1.734-9.672 5.216-14.265c3.455-4.61 7.674-9.048 12.61-13.306c4.937-4.25 9.875-8.968 14.796-14.133c4.922-5.147 9.141-11.827 12.61-20.008c3.485-8.18 5.203-17.445 5.203-27.757c0-13.453-2.547-24.46-7.547-33.314c-.594-1.022-1.218-1.803-1.875-3.022l56.907-46.672v17.119c-7.393.93-6.624 5.345-6.624 10.635V245.96c0 5.958 4.875 10.834 10.834 10.834h3.989c5.958 0 10.833-4.875 10.833-10.834V117.293c0-5.277.778-9.688-6.561-10.63zm-107.36 222.48c1.14.75 3.704 2.78 7.718 6.038c4.05 3.243 6.797 5.695 8.266 7.414a443.553 443.553 0 0 1 6.376 7.547c2.813 3.375 4.718 6.304 5.718 8.734c1 2.477 2.016 5.461 3.047 8.946a38.27 38.27 0 0 1 1.485 10.562c0 17.048-6.564 29.68-19.656 37.859c-13.125 8.18-28.767 12.274-46.938 12.274c-9.187 0-18.203-1.093-27.063-3.196c-8.843-2.116-17.311-5.336-25.39-9.601c-8.078-4.258-14.577-10.204-19.5-17.797c-4.938-7.64-7.407-16.415-7.407-26.25c0-10.32 2.797-19.29 8.422-26.906c5.594-7.625 12.938-13.391 22.032-17.315c9.063-3.946 18.25-6.742 27.562-8.398a157.865 157.865 0 0 1 28.438-2.555c4.47 0 7.936.25 10.405.696c.455.219 3.032 2.07 7.735 5.563c4.704 3.462 7.625 5.595 8.75 6.384zm-3.359-100.579c-7.406 8.86-17.734 13.288-30.953 13.288c-11.86 0-22.298-4.764-31.266-14.312c-9-9.523-15.422-20.328-19.344-32.43c-3.937-12.109-5.906-23.984-5.906-35.648c0-13.694 3.596-25.352 10.781-34.976c7.187-9.65 17.5-14.485 30.938-14.485c11.875 0 22.374 5.038 31.437 15.157c9.094 10.085 15.61 21.413 19.517 33.968c3.922 12.54 5.873 24.53 5.873 35.984c0 13.446-3.702 24.61-11.076 33.454z"/></svg></a>
+  
+    
+    
+    
+    
+      
+    
+    <a
+      class="pr-2 transition-transform hover:scale-125 hover:text-primary-700 dark:hover:text-primary-400"
+      style="will-change:transform;"
+      href="https://orcid.org/0000-0001-6089-6214"
+      target="_blank" rel="noopener" rel="me noopener noreferrer"
+      aria-label="Academicons/Orcid"
+    ><svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M336.62 194.538c-7.13-3.328-13.866-5.56-20.253-6.614c-6.365-1.095-16.574-1.612-30.71-1.612h-36.704v152.747h37.634c14.673 0 26.081-1.013 34.224-3.017c8.142-2.004 14.921-4.526 20.356-7.626a69.448 69.448 0 0 0 14.942-11.388c14.488-14.714 21.742-33.273 21.742-55.717c0-22.052-7.44-40.052-22.341-53.982c-5.498-5.166-11.822-9.444-18.89-12.793zM256 8C119.022 8 8 119.042 8 256s111.022 248 248 248s248-111.042 248-248S392.978 8 256 8Zm-82.336 357.513h-29.389V160.148h29.389zM158.95 138.696c-11.14 0-20.213-9.01-20.213-20.212c0-11.118 9.052-20.191 20.213-20.191c11.18 0 20.232 9.052 20.232 20.191a20.194 20.194 0 0 1-20.232 20.212zm241.386 163.597c-5.29 12.545-12.834 23.581-22.65 33.088c-9.982 9.837-21.597 17.194-34.844 22.196c-7.75 3.017-14.839 5.063-21.307 6.117c-6.49 1.013-18.828 1.509-37.076 1.509h-64.956V160.148h69.233c27.962 0 50.034 4.154 66.32 12.545c16.265 8.37 29.181 20.728 38.792 36.972c9.61 16.265 14.425 34.018 14.425 53.196c.023 13.765-2.666 26.908-7.936 39.432z"/></svg></a>
+  
+    
+    
+    
+    
+      
+    
+    <a
+      class="pr-2 transition-transform hover:scale-125 hover:text-primary-700 dark:hover:text-primary-400"
+      style="will-change:transform;"
+      href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4408742J0"
+      target="_blank" rel="noopener" rel="me noopener noreferrer"
+      aria-label="Academicons/Lattes"
+    ><svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M97.872 434.733c-46.338-94.949-73.906-152.29-73.906-153.713c0-2.322 2.831-2 30.672 3.46c48.965 9.614 75.126 12.326 118.735 12.342c57.697.016 104.68-9.122 141.185-27.484c19.311-9.715 30.925-18.327 40.437-29.993c11.716-14.378 15.48-24.28 15.615-40.947c.118-15.852-2.018-24.211-11.19-43.608c-3.63-7.665-6.817-16.463-7.122-19.55c-.475-4.968-.068-5.68 3.595-6.104c8.003-.948 47.507 37.403 62.055 60.241c25.076 39.386 27.111 81.993 5.884 123.195c-13.04 25.314-27.45 42.828-51.577 62.734c-40.099 33.062-86.708 56.086-151.069 74.635c-34.57 9.97-90.471 22.059-101.984 22.059c-2.44 0-7.02-8.003-21.296-37.283l-.034.015zm12.904-153.121c-45.016-5.832-82.79-10.903-83.96-11.275c-2-.644-9.155-24.516-13.191-43.947c-1.017-4.917-2.51-17.939-3.323-28.958c-3.63-49.17 7.069-83.166 35.74-113.735C94.583 31.985 198.516 25.694 315.777 67.37c20.582 7.325 28.755 12.411 24.975 15.581c-2.797 2.34-21.753 2.306-54.51-.102c-51.204-3.764-90.183 3.357-110.274 20.176c-30.588 25.602-25.924 81.724 13.53 162.682c4.273 8.766 8.58 17.345 9.563 19.09c2.29 4.019.628 7.75-3.357 7.563c-1.697-.081-39.915-4.912-84.929-10.746zm151.016-44.047c-35.928-6.46-68.227-28.74-78.654-54.222c-5.002-12.241-4.765-28.213.576-37.774c4.832-8.648 17.31-18.65 28.484-22.839c18.6-6.968 51.17-4.188 74.907 6.41c22.533 10.055 42.507 27.738 49.932 44.184c9.53 21.109 1.593 44.66-18.82 55.901c-13.531 7.443-39.827 11.326-56.443 8.341h.018z"/></svg></a>
+  
+    
+    
+    
+    
+      
+    
+    <a
+      class="pr-2 transition-transform hover:scale-125 hover:text-primary-700 dark:hover:text-primary-400"
+      style="will-change:transform;"
+      href="https://www.researchgate.net/profile/Rodrigo_Lira_Da_Silva"
+      target="_blank" rel="noopener" rel="me noopener noreferrer"
+      aria-label="Academicons/Researchgate"
+    ><svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M228.66 408.101c-20.194-21.973-47.218-57.268-69.698-97.166c37.134-8.685 64.633-43.55 64.633-78.384c0-51.345-39.88-75.176-92.163-75.176c-27.023 0-48.583 1.365-68.716 1.365c-18.369 0-36.722 0-48.154-.445V171.6l17.401 3.192c11.97 2.302 18.783 7.765 18.783 36.214v180.6c0 28.435-6.813 33.928-18.783 36.2l-17.4 3.252v13.259c12.367-.445 33.912-1.351 55.473-1.351c20.624 0 47.217.906 58.68 1.35v-13.258l-23.847-3.253c-12.366-1.796-18.813-7.764-18.813-36.2v-76.542c11.002.921 20.624.921 35.325.921c27.96 49.95 54.551 87.56 69.652 104.962c13.78 16.526 34.85 27.054 61.442 27.054c7.781 0 16.023-1.367 21.054-3.683v-11.894c-16.496 0-32.992-11.477-44.87-24.321zM119.064 295.344c-15.591 0-22.434-.414-33.008-1.41V178.918c10.574-.92 24.752-.92 37.136-.92c38.531 0 61.427 20.195 61.427 56.839c0 36.215-24.736 60.506-65.555 60.506zm139.934-115.703c-.46-2.409-.875-5.217-1.243-8.456c-.383-3.268-.63-7.104-.782-11.63c-.154-4.496-.215-9.99-.215-16.282c0-6.323.061-11.74.215-16.25c.152-4.528.399-8.41.782-11.648c.368-3.223.782-6.046 1.243-8.455a50.885 50.885 0 0 1 1.78-6.982c3.943-11.923 10.405-20.885 19.443-26.901C289.244 67.02 300.308 64 313.443 64c6.752 0 12.875.782 18.307 2.377c5.371 1.581 10.189 3.76 14.44 6.553c4.189 2.762 7.81 6.015 10.802 9.698a52.87 52.87 0 0 1 7.474 11.878c.75 1.35.537 2.425-.66 3.176l-16.68 6.858c-1.413.753-2.41.37-3.193-1.12c-3.743-6.936-6.936-11.493-12.183-14.807c-5.31-3.3-10.22-4.865-18.308-4.865c-8.793 0-12.721 1.749-18.23 5.693c-5.463 3.867-9.468 8.732-11.832 16.143c-.474 1.335-.905 2.993-1.41 4.942c-.415 1.98-.753 4.404-.967 7.242c-.215 2.84-.415 6.353-.598 10.497c-.123 4.144-.184 9.177-.184 15.008c0 5.86.061 10.894.184 15.038c.184 4.128.383 7.641.598 10.48c.214 2.87.552 5.279.966 7.274c.507 1.919.937 3.575 1.411 4.927c2.364 7.38 5.74 11.415 10.712 14.654c4.911 3.284 10.557 5.648 19.35 5.648c7.811 0 14.962-2.225 19.626-5.618c4.62-3.39 8.456-7.87 10.175-13.994c.753-2.579 1.72-5.786 2.38-9.714c.598-3.929.598-8.087.598-13.825c0-.907-.508-1.367-1.352-1.367h-26.716c-1.504 0-2.24-.736-2.24-2.24v-15.314c0-1.52.736-2.257 2.24-2.257h49.028c1.535 0 2.257.737 2.257 2.257v13.09c0 6.935 0 13.365-.722 19.32c-.691 5.953-1.626 11.109-2.808 14.868c-3.744 11.77-9.682 20.15-18.782 26.394c-9.131 6.291-20.9 9.682-33.684 9.682c-13.135 0-24.199-3.022-33.221-9.022c-9.039-6.077-15.5-14.993-19.443-26.916a51.103 51.103 0 0 1-1.78-6.997z"/></svg></a>
+  
+    
+    
+    
+    
+    <a
+      class="pr-2 transition-transform hover:scale-125 hover:text-primary-700 dark:hover:text-primary-400"
+      style="will-change:transform;"
+      href="mailto:rodrigo.lira@paulista.ifpe.edu.br"
+      
+      aria-label="At-Symbol"
+    ><svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="M16.5 12a4.5 4.5 0 1 1-9 0a4.5 4.5 0 0 1 9 0Zm0 0c0 1.657 1.007 3 2.25 3S21 13.657 21 12a9 9 0 1 0-2.636 6.364M16.5 12V8.25"/></svg></a>
+  
+</div>
+
+
+    </div>
+  </div>
+</div>
+
+
+
+    
+  
+
+
+
+
+  
+  
+    
+    
+    
+      
+      
+    
+<div class="pt-1 no-prose w-full">
+  <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
+  <div class="flex flex-col md:flex-row flex-nowrap justify-between gap-5 pt-2">
+    <div class="">
+      
+        <a class="group flex no-underline" href="/projects/rl-mh/">
+          <span
+            class="mt-[-0.3rem] me-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
+          ><span class="ltr:inline rtl:hidden">&larr;</span></span>
+          <span class="flex flex-col">
+            <span
+              class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+            >Inteligência de enxames com aprendizado de máquina por reforço para resolução de problemas de otimização</span>
+            <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+              
+                Mar 1, 2020
+              
+            </span>
+          </span>
+        </a>
+      
+    </div>
+    <div class="">
+      
+        <a class="group flex text-right no-underline" href="/projects/sistema-monitoramento/">
+          <span class="flex flex-col">
+            <span
+              class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+            >Sistema de Monitoramento em Tempo Real de Qualidade de Água de um Rio</span
+            >
+            <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+              
+                Jan 1, 2019
+              
+            </span>
+          </span>
+          <span
+            class="mt-[-0.3rem] ms-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
+          ><span class="ltr:inline">&rarr;</span></span>
+        </a>
+      
+    </div>
+  </div>
+</div>
+
+
+
+  
+
+
+  
+
+
+
+</div>
+
+      </div>
+
+    </main>
+  </article>
+</div>
+
+    </div>
+    <div class="page-footer">
+      <footer class="container mx-auto flex flex-col justify-items-center text-sm leading-6 mt-24 mb-4 text-slate-700 dark:text-slate-200">
+
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+  
+  
+
+
+
+
+
+  <p class="powered-by footer-license-icons text-center pb-2">
+    <a class="inline-flex items-center justify-center gap-2 align-middle" href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+    <a class="inline-flex items-center justify-center gap-2 align-middle" href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <svg class="h-6 w-6 inline-block align-middle text-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" aria-hidden="true" focusable="false"><path d="M253.8 214.9l-33.2 17.3c-9.4-19.6-25.2-19.9-27.5-19.9-22.1 0-33.2 14.6-33.2 43.8 0 23.6 9.2 43.8 33.2 43.8 14.5 0 24.6-7.1 30.6-21.3l30.6 15.5c-6.2 11.5-25.7 39-65.1 39-22.6 0-74-10.3-74-77 0-58.7 43-77.1 72.6-77.1 30.7 0 52.7 11.9 66 35.9zm143 0l-32.8 17.3c-9.5-19.8-25.7-19.9-27.9-19.9-22.1 0-33.2 14.6-33.2 43.8 0 23.5 9.2 43.8 33.2 43.8 14.4 0 24.6-7.1 30.5-21.3l31 15.5c-2.1 3.8-21.4 39-65.1 39-22.7 0-74-9.9-74-77 0-58.7 43-77.1 72.6-77.1 30.7 0 52.6 11.9 65.6 35.9zM255.6 8C112.7 8 8 123.1 8 256.1 8 394.5 121.6 504.1 255.6 504.1 385.5 504.1 504 403.2 504 256.1 504 118.2 397.4 8 255.6 8zm.9 450.8c-112.5 0-203.7-93-203.7-202.8 0-105.4 85.4-203.3 203.7-203.3 112.5 0 202.8 89.5 202.8 203.3 0 121.7-99.7 202.8-202.8 202.8z"/></svg>
+      <svg class="h-6 w-6 inline-block align-middle text-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" aria-hidden="true" focusable="false"><path d="M322.9 194.4l0 101.4-28.3 0 0 120.5-77.1 0 0-120.4-28.3 0 0-101.5c0-4.4 1.6-8.2 4.6-11.3 3.1-3.1 6.9-4.7 11.3-4.7l101.9 0c4.1 0 7.8 1.6 11.1 4.7 3.1 3.2 4.8 6.9 4.8 11.3zm-32.5-64.5a34.5 34.5 0 1 1 -69 .8 34.5 34.5 0 1 1 69-.8zM255.6 8C397.4 8 504 118.1 504 256 504 403.1 385.5 504 255.6 504 121.6 504 8 394.5 8 256 8 123.1 112.7 8 255.6 8zm.8 44.7c-118.2 0-203.7 97.9-203.7 203.3 0 109.8 91.2 202.8 203.7 202.8 103.2 0 202.8-81.1 202.8-202.8 .1-113.8-90.2-203.3-202.8-203.3z"/></svg>
+      
+        <svg class="h-6 w-6 inline-block align-middle text-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" aria-hidden="true" focusable="false"><path d="M255.6 8C395.4 8 504 115.9 504 256 504 403.2 385.5 504 255.6 504 121.1 504 8 393.2 8 256 8 123.1 112.7 8 255.6 8zM63.8 189.1c-7.4 20.4-11.1 42.7-11.1 66.9 0 110.9 92.1 202.4 203.7 202.4 122.4 0 177.2-101.8 178.5-104.1l-93.4-41.6c-7.7 37.1-41.2 53-68.2 55.4l0 38.1-28.8 0 0-38.2c-27.5-.3-52.6-10.2-75.3-29.7l34.1-34.5c31.7 29.4 86.4 31.8 86.4-2.2 0-6.2-2.2-11.2-6.6-15.1-14.2-6-1.8-.1-219.3-97.4zM256.4 52.3C218 52.3 144 61 85.9 145.3l94.8 42.5c10-31.3 40.4-42.9 63.8-44.3l0-38.1 28.8 0 0 38.1c22.7 1.2 43.4 8.9 62 23L303 199.7c-42.7-29.9-83.5-8-70 11.1 53.4 24.1 43.8 19.8 93 41.6l127.1 56.7c4.1-17.4 6.2-35.1 6.2-53.1 0-57-19.8-105-59.3-143.9-39.3-39.9-87.2-59.8-143.6-59.8z"/></svg>
+      
+      
+        <svg class="h-6 w-6 inline-block align-middle text-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" aria-hidden="true" focusable="false"><path d="M255.6 8C397.4 8 504 118.1 504 256 504 403.1 385.5 504 255.6 504 121.6 504 8 394.5 8 256 8 123.1 112.7 8 255.6 8zm.8 44.7c-118.2 0-203.7 97.9-203.7 203.3 0 109.8 91.2 202.8 203.7 202.8 103.2 0 202.8-81.1 202.8-202.8 .1-113.8-90.2-203.3-202.8-203.3zm94 144.3l0 42.5-180.3 0 0-42.5 180.3 0zm0 79.8l0 42.5-180.3 0 0-42.5 180.3 0z"/></svg>
+      
+    </a>
+  </p>
+
+
+
+
+<p class="powered-by text-center">
+  
+  
+  
+  © 2026 IFPE. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+</p>
+
+
+
+
+  
+  
+  
+    
+    
+      
+      
+        
+        
+      
+    
+
+    <p class="powered-by text-center text-sm opacity-80 py-1">
+      
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      Made with <a class="underline hover:opacity-100" href="https://hugoblox.com?utm_source=site_footer&utm_medium=referral&utm_campaign=poweredby_oss&utm_content=brand_academic-cv" target="_blank" rel="noopener" data-hbx="poweredby_brand">Hugo Blox — Open Source</a>.
+      <a class="inline-flex items-center rounded px-2 py-0.5 border border-current ms-2 text-xs hover:opacity-100"
+         href="https://hugoblox.com/templates/academic-cv/start?utm_source=site_footer&amp;utm_medium=referral&amp;utm_campaign=poweredby_oss&amp;utm_content=cta_academic-cv" target="_blank" rel="noopener" data-hbx="poweredby_cta">Create your site →</a>
+    </p>  
+
+</footer>
+
+    </div>
+
+    
+    
+
+
+<div id="hb-notification-container" class="fixed top-20 right-4 z-[9999] pointer-events-none" aria-live="polite" aria-atomic="true"></div>
+
+
+    
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+    
+    
+  </body>
+</html>

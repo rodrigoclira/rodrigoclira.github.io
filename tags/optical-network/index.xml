@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optical Network | Rodrigo Lira</title>
+    <link>https://example.com/tags/optical-network/</link>
+      <atom:link href="https://example.com/tags/optical-network/index.xml" rel="self" type="application/rss+xml" />
+    <description>Optical Network</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <title>Optical Network</title>
+      <link>https://example.com/tags/optical-network/</link>
+    </image>
+    
+    <item>
+      <title>Políticas Adaptativas para um Algoritmo de Roteamento em Redes Ópticas</title>
+      <link>https://example.com/publications/book/book-2016/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publications/book/book-2016/</guid>
+      <description>&lt;p&gt;#&amp;gt; [!NOTE]
+#&amp;gt; Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+&lt;p&gt;#&amp;gt; [!NOTE]
+#&amp;gt; Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/p&gt;
+&lt;p&gt;#Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
+.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

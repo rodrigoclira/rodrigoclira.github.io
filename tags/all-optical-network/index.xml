@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>All-Optical Network | Rodrigo Lira</title>
+    <link>https://example.com/tags/all-optical-network/</link>
+      <atom:link href="https://example.com/tags/all-optical-network/index.xml" rel="self" type="application/rss+xml" />
+    <description>All-Optical Network</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <title>All-Optical Network</title>
+      <link>https://example.com/tags/all-optical-network/</link>
+    </image>
+    
+    <item>
+      <title>An adaptive path restoration algorithm based on power series routing for all-optical networks</title>
+      <link>https://example.com/publications/conference/2013/icton2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publications/conference/2013/icton2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

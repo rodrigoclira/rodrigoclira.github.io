@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Particle Swarm Optimization | Rodrigo Lira</title>
+    <link>https://example.com/tags/particle-swarm-optimization/</link>
+      <atom:link href="https://example.com/tags/particle-swarm-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Particle Swarm Optimization</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <title>Particle Swarm Optimization</title>
+      <link>https://example.com/tags/particle-swarm-optimization/</link>
+    </image>
+    
+    <item>
+      <title>Comparing OSNR based policies for an adaptive-alternative IA-RWA algorithm applied to all-optical networks</title>
+      <link>https://example.com/publications/journal/jmoe-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publications/journal/jmoe-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

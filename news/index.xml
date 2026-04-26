@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notícias | Rodrigo Lira</title>
+    <link>https://example.com/news/</link>
+      <atom:link href="https://example.com/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>Notícias</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Tue, 21 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png</url>
+      <title>Notícias</title>
+      <link>https://example.com/news/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/news/exemplo/</link>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/news/exemplo/</guid>
+      <description>&lt;p&gt;Exemplo de notícia curta. Use este formato para informações rápidas — datas de eventos, comunicados, destaques sem necessidade de texto longo.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/news/noticias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/news/noticias/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;21 abr 2026&lt;/strong&gt; — Exemplo de notícia curta. Use este formato para informações rápidas — datas de eventos, comunicados, destaques.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
