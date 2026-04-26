@@ -316,18 +316,6 @@
   <url>
     <loc>https://example.com/tags/survivability/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/academic/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/events/example/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tags/markdown/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tags/open-science/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tags/presentations/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/events/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/publications/journal/sinforme-2016/</loc><lastmod>2016-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication_types/thesis/</loc><lastmod>2014-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -453,6 +441,8 @@
     <loc>https://example.com/tags/ppo/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tags/pso/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/events/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/courses/hugo-blox/reference/</loc><changefreq>weekly</changefreq></url>
   <url>
