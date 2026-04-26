@@ -889,6 +889,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1YL98JYJX7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-1YL98JYJX7', { 'anonymize_ip': true });
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -962,7 +1001,7 @@
   
   <meta property="og:site_name" content="Rodrigo Lira" />
   <meta property="og:url" content="https://example.com/tags/aws/" />
-  <meta property="og:title" content="AWS | Rodrigo Lira" />
+  <meta property="og:title" content="Aws | Rodrigo Lira" />
   <meta property="og:description" content="Website acadêmico do Professor Rodrigo Cesar Lira da Silva do IFPE" /><meta property="og:image" content="https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png" />
     <meta property="twitter:image" content="https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png" /><meta property="og:locale" content="pt-br" />
   
@@ -1034,7 +1073,7 @@
     "itemListOrder": "Descending",
     "numberOfItems": 4
   },
-  "name": "AWS",
+  "name": "Aws",
   "url": "https://example.com/tags/aws/"
 }
 </script>
@@ -1068,9 +1107,9 @@
       "@type": "ListItem",
       "item": {
         "@id": "https://example.com/tags/aws/",
-        "name": "AWS"
+        "name": "Aws"
       },
-      "name": "AWS",
+      "name": "Aws",
       "position": 3
     }
   ]
@@ -1082,7 +1121,7 @@
 
 
 
-  <title>AWS | Rodrigo Lira</title>
+  <title>Aws | Rodrigo Lira</title>
 
   
   
@@ -2397,7 +2436,7 @@
 
 <div class="max-w-prose mx-auto flex justify-center">
   <article class="prose prose-slate lg:prose-xl dark:prose-invert">
-    <h1 class="lg:text-6xl">AWS</h1>
+    <h1 class="lg:text-6xl">Aws</h1>
     
   </article>
 </div>
@@ -2476,7 +2515,7 @@
         
         <a href="/tags/aws/">
           <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300">
-            AWS
+            Aws
           </span>
         </a>
         
@@ -2614,7 +2653,7 @@
         
         <a href="/tags/aws/">
           <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300">
-            AWS
+            Aws
           </span>
         </a>
         
@@ -2742,7 +2781,7 @@
         
         <a href="/tags/aws/">
           <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300">
-            AWS
+            Aws
           </span>
         </a>
         
@@ -2881,7 +2920,7 @@ Acesse via ssh o computador. Escreva o comando screen …
         
         <a href="/tags/aws/">
           <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300">
-            AWS
+            Aws
           </span>
         </a>
         

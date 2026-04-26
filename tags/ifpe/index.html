@@ -889,6 +889,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1YL98JYJX7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-1YL98JYJX7', { 'anonymize_ip': true });
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -962,7 +1001,7 @@
   
   <meta property="og:site_name" content="Rodrigo Lira" />
   <meta property="og:url" content="https://example.com/tags/ifpe/" />
-  <meta property="og:title" content="IFPE | Rodrigo Lira" />
+  <meta property="og:title" content="Ifpe | Rodrigo Lira" />
   <meta property="og:description" content="Website acadêmico do Professor Rodrigo Cesar Lira da Silva do IFPE" /><meta property="og:image" content="https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png" />
     <meta property="twitter:image" content="https://example.com/media/icon_hu_b22adc9a7ee7cc2a.png" /><meta property="og:locale" content="pt-br" />
   
@@ -1074,7 +1113,7 @@
     "itemListOrder": "Descending",
     "numberOfItems": 8
   },
-  "name": "IFPE",
+  "name": "Ifpe",
   "url": "https://example.com/tags/ifpe/"
 }
 </script>
@@ -1108,9 +1147,9 @@
       "@type": "ListItem",
       "item": {
         "@id": "https://example.com/tags/ifpe/",
-        "name": "IFPE"
+        "name": "Ifpe"
       },
-      "name": "IFPE",
+      "name": "Ifpe",
       "position": 3
     }
   ]
@@ -1122,7 +1161,7 @@
 
 
 
-  <title>IFPE | Rodrigo Lira</title>
+  <title>Ifpe | Rodrigo Lira</title>
 
   
   
@@ -2437,7 +2476,7 @@
 
 <div class="max-w-prose mx-auto flex justify-center">
   <article class="prose prose-slate lg:prose-xl dark:prose-invert">
-    <h1 class="lg:text-6xl">IFPE</h1>
+    <h1 class="lg:text-6xl">Ifpe</h1>
     
   </article>
 </div>
@@ -2534,7 +2573,7 @@
         
         <a href="/tags/ifpe/">
           <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300">
-            IFPE
+            Ifpe
           </span>
         </a>
         
@@ -3320,7 +3359,7 @@
         
         <a href="/tags/ifpe/">
           <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300">
-            IFPE
+            Ifpe
           </span>
         </a>
         
@@ -3450,7 +3489,7 @@
         
         <a href="/tags/ifpe/">
           <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300">
-            IFPE
+            Ifpe
           </span>
         </a>
         

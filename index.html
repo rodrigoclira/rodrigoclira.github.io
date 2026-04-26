@@ -889,6 +889,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1YL98JYJX7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-1YL98JYJX7', { 'anonymize_ip': true });
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -3009,17 +3048,7 @@
   
   <div style="display:flex; gap:2rem; padding:0.65rem 0; border-bottom:1px solid rgba(128,128,128,0.2); align-items:baseline;">
     <span style="min-width:110px; font-size:0.82rem; color:gray; white-space:nowrap; flex-shrink:0;">21 abr 2026</span>
-    <span>Aprovado projeto de pesquisa sobre uso de inteligência artificial no ensino técnico federal. <a href="https://www.ifpe.edu.br" target="_blank" rel="noopener">Saiba mais</a></span>
-  </div>
-  
-  <div style="display:flex; gap:2rem; padding:0.65rem 0; border-bottom:1px solid rgba(128,128,128,0.2); align-items:baseline;">
-    <span style="min-width:110px; font-size:0.82rem; color:gray; white-space:nowrap; flex-shrink:0;">10 abr 2026</span>
-    <span>Participação no seminário regional de inovação tecnológica promovido pelo IFPE Campus Recife.</span>
-  </div>
-  
-  <div style="display:flex; gap:2rem; padding:0.65rem 0; border-bottom:1px solid rgba(128,128,128,0.2); align-items:baseline;">
-    <span style="min-width:110px; font-size:0.82rem; color:gray; white-space:nowrap; flex-shrink:0;">28 mar 2026</span>
-    <span>Artigo submetido ao periódico Computers &amp; Education — aguardando avaliação dos revisores.</span>
+    <span>Bolsa de Incentivo Acadêmico (BIA) aprovada no Edital REI/IFPE - 10/2026. <a href="https://portal.ifpe.edu.br/noticias/divulgado-resultado-final-do-bia-2026-1-2/" target="_blank" rel="noopener">Saiba mais</a></span>
   </div>
   
 </div>
