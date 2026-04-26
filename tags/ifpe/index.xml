@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ifpe | Rodrigo Lira</title>
+    <title>IFPE | Rodrigo Lira</title>
     <link>https://rodrigoclira.github.io/tags/ifpe/</link>
       <atom:link href="https://rodrigoclira.github.io/tags/ifpe/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ifpe</description>
+    <description>IFPE</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Wed, 29 Jan 2025 10:18:25 -0300</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
-      <title>Ifpe</title>
+      <title>IFPE</title>
       <link>https://rodrigoclira.github.io/tags/ifpe/</link>
     </image>
     
