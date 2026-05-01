@@ -28,7 +28,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line hl&#34;&gt;&lt;span class=&#34;ln&#34;&gt;8&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;9&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; --&gt;
 &lt;p&gt;[Conteúdo em desenvolvimento]&lt;/p&gt;
-&lt;p&gt;Uma pergunta pulou em uma lista de e-mail que eu participo:&lt;/p&gt;
+&lt;p&gt;Um questionamento surgiu em uma lista de e-mail que eu participo:&lt;/p&gt;
 
 
 
@@ -38,7 +38,7 @@
 
   &lt;/blockquote&gt;
 
-&lt;p&gt;Depois de analisar algumas respostas que foram dados para o questionamento do professor por professores de diferentes países, fiquei com curiosidade em saber o que os próprios modelos de linguagem poderiam responder, caso fossem indagados sobre isso. Resolvi usar o Claude (a minha LLM principal) para criar um prompt que pudesse responder esse questionamento.&lt;/p&gt;
+&lt;p&gt;Depois de analisar algumas respostas que foram dados para o professor, fiquei com curiosidade em saber o que os próprios modelos de linguagem poderiam responder, caso fossem indagados sobre isso. Resolvi usar o Claude (a minha LLM principal) para criar um prompt que pudesse responder esse questionamento.&lt;/p&gt;
 &lt;p&gt;Prompt sugerido pelo Claude Sonnet:&lt;/p&gt;
 
 
@@ -49,7 +49,7 @@
 
   &lt;/blockquote&gt;
 
-&lt;p&gt;Resolvi enviar o prompt para algumas LLMs mais conhecidas&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Resolvi enviar o prompt para algumas LLMs&amp;hellip;&lt;/p&gt;
 &lt;h2 id=&#34;claude-sonnet-46-adaptive&#34;&gt;Claude (Sonnet 4.6 Adaptive)&lt;/h2&gt;
 &lt;p&gt;Você tem parcialmente razão, e isso é importante admitir antes de qualquer coisa.&lt;/p&gt;
 &lt;p&gt;Se o seu objetivo é construir um CRUD básico, gerar um script de automação simples ou produzir código que qualquer tutorial do YouTube cobre, sim: um LLM faz isso de forma mais rápida e com menos frustração do que você faria aprendendo do zero. Negar isso seria desonestidade pedagógica.&lt;/p&gt;
