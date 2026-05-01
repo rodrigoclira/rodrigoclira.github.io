@@ -5,12 +5,20 @@
     <link>https://rodrigoclira.github.io/publication_types/article-journal/</link>
       <atom:link href="https://rodrigoclira.github.io/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Article-Journal</title>
       <link>https://rodrigoclira.github.io/publication_types/article-journal/</link>
     </image>
+    
+    <item>
+      <title>Efficient parallel upscaling of river drainage networks for large data sets</title>
+      <link>https://rodrigoclira.github.io/publications/journal/computational-geosciences/</link>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publications/journal/computational-geosciences/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Popularização e Democratização da Inteligência Artificial no Nordeste Brasileiro: Um Relato de Experiência</title>

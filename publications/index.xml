@@ -5,12 +5,20 @@
     <link>https://rodrigoclira.github.io/publications/</link>
       <atom:link href="https://rodrigoclira.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Publications</title>
       <link>https://rodrigoclira.github.io/publications/</link>
     </image>
+    
+    <item>
+      <title>Efficient parallel upscaling of river drainage networks for large data sets</title>
+      <link>https://rodrigoclira.github.io/publications/journal/computational-geosciences/</link>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publications/journal/computational-geosciences/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Estratégias de combinação Não-Supervisionadas para Detecção de Contextual de Anomalias em Aerogeradores</title>
