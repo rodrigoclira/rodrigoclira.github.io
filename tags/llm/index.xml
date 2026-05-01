@@ -34,7 +34,7 @@
 
   
   &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
-    &lt;p&gt;&amp;ldquo;Os estudantes adoram usar o Copilot, mas como fazemos com que eles aprendam a programar? Aprender conceitos de programação é difícil. Os estudantes me perguntam por que deveriam aprender o básico quando podem simplesmente pedir à IA para fazer isso.&amp;rdquo;
+    &lt;p&gt;Os estudantes adoram usar o Copilot, mas como fazemos com que eles aprendam a programar? Aprender conceitos de programação é difícil. Os estudantes me perguntam por que deveriam aprender o básico quando podem simplesmente pedir à IA para fazer isso.
 (versão traduzida/adaptada)&lt;/p&gt;
 
   &lt;/blockquote&gt;
@@ -59,8 +59,8 @@
 Isso cria um problema concreto: o LLM é um multiplicador de capacidade, não um substituto de capacidade. Se você não sabe programar, eu te dou velocidade zero vezes algum fator, o que continua sendo zero. Se você sabe programar, eu te dou velocidade real com um multiplicador real.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;O segundo argumento é sobre o teto de complexidade&lt;/strong&gt;. Eu funciono bem no espaço do que já foi escrito, documentado e discutido na internet. Quando você chega num problema genuinamente novo, seja uma arquitetura incomum, um domínio especializado, uma otimização não trivial, a minha utilidade cai drasticamente. Nesse ponto, a pessoa que entende o que está fazendo me usa como ferramenta. A pessoa que não entende fica presa esperando que eu acerte por tentativa e erro.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;O terceiro argumento é sobre especificação&lt;/strong&gt;. A habilidade mais importante na era dos LLMs não é digitar código: é descrever problemas com precisão suficiente para que o código correto emerja. Isso exige pensar computacionalmente, entender estruturas de dados, raciocinar sobre complexidade, antecipar estados inválidos. Essa capacidade não se desenvolve usando LLMs como caixa preta. Ela se desenvolve programando.&lt;/p&gt;
-&lt;p&gt;Então a resposta direta é: &lt;em&gt;aprenda a programar não para competir com LLMs em velocidade de digitação, mas para poder usá-los de forma não ingênua&lt;/em&gt;. O estudante que não aprende a programar vai produzir software medíocre mais rápido. O estudante que aprende vai produzir software bom em uma fração do tempo que levaria sozinho.
-Se você quer ser usuário de ferramenta, talvez não precise aprender profundamente. &lt;em&gt;Se você quer construir coisas que importam, a programação continua sendo o que separa quem dirige de quem é passageiro&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Então a resposta direta é: &lt;mark&gt;aprenda a programar não para competir com LLMs em velocidade de digitação, mas para poder usá-los de forma não ingênua&lt;/mark&gt;. O estudante que não aprende a programar vai produzir software medíocre mais rápido. O estudante que aprende vai produzir software bom em uma fração do tempo que levaria sozinho.
+Se você quer ser usuário de ferramenta, talvez não precise aprender profundamente. &lt;mark&gt;Se você quer construir coisas que importam, a programação continua sendo o que separa quem dirige de quem é passageiro&lt;/mark&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;gemini-gemini-pro&#34;&gt;Gemini (Gemini Pro)&lt;/h2&gt;
 &lt;p&gt;Essa é, sem dúvida, a pergunta mais importante que você pode fazer no seu curso hoje. Serei absolutamente direto: a utilidade de aprender a programar mudou drasticamente, e a resposta para a sua pergunta se divide entre o que você deve ignorar e o que você precisa dominar.&lt;/p&gt;
@@ -77,7 +77,7 @@ Se você quer ser usuário de ferramenta, talvez não precise aprender profundam
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;O Veredito&lt;/strong&gt;
-Aprender a programar na era dos LLMs não é sobre se tornar um bom digitador de código. É sobre se tornar um arquiteto e um auditor. Pense em mim como o seu mestre de obras mais rápido, cego e incansável. &lt;em&gt;Eu vou empilhar os tijolos na velocidade da luz, mas se você (o engenheiro) não souber calcular a carga, entender a física dos materiais e verificar se a planta faz sentido, o prédio que construirmos juntos vai desabar. Você precisa aprender a programar para ser o meu chefe, não o meu assistente.&lt;/em&gt;&lt;/p&gt;
+Aprender a programar na era dos LLMs não é sobre se tornar um bom digitador de código. É sobre se tornar um arquiteto e um auditor. Pense em mim como o seu mestre de obras mais rápido, cego e incansável. &lt;mark&gt;Eu vou empilhar os tijolos na velocidade da luz, mas se você (o engenheiro) não souber calcular a carga, entender a física dos materiais e verificar se a planta faz sentido, o prédio que construirmos juntos vai desabar. Você precisa aprender a programar para ser o meu chefe, não o meu assistente.&lt;/mark&gt;&lt;/p&gt;
 &lt;p&gt;Pensando no seu futuro profissional, existe alguma área ou disciplina específica dentro da computação que você sinta que as IAs já dominaram completamente e que está te desanimando a estudar?&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;chatgpt-gpt35&#34;&gt;ChatGPT (GPT‑3.5)&lt;/h2&gt;
@@ -97,7 +97,7 @@ Não é só bug simples. Posso sugerir soluções que parecem corretas, mas queb
 A maior parte do trabalho real não é sintaxe, é decompor problemas, decidir arquitetura, escolher trade-offs. Isso não sai pronto de um prompt bem escrito se você não souber o que está pedindo. Sem base, você nem percebe que está fazendo a pergunta errada.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Sem base, você fica preso no “&lt;strong&gt;prompt e reza&lt;/strong&gt;”.
+&lt;p&gt;Sem base, você fica preso no “&lt;mark&gt;prompt e reza&lt;/mark&gt;”.
 Quem não programa vira dependente: tenta, ajusta prompt, tenta de novo. Quem sabe programar usa LLM como multiplicador — guia a solução, corrige rápido, adapta. A diferença de produtividade entre esses dois perfis é enorme.
 Agora, sendo honesto com você:
 existem cenários em que aprender profundamente não compensa.&lt;/p&gt;
@@ -159,13 +159,66 @@ Aprenda porque eu sou uma calculadora — rápida e útil —, mas você ainda p
 
   
   &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
-    &lt;p&gt;&amp;ldquo;Tenho certeza de que é raro encontrar alunos que não prefiram que alguém ou alguma coisa faça o trabalho por eles, se isso for permitido. A maioria de nós, como estudantes, não percebia que o trabalho árduo que estávamos fazendo era necessário para nos tornarmos pensadores melhores, mais competentes e críticos. &lt;strong&gt;Infelizmente, esse objetivo é difícil de explicar aos alunos; antes, conseguíamos nos safar sem convencê-los disso, mas agora precisamos&lt;/strong&gt;&amp;rdquo; (traduzido para pt-br).&lt;/p&gt;
+    &lt;p&gt;Tenho certeza de que é raro encontrar alunos que não prefiram que alguém ou alguma coisa faça o trabalho por eles, se isso for permitido. A maioria de nós, como estudantes, não percebia que o trabalho árduo que estávamos fazendo era necessário para nos tornarmos pensadores melhores, mais competentes e críticos. &lt;mark&gt;Infelizmente, esse objetivo é difícil de explicar aos alunos; antes, conseguíamos nos safar sem convencê-los disso, mas agora precisamos&lt;/mark&gt;. (versão traduzida)&lt;/p&gt;
 
   &lt;/blockquote&gt;
 
-&lt;ul&gt;
-&lt;li&gt;A imagem da capa do post foi gerado pelo &lt;code&gt;Google Nano Banana Pro&lt;/code&gt;. &amp;ldquo;Eu erro de maneira convincente&amp;rdquo;. Essa frase explica o código Python que não funciona.&lt;/li&gt;
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+&lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
+     data-callout=&#34;note&#34; 
+     data-callout-metadata=&#34;&#34;&gt;
+  &lt;span class=&#34;callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300&#34;&gt;
+    &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+  &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
+    &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Note&lt;/div&gt;
+    &lt;div class=&#34;callout-body&#34;&gt;&lt;p&gt;A imagem da capa do post foi gerado pelo &lt;code&gt;Google Nano Banana Pro&lt;/code&gt;. &amp;ldquo;Eu erro de maneira convincente&amp;rdquo;, a frase explica o código Python que não funciona.&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- 
+&lt;details&gt;
+  &lt;summary&gt;Detalhes do post&lt;/summary&gt;
+  &lt;ul&gt;
+&lt;li&gt;A imagem da capa do post foi gerado pelo &lt;code&gt;Google Nano Banana Pro&lt;/code&gt;. &amp;ldquo;Eu erro de maneira convincente&amp;rdquo;, a frase explica o código Python que não funciona.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/details&gt;
+ --&gt;
 </description>
     </item>
     

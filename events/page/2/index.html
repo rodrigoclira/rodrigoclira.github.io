@@ -4,7 +4,7 @@
       data-wc-theme-default="dark"
       data-hbb-relurl="/">
   
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -59,7 +59,7 @@
   <meta name="description" content="Website acadêmico do Professor Rodrigo Cesar Lira da Silva do IFPE" />
 
   
-  <link rel="alternate" hreflang="pt-br" href="https://rodrigoclira.github.io/events/" />
+  <link rel="alternate" hreflang="pt-br" href="http://localhost:1313/events/" />
 
   
   
@@ -857,9 +857,7 @@
   
   
     
-      
-        <link rel="stylesheet" href="/css/_entry.00ea331b8a3b36adcfe62a414a46a3bb82b08c1e07487d8acf8865bfce9ac059.css" integrity="sha256-AOozG4o7Nq3P5ipBSkaju4KwjB4HSH2Kz4hlv86awFk=" crossorigin="anonymous">
-      
+      <link rel="stylesheet" href="/css/_entry.css">
     
   
 
@@ -872,7 +870,7 @@
 
   
 
-  <script src="/js/hb-head.min.e9ff67ddf77122b225756bf5a926e24420bea2586199fddcb3b1813a009f4ee5.js" integrity="sha256-6f9n3fdxIrIldWv1qSbiRCC&#43;olhhmf3cs7GBOgCfTuU=" crossorigin="anonymous"></script>
+  <script src="/js/hb-head.min.js"></script>
 
   
   
@@ -886,45 +884,6 @@
 
 
 
-
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1YL98JYJX7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'G-1YL98JYJX7', { 'anonymize_ip': true });
-  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
 
 
 
@@ -971,7 +930,7 @@
     
   
 
-  <link rel="canonical" href="https://rodrigoclira.github.io/events/" />
+  <link rel="canonical" href="http://localhost:1313/events/" />
 
   
   
@@ -1000,11 +959,13 @@
     <meta property="twitter:creator" content="@MakeOwnable" />
   
   <meta property="og:site_name" content="Rodrigo Lira" />
-  <meta property="og:url" content="https://rodrigoclira.github.io/events/" />
-  <meta property="og:title" content="Recent &amp; Upcoming Talks | Rodrigo Lira" />
-  <meta property="og:description" content="Website acadêmico do Professor Rodrigo Cesar Lira da Silva do IFPE" /><meta property="og:image" content="https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png" />
-    <meta property="twitter:image" content="https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png" /><meta property="og:locale" content="pt-br" />
+  <meta property="og:url" content="http://localhost:1313/events/" />
+  <meta property="og:title" content="Palestras | Rodrigo Lira" />
+  <meta property="og:description" content="Website acadêmico do Professor Rodrigo Cesar Lira da Silva do IFPE" /><meta property="og:image" content="http://localhost:1313/media/icon_hu_b22adc9a7ee7cc2a.png" />
+    <meta property="twitter:image" content="http://localhost:1313/media/icon_hu_b22adc9a7ee7cc2a.png" /><meta property="og:locale" content="pt-br" />
   
+    
+      <meta property="og:updated_time" content="2020-01-17T15:00:00&#43;00:00" />
     
   
 
@@ -1013,15 +974,16 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@id": "https://rodrigoclira.github.io/events/",
+  "@id": "http://localhost:1313/events/",
   "@type": "CollectionPage",
+  "dateModified": "2020-01-17T15:00:00Z",
   "description": "Website acadêmico do Professor Rodrigo Cesar Lira da Silva do IFPE",
   "inLanguage": "pt-br",
   "isPartOf": {
-    "@id": "https://rodrigoclira.github.io/",
+    "@id": "http://localhost:1313/",
     "@type": "WebSite",
     "name": "Rodrigo Lira",
-    "url": "https://rodrigoclira.github.io/"
+    "url": "http://localhost:1313/"
   },
   "mainEntity": {
     "@type": "ItemList",
@@ -1029,100 +991,100 @@
       {
         "@type": "ListItem",
         "item": {
-          "@id": "https://rodrigoclira.github.io/events/2020/summerexperience2020/",
+          "@id": "http://localhost:1313/events/2020/summerexperience2020/",
           "@type": "WebPage",
           "name": "Sistemas Inteligentes - Inovação e o seu papel no novo mundo",
-          "url": "https://rodrigoclira.github.io/events/2020/summerexperience2020/"
+          "url": "http://localhost:1313/events/2020/summerexperience2020/"
         },
         "position": 1
       },
       {
         "@type": "ListItem",
         "item": {
-          "@id": "https://rodrigoclira.github.io/events/2025/facepe-seminario-confederao-equador/",
+          "@id": "http://localhost:1313/events/2025/facepe-seminario-confederao-equador/",
           "@type": "WebPage",
           "name": "Revolução de 1824: Uma viagem digital pela Confederação do Equador",
-          "url": "https://rodrigoclira.github.io/events/2025/facepe-seminario-confederao-equador/"
+          "url": "http://localhost:1313/events/2025/facepe-seminario-confederao-equador/"
         },
         "position": 2
       },
       {
         "@type": "ListItem",
         "item": {
-          "@id": "https://rodrigoclira.github.io/events/2024/wcda2024-mesa/",
+          "@id": "http://localhost:1313/events/2024/wcda2024-mesa/",
           "@type": "WebPage",
           "name": "Otimização Energética",
-          "url": "https://rodrigoclira.github.io/events/2024/wcda2024-mesa/"
+          "url": "http://localhost:1313/events/2024/wcda2024-mesa/"
         },
         "position": 3
       },
       {
         "@type": "ListItem",
         "item": {
-          "@id": "https://rodrigoclira.github.io/events/2022/snct2022/",
+          "@id": "http://localhost:1313/events/2022/snct2022/",
           "@type": "WebPage",
           "name": "Oportunidades em Editais Externos de Pesquisa e Extensão Tecnológica",
-          "url": "https://rodrigoclira.github.io/events/2022/snct2022/"
+          "url": "http://localhost:1313/events/2022/snct2022/"
         },
         "position": 4
       },
       {
         "@type": "ListItem",
         "item": {
-          "@id": "https://rodrigoclira.github.io/events/2021/lacci2021/",
+          "@id": "http://localhost:1313/events/2021/lacci2021/",
           "@type": "WebPage",
           "name": "Modelling the Social Interactions in Grey Wolf Optimizer",
-          "url": "https://rodrigoclira.github.io/events/2021/lacci2021/"
+          "url": "http://localhost:1313/events/2021/lacci2021/"
         },
         "position": 5
       },
       {
         "@type": "ListItem",
         "item": {
-          "@id": "https://rodrigoclira.github.io/events/2023/icsi2023/",
+          "@id": "http://localhost:1313/events/2023/icsi2023/",
           "@type": "WebPage",
           "name": "Integrating Reinforcement Learning and Optimization Task - Evaluating an Agent to Dynamically Select PSO Communication Topology",
-          "url": "https://rodrigoclira.github.io/events/2023/icsi2023/"
+          "url": "http://localhost:1313/events/2023/icsi2023/"
         },
         "position": 6
       },
       {
         "@type": "ListItem",
         "item": {
-          "@id": "https://rodrigoclira.github.io/events/2024/wrnp/",
+          "@id": "http://localhost:1313/events/2024/wrnp/",
           "@type": "WebPage",
           "name": "INOVA ID RS",
-          "url": "https://rodrigoclira.github.io/events/2024/wrnp/"
+          "url": "http://localhost:1313/events/2024/wrnp/"
         },
         "position": 7
       },
       {
         "@type": "ListItem",
         "item": {
-          "@id": "https://rodrigoclira.github.io/events/2024/lacci2024/",
+          "@id": "http://localhost:1313/events/2024/lacci2024/",
           "@type": "WebPage",
           "name": "Exploring Social Dynamics in a Reinforcement Learning-based Metaheuristic - A study using Improvement Frequency and Population Turnover",
-          "url": "https://rodrigoclira.github.io/events/2024/lacci2024/"
+          "url": "http://localhost:1313/events/2024/lacci2024/"
         },
         "position": 8
       },
       {
         "@type": "ListItem",
         "item": {
-          "@id": "https://rodrigoclira.github.io/events/2025/wcama/",
+          "@id": "http://localhost:1313/events/2025/wcama/",
           "@type": "WebPage",
           "name": "DroneShark Dataset: Um Conjunto de Imagens Aéreas para Detecção de Tubarões",
-          "url": "https://rodrigoclira.github.io/events/2025/wcama/"
+          "url": "http://localhost:1313/events/2025/wcama/"
         },
         "position": 9
       },
       {
         "@type": "ListItem",
         "item": {
-          "@id": "https://rodrigoclira.github.io/events/2020/ctrel2020/",
+          "@id": "http://localhost:1313/events/2020/ctrel2020/",
           "@type": "WebPage",
           "name": "Desenvolvimento de um Jogo Utilizando Robótica para o Estı́mulo do Pensamento Computacional",
-          "url": "https://rodrigoclira.github.io/events/2020/ctrel2020/"
+          "url": "http://localhost:1313/events/2020/ctrel2020/"
         },
         "position": 10
       }
@@ -1130,8 +1092,8 @@
     "itemListOrder": "Descending",
     "numberOfItems": 10
   },
-  "name": "Recent \u0026 Upcoming Talks",
-  "url": "https://rodrigoclira.github.io/events/"
+  "name": "Palestras",
+  "url": "http://localhost:1313/events/"
 }
 </script>
 
@@ -1145,7 +1107,7 @@
     {
       "@type": "ListItem",
       "item": {
-        "@id": "https://rodrigoclira.github.io/",
+        "@id": "http://localhost:1313/",
         "name": "Rodrigo Lira"
       },
       "name": "Rodrigo Lira",
@@ -1154,10 +1116,10 @@
     {
       "@type": "ListItem",
       "item": {
-        "@id": "https://rodrigoclira.github.io/events/",
-        "name": "Recent \u0026 Upcoming Talks"
+        "@id": "http://localhost:1313/events/",
+        "name": "Palestras"
       },
-      "name": "Recent \u0026 Upcoming Talks",
+      "name": "Palestras",
       "position": 2
     }
   ]
@@ -1169,7 +1131,7 @@
 
 
 
-  <title>Recent &amp; Upcoming Talks | Rodrigo Lira</title>
+  <title>Palestras | Rodrigo Lira</title>
 
   
   
@@ -1621,8 +1583,8 @@
 
   <script
     defer
-    src="/js/hugo-blox-en.min.8e67887d1e4e773521ed17aef87acbf3d4d07207c99e1e3f4d76d00fc44e7065.js"
-    integrity="sha256-jmeIfR5OdzUh7Reu&#43;HrL89TQcgfJnh4/TXbQD8ROcGU="
+    src="/js/hugo-blox-en.min.js"
+    integrity=""
   ></script>
 
   
@@ -1648,7 +1610,7 @@
 
 
 
-<script defer src="/js/hb-search.min.135366008264b9d452ff89aad28374bc7e4b40d2c047098318511786419873b0.js" integrity="sha256-E1NmAIJkudRS/4mq0oN0vH5LQNLARwmDGFEXhkGYc7A="></script>
+<script defer src="/js/hb-search.min.js"></script>
 
 
 
@@ -2486,7 +2448,7 @@
 
 <div class="max-w-prose mx-auto flex justify-center">
   <article class="prose prose-slate lg:prose-xl dark:prose-invert">
-    <h1 class="lg:text-6xl">Recent &amp; Upcoming Talks</h1>
+    <h1 class="lg:text-6xl">Palestras</h1>
     
   </article>
 </div>
@@ -2597,7 +2559,7 @@
         
         <a href="/tags/ifpe/">
           <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300">
-            Ifpe
+            IFPE
           </span>
         </a>
         
@@ -2992,7 +2954,7 @@
         
         <a href="/tags/snct/">
           <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300">
-            SNCT
+            Snct
           </span>
         </a>
         
@@ -3856,7 +3818,7 @@
       
       Made with <a class="underline hover:opacity-100" href="https://hugoblox.com?utm_source=site_footer&utm_medium=referral&utm_campaign=poweredby_oss&utm_content=brand_academic-cv" target="_blank" rel="noopener" data-hbx="poweredby_brand">Hugo Blox Kit</a>.
       <a class="inline-flex items-center rounded px-2 py-0.5 border border-current ms-2 text-xs hover:opacity-100"
-         href="https://hugoblox.com/templates/academic-cv/start?utm_source=site_footer&amp;utm_medium=referral&amp;utm_campaign=poweredby_oss&amp;utm_content=cta_academic-cv" target="_blank" rel="noopener" data-hbx="poweredby_cta">Clone this template →</a>
+         href="https://hugoblox.com/templates/academic-cv/start?utm_source=site_footer&amp;utm_medium=referral&amp;utm_campaign=poweredby_oss&amp;utm_content=cta_academic-cv" target="_blank" rel="noopener" data-hbx="poweredby_cta">Build your site →</a>
     </p>  
 
 </footer>
@@ -3887,6 +3849,421 @@
 
 
     
+    
+      <script>
+    window.__HBX_LOGS__ = {"currentPage":{"buildId":"1777646611","file":"events/_index.md","kind":"section","layout":"","path":"/events/","section":"events","title":"Palestras","type":"events"},"deps":[{"path":"project","vendor":false,"version":""},{"owner_path":"project","path":"github.com/HugoBlox/kit/modules/integrations/netlify","vendor":true,"version":"v0.0.0-20260102210655-66cba27dc652"},{"owner_path":"project","path":"github.com/HugoBlox/kit/modules/blox","vendor":true,"version":"v0.0.0-20260124040029-77f7678f08ac"},{"owner_path":"project","path":"github.com/HugoBlox/kit/modules/analytics","vendor":true,"version":"v0.3.1"},{"owner_path":"project","path":"github.com/HugoBlox/kit/modules/slides","vendor":true,"version":"v0.0.0-20260113153632-aa9edea5df2a"}],"entries":[{"buildId":"1777646611","id":"","level":"info","message":"✅  Using sections from front matter for page /blog/ (found 1 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1777646611},{"buildId":"1777645705","id":"","level":"info","message":"✅  Using sections from front matter for page /courses/ (found 1 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1777645705},{"buildId":"1777645705","id":"","level":"info","message":"✅  Using sections from front matter for page /projects/ (found 1 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1777645705},{"buildId":"1777645705","id":"","level":"info","message":"✅  Using sections from front matter for page /experience/ (found 4 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1777645705},{"buildId":"1777645705","id":"","level":"info","message":"✅  Using sections from front matter for page /downloads/ (found 1 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1777645705},{"buildId":"1777646611","id":"","level":"info","message":"✅  Using sections from front matter for page / (found 4 sections)","page":"/","source":{"name":"hbx/sections","type":"partial"},"timestamp":1777646611}],"generatedAt":"2026-05-01T14:43:31Z","hugo":{"goVersion":"go1.25.4","version":"0.155.2"},"modules":{"bloxTailwind":{}},"version":1};
+  </script>
+      
+<script>
+(function(){
+    try {
+    const PLACEMENT = "\"bottom-left\"";
+    const OPACITY = "1";
+    const PLACEMENT_KEY = 'hbx-hud-placement';
+    const HIDE_BUTTON_KEY = 'hbx-hide-button';
+    const VALID_PLACEMENTS = ['bottom-left', 'bottom-center', 'bottom-right', 'top-left', 'top-center', 'top-right'];
+    const FALLBACK_PLACEMENT = 'bottom-left';
+    const isValidPlacement = (value) => VALID_PLACEMENTS.includes(value);
+    const normalizePlacement = (value) => (typeof value === 'string' ? value.toLowerCase().trim() : '');
+    const storedPlacement = normalizePlacement(localStorage.getItem(PLACEMENT_KEY));
+    const defaultPlacement = normalizePlacement(PLACEMENT);
+    const initialPlacement = isValidPlacement(storedPlacement) ? storedPlacement : (isValidPlacement(defaultPlacement) ? defaultPlacement : FALLBACK_PLACEMENT);
+    let currentPlacement = initialPlacement;
+    const initialHidePref = localStorage.getItem(HIDE_BUTTON_KEY) === '1';
+
+    const root = document.createElement('div');
+    root.id = 'hbx-dev-hud-root';
+    root.style.all = 'initial';
+    root.style.position = 'fixed';
+    root.style.zIndex = '2147483647';
+    root.style.pointerEvents = 'none';
+    root.style.bottom = '16px';
+
+    const shadow = root.attachShadow({ mode: 'open' });
+    const style = document.createElement('style');
+    style.textContent = `
+        :host { all: initial; }
+        .btn { pointer-events: auto; position:relative; display:inline-flex; align-items:center; justify-content:center; width:44px; height:44px; border-radius:9999px; background:#111418; color:#e6eaf0; border:1px solid #2a2f38; box-shadow: 0 10px 20px rgba(0,0,0,.25); cursor:pointer; }
+        .btn:hover { filter: brightness(1.1); }
+        .badge { position:absolute; top:-4px; right:-4px; min-width:18px; height:18px; padding:0 4px; border-radius:9999px; background:#ef4444; color:white; font: 600 11px/18px system-ui, sans-serif; text-align:center; }
+        .panel { pointer-events:auto; position:fixed; width:min(92vw, 1200px); max-height:min(80vh, 800px); background:#0d1117; color:#e6eaf0; border:1px solid #21262d; border-radius:12px; box-shadow: 0 20px 40px rgba(0,0,0,.4); overflow:hidden; display:none; transform: translateX(var(--hbx-panel-offset-x, 0)) translateY(8px) scale(0.95); opacity:0; }
+        .panel.open { display:flex; flex-direction:column; transform: translateX(var(--hbx-panel-offset-x, 0)) translateY(0) scale(1); opacity:1; }
+        .panel-header { display:flex; align-items:center; gap:12px; padding:12px 16px; border-bottom:1px solid #21262d; background:#161b22; }
+        .panel-header h2 { margin:0; font: 700 16px system-ui, sans-serif; letter-spacing:-0.01em; color:#f0f6fc; }
+        .panel-header .close-btn { margin-left:auto; width:32px; height:32px; border:none; background:#21262d; color:#8b949e; border-radius:6px; cursor:pointer; font-size:16px; display:flex; align-items:center; justify-content:center; }
+        .panel-header .close-btn:hover { background:#30363d; color:#f0f6fc; }
+        .page-info { padding:16px; background:#0d1117; border-bottom:1px solid #21262d; }
+        .page-info h3 { margin:0 0 12px 0; font: 600 14px system-ui, sans-serif; color:#f0f6fc; display:flex; align-items:center; gap:8px; }
+        .page-info h3::before { content:'🔍'; font-size:16px; }
+        .page-meta { display:grid; grid-template-columns:repeat(auto-fit, minmax(200px, 1fr)); gap:12px; }
+        .meta-item { display:flex; flex-direction:column; gap:4px; }
+        .meta-label { font: 500 11px system-ui, sans-serif; color:#8b949e; text-transform:uppercase; letter-spacing:0.5px; }
+        .meta-value { font: 600 13px "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", monospace; color:#79c0ff; background:#161b22; padding:6px 8px; border-radius:6px; border:1px solid #21262d; word-break:break-all; }
+        .meta-value.type { color:#a5f3fc; }
+        .meta-value.layout { color:#fbbf24; }
+        .tabs { display:flex; background:#161b22; border-bottom:1px solid #21262d; }
+        .tab { padding:12px 16px; font: 500 14px system-ui, sans-serif; color:#8b949e; cursor:pointer; border-bottom:2px solid transparent; }
+        .tab:hover { color:#f0f6fc; }
+        .tab.active { color:#58a6ff; border-bottom-color:#58a6ff; }
+        .tab-content { flex:1; overflow:auto; }
+        .env-info { padding:12px 16px; font: 500 11px system-ui, sans-serif; color:#8b949e; background:#0d1117; border-bottom:1px solid #21262d; display:flex; align-items:center; gap:16px; }
+        .filters { display:flex; flex-wrap:wrap; gap:12px; align-items:center; margin-left:auto; justify-content:flex-end; }
+        .filters label { display:inline-flex; gap:6px; align-items:center; font: 500 12px system-ui, sans-serif; color:#c9d2e1; cursor:pointer; }
+        .filters select { appearance:none; background:#111418; border:1px solid #2a2f38; border-radius:6px; color:#e6eaf0; font: 500 12px system-ui, sans-serif; padding:6px 28px 6px 10px; min-width:140px; box-shadow: inset 0 1px 2px rgba(0,0,0,0.2); }
+        .filters select:focus { outline:2px solid #2563eb; outline-offset:1px; }
+        .logs-content { overflow:auto; }
+        .entry { display:grid; grid-template-columns:auto 1fr auto; gap:12px; padding:12px 16px; border-bottom:1px solid #21262d; }
+        .entry:hover { background:#161b22; }
+        .entry .lvl { font:700 11px system-ui, sans-serif; text-transform:uppercase; padding:4px 6px; border-radius:4px; }
+        .entry.error .lvl { color:#ffffff; background:#da3633; }
+        .entry.warn .lvl { color:#1f2937; background:#f59e0b; }
+        .entry.info .lvl { color:#ffffff; background:#1f6feb; }
+        .entry .msg { white-space:pre-wrap; word-break:break-word; font: 400 13px system-ui, sans-serif; line-height:1.5; }
+        .entry .meta { color:#8b949e; font: 500 11px "SF Mono", Monaco, monospace; }
+        .page-group-header { padding:12px 16px; font: 600 12px system-ui, sans-serif; color:#58a6ff; border-bottom:1px solid #21262d; background:#0d1117; }
+        @media (prefers-reduced-motion:no-preference) {
+        .panel { transition: all .25s cubic-bezier(0.4, 0, 0.2, 1); }
+        }
+    `;
+    shadow.appendChild(style);
+
+    const btnWrap = document.createElement('div');
+    btnWrap.style.position = 'relative';
+    const btn = document.createElement('button');
+    btn.className = 'btn';
+    btn.style.opacity = String(OPACITY);
+    btn.setAttribute('aria-label', 'Hugo Blox Dev HUD');
+    btn.textContent = 'HB';
+    const badge = document.createElement('span');
+    badge.className = 'badge';
+    badge.hidden = true;
+    btnWrap.append(btn, badge);
+
+    const panel = document.createElement('div');
+    panel.className = 'panel';
+    
+    
+    const header = document.createElement('div');
+    header.className = 'panel-header';
+    const title = document.createElement('h2'); 
+    title.textContent = 'Hugo Blox – Dev Tools';
+    const close = document.createElement('button'); 
+    close.className = 'close-btn'; 
+    close.textContent = '×'; 
+    close.title = 'Close';
+    header.append(title, close);
+    
+    
+    const pageInfo = document.createElement('div');
+    pageInfo.className = 'page-info';
+    const pageTitle = document.createElement('h3');
+    pageTitle.textContent = 'Current Page';
+    const pageMeta = document.createElement('div');
+    pageMeta.className = 'page-meta';
+    pageInfo.append(pageTitle, pageMeta);
+    
+    
+    const envInfo = document.createElement('div');
+    envInfo.className = 'env-info';
+    const env = document.createElement('div');
+    env.textContent = '';
+    const filters = document.createElement('div'); 
+    filters.className = 'filters';
+    const chkInfo = document.createElement('input'); 
+    chkInfo.type='checkbox'; 
+    chkInfo.id='hbx-info'; 
+    chkInfo.checked = !!(localStorage.getItem('hbx-show-info')||'');
+    const lblInfo = document.createElement('label'); 
+    lblInfo.htmlFor='hbx-info'; 
+    lblInfo.textContent='Show info';
+    const chkAuto = document.createElement('input');
+    chkAuto.type='checkbox';
+    chkAuto.id='hbx-auto-open';
+    chkAuto.checked = !!(localStorage.getItem('hbx-auto-open')||'');
+    const lblAuto = document.createElement('label');
+    lblAuto.htmlFor='hbx-auto-open';
+    lblAuto.textContent='Auto open';
+    const chkHide = document.createElement('input');
+    chkHide.type = 'checkbox';
+    chkHide.id = 'hbx-hide-button';
+    chkHide.checked = initialHidePref;
+    const lblHide = document.createElement('label');
+    lblHide.htmlFor = 'hbx-hide-button';
+    lblHide.textContent = 'Hide button';
+    lblHide.title = 'When hidden, press Cmd/Ctrl + Shift + D to toggle the panel.';
+    const placementLabel = document.createElement('label');
+    placementLabel.htmlFor = 'hbx-placement';
+    placementLabel.textContent = 'Button position';
+    placementLabel.title = 'Choose where the floating button lives.';
+    const placementSelect = document.createElement('select');
+    placementSelect.id = 'hbx-placement';
+    placementSelect.setAttribute('aria-label', 'Dev tools button placement');
+    const appendPlacementOption = (value, text) => {
+        const opt = document.createElement('option');
+        opt.value = value;
+        opt.textContent = text;
+        placementSelect.append(opt);
+    };
+    appendPlacementOption('bottom-left', 'Bottom left');
+    appendPlacementOption('bottom-center', 'Bottom center');
+    appendPlacementOption('bottom-right', 'Bottom right');
+    appendPlacementOption('top-left', 'Top left');
+    appendPlacementOption('top-center', 'Top center');
+    appendPlacementOption('top-right', 'Top right');
+    placementSelect.value = initialPlacement;
+    filters.append(lblInfo, chkInfo, lblAuto, chkAuto, lblHide, chkHide, placementLabel, placementSelect);
+    envInfo.append(env, filters);
+    
+    
+    const tabs = document.createElement('div');
+    tabs.className = 'tabs';
+    const logsTab = document.createElement('div');
+    logsTab.className = 'tab active';
+    logsTab.textContent = 'Logs';
+    logsTab.dataset.tab = 'logs';
+    tabs.append(logsTab);
+    
+    
+    const tabContent = document.createElement('div');
+    tabContent.className = 'tab-content';
+    const logsContent = document.createElement('div');
+    logsContent.className = 'logs-content';
+    tabContent.append(logsContent);
+    
+    panel.append(header, pageInfo, envInfo, tabs, tabContent);
+
+    const setPlacement = (placement, persist = true) => {
+        const nextPlacement = isValidPlacement(placement) ? placement : FALLBACK_PLACEMENT;
+        currentPlacement = nextPlacement;
+        root.style.top = '';
+        root.style.bottom = '';
+        root.style.left = '';
+        root.style.right = '';
+        root.style.transform = '';
+        panel.style.top = '';
+        panel.style.bottom = '';
+        panel.style.left = '';
+        panel.style.right = '';
+        panel.style.setProperty('--hbx-panel-offset-x', '0');
+        const isTop = nextPlacement.startsWith('top-');
+        if (isTop) {
+        root.style.top = '16px';
+        panel.style.top = '72px';
+        } else {
+        root.style.bottom = '16px';
+        panel.style.bottom = '72px';
+        }
+        if (nextPlacement.endsWith('left')) {
+        root.style.left = '16px';
+        panel.style.left = '16px';
+        } else if (nextPlacement.endsWith('right')) {
+        root.style.right = '16px';
+        panel.style.right = '16px';
+        } else {
+        root.style.left = '50%';
+        panel.style.left = '50%';
+        root.style.transform = 'translateX(-50%)';
+        panel.style.setProperty('--hbx-panel-offset-x', '-50%');
+        }
+        if (persist) {
+        localStorage.setItem(PLACEMENT_KEY, nextPlacement);
+        }
+        placementSelect.value = nextPlacement;
+    };
+
+    const setButtonVisibility = (hidden, persist = true) => {
+        btnWrap.hidden = hidden;
+        if (persist) {
+        localStorage.setItem(HIDE_BUTTON_KEY, hidden ? '1' : '');
+        }
+        chkHide.checked = hidden;
+    };
+
+    setPlacement(currentPlacement, false);
+    setButtonVisibility(initialHidePref, false);
+
+    shadow.append(btnWrap, panel);
+
+    const attach = () => { if (!document.body.contains(root)) document.body.appendChild(root); };
+    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', attach);
+    else attach();
+
+    let logs = [];
+    let meta = null;
+    const setLogs = (payload) => { 
+        if (payload) { 
+        logs = Array.isArray(payload.entries) ? payload.entries : []; 
+        meta = payload; 
+        } else { 
+        logs = []; 
+        meta = null; 
+        } 
+    };
+    const shouldShowInfo = () => chkInfo.checked;
+    const createMetaItem = (label, value, className = '') => {
+        const item = document.createElement('div');
+        item.className = 'meta-item';
+        const labelEl = document.createElement('div');
+        labelEl.className = 'meta-label';
+        labelEl.textContent = label;
+        const valueEl = document.createElement('div');
+        valueEl.className = `meta-value ${className}`;
+        valueEl.textContent = value || '(not set)';
+        item.append(labelEl, valueEl);
+        return item;
+    };
+
+    const render = () => {
+        
+        
+        if (meta && meta.hugo) {
+        const hv = meta.hugo.version || '';
+        const gvRaw = meta.hugo.goVersion || '';
+        const gv = gvRaw.replace(/^go/i, '');
+        const tw = meta.modules && meta.modules.bloxTailwind ? meta.modules.bloxTailwind.version : '';
+        env.textContent = `Hugo ${hv} · Go ${gv}${tw ? ` · blox-tailwind ${tw}` : ''}`;
+        }
+
+        
+        pageMeta.replaceChildren();
+        if (meta && meta.currentPage) {
+        const page = meta.currentPage;
+        pageMeta.append(
+            createMetaItem('Type', page.type || 'unknown', 'type'),
+            createMetaItem('Layout', page.layout || '(none)', 'layout'),
+            createMetaItem('Kind', page.kind || 'unknown'),
+            createMetaItem('Section', page.section || '(none)'),
+            createMetaItem('Path', page.path || window.location.pathname),
+            createMetaItem('File', page.file || '(virtual page)'),
+            createMetaItem('Build ID', page.buildId || 'unknown')
+        );
+        } else {
+        
+        pageMeta.append(
+            createMetaItem('Type', 'loading...', 'type'),
+            createMetaItem('Layout', 'loading...', 'layout'),
+            createMetaItem('Kind', 'loading...'),
+            createMetaItem('Section', 'loading...'),
+            createMetaItem('Path', window.location.pathname),
+            createMetaItem('File', 'loading...'),
+            createMetaItem('Build ID', 'loading...')
+        );
+        }
+
+        
+        const visible = logs.filter(e => e.level==='error' || e.level==='warn' || (e.level==='info' && shouldShowInfo()));
+        const errs = visible.filter(e => e.level==='error').length;
+        const warns = visible.filter(e => e.level==='warn').length;
+        const total = errs + warns + (shouldShowInfo()? visible.filter(e=>e.level==='info').length : 0);
+        badge.textContent = String(total);
+        badge.hidden = total === 0;
+        
+        
+        logsTab.textContent = `Logs${total > 0 ? ` (${total})` : ''}`;
+        
+        logsContent.replaceChildren();
+        const groupByPage = new Map();
+        for (const e of visible) {
+        const key = e.page || '/';
+        if (!groupByPage.has(key)) groupByPage.set(key, []);
+        groupByPage.get(key).push(e);
+        }
+        for (const [page, entries] of groupByPage) {
+        const h = document.createElement('div');
+        h.className = 'page-group-header';
+        h.textContent = page;
+        logsContent.appendChild(h);
+        for (const e of entries.sort((a,b)=> (a.level>b.level?-1:1) || (a.timestamp-b.timestamp))) {
+            const row = document.createElement('div');
+            row.className = `entry ${e.level}`;
+            const lvl = document.createElement('div'); 
+            lvl.className='lvl'; 
+            lvl.textContent=e.level;
+            const msg = document.createElement('div'); 
+            msg.className='msg'; 
+            msg.textContent = e.message || '';
+            const metaEl = document.createElement('div'); 
+            metaEl.className='meta'; 
+            metaEl.textContent = new Date(e.timestamp*1000).toLocaleTimeString();
+            row.append(lvl, msg, metaEl);
+            logsContent.appendChild(row);
+        }
+        }
+    };
+
+    const refreshFromWindow = () => { 
+        if (window.__HBX_LOGS__) { 
+        setLogs(window.__HBX_LOGS__); 
+        }
+    };
+    const fetchLogs = async () => {
+        try {
+        const res = await fetch('/hbx-debug.json?cb=' + Date.now());
+        if (res.ok) { const data = await res.json(); setLogs(data); render(); }
+        } catch (e) {   }
+    };
+
+    const openPanel = () => {
+        panel.classList.add('open');
+        refreshFromWindow();
+        render();
+        fetchLogs();
+    };
+    const closePanel = () => {
+        panel.classList.remove('open');
+    };
+    const togglePanel = () => {
+        if (panel.classList.contains('open')) {
+        closePanel();
+        } else {
+        openPanel();
+        }
+    };
+
+    btn.addEventListener('click', togglePanel);
+    close.addEventListener('click', closePanel);
+    chkInfo.addEventListener('change', () => { 
+        localStorage.setItem('hbx-show-info', chkInfo.checked ? '1' : ''); 
+        render(); 
+    });
+    chkAuto.addEventListener('change', () => {
+        localStorage.setItem('hbx-auto-open', chkAuto.checked ? '1' : '');
+    });
+    chkHide.addEventListener('change', () => {
+        const hideButton = chkHide.checked;
+        setButtonVisibility(hideButton);
+        if (hideButton) {
+        openPanel();
+        }
+    });
+    placementSelect.addEventListener('change', () => {
+        setPlacement(placementSelect.value);
+    });
+
+    
+    refreshFromWindow();
+    render(); 
+
+    
+    if (chkAuto.checked) {
+        openPanel();
+    }
+
+    const handleShortcut = (event) => {
+        const key = (event.key || '').toLowerCase();
+        if (key === 'd' && event.shiftKey && (event.metaKey || event.ctrlKey)) {
+        event.preventDefault();
+        togglePanel();
+        }
+    };
+    window.addEventListener('keydown', handleShortcut);
+
+    
+    setInterval(() => { refreshFromWindow(); }, 3000);
+    } catch(e) {   }
+})();
+</script>
+
     
   </body>
 </html>
