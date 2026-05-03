@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Iot | Rodrigo Lira</title>
+    <title>IoT | Rodrigo Lira</title>
     <link>https://rodrigoclira.github.io/tags/iot/</link>
       <atom:link href="https://rodrigoclira.github.io/tags/iot/index.xml" rel="self" type="application/rss+xml" />
-    <description>Iot</description>
+    <description>IoT</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Mon, 15 Nov 2021 23:18:25 -0300</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
-      <title>Iot</title>
+      <title>IoT</title>
       <link>https://rodrigoclira.github.io/tags/iot/</link>
     </image>
     
     <item>
       <title>Acordo de Cooperação Técnica entre o IFPE Paulista e o Softex Recife</title>
-      <link>https://rodrigoclira.github.io/blog/2021/act-softex-recife/</link>
+      <link>https://rodrigoclira.github.io/post/2021/act-softex-recife/</link>
       <pubDate>Mon, 15 Nov 2021 23:18:25 -0300</pubDate>
-      <guid>https://rodrigoclira.github.io/blog/2021/act-softex-recife/</guid>
+      <guid>https://rodrigoclira.github.io/post/2021/act-softex-recife/</guid>
       <description>&lt;p&gt;O IFPE Campus Paulista por meio do professor Rodrigo Lira celebrou um acordo de cooperação técnica com o Centro de Excelência em Tecnologia de Software do Recife - Softex Recife. Através desse acoordo as partes irão constituit uma parceria para o desenvolvimento de uma aplicação para gerenciamento / monitoramenoto / previsão de dados obtidos pelas estações de metorologia modular. Através desse acordo também será possível que o IFPE Campus Paulista utilize as dependências do Softex Recife no Porto Digital.&lt;/p&gt;
 </description>
     </item>

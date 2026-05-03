@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gwo | Rodrigo Lira</title>
+    <title>GWO | Rodrigo Lira</title>
     <link>https://rodrigoclira.github.io/tags/gwo/</link>
       <atom:link href="https://rodrigoclira.github.io/tags/gwo/index.xml" rel="self" type="application/rss+xml" />
-    <description>Gwo</description>
+    <description>GWO</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Sat, 04 Jun 2022 10:18:25 -0300</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
-      <title>Gwo</title>
+      <title>GWO</title>
       <link>https://rodrigoclira.github.io/tags/gwo/</link>
     </image>
     
     <item>
       <title>Grey Wolf Optimizer in a nutshell</title>
-      <link>https://rodrigoclira.github.io/blog/2022/gwo-in-a-nutsshell/</link>
+      <link>https://rodrigoclira.github.io/post/2022/gwo-in-a-nutsshell/</link>
       <pubDate>Sat, 04 Jun 2022 10:18:25 -0300</pubDate>
-      <guid>https://rodrigoclira.github.io/blog/2022/gwo-in-a-nutsshell/</guid>
+      <guid>https://rodrigoclira.github.io/post/2022/gwo-in-a-nutsshell/</guid>
       <description>&lt;p&gt;In nature, grey wolves live in a pack, and they organise themselves in a social hierarchy of four layers: alpha (α), beta (β), delta (δ) and omega (ω) as shown in Figure 1. The most dominant individual (leader) is the alpha, and it leads the pack. The second layer is the beta, it reinforces the commands of the alpha to the others, and it is an advisor of the alpha. Delta wolves are the scouts, sentinels, elders, hunters and caretakers. Delta wolves submit to alphas and betas, but they dominate the lowest level in the pack, the omegas. The grey wolves also hunt in a group. Hunting can be divided into three steps: (i) tracking, chasing and approaching the prey; (ii) pursuing encircling, and harassing the prey it stops moving; and (iii) attacking the prey.&lt;/p&gt;
 &lt;p&gt;
 
@@ -38,9 +38,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;GWO social hierarchy&#34; 
-               srcset=&#34;https://rodrigoclira.github.io/blog/2022/gwo-in-a-nutsshell/gwo-social2_hu_447bde16171c2597.webp 320w, https://rodrigoclira.github.io/blog/2022/gwo-in-a-nutsshell/gwo-social2_hu_41feab7a83a17278.webp 480w, https://rodrigoclira.github.io/blog/2022/gwo-in-a-nutsshell/gwo-social2_hu_e690a172bdb3a832.webp 760w&#34;
+               srcset=&#34;https://rodrigoclira.github.io/post/2022/gwo-in-a-nutsshell/gwo-social2_hu_447bde16171c2597.webp 320w, https://rodrigoclira.github.io/post/2022/gwo-in-a-nutsshell/gwo-social2_hu_41feab7a83a17278.webp 480w, https://rodrigoclira.github.io/post/2022/gwo-in-a-nutsshell/gwo-social2_hu_e690a172bdb3a832.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://rodrigoclira.github.io/blog/2022/gwo-in-a-nutsshell/gwo-social2_hu_447bde16171c2597.webp&#34;
+               src=&#34;https://rodrigoclira.github.io/post/2022/gwo-in-a-nutsshell/gwo-social2_hu_447bde16171c2597.webp&#34;
                width=&#34;760&#34;
                height=&#34;582&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -122,9 +122,9 @@ $$
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;GWO Pseudo Code&#34; 
-               srcset=&#34;https://rodrigoclira.github.io/blog/2022/gwo-in-a-nutsshell/gwo-pseudo_hu_1cd422bb5699fe4c.webp 320w, https://rodrigoclira.github.io/blog/2022/gwo-in-a-nutsshell/gwo-pseudo_hu_92cc1ede0eb47f0b.webp 480w, https://rodrigoclira.github.io/blog/2022/gwo-in-a-nutsshell/gwo-pseudo_hu_1f55d97fd5b3a468.webp 760w&#34;
+               srcset=&#34;https://rodrigoclira.github.io/post/2022/gwo-in-a-nutsshell/gwo-pseudo_hu_1cd422bb5699fe4c.webp 320w, https://rodrigoclira.github.io/post/2022/gwo-in-a-nutsshell/gwo-pseudo_hu_92cc1ede0eb47f0b.webp 480w, https://rodrigoclira.github.io/post/2022/gwo-in-a-nutsshell/gwo-pseudo_hu_1f55d97fd5b3a468.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://rodrigoclira.github.io/blog/2022/gwo-in-a-nutsshell/gwo-pseudo_hu_1cd422bb5699fe4c.webp&#34;
+               src=&#34;https://rodrigoclira.github.io/post/2022/gwo-in-a-nutsshell/gwo-pseudo_hu_1cd422bb5699fe4c.webp&#34;
                width=&#34;760&#34;
                height=&#34;500&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -152,9 +152,9 @@ $$
     
     <item>
       <title>Publicação no Latin America Conference on Computational Intelligence (LA-CCI 2021)</title>
-      <link>https://rodrigoclira.github.io/blog/2021/lacci2021/</link>
+      <link>https://rodrigoclira.github.io/post/2021/lacci2021/</link>
       <pubDate>Sun, 26 Sep 2021 23:57:14 -0300</pubDate>
-      <guid>https://rodrigoclira.github.io/blog/2021/lacci2021/</guid>
+      <guid>https://rodrigoclira.github.io/post/2021/lacci2021/</guid>
       <description>&lt;p&gt;O artigo &amp;ldquo;Modelling the Social Interactions in Grey Wolf Optimizer&amp;rdquo; foi aceito no 
 .&lt;/p&gt;
 &lt;p&gt;Autores: &lt;strong&gt;Rodrigo C. Lira&lt;/strong&gt;, Mariana Macedo, Hugo Valadares Siqueira. Ronaldo Menezes, Carmelo Bastos-Filho&lt;/p&gt;
