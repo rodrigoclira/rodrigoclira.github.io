@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SNCT | Rodrigo Lira</title>
+    <title>Snct | Rodrigo Lira</title>
     <link>https://rodrigoclira.github.io/tags/snct/</link>
       <atom:link href="https://rodrigoclira.github.io/tags/snct/index.xml" rel="self" type="application/rss+xml" />
-    <description>SNCT</description>
+    <description>Snct</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
-      <title>SNCT</title>
+      <title>Snct</title>
       <link>https://rodrigoclira.github.io/tags/snct/</link>
     </image>
     
