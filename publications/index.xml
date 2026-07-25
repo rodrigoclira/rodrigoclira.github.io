@@ -5,12 +5,30 @@
     <link>https://rodrigoclira.github.io/publications/</link>
       <atom:link href="https://rodrigoclira.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Sat, 25 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Publications</title>
       <link>https://rodrigoclira.github.io/publications/</link>
     </image>
+    
+    <item>
+      <title>Avaliação de Desempenho de Modelos de ML para IoMT em uma Plataforma ARM de Borda</title>
+      <link>https://rodrigoclira.github.io/publications/conference/2026/sbcup/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publications/conference/2026/sbcup/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Desenvolvimento de uma Pulseira Inteligente para Detecção de Quedas: Uma aplicação voltada à segurança de idosos e pessoas com deficiência</title>
+      <link>https://rodrigoclira.github.io/publications/conference/2026/encompif/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://rodrigoclira.github.io/publications/conference/2026/encompif/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re unable to download the PDF directly, please request it through ResearchGate by clicking on the PDF icon. I&amp;rsquo;d be happy to share it with you.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Efficient parallel upscaling of river drainage networks for large data sets</title>

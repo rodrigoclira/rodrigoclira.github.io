@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GWO | Rodrigo Lira</title>
+    <title>Gwo | Rodrigo Lira</title>
     <link>https://rodrigoclira.github.io/tags/gwo/</link>
       <atom:link href="https://rodrigoclira.github.io/tags/gwo/index.xml" rel="self" type="application/rss+xml" />
-    <description>GWO</description>
+    <description>Gwo</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Sat, 04 Jun 2022 10:18:25 -0300</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
-      <title>GWO</title>
+      <title>Gwo</title>
       <link>https://rodrigoclira.github.io/tags/gwo/</link>
     </image>
     
