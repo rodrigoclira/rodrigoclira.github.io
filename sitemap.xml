@@ -14,6 +14,22 @@
   <url>
     <loc>https://rodrigoclira.github.io/courses/hugo-blox/guide/configuration/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://rodrigoclira.github.io/tags/aws/</loc><lastmod>2026-08-29T09:00:00-03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://rodrigoclira.github.io/post/</loc><lastmod>2026-08-29T09:00:00-03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://rodrigoclira.github.io/tags/cloud9/</loc><lastmod>2026-08-29T09:00:00-03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://rodrigoclira.github.io/tags/code-server/</loc><lastmod>2026-08-29T09:00:00-03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://rodrigoclira.github.io/tags/ec2/</loc><lastmod>2026-08-29T09:00:00-03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://rodrigoclira.github.io/post/2026/code-server-ec2/</loc><lastmod>2026-08-29T09:00:00-03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://rodrigoclira.github.io/tags/</loc><lastmod>2026-08-29T09:00:00-03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://rodrigoclira.github.io/tags/vs-code/</loc><lastmod>2026-08-29T09:00:00-03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://rodrigoclira.github.io/publications/conference/2026/sbcup/</loc><lastmod>2026-07-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://rodrigoclira.github.io/publications/conference/2026/encompif/</loc><lastmod>2026-07-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -24,15 +40,11 @@
   <url>
     <loc>https://rodrigoclira.github.io/publications/</loc><lastmod>2026-07-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://rodrigoclira.github.io/post/</loc><lastmod>2026-05-01T08:18:25-03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://rodrigoclira.github.io/tags/llm/</loc><lastmod>2026-05-01T08:18:25-03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://rodrigoclira.github.io/post/2026/learning-to-program-in-age-of-llm/</loc><lastmod>2026-05-01T08:18:25-03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://rodrigoclira.github.io/tags/programacao/</loc><lastmod>2026-05-01T08:18:25-03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://rodrigoclira.github.io/tags/</loc><lastmod>2026-05-01T08:18:25-03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://rodrigoclira.github.io/news/exemplo/</loc><lastmod>2026-04-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -185,8 +197,6 @@
     <loc>https://rodrigoclira.github.io/tags/amazon-linux-2/</loc><lastmod>2022-03-18T23:18:25-03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://rodrigoclira.github.io/post/2022/updating-sqlite-amazon-linux-2/</loc><lastmod>2022-03-18T23:18:25-03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://rodrigoclira.github.io/tags/aws/</loc><lastmod>2022-03-18T23:18:25-03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://rodrigoclira.github.io/tags/sqlite/</loc><lastmod>2022-03-18T23:18:25-03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

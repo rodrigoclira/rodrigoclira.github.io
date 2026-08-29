@@ -5,12 +5,122 @@
     <link>https://rodrigoclira.github.io/tags/aws/</link>
       <atom:link href="https://rodrigoclira.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     <description>Aws</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Fri, 18 Mar 2022 23:18:25 -0300</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Sat, 29 Aug 2026 09:00:00 -0300</lastBuildDate>
     <image>
       <url>https://rodrigoclira.github.io/media/icon_hu_b22adc9a7ee7cc2a.png</url>
       <title>Aws</title>
       <link>https://rodrigoclira.github.io/tags/aws/</link>
     </image>
+    
+    <item>
+      <title>Setting up Code Server on an EC2 Instance</title>
+      <link>https://rodrigoclira.github.io/post/2026/code-server-ec2/</link>
+      <pubDate>Sat, 29 Aug 2026 09:00:00 -0300</pubDate>
+      <guid>https://rodrigoclira.github.io/post/2026/code-server-ec2/</guid>
+      <description>&lt;h2 id=&#34;why-this-post-exists&#34;&gt;Why this post exists&lt;/h2&gt;
+&lt;p&gt;AWS has discontinued &lt;strong&gt;Cloud9&lt;/strong&gt;, and it is no longer available in the &lt;strong&gt;AWS Academy Learner Lab&lt;/strong&gt;. For years Cloud9 was the easiest way to give students a browser-based IDE with a terminal attached to a real AWS environment — no local setup, no &amp;ldquo;it works on my machine&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;With Cloud9 gone, we need a replacement that keeps the same experience: an editor in the browser, running on an instance we control. 
+ does exactly that — it is VS Code running on a remote machine, accessed through the browser.&lt;/p&gt;
+&lt;p&gt;The guide below walks through creating an EC2 instance in the Learner Lab and installing code-server on it. If you already have a Linux machine (another cloud, a VM, a lab server), skip straight to &lt;strong&gt;Step 7&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;creating-the-ec2-instance&#34;&gt;Creating the EC2 instance&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; Click &lt;strong&gt;Launch Instance&lt;/strong&gt;.&lt;/p&gt;
+&lt;img width=&#34;1090&#34; height=&#34;857&#34; alt=&#34;Launch instance button in the EC2 console&#34; src=&#34;https://github.com/user-attachments/assets/5400f8bb-9816-4e08-99be-b419b2e9b4fd&#34; /&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; Give it a name — for example &lt;code&gt;DEV&lt;/code&gt; — and choose &lt;strong&gt;Ubuntu Linux&lt;/strong&gt; as the operating system.&lt;/p&gt;
+&lt;img width=&#34;1082&#34; height=&#34;847&#34; alt=&#34;Naming the instance and selecting the Ubuntu AMI&#34; src=&#34;https://github.com/user-attachments/assets/71e5f75f-3116-4a84-8f07-ec8f9cc5ec1f&#34; /&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;3.&lt;/strong&gt; Pick the &lt;code&gt;t3.large&lt;/code&gt; instance type and &lt;code&gt;vokey&lt;/code&gt; as the key pair.&lt;/p&gt;
+
+
+
+  
+  &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
+    &lt;p&gt;&lt;code&gt;t3.large&lt;/code&gt; is the most powerful instance type the AWS Academy Learner Lab allows — the lab blocks anything larger. On a personal AWS account there is no such restriction, so feel free to pick something stronger if your workload needs it.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;vokey&lt;/code&gt; is the key pair that already exists in the Learner Lab. On your own AWS account, use (or create) whichever key pair you have access to.&lt;/p&gt;
+
+  &lt;/blockquote&gt;
+
+&lt;img width=&#34;1085&#34; height=&#34;411&#34; alt=&#34;Selecting the t3.large instance type and the vokey key pair&#34; src=&#34;https://github.com/user-attachments/assets/d19824e1-b6df-4b52-95c2-3b77e924afa6&#34; /&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;4.&lt;/strong&gt; Under &lt;strong&gt;Network settings&lt;/strong&gt; (firewall configuration), check &lt;strong&gt;Allow SSH&lt;/strong&gt;, &lt;strong&gt;Allow HTTPS&lt;/strong&gt; and &lt;strong&gt;Allow HTTP&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;HTTPS is the important one here: the installation below binds code-server to port 443.&lt;/p&gt;
+&lt;img width=&#34;1070&#34; height=&#34;356&#34; alt=&#34;Network settings with SSH, HTTP and HTTPS allowed&#34; src=&#34;https://github.com/user-attachments/assets/1b12fc4a-c0e5-4d74-b3c1-9d0c6432e2ea&#34; /&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;5.&lt;/strong&gt; Under &lt;strong&gt;Configure storage&lt;/strong&gt;, raise the disk to &lt;strong&gt;30 GB&lt;/strong&gt;. The default 8 GB fills up quickly once you install language runtimes and dependencies.&lt;/p&gt;
+&lt;img width=&#34;1089&#34; height=&#34;299&#34; alt=&#34;Storage configuration set to 30 GB&#34; src=&#34;https://github.com/user-attachments/assets/67c373ad-3bcf-423f-b74f-a3a36bba2f1a&#34; /&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;6.&lt;/strong&gt; Launch the instance.&lt;/p&gt;
+&lt;img width=&#34;547&#34; height=&#34;136&#34; alt=&#34;Launch instance confirmation button&#34; src=&#34;https://github.com/user-attachments/assets/24c2e92e-da26-4e9f-9a06-a7a0426e1ae5&#34; /&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;installing-code-server&#34;&gt;Installing code-server&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;7.&lt;/strong&gt; Once the instance reaches the &lt;strong&gt;running&lt;/strong&gt; state, connect to it and paste the following into the terminal.&lt;/p&gt;
+
+
+
+  
+  &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
+    &lt;p&gt;This installation uses a self-signed certificate, as described in the project documentation. Your browser will warn you about it the first time — that is expected.&lt;/p&gt;
+
+  &lt;/blockquote&gt;
+
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;Installing code server...&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo apt update
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;curl -fsSL https://code-server.dev/install.sh &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; sh
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo apt-get -y install python3-pip
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo apt-get -y install python3.14-venv 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;Configuring code server...&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo systemctl &lt;span class=&#34;nb&#34;&gt;enable&lt;/span&gt; --now code-server@&lt;span class=&#34;nv&#34;&gt;$USER&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo systemctl restart code-server@&lt;span class=&#34;nv&#34;&gt;$USER&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sleep &lt;span class=&#34;m&#34;&gt;3&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sed -i.bak &lt;span class=&#34;s1&#34;&gt;&amp;#39;s/cert: false/cert: true/&amp;#39;&lt;/span&gt; ~/.config/code-server/config.yaml
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sed -i.bak &lt;span class=&#34;s1&#34;&gt;&amp;#39;s/bind-addr: 127.0.0.1:8080/bind-addr: 0.0.0.0:443/&amp;#39;&lt;/span&gt; ~/.config/code-server/config.yaml
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo setcap &lt;span class=&#34;nv&#34;&gt;cap_net_bind_service&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;+ep /usr/lib/code-server/lib/node
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sed -i.bak &lt;span class=&#34;s1&#34;&gt;&amp;#39;s/^password: .*/password: code/&amp;#39;&lt;/span&gt; ~/.config/code-server/config.yaml
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo systemctl &lt;span class=&#34;nb&#34;&gt;enable&lt;/span&gt; --now code-server@&lt;span class=&#34;nv&#34;&gt;$USER&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;This is your configuration file&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cat ~/.config/code-server/config.yaml
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;Restarting service...&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo systemctl restart code-server@&lt;span class=&#34;nv&#34;&gt;$USER&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;What each part of the script does:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Install&lt;/strong&gt; — &lt;code&gt;apt update&lt;/code&gt; refreshes the package index, the official &lt;code&gt;install.sh&lt;/code&gt; script installs code-server, and &lt;code&gt;python3-pip&lt;/code&gt; / &lt;code&gt;python3.14-venv&lt;/code&gt; give you a working Python toolchain (adjust the version to match your Ubuntu release).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enable the service&lt;/strong&gt; — &lt;code&gt;systemctl enable --now code-server@$USER&lt;/code&gt; starts code-server as a systemd service under your user and makes it survive reboots.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;cert: true&lt;/code&gt;&lt;/strong&gt; — turns on the built-in self-signed TLS certificate, so the connection is served over HTTPS.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;bind-addr: 0.0.0.0:443&lt;/code&gt;&lt;/strong&gt; — by default code-server listens only on localhost, port 8080. This makes it listen on every interface, on the standard HTTPS port, so you can reach it from your browser without typing a port number.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;setcap cap_net_bind_service=+ep&lt;/code&gt;&lt;/strong&gt; — ports below 1024 are privileged. This grants the Node binary permission to bind port 443 without running the whole service as root.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;password: code&lt;/code&gt;&lt;/strong&gt; — sets a known login password. &lt;strong&gt;Change it.&lt;/strong&gt; The installer generates a random password, and the line above replaces it with something easy to type for a classroom demo; anything reachable from the internet deserves a real password.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;8.&lt;/strong&gt; After the installation finishes, open code-server using the instance&amp;rsquo;s &lt;strong&gt;public IP&lt;/strong&gt; or &lt;strong&gt;public DNS&lt;/strong&gt;, both available in the &lt;strong&gt;Networking&lt;/strong&gt; tab of the EC2 console.&lt;/p&gt;
+&lt;p&gt;Accept the browser warning about the self-signed certificate, enter the password, and you have VS Code in the browser — the Cloud9 workflow, restored.&lt;/p&gt;
+
+
+
+  
+  &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
+    &lt;p&gt;&lt;strong&gt;Learner Lab reminder:&lt;/strong&gt; the lab shuts instances down when the session ends, and the public IP changes on every restart. Check the Networking tab again after each new session, and keep your work in a Git repository so nothing is lost when the environment is recycled.&lt;/p&gt;
+
+  &lt;/blockquote&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Atualizando o SQLITE no Amazon Linux 2</title>
